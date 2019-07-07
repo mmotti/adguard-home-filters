@@ -1,0 +1,103 @@
+! Title: MMotti AdguardHome - wildcards.txt
+! Description: Wildcards generated for hosts with >= 50 sub-domains in filter format.
+! Last Modified: 07-07-2019 02:04:16 BST
+! Count: 65
+!
+! Sources:
+! http://sysctl.org/cameleon/hosts
+! https://hosts-file.net/ad_servers.txt
+! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=5
+! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+! https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+! https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+! https://www.malwaredomainlist.com/hostslist/hosts.txt
+! https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist
+!
+!⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂
+!⠄⠄⣰⣾⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣆⠄⠄
+!⠄⠄⣿⣿⣿⡿⠋⠄⡀⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⡉⠙⠻⣿⣿⠄⠄
+!⠄⠄⣿⣿⣿⣇⠔⠈⣿⣿⣿⣿⣿⡿⠛⢉⣤⣶⣾⣿⣿⣿⣿⣿⣿⣦⡀⠹⠄⠄
+!⠄⠄⣿⣿⠃⠄⢠⣾⣿⣿⣿⠟⢁⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠄
+!⠄⠄⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⠄
+!⠄⠄⣿⣿⣿⣿⣿⡟⠁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+!⠄⠄⣿⣿⣿⣿⠋⢠⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+!⠄⠄⣿⣿⡿⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⠗⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄
+!⠄⠄⣿⡿⠁⣼⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⠄⣠⣄⢰⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄
+!⠄⠄⡿⠁⣼⣿⣿⣿⣿⣿⣿⣿⡇⠄⢀⡴⠚⢿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢠⠄⠄
+!⠄⠄⠃⢰⣿⣿⣿⣿⣿⣿⡿⣿⣿⠴⠋⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⡟⢀⣾⠄⠄
+!⠄⠄⢀⣿⣿⣿⣿⣿⣿⣿⠃⠈⠁⠄⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⡟⢀⣾⣿⠄⠄
+!⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⢶⣿⣿⣿⣿⣿⣿⣿⣿⠏⢀⣾⣿⣿⠄⠄
+!⠄⠄⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⠋⣠⣿⣿⣿⣿⠄⠄
+!⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣼⣿⣿⣿⣿⣿⠄⠄
+!⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⠄⠄
+!⠄⠄⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣴⣿⣿⣿⣿⠗⠄⠄⣿⣿⠄⠄
+!⠄⠄⣆⠈⠻⢿⣿⣿⣿⣿⣿⣿⠿⠛⣉⣤⣾⣿⣿⣿⣿⣿⣇⠠⠺⣷⣿⣿⠄⠄
+!⠄⠄⣿⣿⣦⣄⣈⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⠉⠁⣀⣼⣿⣿⣿⠄⠄
+!⠄⠄⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⡿⠟⠄⠄
+!⠠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+!
+||247realmedia.com^
+||2mdn.net^
+||2o7.net^
+||302br.net^
+||51yes.com^
+||adition.com^
+||adk2.co^
+||adnxs.com^
+||adocean.pl^
+||adtech.de^
+||adtech.us^
+||am15.net^
+||appier.net^
+||bitterstrawberry.com^
+||bravenet.com^
+||checkm8.com^
+||cjt1.net^
+||cnzz.com^
+||coinhive.com^
+||crypto-loot.com^
+||crypto-webminer.com^
+||datasecu.download^
+||demdex.net^
+||doubleclick.net^
+||doublepimp.com^
+||esomniture.com^
+||ezcybersearch.com^
+||fastclick.net^
+||focalink.com^
+||gemius.pl^
+||geovisite.com^
+||go2affise.com^
+||go2cloud.org^
+||hitbox.com^
+||hittail.com^
+||imrworldwide.com^
+||intellitxt.com^
+||ivwbox.de^
+||jmp9.com^
+||jqwww.download^
+||liveadvert.com^
+||mydas.mobi^
+||nuggad.net^
+||oewabox.at^
+||omtrdc.net^
+||openx.net^
+||paycount.com^
+||popupad.net^
+||reporo.net^
+||servedbyopenx.com^
+||sextracker.com^
+||sexybabesx.com^
+||sitemeter.com^
+||smaato.net^
+||smartadserver.com^
+||spylog.com^
+||statcounter.com^
+||thruport.com^
+||tidafors.xyz^
+||tradedoubler.com^
+||voluumtrk.com^
+||webtrekk.net^
+||xiti.com^
+||zedo.com^
+||zeroredirect1.com^
