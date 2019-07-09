@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter file with basic domain blocking rules extracted from various sources.
-! Last Modified: 08-07-2019 23:50:21 BST
-! Count: 34,555
+! Last Modified: 09-07-2019 23:50:22 BST
+! Count: 34,575
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2208,6 +2208,7 @@
 ||adsapi.manhuaren.com^
 ||adsatt.abcnews.starwave.com^
 ||adsatt.espn.starwave.com^
+||adsaturn.com^
 ||adsb4trk.com^
 ||adsbc.pp.ua^
 ||adsbingo.com^
@@ -3167,6 +3168,7 @@
 ||akstat.io^
 ||akviqfqbwqqj.com^
 ||akvtmvoolwlm.bid^
+||akwajlcoap.com^
 ||akxsrsdbursfpx.bid^
 ||akyscwwwttk.com^
 ||akzgmbembk.com^
@@ -5951,6 +5953,7 @@
 ||bwssvome.com^
 ||bwuxrzvr.bid^
 ||bwvigmkn.com^
+||bwwfncfuzahpg.com^
 ||bwyckpmsolzk.com^
 ||bwzohoomljs.com^
 ||bx.neolabs.kz^
@@ -8044,6 +8047,7 @@
 ||cvqgnkeqme.com^
 ||cvtr.io^
 ||cvwipkjyu.bid^
+||cvwrspsdr.com^
 ||cvzixxiesyjkha.com^
 ||cwbbqhgtjbvtzi.com^
 ||cwdnbhhmdnm.com^
@@ -10428,6 +10432,7 @@
 ||entry-stats.huffpost.com^
 ||entryhit.wp.pl^
 ||entrypoint.search.yahooapis.jp^
+||entygpeb.com^
 ||enusbrzlmcmg.com^
 ||enynwkvdb.com^
 ||enzyxtdcacde.com^
@@ -11064,6 +11069,7 @@
 ||fapality.com^
 ||fapmeth.com^
 ||fapuzomuso.com^
+||faqflcoaovd.com^
 ||far-far-star.com^
 ||fardan.pw^
 ||farfarida.com^
@@ -11262,6 +11268,7 @@
 ||ffvvapasfcoha.bid^
 ||ffwap.com^
 ||ffwbpadvkcyi.com^
+||ffxobftzaiogcg.com^
 ||fg09t.com^
 ||fgcterkdpns.com^
 ||fge9vbrzwt.bid^
@@ -12594,6 +12601,7 @@
 ||gkiqfnjtwmj.bid^
 ||gkiqlocbirh.com^
 ||gkiryieltcbg.com^
+||gkjtchmlj.com^
 ||gkkfirgzrfoxkx.com^
 ||gklmedia.com^
 ||gkmaclyrj.bid^
@@ -15317,6 +15325,7 @@
 ||iwqsvntvdry.com^
 ||iwquafxm.com^
 ||iwqugvxozbkd.com^
+||iwqzrm.com^
 ||iwrjczthkkla.com^
 ||iwstats.com^
 ||iwtra.top^
@@ -16277,6 +16286,7 @@
 ||kflimllvanjv.com^
 ||kfpkzbgwuxm.bid^
 ||kfpwayrztgjj.com^
+||kfqronzxcrdt.com^
 ||kfrfr.life^
 ||kfritiigmqk.com^
 ||kftbvzlrqkakfo.com^
@@ -17078,6 +17088,7 @@
 ||leaptrade.com^
 ||leashac.com^
 ||lebeiivzmm.com^
+||lebqrivt.com^
 ||lebskmaewbhm.bid^
 ||leche69.com^
 ||lecnet.info^
@@ -17185,6 +17196,7 @@
 ||lgtbcaqkjo.bid^
 ||lgthvsytzwtc.com^
 ||lgtnwgfqkyyf.com^
+||lgzfhqubp.com^
 ||lgzjsauvfv.com^
 ||lh.secure.yahoo.com^
 ||lh5lg.top^
@@ -20471,6 +20483,7 @@
 ||nquchhfyex.com^
 ||nqugsnsoghz.bid^
 ||nqvlw.com^
+||nqxdnmsp.com^
 ||nqxhehxadtswz.bid^
 ||nqzmumesrbiy.com^
 ||nr-data.net^
@@ -20681,6 +20694,7 @@
 ||nyzncfurdrdxfi.com^
 ||nyzobnpbcwjwfs.com^
 ||nzads.net.nz^
+||nzbbsxujqlhjn.com^
 ||nzbtvquutdr.com^
 ||nzcpdaboaayv.com^
 ||nzkjbazl.com^
@@ -20912,6 +20926,7 @@
 ||oftatsit.com^
 ||ofughrop.pro^
 ||ofuqmgatoli.com^
+||ofuwwzlao.com^
 ||ofwwrgelrvx.bid^
 ||ofwznbbxso.com^
 ||ofy3m0gp.com^
@@ -21332,6 +21347,7 @@
 ||oqiatejmfwelas.com^
 ||oqkuwkax.com^
 ||oqmjxcqgdghq.com^
+||oqvjuqnkncom.com^
 ||oqvzugnitr.com^
 ||oqxwefyi.bid^
 ||oqziwmemusftg.com^
@@ -24784,6 +24800,7 @@
 ||rkbldvgcjebh.com^
 ||rkbndiwznhul.com^
 ||rkcemktaasoxew.com^
+||rkcmyzxubyziek.com^
 ||rkcxzwlkk.com^
 ||rkczvumivvb.com^
 ||rkdms.com^
@@ -25182,6 +25199,7 @@
 ||rutvind.com^
 ||ruunews.info^
 ||ruvuryua.ru^
+||ruzrkjnd.com^
 ||ruzttiecdedv.com^
 ||ruzwwrkgthfobd.com^
 ||rv.modanisa.com^
@@ -26802,6 +26820,7 @@
 ||sscefsol.com^
 ||ssdphmfduwcl.com^
 ||ssdsylfzav.com^
+||ssfpubkjjhftpy.com^
 ||sshvbkdyxprk.com^
 ||ssigftlcuc.com^
 ||ssjgkyyrqiwjol.com^
@@ -30333,6 +30352,7 @@
 ||upload4earn.org^
 ||uplvcx.xyz^
 ||upnorma.com^
+||upogbpseso.com^
 ||upoll.umengcloud.com^
 ||uppro.ru^
 ||uppybbhxbblxa.com^
