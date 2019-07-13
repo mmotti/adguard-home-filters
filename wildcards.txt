@@ -1,11 +1,10 @@
 ! Title: MMotti AdguardHome - wildcards.txt
 ! Description: Wildcards generated for hosts with >= 50 sub-domains in filter format.
-! Last Modified: 13-07-2019 17:42:06 BST
-! Count: 286
+! Last Modified: 13-07-2019 17:52:13 BST
+! Count: 259
 !
 ! Sources:
 ! https://hosts-file.net/ad_servers.txt
-! https://hosts-file.net/emd.txt
 ! https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=5
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ! https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
@@ -89,7 +88,6 @@
 ||aweber.com^
 ||backtrace.io^
 ||bat.bing.com^
-||beget.tech^
 ||bidr.io^
 ||bidswitch.net^
 ||bitterstrawberry.com^
@@ -97,11 +95,9 @@
 ||braze.com^
 ||brightedge.com^
 ||bronto.com^
-||byinter.net^
 ||c3tag.com^
 ||campaign.adobe.com^
 ||casalemedia.com^
-||certified-toolbar.com^
 ||chartboost.com^
 ||checkm8.com^
 ||cjt1.net^
@@ -164,10 +160,7 @@
 ||heyzap.com^
 ||hitbox.com^
 ||hittail.com^
-||hnliyin.com^
-||hopto.org^
 ||hotjar.com^
-||htkaoyan.com^
 ||hullapp.io^
 ||impresionesweb.com^
 ||imprev.net^
@@ -206,22 +199,18 @@
 ||mookie1.com^
 ||mopub.com^
 ||mparticle.com^
-||msdwnld.com^
-||musicfrost.com^
 ||mxptint.net^
 ||mydas.mobi^
 ||netmng.com^
 ||netseer.com^
 ||newrelic.com^
 ||nile.works^
-||notentop.com^
 ||ntv.io^
 ||nuggad.net^
 ||oewabox.at^
 ||omnitagjs.com^
 ||online-metrix.net^
 ||openx.net^
-||ops.tune.com^
 ||optimizely.com^
 ||optvdo.com^
 ||outbrain.com^
@@ -248,12 +237,10 @@
 ||rfihub.net^
 ||rubiconproject.com^
 ||saas.appdynamics.com^
-||savetubevideo.com^
 ||sc.omtrdc.net^
 ||scorecardresearch.com^
 ||sendgrid.net^
 ||servedbyopenx.com^
-||sextracker.be^
 ||sextracker.com^
 ||sharethis.com^
 ||sharethrough.com^
@@ -263,7 +250,6 @@
 ||singular.net^
 ||sitemeter.com^
 ||sizmek.com^
-||skimlinks.com^
 ||skimresources.com^
 ||smaato.net^
 ||smartadserver.com^
@@ -292,35 +278,21 @@
 ||tradedoubler.com^
 ||tribalfusion.com^
 ||tt.omtrdc.net^
-||tudown.com^
-||ucgalleries.com^
+||tune.com^
 ||unrulymedia.com^
 ||urbanairship.com^
-||url.016272.com^
-||url.246546.com^
-||url.7wkw.com^
-||url.9xiazaiqi.com^
-||usa.cc^
 ||userreplay.net^
 ||vergic.com^
 ||vindicosuite.com^
 ||vizury.com^
 ||voluumtrk.com^
 ||vungle.com^
-||watchdogdns.duckdns.org^
 ||webspectator.com^
 ||webtrekk.net^
-||xc.05cg.com^
-||xc.41gw.com^
-||xc.cangpie.com^
-||xc.gongnou.com^
-||xc.mieseng.com^
-||xc.wenpie.com^
 ||xhamser.com^
 ||xiti.com^
 ||yext.com^
 ||yieldmo.com^
-||zapto.org^
 ||zedo.com^
 ||zemanta.com^
 ||zeroredirect1.com^
