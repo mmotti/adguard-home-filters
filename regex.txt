@@ -1,6 +1,6 @@
 # Title: MMotti AdguardHome - regex.txt
 # Description: Regular expressions for use with advanced filtering.
-# Last Modified: 07-07-2019 02:04:16 BST
+# Last Modified: 13-07-2019 18:00:05 BST
 # Count: 16
 #
 # Sources:
@@ -31,6 +31,7 @@
 #
 /^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]/
 /^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]/
+/^(.+[-_.])??telemetry[-.]/
 /^(.+[-_.])??xn--/
 /^adim(age|g)s?[0-9]*[-_.]/
 /^adtrack(er|ing)?[0-9]*[-.]/
@@ -42,6 +43,5 @@
 /^count(ers?)?[0-9]*[-.]/
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[-.]/
-/^telemetry[-.]/
 /^track(ers?|ing)?[0-9]*[-.]/
 /^traff(ic)?[-.]/

@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter file with basic domain blocking rules extracted from various sources.
-! Last Modified: 13-07-2019 17:42:07 BST
-! Count: 34,668
+! Last Modified: 13-07-2019 23:50:24 BST
+! Count: 34,680
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2251,6 +2251,7 @@
 ||adserver-fx.com^
 ||adserver.ad4link.com^
 ||adserver.goforandroid.com^
+||adserver.juicyads.com^
 ||adserver.kimia.es^
 ||adserver.mobillex.com^
 ||adserver.pandora.com^
@@ -5166,6 +5167,7 @@
 ||biallo1.de^
 ||biallo2.de^
 ||biallo3.de^
+||biavgmpz.com^
 ||biberukalap.com^
 ||bictxzszwkwghn.com^
 ||bid.g.doubleclick.net^
@@ -8961,6 +8963,7 @@
 ||denetsuk.com^
 ||denezhnyie-rucheyki.ru^
 ||denis-pj0823031-491201b.com^
+||denixsips.com^
 ||denotyro.com^
 ||dentaint.pro^
 ||deobp.com^
@@ -10961,6 +10964,7 @@
 ||exvgzhwssyivz.bid^
 ||exvmxqexedomi.com^
 ||exwazar.info^
+||exyubuwtwmepqi.com^
 ||eydiuqpdtfew.com^
 ||eyein.com^
 ||eyemedias.com^
@@ -16658,6 +16662,7 @@
 ||kpnuqvpevotn.com^
 ||kpoplhjnhlagy.com^
 ||kpqnj.top^
+||kprbvmfb.com^
 ||kprkrbatuob.com^
 ||kpsdnlprwclz.com^
 ||kpucctqryjdvx.bid^
@@ -20412,6 +20417,7 @@
 ||nnn.ru^
 ||nnoxqfmbdv.com^
 ||nnoxzo.rfskbylbsf.xyz^
+||nnpiggtivf.com^
 ||nnrcjzith.bid^
 ||nnrdntrrjf.bid^
 ||nnroeulsnslk.com^
@@ -21143,6 +21149,7 @@
 ||olkxzkbonvau.bid^
 ||olkzcdihiewe.com^
 ||olmkmtwet.bid^
+||olmsoneenh.info^
 ||ololen.pw^
 ||olpcbzhvduha.bid^
 ||olpvmzxadjwgk.com^
@@ -24373,6 +24380,7 @@
 ||reate.info^
 ||reauthenticator.com^
 ||rebelsubway.com^
+||reberr.pro^
 ||rebevengwas.com^
 ||reborko.com^
 ||rec.quartic.pl^
@@ -25521,6 +25529,7 @@
 ||sapmedia.ru^
 ||sapvummffiay.com^
 ||saqcgojcure.bid^
+||sarapbeh.com^
 ||sardfereose.com^
 ||sarevtop.com^
 ||sarjor.pw^
@@ -26132,6 +26141,7 @@
 ||sig.atdmt.com^
 ||sig.gamerdna.com^
 ||sigmaad.com^
+||signifyd.com^
 ||signout.website^
 ||signup-way.com^
 ||sihciabzm.com^
@@ -28755,6 +28765,7 @@
 ||tools.ranker.com^
 ||tools.runetki.co^
 ||toormpc.com^
+||tooso.ai^
 ||toothsome-crook.fun^
 ||top-bloggers.com^
 ||top-fwz1.mail.ru^
@@ -29183,6 +29194,7 @@
 ||tracker.shopclues.com^
 ||tracker.softcube.com^
 ||tracker.stats.in.th^
+||tracker.stileo.it^
 ||tracker.streamroot.io^
 ||tracker.thinkindot.com^
 ||tracker.timesgroup.com^
@@ -32727,7 +32739,6 @@
 ||www.adbert.com.tw^
 ||www.auditude.com^
 ||www.hey.lt^
-||www.jlkadizug.com^
 ||www.milawka.com^
 ||www.net.kg^
 ||www.p.de^
@@ -33820,6 +33831,7 @@
 ||yottacash.com^
 ||youads.de^
 ||youbora.com^
+||youborafds01.com^
 ||youboranqs01.com^
 ||youcandoitwithroi.com^
 ||youcanoptin.com^
