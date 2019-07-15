@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - hosts.txt
-! Description: Host file generated from various sources.
-! Last Modified: 15-07-2019 15:12 BST
-! Count: 37,213
+! Description: Hosts generated from various sources with sub-domains removed, in filter list format.
+! Last Modified: 15-07-2019 23:50 BST
+! Count: 37,214
 !
 ! Sources:
 ! https://hosts-file.net/ad_servers.txt
@@ -20254,6 +20254,7 @@
 ||js.ero-advertising.com^
 ||js.francite.com^
 ||js.ftp0118.info^
+||js.gleam.io^
 ||js.goods.redtram.com^
 ||js.hsadpixel.net^
 ||js.hscollectedforms.net^

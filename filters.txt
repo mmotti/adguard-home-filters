@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
-! Description: Filter file with basic domain blocking rules extracted from various sources.
-! Last Modified: 15-07-2019 15:12 BST
-! Count: 34,700
+! Description: Filter list generated from various sources with basic domain blocking / exception rules.
+! Last Modified: 15-07-2019 23:50 BST
+! Count: 34,711
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1409,6 +1409,7 @@
 ||ad.topwar.ru^
 ||ad.traffmonster.info^
 ||ad.valuecalling.com^
+||ad.velomania.ru^
 ||ad.vidaroo.com^
 ||ad.vippers.jp^
 ||ad.vo-media.ru^
@@ -5226,6 +5227,7 @@
 ||biliqpvehf.com^
 ||billionpops.com^
 ||billypub.com^
+||bilsyndication.com^
 ||bimlocal.com^
 ||bimwswreljucxa.com^
 ||bin-layer.de^
@@ -9622,6 +9624,7 @@
 ||drivenetwork.ru^
 ||driverfix.com^
 ||drjctivspweild.com^
+||drjgjngf.com^
 ||drjwmuwmnll.com^
 ||drnxs.com^
 ||dro4icho.ru^
@@ -10171,6 +10174,7 @@
 ||effad.ru^
 ||effectfree.net^
 ||effectivemeasure.net^
+||efhabjaabgfbbegjacj.ru^
 ||efhevptuqxpr.bid^
 ||efhseqgqgl.com^
 ||efishedo.info^
@@ -11470,6 +11474,7 @@
 ||fkphqtgqrfixl.com^
 ||fkrgfktdvta.com^
 ||fkrrvhoierty.com^
+||fktrlckpmsxx.com^
 ||fkvjntfj.com^
 ||fkwwhndzjlqrm.com^
 ||fl-ads.com^
@@ -20744,6 +20749,7 @@
 ||nyaisjsghvj.bid^
 ||nybpurpgexoe.com^
 ||nycgwaknv.com^
+||nychunlnlca.com^
 ||nycnjewyxex.com^
 ||nycp-hlb.dvgtm.akadns.net^
 ||nyctrl32.com^
@@ -27074,6 +27080,7 @@
 ||stat.stheadline.com^
 ||stat.teleport.media^
 ||stat.tianya.cn^
+||stat.tildacdn.com^
 ||stat.to.cupidplc.com^
 ||stat.torrentbar.com^
 ||stat.tudou.com^
@@ -30913,6 +30920,7 @@
 ||vcxqcjov.com^
 ||vcyxvhxysl.com^
 ||vczprcezg.com^
+||vdacizdywoe.com^
 ||vdawecpymih.bid^
 ||vdbasihbxwea.com^
 ||vdbhe7ti.com^
@@ -32165,6 +32173,7 @@
 ||wetunfdnruy.com^
 ||wexrt.ru^
 ||wfbqjdwwunle.com^
+||wffiuoyzo.com^
 ||wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com^
 ||wfjdmkjetpbgv.com^
 ||wfjlpnmuzoazy.com^
@@ -33608,6 +33617,7 @@
 ||yesbeby.whies.info^
 ||yeshhaod.com^
 ||yeshoutuan.cn^
+||yesmaris.com^
 ||yesmessenger.com^
 ||yesnexus.com^
 ||yesobe.work^
@@ -34735,3 +34745,4 @@
 ||zzwajufm.com^
 ||zzwzjidz.bid^
 ||zzxosget.com^
+||zzznews.ru^
