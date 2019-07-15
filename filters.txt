@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter file with basic domain blocking rules extracted from various sources.
-! Last Modified: 14-07-2019 23:50:27 BST
-! Count: 34,692
+! Last Modified: 15-07-2019 15:12 BST
+! Count: 34,700
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1545,6 +1545,7 @@
 ||adbutton.net^
 ||adbuyer.com^
 ||adbuzz.com.tr^
+||adc-js.nine.com.au^
 ||adc-serv.net^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
@@ -7815,6 +7816,7 @@
 ||crateac.com^
 ||crawlclocks.com^
 ||craydark.pw^
+||crazyclickstats.com^
 ||crazyegg.com^
 ||crazyhell.com^
 ||crazylead.com^
@@ -12559,6 +12561,7 @@
 ||giantaffiliates.com^
 ||giantsavings-a.akamaihd.net^
 ||giddycoat.com^
+||giddyuptrk.com^
 ||gifjvmfkzykp.com^
 ||giga-abs.de^
 ||gigamega.ru^
@@ -15099,6 +15102,7 @@
 ||ioyixcprbghm.com^
 ||iozpujvmlojzhp.com^
 ||ip-adress.com^
+||ip-api.com^
 ||ip-label.net^
 ||ip.breitbart.com^
 ||ip.hivps.xyz^
@@ -23468,6 +23472,7 @@
 ||px.dynamicyield.com^
 ||px.excitedigitalmedia.com^
 ||px.marchex.io^
+||px.mvfglobal.com^
 ||px.owneriq.net^
 ||px.reactrmod.com^
 ||px.spiceworks.com^
@@ -25470,6 +25475,7 @@
 ||sadv.dadapro.com^
 ||saenrwiqesp.com^
 ||safari-lock.com^
+||safe-click.net^
 ||safeadnetworkdata.net^
 ||safecllc.com^
 ||safelinktracker.com^
@@ -26905,6 +26911,7 @@
 ||srxgnzdkjucr.com^
 ||ss.biquge.la^
 ||ss.musthird.com^
+||ssa.1337x.to^
 ||ssallqcu.bid^
 ||ssc.api.bbc.com^
 ||sscashpop.com^
@@ -29741,6 +29748,7 @@
 ||trvtrk.com^
 ||trw12.com^
 ||trwbkkxk.com^
+||trx.smdatalabs.com^
 ||trxxh.com^
 ||try.abtasty.com^
 ||try9.com^
