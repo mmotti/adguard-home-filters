@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
-! Description: Filter list generated from various sources with basic domain blocking / exception rules.
-! Last Modified: 16-07-2019 17:28 BST
-! Count: 61,975
+! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
+! Last Modified: 16-07-2019 23:50 BST
+! Count: 61,985
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -11428,6 +11428,7 @@
 ||b-aws.huffingtonpost.com^
 ||b-aws.techcrunch.com^
 ||b-click.net^
+||b-m.xyz^
 ||b-online.de^
 ||b-srvjsr.media.net^
 ||b.1istochnik.ru^
@@ -16692,6 +16693,7 @@
 ||cmn1lsm2.beliefnet.com^
 ||cmn1lsm3.beliefnet.com^
 ||cmn1lsm4.beliefnet.com^
+||cmncgeqivmjki.com^
 ||cmnhwzdsvr.com^
 ||cmoneba.ru^
 ||cmp-cdn.ghostery.com^
@@ -17290,6 +17292,7 @@
 ||content.liveuniverse.com^
 ||content.mkt922.com^
 ||content.mkt931.com^
+||content.mql5.com^
 ||content.pop6.com^
 ||content.printdirect.ru^
 ||content.promoisland.net^
@@ -24409,6 +24412,7 @@
 ||friendfindercash.com^
 ||friendgreetings.com^
 ||friendgreetings.net^
+||friendlybcs.pro^
 ||friendlyduck.com^
 ||friends.totallynsfw.com^
 ||friesmeasureretain.info^
@@ -26644,6 +26648,7 @@
 ||gyboo.cruisingsmallship.com^
 ||gydfsypjiaymj.com^
 ||gydlzimosfnz.com^
+||gyfwz.com^
 ||gygdmy.com^
 ||gyhujxbptum.com^
 ||gyinmxpztbgf.com^
@@ -29031,6 +29036,7 @@
 ||img-cdn-us.pro^
 ||img-eb.media.net^
 ||img-giganto.net^
+||img-perli.com^
 ||img-space.net^
 ||img.2leva.bg^
 ||img.56gmz.com^
@@ -29515,7 +29521,6 @@
 ||insigit.com^
 ||insitemetrics.com^
 ||insitepromotion.com^
-||insitesystems.com^
 ||insitez.blob.core.windows.net^
 ||inskin.vo.llnwd.net^
 ||inskinad.com^
@@ -30837,6 +30842,7 @@
 ||joinnowinstantly.com^
 ||joinourwebsite.com^
 ||jojilabola.com^
+||jojonewwss.pro^
 ||jokedollars.com^
 ||jokep.com^
 ||jokers-banner.de^
@@ -32196,6 +32202,7 @@
 ||kronerrtyqgofq.download^
 ||kropka.onet.pl^
 ||kropka.tro.pl^
+||krotovroman.ru^
 ||krovrhmqgupd.com^
 ||krpdqnnb.com^
 ||krrmpgdmoexc.club^
@@ -32438,6 +32445,7 @@
 ||kyieflmhiekvrr.bid^
 ||kylbshaqo.bid^
 ||kylqpeevrkgh.com^
+||kymirasite.pro^
 ||kyowarob.com^
 ||kypivukypi.ru^
 ||kyqacdtrmwwy.com^
@@ -46407,6 +46415,7 @@
 ||rpmdo.com^
 ||rpmstatic.net^
 ||rpnhxhzcejyiym.com^
+||rprgsptwx.com^
 ||rpslkvzymrddjp.bid^
 ||rpspeqqiddjm.com^
 ||rpt.anchorfree.net^
@@ -52522,6 +52531,7 @@
 ||thesuperdeliciousnews.com^
 ||thesurfshield.com^
 ||thetabdot.com^
+||thethi.ru^
 ||thetop10.com^
 ||thetradedesk-tags.s3.amazonaws.com^
 ||thetraderinpajamas.com^
