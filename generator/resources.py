@@ -285,9 +285,13 @@ def parse_filters(set_hosts_and_filters, path_includes, file_filter_whitelist):
         # Add exact matches to whitelist verified
         set_verified_whitelist = set_restrictive_filters.intersection(set_unverified_whitelist)
 
-        # Remove verified matches from the original whitelist set
+        # If there were exact whitelist matches
         if set_verified_whitelist:
+            # Remove them from the unverified whitelist
             set_unverified_whitelist.difference_update(set_verified_whitelist)
+            # Remove them from the restrictive filters (we'll keep the whitelist
+            # entry in-case it's in other lists)
+            set_restrictive_filters.difference_update(set_verified_whitelist)
 
         # If there are still items to process in set_unverified_whitelist
         if set_unverified_whitelist:
