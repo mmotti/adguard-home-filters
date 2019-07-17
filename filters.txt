@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-07-2019 11:41 BST
-! Count: 62,372
+! Last Modified: 17-07-2019 12:27 BST
+! Count: 62,371
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -33838,6 +33838,7 @@
 ||lobstersctero.download^
 ||loc.rediff.com^
 ||local-chicks-here3.top^
+||local.promoisland.net^
 ||localadbuy.com^
 ||localads-statistics.maps.me^
 ||localads.maps.me^
@@ -42097,7 +42098,6 @@
 ||pgkdyhdhul.com^
 ||pgl.example0101^
 ||pgl.example^
-||pgltestinghere^
 ||pgmediaserve.com^
 ||pgmopcongruity.review^
 ||pgmqzpjoauoknj.com^
@@ -59368,7 +59368,6 @@
 ||wpad.localdomain^
 ||wpad.mail^
 ||wpad.test^
-||wpad^
 ||wpadx.com^
 ||wpbhnyjej.com^
 ||wpc.32df9.rhocdn.net^
