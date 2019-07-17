@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-07-2019 15:09 BST
-! Count: 62,377
+! Last Modified: 17-07-2019 23:50 BST
+! Count: 62,384
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -21,28 +21,28 @@
 ! https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 ! https://www.malwaredomainlist.com/hostslist/hosts.txt
 !
-!⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂
-!⠄⠄⣰⣾⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣆⠄⠄
-!⠄⠄⣿⣿⣿⡿⠋⠄⡀⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⡉⠙⠻⣿⣿⠄⠄
-!⠄⠄⣿⣿⣿⣇⠔⠈⣿⣿⣿⣿⣿⡿⠛⢉⣤⣶⣾⣿⣿⣿⣿⣿⣿⣦⡀⠹⠄⠄
-!⠄⠄⣿⣿⠃⠄⢠⣾⣿⣿⣿⠟⢁⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠄
-!⠄⠄⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⠄
-!⠄⠄⣿⣿⣿⣿⣿⡟⠁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
-!⠄⠄⣿⣿⣿⣿⠋⢠⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
-!⠄⠄⣿⣿⡿⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⠗⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄
-!⠄⠄⣿⡿⠁⣼⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⠄⣠⣄⢰⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄
-!⠄⠄⡿⠁⣼⣿⣿⣿⣿⣿⣿⣿⡇⠄⢀⡴⠚⢿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢠⠄⠄
-!⠄⠄⠃⢰⣿⣿⣿⣿⣿⣿⡿⣿⣿⠴⠋⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⡟⢀⣾⠄⠄
-!⠄⠄⢀⣿⣿⣿⣿⣿⣿⣿⠃⠈⠁⠄⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⡟⢀⣾⣿⠄⠄
-!⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⢶⣿⣿⣿⣿⣿⣿⣿⣿⠏⢀⣾⣿⣿⠄⠄
-!⠄⠄⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⠋⣠⣿⣿⣿⣿⠄⠄
-!⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣼⣿⣿⣿⣿⣿⠄⠄
-!⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⠄⠄
-!⠄⠄⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣴⣿⣿⣿⣿⠗⠄⠄⣿⣿⠄⠄
-!⠄⠄⣆⠈⠻⢿⣿⣿⣿⣿⣿⣿⠿⠛⣉⣤⣾⣿⣿⣿⣿⣿⣇⠠⠺⣷⣿⣿⠄⠄
-!⠄⠄⣿⣿⣦⣄⣈⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⠉⠁⣀⣼⣿⣿⣿⠄⠄
-!⠄⠄⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⡿⠟⠄⠄
-!⠠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
+! ⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂
+! ⠄⠄⣰⣾⣿⣿⣿⠿⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣆⠄⠄
+! ⠄⠄⣿⣿⣿⡿⠋⠄⡀⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠋⣉⣉⣉⡉⠙⠻⣿⣿⠄⠄
+! ⠄⠄⣿⣿⣿⣇⠔⠈⣿⣿⣿⣿⣿⡿⠛⢉⣤⣶⣾⣿⣿⣿⣿⣿⣿⣦⡀⠹⠄⠄
+! ⠄⠄⣿⣿⠃⠄⢠⣾⣿⣿⣿⠟⢁⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠄⠄
+! ⠄⠄⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠄⠄
+! ⠄⠄⣿⣿⣿⣿⣿⡟⠁⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+! ⠄⠄⣿⣿⣿⣿⠋⢠⣾⣿⣿⣿⣿⣿⣿⡿⠿⠿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⠄⠄
+! ⠄⠄⣿⣿⡿⠁⣰⣿⣿⣿⣿⣿⣿⣿⣿⠗⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⡟⠄⠄
+! ⠄⠄⣿⡿⠁⣼⣿⣿⣿⣿⣿⣿⡿⠋⠄⠄⠄⣠⣄⢰⣿⣿⣿⣿⣿⣿⣿⠃⠄⠄
+! ⠄⠄⡿⠁⣼⣿⣿⣿⣿⣿⣿⣿⡇⠄⢀⡴⠚⢿⣿⣿⣿⣿⣿⣿⣿⣿⡏⢠⠄⠄
+! ⠄⠄⠃⢰⣿⣿⣿⣿⣿⣿⡿⣿⣿⠴⠋⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⡟⢀⣾⠄⠄
+! ⠄⠄⢀⣿⣿⣿⣿⣿⣿⣿⠃⠈⠁⠄⠄⢀⣴⣿⣿⣿⣿⣿⣿⣿⡟⢀⣾⣿⠄⠄
+! ⠄⠄⢸⣿⣿⣿⣿⣿⣿⣿⠄⠄⠄⠄⢶⣿⣿⣿⣿⣿⣿⣿⣿⠏⢀⣾⣿⣿⠄⠄
+! ⠄⠄⣿⣿⣿⣿⣿⣿⣿⣷⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿⣿⣿⠋⣠⣿⣿⣿⣿⠄⠄
+! ⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣼⣿⣿⣿⣿⣿⠄⠄
+! ⠄⠄⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⢁⣴⣿⣿⣿⣿⣿⣿⣿⠄⠄
+! ⠄⠄⠈⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣴⣿⣿⣿⣿⠗⠄⠄⣿⣿⠄⠄
+! ⠄⠄⣆⠈⠻⢿⣿⣿⣿⣿⣿⣿⠿⠛⣉⣤⣾⣿⣿⣿⣿⣿⣇⠠⠺⣷⣿⣿⠄⠄
+! ⠄⠄⣿⣿⣦⣄⣈⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⠉⠁⣀⣼⣿⣿⣿⠄⠄
+! ⠄⠄⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣾⣿⣿⡿⠟⠄⠄
+! ⠠⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
 !
 @@||5471782.fls.doubleclick.net^
 @@||a.adwolf.ru^
@@ -2656,6 +2656,7 @@
 ||ad.100.tbn.ru^
 ||ad.114.com.cn^
 ||ad.120.tbn.ru^
+||ad.1serve-sys.com^
 ||ad.23blogs.com^
 ||ad.2ch.live^
 ||ad.3322.net^
@@ -5217,6 +5218,7 @@
 ||ads.fileindexer.com^
 ||ads.filez.com^
 ||ads.filez.nl^
+||ads.filezilla-project.org^
 ||ads.filmlush.com^
 ||ads.filmup.com^
 ||ads.finance.yahoo.com^
@@ -6069,7 +6071,6 @@
 ||ads.taptapnetworks.com^
 ||ads.tarrobads.com^
 ||ads.tbs.com^
-||ads.tdbank.com^
 ||ads.tdcanadatrust.com^
 ||ads.teamyehey.com^
 ||ads.techtv.com^
@@ -11056,6 +11057,7 @@
 ||atlanticgam.online^
 ||atlantis-asia.com^
 ||atlas.astrology.com^
+||atlas1.krone.at^
 ||atlasdmt.com^
 ||atlassolutions.com^
 ||atlcourier.com^
@@ -17099,8 +17101,10 @@
 ||collect.finanzen.net^
 ||collect.igodigital.com^
 ||collect.rewardstyle.com^
+||collect.sas.com^
 ||collect.tianya.cn^
 ||collect.yinyuetai.com^
+||collect2.sas.com^
 ||collectiable.com^
 ||collection-day.com^
 ||collection-endpoint-prod.herokuapp.com^
@@ -25872,6 +25876,7 @@
 ||gleaminist.com^
 ||gleaminist.info^
 ||glean.pop6.com^
+||gleechie.net^
 ||gleechood.com^
 ||gleedaik.net^
 ||gleersoo.net^
@@ -26239,7 +26244,6 @@
 ||google-pr7.de^
 ||google-rank.org^
 ||google.tucows.com^
-||googleadapis.l.google.com^
 ||googleadservicepixel.com^
 ||googleadservices.com^
 ||googleanalytcs.com^
@@ -26697,7 +26701,6 @@
 ||gubdadtxwqow.com^
 ||gubisowidb.com^
 ||guccimenjpsale.com^
-||guce.advertising.com^
 ||guckawoh.net^
 ||gudangbanner.com^
 ||gudlhvxz.com^
@@ -29205,7 +29208,6 @@
 ||imarker.com^
 ||imarker.ru^
 ||imarketservices.com^
-||imasdk.googleapis.com^
 ||imatmobile.com^
 ||imax3d.info^
 ||imaxxe.com^
@@ -29438,6 +29440,7 @@
 ||imwhite.ru^
 ||imx.comedycentral.com^
 ||imyqdbxq.com^
+||imzahrwl.xyz^
 ||imzhv.xyz^
 ||imzngbreiiiv.com^
 ||imzuoqkrzrjw.com^
@@ -35753,6 +35756,7 @@
 ||mepchnbjsrik.com^
 ||mepirtedic.com^
 ||mepra.blautechnology.cl^
+||meqxh.com^
 ||meraad2.blogspot.com^
 ||mercadoclics.com^
 ||mercatos.ru^
@@ -39114,6 +39118,7 @@
 ||npzlzsxkq.bid^
 ||nqbhezlm.com^
 ||nqcqwnvazq.com^
+||nqiabjxpcsea.com^
 ||nqkttgrapot.bid^
 ||nqlkwyyzzgtn.com^
 ||nqlrewsfmywgbx.com^
@@ -40974,7 +40979,6 @@
 ||osnosa.info^
 ||osny2p7a0k.com^
 ||ospreymedialp.com^
-||ospserver.net^
 ||osqa.com^
 ||osqa.net^
 ||osqbk.com^
@@ -41393,6 +41397,7 @@
 ||pacman.gkgar.com^
 ||pacode.org^
 ||paczkomaty-pl.tk^
+||paddsup.com^
 ||padla.xyz^
 ||pads.se^
 ||padsdel.com^
@@ -44703,6 +44708,7 @@
 ||qgss8.com^
 ||qgtbxtex.com^
 ||qguirbzulwmdm.bid^
+||qgwazwmlx.com^
 ||qgxrmkbzpm.com^
 ||qhaavcekkhckzi.com^
 ||qhdjyxcggzkm.com^
@@ -47426,7 +47432,6 @@
 ||sarnisas.info^
 ||sarov.ws^
 ||sarrazinsxkkkyv.download^
-||sas.com^
 ||sas15k01.com^
 ||sas816.ujikdd041o.cn^
 ||sascdn.com^
@@ -50079,6 +50084,7 @@
 ||spoutable.com^
 ||spproxy.autobytel.com^
 ||spr-rtr.com^
+||spr.bild.de^
 ||sprawdz-ogladaj.bo.pl^
 ||sprawdziany-odpowiedzi.bo.pl^
 ||sprawdzianyodpowiedzi.pl^
@@ -61072,6 +61078,7 @@
 ||ykbcogkoiqdw.com^
 ||ykdiojhuy.bid^
 ||ykdmtvowoinv.com^
+||ykhozkljfpdtd.com^
 ||ykixjehac.com^
 ||yklotwpbrybfl.com^
 ||ykmcpykr.bid^
