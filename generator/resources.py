@@ -1,7 +1,10 @@
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 from datetime import datetime
-import re, os, locale, yaml
+import re
+import os
+import locale
+import yaml
 
 # Set the locale to UTF-8
 locale.setlocale(locale.LC_ALL, 'en_GB.UTF-8')
