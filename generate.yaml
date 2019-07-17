@@ -1,0 +1,34 @@
+local_paths:
+  includes: /home/pi/adguard-home-filters/repo/includes
+  output: /home/pi/adguard-home-filters/repo
+file_include:
+  header: tm_header.txt
+  filter_whitelist: fl_whitelist.txt
+file_output:
+  filters:
+    name: filters.txt
+    desc: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
+  regex:
+    name: regex.txt
+    desc: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
+remote_files:
+  hosts:
+    - https://hosts-file.net/ad_servers.txt
+    - https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=5
+    - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+    - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+    - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
+    - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+    - https://someonewhocares.org/hosts/zero/hosts
+    - https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+    - https://www.malwaredomainlist.com/hostslist/hosts.txt
+  regex:
+    - https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
+  filters:
+    - https://easylist.to/easylist/easylist.txt
+    - https://easylist.to/easylist/easyprivacy.txt
+    - https://filters.adtidy.org/extension/chromium/filters/15.txt
+    - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+    - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+    - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+    - https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
