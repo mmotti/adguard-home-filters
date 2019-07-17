@@ -249,10 +249,8 @@ def parse_filters(set_hosts_and_filters, path_includes, file_filter_whitelist):
         if os.path.isfile(file_filter_whitelist):
             # Add each line that's not a comment to the unverified whitelist set
             with open(file_filter_whitelist, 'r', encoding='UTF-8') as fOpen:
-                for line in fOpen:
-                    line = line.strip()
-                    if line and not line.startswith(('!', '#')):
-                        set_unverified_whitelist.add(line)
+                set_unverified_whitelist.update(line for line in (line.strip() for line in fOpen)
+                                                if line and not line.startswith(('!', '#')))
 
     # Filter pattern to match ||test.com^
     valid_filter_pattern = re.compile(r'^\|\|([a-z0-9_.-]+)\^$', flags=re.M)
@@ -340,13 +338,8 @@ def output_required(set_content, path_output, file):
         # Fetch the local file
         # without the added header comments
         with open(file_path, 'r', encoding='UTF-8') as fOpen:
-            # For each line
-            for line in fOpen:
-                # Strip either side
-                line = line.strip()
-                # Remove comments
-                if line and not line.startswith(('!', '#')):
-                    set_local_content.add(line)
+            set_local_content.update(line for line in (line.strip() for line in fOpen)
+                                     if line and not line.startswith(('!', '#')))
 
         # If the local copy was empty
         # output the file
@@ -460,9 +453,10 @@ class Output:
 
         # If header file exists
         if os.path.isfile(file_header):
+            # Open it
             with open(file_header, 'r', encoding='UTF-8') as fOpen:
-                # Create a list with each line
-                arr_header = [line.strip() for line in fOpen]
+                # Add each line to list if not blank
+                arr_header = [line for line in (line.strip() for line in fOpen) if line]
 
             # If the header file is not empty
             if arr_header:
