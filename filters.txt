@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-07-2019 12:27 BST
-! Count: 62,371
+! Last Modified: 17-07-2019 15:09 BST
+! Count: 62,377
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -63,6 +63,7 @@
 @@||maps.chitika.net^
 @@||nineto5mac-d.openx.net^
 @@||optout.networkadvertising.org^
+@@||ospserver.net^
 @@||pagead.l.doubleclick.net^
 @@||query.petametrics.com^
 @@||sas.com^
@@ -15906,6 +15907,7 @@
 ||chickenkiller.com^
 ||chickensaladandads.com^
 ||chickensstation.com^
+||chicoryapp.com^
 ||chidsimp.com^
 ||chief-con.pro^
 ||chiefcurrent.com^
@@ -19108,6 +19110,7 @@
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l320urli0p1u.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
+||d3l4p0goxhm61a.cloudfront.net^
 ||d3l4qa0kmel7is.cloudfront.net^
 ||d3laygk9zni6hc.cloudfront.net^
 ||d3lc9zmxv46zr.cloudfront.net^
@@ -22644,6 +22647,7 @@
 ||events.avantisvideo.com^
 ||events.chaordicsystems.com^
 ||events.demoup.com^
+||events.deskapi.com^
 ||events.fgol.mobi^
 ||events.godaddy.com^
 ||events.iap.unity3d.com^
@@ -28207,6 +28211,7 @@
 ||hulemedia.com^
 ||hull.io^
 ||hullapp.io^
+||huluim.com^
 ||humanclick.com^
 ||humandemand.com^
 ||humanelydrew.com^
@@ -29426,6 +29431,7 @@
 ||imtowoz.ru^
 ||imtrck.com^
 ||imtrk.trktoo.com^
+||imtwjwoasak.com^
 ||imu.com.cn^
 ||imupdate.3g.cn^
 ||imwarwi.ru^
@@ -40779,6 +40785,7 @@
 ||opienetwork.com^
 ||opinionlab.com^
 ||opinions.research-interactive.com^
+||opinionstage.com^
 ||opjalajamak.com^
 ||opjfqjlfdxup.com^
 ||opknogsela.bid^
@@ -51949,7 +51956,6 @@
 ||t1.re^
 ||t1ny.in^
 ||t2.hulu.com^
-||t2.huluim.com^
 ||t2.t2b.click^
 ||t2f9pn3m7w.com^
 ||t2lgo.com^
