@@ -1,6 +1,6 @@
 local_paths:
-  includes: /home/pi/adguard-home-filters/repo/includes
-  output: /home/pi/adguard-home-filters/repo
+  includes: /home/pi/adguard-home-filters/repo/generator/includes/
+  output: /home/pi/adguard-home-filters/repo/
 file_include:
   header: tm_header.txt
   filter_whitelist: fl_whitelist.txt
