@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 25-07-2019 23:50 BST
-! Count: 62,877
+! Last Modified: 26-07-2019 23:50 BST
+! Count: 62,895
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -911,6 +911,7 @@
 ||320157981.world^
 ||320ca3f6.space^
 ||321cba.com^
+||321gongsi.com^
 ||3221dkf7m2.com^
 ||3278dy.com^
 ||32979c00fcc59b5.com^
@@ -7142,6 +7143,7 @@
 ||adserver.kissfm.ro^
 ||adserver.kylemedia.com^
 ||adserver.kyoceramita-europe.com^
+||adserver.lag.vn^
 ||adserver.lanacion.com.ar^
 ||adserver.lanepress.com^
 ||adserver.latimes.com^
@@ -9303,6 +9305,7 @@
 ||alexa-silver.com^
 ||alexa-sitestats.s3.amazonaws.com^
 ||alexacdn.com^
+||alexafriday.xyz^
 ||alexajstrack.com^
 ||alexametrics.com^
 ||alexanderinteriorsanddesign.com^
@@ -9872,6 +9875,7 @@
 ||analytics.jaggedpeak.com^
 ||analytics.kaltura.com^
 ||analytics.kapost.com^
+||analytics.kidoz.net^
 ||analytics.ku6.com^
 ||analytics.kwebsoft.com^
 ||analytics.ladmedia.fr^
@@ -21064,6 +21068,7 @@
 ||dskfv.de^
 ||dskiepocq.bid^
 ||dskrt.net^
+||dsmartvietnam.com^
 ||dsmmadvantage.com^
 ||dsms0mj1bbhn4.cloudfront.net^
 ||dsmysdzjhxot.com^
@@ -21395,6 +21400,7 @@
 ||e-zeeinternet.com^
 ||e-zeitung.de^
 ||e-zshopper.activeshopper.com^
+||e.211pu.cn^
 ||e.60sk.ru^
 ||e.8p30k.cn^
 ||e.ad.xiaomi.com^
@@ -22763,6 +22769,7 @@
 ||evenexcite.com^
 ||evengparme.com^
 ||event-analytics.yesware.com^
+||event-collector.moviesanywhere.com^
 ||event-collector.udsrv.com^
 ||event-listener.air.tv^
 ||event-reporting-dot-webylytics.appspot.com^
@@ -23151,6 +23158,7 @@
 ||ezgswchaz.com^
 ||ezhinpwh.com^
 ||ezhkfxskimqnqk.com^
+||ezimar.com^
 ||ezjepifcz.com^
 ||ezjrnbpjthir.com^
 ||ezkbzmwigo.bid^
@@ -27374,6 +27382,7 @@
 ||hebdotop.com^
 ||hebiichigo.com^
 ||hechaocheng.cn^
+||hecheckbabronref.info^
 ||heckcallohertons.info^
 ||heckhaphanofres.info^
 ||hedtgodingsincy.info^
@@ -28202,6 +28211,7 @@
 ||hpad.www.infoseek.co.jp^
 ||hpbczauldndnep.com^
 ||hpbsyqsypxy.com^
+||hpcat.cn^
 ||hpcniufqp.bid^
 ||hpcyk.com^
 ||hpdmnmehzcor.com^
@@ -32969,6 +32979,8 @@
 ||lactotof.ru^
 ||ladbrokesaffiliates.com.au^
 ||ladhyjqqgerr.com^
+||ladipage.net^
+||ladipage.vn^
 ||ladnova.info^
 ||lads.myspacecdn.com^
 ||ladsinfo.com^
@@ -33024,6 +33036,7 @@
 ||landing.parkplatzkartei.com^
 ||landing.seek2.com^
 ||landingpagegenius.com^
+||landingpagelagi.vn^
 ||landingpages.sunnytoolz.com^
 ||landingpg.com^
 ||landisbaptist.com^
@@ -35186,6 +35199,7 @@
 ||manage001.adtech.us^
 ||manager.koocash.fr^
 ||manaslu.pl^
+||mancegrative.info^
 ||manchina.xyz^
 ||mandolinefchscpmft.download^
 ||maneta.info^
@@ -47349,6 +47363,7 @@
 ||rushkolnik.ru^
 ||rushmyrepair.com^
 ||rushpay.pl^
+||rusinlepading.pro^
 ||ruspolice.com^
 ||ruspolice.net^
 ||russ-shalavy.ru^
@@ -54669,6 +54684,7 @@
 ||tracker.msales.com^
 ||tracker.mspy.com^
 ||tracker.mtrax.net^
+||tracker.mtrtb.com^
 ||tracker.myseofriend.net^
 ||tracker.nbcuas.com^
 ||tracker.neon-images.com^
@@ -55659,6 +55675,7 @@
 ||tskdngwznw.bid^
 ||tslinfo.pl^
 ||tslnxwzujrbfp.bid^
+||tslomhfys.com^
 ||tsmdmunzbtu.com^
 ||tsms-ad.tsms.com^
 ||tsmtrk.com^
@@ -58392,6 +58409,7 @@
 ||vucovorise.com^
 ||vucwhuao.bid^
 ||vudbfsnvyzxo.com^
+||vudo.com^
 ||vudzzutdbcp.bid^
 ||vuiads.de^
 ||vuiads.info^
