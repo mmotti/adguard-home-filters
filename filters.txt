@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 29-07-2019 23:50 BST
-! Count: 62,920
+! Last Modified: 30-07-2019 23:50 BST
+! Count: 62,932
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -12269,6 +12269,7 @@
 ||banners.mobile.yandex.net^
 ||banners.moreniche.com^
 ||banners.moviegoods.com^
+||banners.myads.ge^
 ||banners.mydailydigest.com^
 ||banners.mynakedweb.com^
 ||banners.nbcupromotes.com^
@@ -13357,6 +13358,7 @@
 ||bidvertiser.com^
 ||biemedia.com^
 ||biftbtajfs.bid^
+||big-bang-ads.com^
 ||bigad.com.au^
 ||bigadpoint.net^
 ||bigads.guj.de^
@@ -22046,6 +22048,7 @@
 ||elkepeszto.net^
 ||elkpxsfzrubq.com^
 ||ellads.com^
+||ellcurvth.com^
 ||elle.alljournal.ru^
 ||elmenor.xyz^
 ||elmissouri.fr^
@@ -23604,6 +23607,7 @@
 ||feed.mikle.com^
 ||feed.minpos.com^
 ||feed.mobeek.net^
+||feed.monad-rtb.com^
 ||feed.snap.do^
 ||feed.trafflow.com^
 ||feeda.info^
@@ -34902,6 +34906,7 @@
 ||m.czbiw.com^
 ||m.dubcm.com^
 ||m.fexiaen.com^
+||m.helloworld2018.top^
 ||m.jakc0.com^
 ||m.jsqinvest.com^
 ||m.loading-content.net^
@@ -42952,6 +42957,7 @@
 ||pixel.yabidos.com^
 ||pixel.yola.com^
 ||pixel.zumby.io^
+||pixelappcollector.thesun.co.uk^
 ||pixelcounter.elmundo.es^
 ||pixelcounter.expansion.com^
 ||pixelcounter.marca.com^
@@ -44681,6 +44687,7 @@
 ||push-me-up.com^
 ||push-notification.tools^
 ||push-notifications.top^
+||push-tools-system.com^
 ||push.appsgeyser.com^
 ||push2check.com^
 ||push7.jp^
@@ -46659,6 +46666,7 @@
 ||rextopia.com^
 ||rextrk.com^
 ||reyden-x.com^
+||reydi.xyz^
 ||reytata.ru^
 ||rezacze.pl^
 ||rezbzvrbemeb.bid^
@@ -52370,6 +52378,7 @@
 ||t.frtyg.com^
 ||t.frtyi.com^
 ||t.frtyk.com^
+||t.hoood.info^
 ||t.hypers.com.cn^
 ||t.indeed.com^
 ||t.info.rezbine.com^
@@ -55664,6 +55673,7 @@
 ||trygen.co.uk^
 ||trymynewspirit.com^
 ||trynull.ga^
+||trysera.com^
 ||trzi30ic.com^
 ||ts-ads.icu^
 ||ts-ads.info^
@@ -56669,6 +56679,7 @@
 ||up-rank.com^
 ||up.boston.com^
 ||up.cm.ksmobile.com^
+||up.gtorrent.ru^
 ||up.mykings.pw^
 ||up.nytimes.com^
 ||upads.info^
@@ -61858,6 +61869,7 @@
 ||yqutkbvrgvar.com^
 ||yqvxurmg.bid^
 ||yqxnmyydmcw.bid^
+||yr9n47004g.com^
 ||yrals.com^
 ||yrbjfusd.com^
 ||yrcpupgqtn.com^
