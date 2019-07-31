@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 30-07-2019 23:50 BST
-! Count: 62,932
+! Last Modified: 31-07-2019 23:50 BST
+! Count: 62,936
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1254,6 +1254,7 @@
 ||50greyofsha.de^
 ||50h6v79p.top^
 ||50hardcore.galleryprogram.com^
+||50kaweek.live^
 ||50websads.com^
 ||51.6.87.194.dynamic.dol.ru^
 ||51.la^
@@ -3171,6 +3172,7 @@
 ||ad.wz.cz^
 ||ad.xdomain.ne.jp^
 ||ad.xe.gr^
+||ad.xiaomi.com^
 ||ad.yahoo.com^
 ||ad.yam.com.tw^
 ||ad.yemeksepeti.com^
@@ -7681,6 +7683,7 @@
 ||adtag.sympatico.ca^
 ||adtagger.com^
 ||adtago.s3.amazonaws.com^
+||adtags.mobi^
 ||adtags.pro^
 ||adtaily.com^
 ||adtaily.eu^
@@ -10228,6 +10231,7 @@
 ||anthonymthompson.com^
 ||anti-cheat.info^
 ||anti-virus-removal.info^
+||antiblock.info^
 ||anticarredodolomiti.com^
 ||anticlown.com^
 ||anticodistretto.com^
@@ -10255,6 +10259,7 @@
 ||anvagsqctxsaz.bid^
 ||anvato-api-config.s3.amazonaws.com^
 ||anvskelwpvvmtg.bid^
+||anwan.pl^
 ||anwufkjjja.com^
 ||anxiety.1.p2l.info^
 ||anxiousapples.com^
@@ -10347,7 +10352,6 @@
 ||api.ad-patrick.com^
 ||api.ad.intl.xiaomi.com^
 ||api.ad.snappea.com^
-||api.ad.xiaomi.com^
 ||api.adcalls.nl^
 ||api.addnow.com^
 ||api.adgrowth.jp^
@@ -11195,6 +11199,7 @@
 ||auctiondirectory.org^
 ||auctionnudge.com^
 ||auctionshare.net^
+||aud3g.com^
 ||audacity.de^
 ||audacity.es^
 ||audacity.fr^
@@ -13375,6 +13380,7 @@
 ||bigchoicegroup.com^
 ||bigclick.me^
 ||bigclicks.com^
+||bigdate.biz^
 ||bigdomain.in^
 ||bigfatbaby.com^
 ||bigfineads.com^
@@ -13940,7 +13946,6 @@
 ||bonuscounter.de^
 ||bonusfapturbo.com^
 ||bonxsqstn.com^
-||bony-zakupowe.pl^
 ||bonzai.ad^
 ||bonzbuddy.com^
 ||bonzi.com^
@@ -15392,6 +15397,7 @@
 ||cd8iw9mh.cricket^
 ||cda-bez-limitu.pl^
 ||cda-filmy.com.pl^
+||cda-flix.pl^
 ||cda.0-shiny.com^
 ||cdaywwdyicf.com^
 ||cdaz.icu^
@@ -15432,7 +15438,6 @@
 ||cdn.2app.lk^
 ||cdn.8digits.com^
 ||cdn.ad.plus^
-||cdn.ad.xiaomi.com^
 ||cdn.ad1-click.com^
 ||cdn.adbert.info^
 ||cdn.addnow.com^
@@ -15984,6 +15989,7 @@
 ||checkeffect.at^
 ||checkhit.com^
 ||checkingfree.thebig-centeralplacecontentprepared.review^
+||checkip.justwatch.com^
 ||checkm8.com^
 ||checkmygeo.com^
 ||checkmypr.net^
@@ -16294,6 +16300,7 @@
 ||clarityray.com^
 ||claritytag.com^
 ||clarium.global.ssl.fastly.net^
+||clarium.io^
 ||clarivoy.com^
 ||clarm.ru^
 ||clash-media.com^
@@ -17436,6 +17443,7 @@
 ||conf.international.baidu.com^
 ||conference.convertkit.com^
 ||conferentse.com^
+||confiant-integrations.global.ssl.fastly.net^
 ||config-partner-platform-client-933515454346.s3.amazonaws.com^
 ||config.getmyip.com^
 ||config.mobile.wxbug.com^
@@ -19250,6 +19258,7 @@
 ||d3irruagotonpp.cloudfront.net^
 ||d3iwjrnl4m67rd.cloudfront.net^
 ||d3iz6lralvg77g.cloudfront.net^
+||d3j1weegxvu8ns.cloudfront.net^
 ||d3jcjsor8fnmka.cloudfront.net^
 ||d3jgr4uve1d188.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
@@ -19392,6 +19401,7 @@
 ||daea.ero-advertising.com^
 ||daecan.xyz^
 ||daelynn.xyz^
+||daero.pw^
 ||daetemegxlyp.com^
 ||daethana.pw^
 ||dafa.io^
@@ -21427,7 +21437,6 @@
 ||e.211pu.cn^
 ||e.60sk.ru^
 ||e.8p30k.cn^
-||e.ad.xiaomi.com^
 ||e.baidu.com^
 ||e.digitalnectar.co.uk^
 ||e.domob.cn^
@@ -22120,6 +22129,7 @@
 ||emdbszgmxggo.com^
 ||emdqaycbvqz.com^
 ||emebo.com^
+||emebo.io^
 ||emediate.apmmedia.net^
 ||emediate.ch^
 ||emediate.dk^
@@ -24735,7 +24745,6 @@
 ||freetrafficsystem.com^
 ||freeuploader.ml^
 ||freeusersonline.com^
-||freevbucks-fortnite.pl^
 ||freevbuckx.com^
 ||freevideo.biz.nf^
 ||freevideodownloadforpc.com^
@@ -25767,6 +25776,7 @@
 ||getcounter.de^
 ||getcouponsfast.com^
 ||getcryptotab.com^
+||getdataback.pl^
 ||getdatanetukscan.info^
 ||getdirect.ru^
 ||getdrip.com^
@@ -26117,7 +26127,6 @@
 ||globaladmedia.com^
 ||globaladsales.com^
 ||globaladv.net^
-||globalapi.ad.xiaomi.com^
 ||globalbuffer.com^
 ||globalcharge.com^
 ||globalhealingcenter.com^
@@ -28056,6 +28065,7 @@
 ||homestad.com^
 ||homevisions.com^
 ||homewares.org^
+||homgar.pl^
 ||homonymyhnovvlnkz.download^
 ||homrdepot.com^
 ||homrus.net^
@@ -29839,6 +29849,7 @@
 ||info.bororeb.com^
 ||info.com^
 ||info.elba.at^
+||info.kinoclub77.ru^
 ||info.telstra.com^
 ||info.web.de^
 ||info1park.ru^
@@ -30832,7 +30843,6 @@
 ||j.2004cms.com^
 ||j.77power.com^
 ||j.image-ad.jp^
-||j.ophan.co.uk^
 ||j.sahcdn.com^
 ||j.somewrite.jp^
 ||j.theadsnet.com^
@@ -31013,7 +31023,6 @@
 ||jecbbkrnfn.com^
 ||jeculdfores.ru^
 ||jednyqbb.com^
-||jedz-eco.pl^
 ||jeegopte.com^
 ||jeeh7eet.com^
 ||jeeshapi.net^
@@ -32190,7 +32199,6 @@
 ||kgzcentyfo.com^
 ||kgzuerzjysxw.com^
 ||kh-mi-lk.de^
-||khafre.us^
 ||khaicoojypokng.com^
 ||khaklikrt.com^
 ||khalto.info^
@@ -34387,6 +34395,7 @@
 ||loltrk.com^
 ||lolxm.xyz^
 ||lomalindasda.org^
+||lomzynskie.pl^
 ||londonprivaterentals.standard.co.uk^
 ||lonedol.info^
 ||lonelycheatingwives.com^
@@ -35038,6 +35047,7 @@
 ||macromill.com^
 ||macshield8.club^
 ||macskajaj.net^
+||maczyn.pl^
 ||mad-adz.com^
 ||mad.mobisky.pl^
 ||madadsmedia.com^
@@ -37310,6 +37320,7 @@
 ||mochibot.com^
 ||mocka.frost-electric-supply.com^
 ||modastro.ee^
+||model-agd.pl^
 ||modelatos.com^
 ||modelegating.com^
 ||modelsgonebad.com^
@@ -37873,7 +37884,6 @@
 ||multonly.ru^
 ||mumbldnn.com^
 ||munaluchibridal.munaluchibridema.netdna-cdn.com^
-||mundialove.pl^
 ||munero.me^
 ||munically.com^
 ||munpprwlhric.com^
@@ -40473,6 +40483,7 @@
 ||ogisrmbhajhyam.com^
 ||ogjascdgq.com^
 ||ogkmakmofd.bid^
+||ogladaj-online24.pl^
 ||ogladaj.online^
 ||ogladamy24.pl^
 ||ogluyourrvv.com^
@@ -41164,6 +41175,7 @@
 ||opetation.pro^
 ||opflriars.com^
 ||opfrjkmmvqmm.com^
+||ophan.co.uk^
 ||ophan.guardian.co.uk^
 ||ophan.theguardian.com^
 ||ophpbseelohv.com^
@@ -43947,7 +43959,6 @@
 ||prishla.info^
 ||prism.pandora.tv^
 ||pritesol.com^
-||pritom.pl^
 ||privacy-center.org^
 ||privacy-staging.pixel.advertising.com^
 ||privacyassistant.net^
@@ -48196,7 +48207,6 @@
 ||sdk.stats-locations.com^
 ||sdk.streamrail.com^
 ||sdkconfig.ad.intl.xiaomi.com^
-||sdkconfig.ad.xiaomi.com^
 ||sdklogs.avocarrot.com^
 ||sdks.stats-locations.com^
 ||sdlpgift.com^
@@ -49474,7 +49484,6 @@
 ||sklep-colway.com^
 ||sklep-colway.pl^
 ||sklep466452.shoparena.pl^
-||skleplara.pl^
 ||skleptiande.pl^
 ||sklulpbnbqf.bid^
 ||skocz.pl^
@@ -50772,7 +50781,6 @@
 ||sso.canada.com^
 ||ssobmhpxnjjp.bid^
 ||ssowfsbps.bid^
-||ssp.ad.xiaomi.com^
 ||ssp.hinet.net^
 ||ssp.rambler.ru^
 ||ssp.sellads.me^
@@ -53022,7 +53030,6 @@
 ||telemetryservice.firstpartyapps.oaspapps.com^
 ||telemetrytaxonomy.net^
 ||telemetryverification.net^
-||telescopethesky.com^
 ||television.searchwho.com^
 ||telewizja-internetowa24.pl^
 ||teliad.com^
@@ -53101,7 +53108,6 @@
 ||tesimages.com^
 ||test--na--iq.blogspot.com^
 ||test-studio.ru^
-||test.ad.xiaomi.com^
 ||test.ajc.cimedia.com^
 ||test.com^
 ||test.ishvara-yoga.com^
@@ -59248,7 +59254,6 @@
 ||wenpsnpqher.com^
 ||wenqyczxgpoyu.bid^
 ||weogkfxrkgyezq.bid^
-||weon.pl^
 ||weoukcpr.com^
 ||weownthetraffic.com^
 ||wephuklsjobdxqllpeklcrvquyyifgkictuepzxxhzpjbclmcq.com^
@@ -62365,7 +62370,6 @@
 ||zettapetta.com^
 ||zeujqjoifd.com^
 ||zeus.ad.intl.xiaomi.com^
-||zeus.ad.xiaomi.com^
 ||zeus.developershed.com^
 ||zeus.qj.net^
 ||zeus.timesink.com^
