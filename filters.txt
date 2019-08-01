@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 31-07-2019 23:50 BST
-! Count: 62,936
+! Last Modified: 01-08-2019 23:50 BST
+! Count: 62,914
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -4800,7 +4800,6 @@
 ||ads.adultplex.com^
 ||ads.adultswim.com^
 ||ads.advance.de^
-||ads.advance.net^
 ||ads.advance.uk.com^
 ||ads.advertise.net^
 ||ads.advolume.com^
@@ -6296,7 +6295,6 @@
 ||ads.webmastersdirect.com^
 ||ads.webmd.com^
 ||ads.webme.com^
-||ads.webnet.advance.net^
 ||ads.websearch.com^
 ||ads.webshots.com^
 ||ads.website-guru.com^
@@ -6387,7 +6385,6 @@
 ||ads09.hpg.com.br^
 ||ads1-adnow.com^
 ||ads1.advance.de^
-||ads1.advance.net^
 ||ads1.ami-admin.com^
 ||ads1.beta.lt^
 ||ads1.canoe.ca^
@@ -6420,13 +6417,11 @@
 ||ads1.themobileindian.net^
 ||ads1.tripod.com^
 ||ads1.ucomics.com^
-||ads1.udc.advance.net^
 ||ads1.virtual-nights.com^
 ||ads1.zdnet.com^
 ||ads10.gladen.bg^
 ||ads10.hpg.com.br^
 ||ads10.speedbit.com^
-||ads10.udc.advance.net^
 ||ads100.hpg.com.br^
 ||ads101.hpg.com.br^
 ||ads102.hpg.com.br^
@@ -6438,7 +6433,6 @@
 ||ads108.hpg.com.br^
 ||ads109.hpg.com.br^
 ||ads11.hpg.com.br^
-||ads11.udc.advance.net^
 ||ads110.hpg.com.br^
 ||ads111.hpg.com.br^
 ||ads112.hpg.com.br^
@@ -6450,7 +6444,6 @@
 ||ads118.hpg.com.br^
 ||ads119.hpg.com.br^
 ||ads12.hpg.com.br^
-||ads12.udc.advance.net^
 ||ads120.hpg.com.br^
 ||ads121.hpg.com.br^
 ||ads122.hpg.com.br^
@@ -6462,7 +6455,6 @@
 ||ads128.hpg.com.br^
 ||ads129.hpg.com.br^
 ||ads13.hpg.com.br^
-||ads13.udc.advance.net^
 ||ads130.hpg.com.br^
 ||ads13000.cpmoz.com^
 ||ads131.hpg.com.br^
@@ -6475,7 +6467,6 @@
 ||ads138.hpg.com.br^
 ||ads139.hpg.com.br^
 ||ads14.hpg.com.br^
-||ads14.udc.advance.net^
 ||ads140.hpg.com.br^
 ||ads141.hpg.com.br^
 ||ads142.hpg.com.br^
@@ -6487,7 +6478,6 @@
 ||ads148.hpg.com.br^
 ||ads149.hpg.com.br^
 ||ads15.hpg.com.br^
-||ads15.udc.advance.net^
 ||ads150.hpg.com.br^
 ||ads151.hpg.com.br^
 ||ads152.hpg.com.br^
@@ -6498,9 +6488,7 @@
 ||ads157.hpg.com.br^
 ||ads158.hpg.com.br^
 ||ads159.hpg.com.br^
-||ads16.advance.net^
 ||ads16.hpg.com.br^
-||ads16.udc.advance.net^
 ||ads160.hpg.com.br^
 ||ads161.hpg.com.br^
 ||ads162.hpg.com.br^
@@ -6549,7 +6537,6 @@
 ||ads1a.depositfiles.com^
 ||ads2-adnow.com^
 ||ads2.advance.de^
-||ads2.advance.net^
 ||ads2.backads.com^
 ||ads2.blastro.com^
 ||ads2.brazzers.com^
@@ -6590,7 +6577,6 @@
 ||ads2.searchmiracle.com^
 ||ads2.speedbit.com^
 ||ads2.theglobeandmail.com^
-||ads2.udc.advance.net^
 ||ads2.vasmg.com^
 ||ads2.virtual-nights.com^
 ||ads2.vortexmediagroup.com^
@@ -6677,7 +6663,6 @@
 ||ads2srv.com^
 ||ads3-adnow.com^
 ||ads3.advance.de^
-||ads3.advance.net^
 ||ads3.bangkokpost.co.th^
 ||ads3.blastro.com^
 ||ads3.canoe.ca^
@@ -6690,7 +6675,6 @@
 ||ads3.realcities.com^
 ||ads3.searchmiracle.com^
 ||ads3.speedbit.com^
-||ads3.udc.advance.net^
 ||ads3.virtual-nights.com^
 ||ads3.zdnet.com^
 ||ads30.hpg.com.br^
@@ -6706,14 +6690,12 @@
 ||ads38.hpg.com.br^
 ||ads39.hpg.com.br^
 ||ads4.advance.de^
-||ads4.advance.net^
 ||ads4.canoe.ca^
 ||ads4.clearchannel.com^
 ||ads4.condenet.com^
 ||ads4.hpg.com.br^
 ||ads4.realcities.com^
 ||ads4.speedbit.com^
-||ads4.udc.advance.net^
 ||ads4.virtual-nights.com^
 ||ads40.hpg.com.br^
 ||ads41.hpg.com.br^
@@ -6733,14 +6715,12 @@
 ||ads4pubs.com^
 ||ads4xxx.com^
 ||ads5-adnow.com^
-||ads5.advance.net^
 ||ads5.canoe.ca^
 ||ads5.hpg.com.br^
 ||ads5.mconetwork.com^
 ||ads5.sabah.com.tr^
 ||ads5.speedbit.com^
 ||ads5.truecaller.com^
-||ads5.udc.advance.net^
 ||ads5.virtual-nights.com^
 ||ads50.hpg.com.br^
 ||ads51.hpg.com.br^
@@ -6752,10 +6732,8 @@
 ||ads57.hpg.com.br^
 ||ads58.hpg.com.br^
 ||ads59.hpg.com.br^
-||ads6.advance.net^
 ||ads6.hpg.com.br^
 ||ads6.speedbit.com^
-||ads6.udc.advance.net^
 ||ads60.hpg.com.br^
 ||ads61.hpg.com.br^
 ||ads62.hpg.com.br^
@@ -6766,11 +6744,9 @@
 ||ads67.hpg.com.br^
 ||ads68.hpg.com.br^
 ||ads69.hpg.com.br^
-||ads7.advance.net^
 ||ads7.hpg.com.br^
 ||ads7.inet1.com^
 ||ads7.speedbit.com^
-||ads7.udc.advance.net^
 ||ads70.hpg.com.br^
 ||ads71.hpg.com.br^
 ||ads72.hpg.com.br^
@@ -6784,7 +6760,6 @@
 ||ads8.com^
 ||ads8.hpg.com.br^
 ||ads8.speedbit.com^
-||ads8.udc.advance.net^
 ||ads80.com^
 ||ads80.hpg.com.br^
 ||ads81.hpg.com.br^
@@ -6798,7 +6773,6 @@
 ||ads89.hpg.com.br^
 ||ads9.hpg.com.br^
 ||ads9.speedbit.com^
-||ads9.udc.advance.net^
 ||ads90.hpg.com.br^
 ||ads91.hpg.com.br^
 ||ads92.hpg.com.br^
@@ -7967,6 +7941,7 @@
 ||advadnetwork.me^
 ||advagava.su^
 ||advaliant.com^
+||advance.net^
 ||advanced-web-analytics.com^
 ||advancedad.com^
 ||advancedadapters.com^
@@ -9758,6 +9733,7 @@
 ||analytics-prod-ingress.bricknet.com^
 ||analytics-production.hapyak.com^
 ||analytics-rhwg.rhcloud.com^
+||analytics-scripts.cablelabs.com^
 ||analytics-server.gimbal.com^
 ||analytics-service.us-east-1.prod.public.atl-paas.net^
 ||analytics-static.ugc.bazaarvoice.com^
@@ -10215,6 +10191,7 @@
 ||anqnimezkdjm.com^
 ||anrdoezrs.net^
 ||anshrit.com^
+||anstrex.com^
 ||answerhub.com^
 ||answermedia.com^
 ||answerscloud.com^
@@ -13209,6 +13186,7 @@
 ||betwinnerpromo.com^
 ||betzeplinreklam.com^
 ||beufosew.bid^
+||beusable.net^
 ||bewaslac.com^
 ||bewcmime.com^
 ||bewhoyouare.gq^
@@ -15070,6 +15048,7 @@
 ||canadasungam.net^
 ||canadianshawid.com^
 ||canalstat.com^
+||candac.iridion.de^
 ||canddi.com^
 ||candid.zone^
 ||candidclicks.com^
@@ -18951,6 +18930,7 @@
 ||d1jl096lp4cce0.cloudfront.net^
 ||d1k0glcmk0b5rb.cloudfront.net^
 ||d1k29rhvz38kg5.cloudfront.net^
+||d1k3dpebxhgqjc.cloudfront.net^
 ||d1k74lgicilrr3.cloudfront.net^
 ||d1ksyxj9xozc2j.cloudfront.net^
 ||d1l6p2sc9645hc.cloudfront.net^
@@ -20020,6 +20000,7 @@
 ||derotel.com^
 ||derpqpyvym.bid^
 ||derqboxqca.com^
+||deryjobmeetin.info^
 ||desa.fkapi.net^
 ||desalinateorixnpf.download^
 ||desb.fkapi.net^
@@ -27303,7 +27284,6 @@
 ||hb.headbidder.net^
 ||hb.kumma.com^
 ||hb.omtrdc.net^
-||hb.ssp.advertising.com^
 ||hbads.eboz.com^
 ||hbadz.eboz.com^
 ||hbb.concentra.be^
@@ -28344,6 +28324,7 @@
 ||hsb-canada.com^
 ||hsbconline.ca^
 ||hsbolewhzbaffs.review^
+||hscta.net^
 ||hsdjvuayagt.bid^
 ||hsdn.org^
 ||hseyrxoi.com^
@@ -31511,7 +31492,6 @@
 ||js.gleam.io^
 ||js.hsadpixel.net^
 ||js.hscollectedforms.net^
-||js.hscta.net^
 ||js.hsforms.net^
 ||js.hubspot.com^
 ||js.impact.ne.jp^
@@ -35590,7 +35570,6 @@
 ||mbfvfdkawpoi.com^
 ||mbgvhfotcqsj.com^
 ||mbi3.kuicr.kyoto-u.ac.jp^
-||mbid.advance.net^
 ||mbid.io^
 ||mbixofultnnd.com^
 ||mbixuxsfeoutfields.review^
@@ -38417,6 +38396,7 @@
 ||nalook.com^
 ||nameads.com^
 ||nameguess.com^
+||nameketathar.pro^
 ||namestation.tenderapp.com^
 ||nametests.com^
 ||nametraff.com^
@@ -46060,7 +46040,6 @@
 ||realmatch.com^
 ||realmedia-a592.d4p.net^
 ||realmedia-a800.d4p.net^
-||realmedia.advance.net^
 ||realmedia.channel4.com^
 ||realmedia.co.kr^
 ||realmedia.com^
@@ -47178,6 +47157,7 @@
 ||rptdyukab.bid^
 ||rpts.org^
 ||rpulxcwmnuxi.com^
+||rpxnow.com^
 ||rpylvksecants.review^
 ||rpzcwgrpbkltp.com^
 ||rq.adtrackdirect.com^
@@ -47694,7 +47674,6 @@
 ||s2r.tut.by^
 ||s2s.msas.media.net^
 ||s2s.rafotech.com^
-||s2s.ssp.advertising.com^
 ||s2sterra.com^
 ||s2trade.mtxcapital.com^
 ||s3-tracking.synthasite.net.s3.amazonaws.com^
@@ -49232,7 +49211,6 @@
 ||signoredom.com^
 ||signout.website^
 ||signup-way.com^
-||signup.advance.net^
 ||sihciabzm.com^
 ||sihjnaojbrs.com^
 ||sihmlqhicmzvx.com^
@@ -50781,6 +50759,7 @@
 ||sso.canada.com^
 ||ssobmhpxnjjp.bid^
 ||ssowfsbps.bid^
+||ssp.advertising.com^
 ||ssp.hinet.net^
 ||ssp.rambler.ru^
 ||ssp.sellads.me^
@@ -51147,7 +51126,6 @@
 ||static.regiojobs.be^
 ||static.resetamobil.com^
 ||static.retirementcommunitiesfyi.com^
-||static.rpxnow.com^
 ||static.salesresourcepartners.com^
 ||static.share-videos.se^
 ||static.smni.com^
@@ -52239,6 +52217,7 @@
 ||syiwwswcbxk.bid^
 ||sylicomservicios.com^
 ||syllabusqhlloohss.download^
+||sylmyar.pw^
 ||symantex.com^
 ||symbiosting.com^
 ||symbolizebeast.com^
@@ -52856,7 +52835,6 @@
 ||tdxqgpfkiye.bid^
 ||tdxuojiufz.bid^
 ||te.about.com^
-||te.advance.net^
 ||te.ap.org^
 ||te.astrology.com^
 ||te.audiencematch.net^
@@ -54189,7 +54167,6 @@
 ||tqwuasyvwebt.bid^
 ||tqzvjmgftvtj.bid^
 ||tr-metrics.loomia.com^
-||tr.advance.net^
 ||tr.affiliate.hu^
 ||tr.bannersdf.com^
 ||tr.bigpoint.com^
@@ -54201,6 +54178,7 @@
 ||tr.etrxc.com^
 ||tr.ilius.net^
 ||tr.interlake.net^
+||tr.junaroad.com^
 ||tr.mobiadserv.com^
 ||tr.n2.hk^
 ||tr.networx.com^
@@ -54760,6 +54738,7 @@
 ||tracker.twenga.pl^
 ||tracker.u-link.me^
 ||tracker.uprinting.com^
+||tracker.vgame.us^
 ||tracker.vreveal.com^
 ||tracker.washtimes.com^
 ||tracker.winload.de^
@@ -58901,7 +58880,6 @@
 ||web.mxradon.com^
 ||web.nyc.ads.juno.co^
 ||web.secmedia.de^
-||web.ssp.advertising.com^
 ||web.stagingf8.pycogroup.com^
 ||web.tmearn.com^
 ||web.unltd.info^
@@ -59499,7 +59477,6 @@
 ||widgetdigital.info^
 ||widgethost.barnebys.com^
 ||widgetlead.net^
-||widgets-cdn.rpxnow.com^
 ||widgets.adviceiq.com^
 ||widgets.cam-content.com^
 ||widgets.comcontent.net^
@@ -59762,6 +59739,7 @@
 ||wmvkbjuzcr.bid^
 ||wmvnyunntuuz.com^
 ||wmwkwubufart.com^
+||wmwloejxww.com^
 ||wmwmwwfmkvucbln.ru^
 ||wmwyq.xyz^
 ||wmxeexfle.com^
