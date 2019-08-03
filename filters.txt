@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 02-08-2019 23:50 BST
-! Count: 62,925
+! Last Modified: 03-08-2019 23:50 BST
+! Count: 62,933
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -59,8 +59,6 @@
 @@||guce.advertising.com^
 @@||h-sdk.online-metrix.net^
 @@||imasdk.googleapis.com^
-@@||maps-static.chitika.net^
-@@||maps.chitika.net^
 @@||nineto5mac-d.openx.net^
 @@||optout.networkadvertising.org^
 @@||ospserver.net^
@@ -9704,6 +9702,7 @@
 ||analyse.weather.com.cn^
 ||analysis.afreecatv.com^
 ||analysis.fc2.com^
+||analysis.fi^
 ||analysis.focalprice.com^
 ||analysis.polarisoffice.com^
 ||analysis.shinobi.jp^
@@ -9950,6 +9949,7 @@
 ||analytics.sitewit.com^
 ||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
+||analytics.sleeknote.com^
 ||analytics.snidigital.com^
 ||analytics.socialbakers.com^
 ||analytics.socialblade.com^
@@ -10138,6 +10138,7 @@
 ||angsrvr.com^
 ||angtqemchz.bid^
 ||anhuilitian.net^
+||aniashboy.club^
 ||animadulte.com^
 ||animal-drawings.com^
 ||animal36.com^
@@ -18593,6 +18594,7 @@
 ||cur.lv^
 ||curalate-api-prod.us-east-1.elasticbeanstalk.com^
 ||curalate.com^
+||curaleani.club^
 ||curancience.com^
 ||curbstonexxteskqxv.download^
 ||curker.ru^
@@ -21910,6 +21912,7 @@
 ||eifxhtrnhnveem.bid^
 ||eightfoldlogic.com^
 ||eigtfqrokt.bid^
+||eihjefbbbbddeiacedb.ru^
 ||eiibdnjlautz.com^
 ||eijwpxc.net^
 ||eilmltibu.com^
@@ -23678,6 +23681,7 @@
 ||festologyqueudknaa.download^
 ||festoonedkyskjtmxv.download^
 ||fetchback.com^
+||fethungi.com^
 ||fetisch-pornos.cxa.de^
 ||fetishfitnessbabes.com^
 ||fetishlocator.com^
@@ -36678,6 +36682,7 @@
 ||milleniumpapelaria.com.br^
 ||millennialmedia.com^
 ||milleonid.com^
+||milliardytv.ru^
 ||million.francite.com^
 ||millioncash.ru^
 ||millioncounter.com^
@@ -45851,6 +45856,7 @@
 ||ravnovesienews.ru^
 ||rawasy.com^
 ||rawoo.barginginfrance.net^
+||rawr.at^
 ||rawybznxrp.bid^
 ||raxlextehqhw.com^
 ||raygun.io^
@@ -47730,6 +47736,7 @@
 ||sabela.com^
 ||saber.srvcs.tumblr.com^
 ||sabin.free.fr^
+||saboopiz.net^
 ||sacredphoenix.com^
 ||sad2tizer.ru^
 ||sade-ecrivain.com^
@@ -49766,7 +49773,6 @@
 ||smartscan.ro^
 ||smartshare.lgtvsdp.com^
 ||smartstats.com^
-||smartsuppchat.com^
 ||smarttargetting.co.uk^
 ||smarttargetting.com^
 ||smarttargetting.net^
@@ -54719,6 +54725,7 @@
 ||tracker.nmp1.com^
 ||tracker.offermarket.net^
 ||tracker.onapps.org^
+||tracker.pandora.com^
 ||tracker.peerclick.io^
 ||tracker.pinnaclesports.com^
 ||tracker.plan2.net^
@@ -56560,6 +56567,7 @@
 ||unicast.com^
 ||unicast.ign.com^
 ||uniclick.openv.com^
+||uniconsent.com^
 ||unicume.com^
 ||unid.go.com^
 ||unidati.com^
