@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 03-08-2019 23:50 BST
-! Count: 62,933
+! Last Modified: 04-08-2019 23:50 BST
+! Count: 62,940
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -3684,6 +3684,7 @@
 ||adbox.beweb.com^
 ||adbox.hu^
 ||adbox.inbox-online.com^
+||adbox.lv^
 ||adbrands.co.il^
 ||adbrau.com^
 ||adbreak.cubecdn.net^
@@ -9391,6 +9392,7 @@
 ||allamericanmadetoys.com^
 ||allanimehentai.com^
 ||allarmate.club^
+||allartand.club^
 ||allaskme.com^
 ||allavailable.me^
 ||allbanners.ru^
@@ -10817,6 +10819,7 @@
 ||are-ter.com^
 ||area51-ts.com^
 ||areadiprova.eu^
+||arearmark.club^
 ||areasins.com^
 ||areasnap.com^
 ||arecio.work^
@@ -11593,7 +11596,6 @@
 ||b-online.de^
 ||b-srvjsr.media.net^
 ||b.1istochnik.ru^
-||b.adbox.lv^
 ||b.aklamio.com^
 ||b.alot.com^
 ||b.aol.com^
@@ -14417,6 +14419,7 @@
 ||bullseye-network.net^
 ||bultenler.klscdn.com^
 ||bumaikr.com^
+||bumampaid.club^
 ||bumblecash.com^
 ||bumerang.cc^
 ||bumerang.hurriyet.com.tr^
@@ -18897,6 +18900,7 @@
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
+||d1aqhv4sn5kxtx.cloudfront.net^
 ||d1ar5xirbydtuc.cloudfront.net^
 ||d1b0fk9ns6n0w9.cloudfront.net^
 ||d1bevsqehy4npt.cloudfront.net^
@@ -25016,6 +25020,7 @@
 ||futsoksu.com^
 ||future-fie-assets.co.uk^
 ||future-hawk-content.co.uk^
+||future-price.co.uk^
 ||futurecard.com^
 ||futurenet.club^
 ||futurenet.com^
@@ -33473,6 +33478,7 @@
 ||leuxq.com^
 ||level1cdn.com^
 ||levelads.de^
+||levelbehavior.com^
 ||levelpay.ru^
 ||levelrate.de^
 ||levenshteinanswer.com^
@@ -48619,6 +48625,7 @@
 ||semasio.net^
 ||sematext.com^
 ||semengineers.com^
+||semi-cod.com^
 ||seminarski-diplomski.co.rs^
 ||semiocast.com^
 ||semiyun.com^
