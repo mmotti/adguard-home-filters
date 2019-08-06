@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 05-08-2019 23:50 BST
-! Count: 62,949
+! Last Modified: 06-08-2019 23:50 BST
+! Count: 62,979
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1439,7 +1439,6 @@
 ||6fbcee81318.com^
 ||6ftlady.com^
 ||6g3am6pr.website^
-||6j4cea2ybg.pl^
 ||6jvt2.top^
 ||6kauqbszb9.com^
 ||6kup12tgxx.com^
@@ -2364,6 +2363,7 @@
 ||accesssearch.click^
 ||accesstrade.co.id^
 ||accesstrade.com.vn^
+||accesstrade.com^
 ||accesstrade.net^
 ||accesstrade.vn^
 ||accessup.goldcows.com^
@@ -4357,6 +4357,7 @@
 ||admicro.vn^
 ||admicro1.vcmedia.vn^
 ||admicro2.vcmedia.vn^
+||admicro6.vcmedia.vn^
 ||admile.ru^
 ||admilk.ru^
 ||admin.digitalacre.com^
@@ -8640,6 +8641,7 @@
 ||affiliate.imperiaonline.org^
 ||affiliate.irotracker.com^
 ||affiliate.juno.co.uk^
+||affiliate.k4.tinhte.vn^
 ||affiliate.key2link.com^
 ||affiliate.kitapyurdu.com^
 ||affiliate.landsend.com^
@@ -10897,7 +10899,6 @@
 ||artnbnbam.com^
 ||artsconsortium.org^
 ||artsdvaguur.com^
-||artstructures.pl^
 ||artucripkzu.com^
 ||arturtrack.com^
 ||aru.index.hu^
@@ -14490,6 +14491,7 @@
 ||butterfly-media.co.uk^
 ||butterideareligious.xyz^
 ||butyadidas.pl^
+||butyasicsgel.pl^
 ||butypremium.pl^
 ||buwobarun.cn^
 ||bux1le001.com^
@@ -14986,7 +14988,6 @@
 ||callousbrake.com^
 ||callrail.com^
 ||callreports.com^
-||callstats.io^
 ||calltrackingmetrics.com^
 ||calltracks.com^
 ||calltrk.com^
@@ -15250,6 +15251,7 @@
 ||cat.onlinepeople.net^
 ||cata.ero-advertising.com^
 ||catalinkcashback.com^
+||catalog.qc.coccoc.com^
 ||catalogizeagvztfrmt.download^
 ||catchvid.info^
 ||categy.co^
@@ -15419,6 +15421,7 @@
 ||cdn-my4.ru^
 ||cdn-my5.ru^
 ||cdn-net.com^
+||cdn-qc.coccoc.com^
 ||cdn-social.janrain.com^
 ||cdn-staging.convertkit.com^
 ||cdn.2app.lk^
@@ -15543,6 +15546,7 @@
 ||cdn.pickyopahs.com^
 ||cdn.pljs.ru^
 ||cdn.psdvault.com^
+||cdn.qc.coccoc.com^
 ||cdn.radiatewheel.info^
 ||cdn.ravenjs.com^
 ||cdn.rooktemplate.com^
@@ -17578,6 +17582,7 @@
 ||context.bestbuy.com^
 ||context.hotline.ua^
 ||context.meta.ua^
+||context.qc.coccoc.com^
 ||contextad.pl^
 ||contextads.net^
 ||contextbar.ru^
@@ -18060,6 +18065,7 @@
 ||cp.intl.match.com^
 ||cp.promoisland.net^
 ||cp.pushwoosh.com^
+||cp.qc.coccoc.com^
 ||cp.surf-town.net^
 ||cpa.ly^
 ||cpabank.com^
@@ -20394,6 +20400,7 @@
 ||dispensablestranger.com^
 ||displacedijnnd.download^
 ||display.digitalriver.com^
+||display.qc.coccoc.com^
 ||display.superbay.net^
 ||displayadserv.adsimilate.com^
 ||displayadsmedia.com^
@@ -21682,6 +21689,7 @@
 ||ecomadserver.com^
 ||ecommstats.com^
 ||ecommstats.s3.amazonaws.com^
+||ecomotto.pl^
 ||econda-monitor.de^
 ||econda.web.de^
 ||econducte.com^
@@ -23281,16 +23289,21 @@
 ||fabrtgzehf.com^
 ||fabryka-nagrod.com^
 ||fabrykaagd.com.pl^
+||faccebook.5v.pl^
 ||face--viewer.blogspot.com^
 ||face-nemzedek.com^
 ||face-vip.ujm.pl^
 ||face2trade.com^
 ||faceapp.eu^
+||facebbook.5v.pl^
 ||faceblum.ru^
 ||facebokznajomi.blogspot.com^
 ||facebook-color.5v.pl^
+||facebook-login.5v.pl^
+||facebook-profile.5v.pl^
 ||facebook-proxy.hi5.com^
 ||facebook-repto1040s2.ahlamountada.com^
+||facebook.5v.pl^
 ||facebook.cm^
 ||facebook.realtorarcf.com^
 ||facebookaplikacje.blogspot.com^
@@ -23315,6 +23328,7 @@
 ||factorcontest.com^
 ||factortg.com^
 ||fadadosexo.com.br^
+||fadeaibgfihegegjadc.ru^
 ||fadedprofit.com^
 ||faeecb0ock.info^
 ||faegbmhey.com^
@@ -23343,6 +23357,15 @@
 ||faktopedia.com.pl^
 ||faktozhe.ru^
 ||faktty.com^
+||fakturo-wnia.cf^
+||fakturo-wnia.ga^
+||fakturo-wnia.gq^
+||fakturo-wnia.ml^
+||fakturownia-pl.cf^
+||fakturownia-pl.ga^
+||fakturownia-pl.gq^
+||fakturownia-pl.ml^
+||fakturownia-pl.tk^
 ||falconsafe.com.sg^
 ||falcoware.com^
 ||faldagehvvbwm.download^
@@ -23926,7 +23949,6 @@
 ||finder.cox.net^
 ||finderlocator.com^
 ||findfavour.com^
-||findgiftcode.com^
 ||finding.hardwareheaven.com^
 ||findit-quick.com^
 ||findlisted.com^
@@ -24434,7 +24456,6 @@
 ||fossilisesgcjrfazlr.download^
 ||foswrohqoadp.com^
 ||fotka10.ml^
-||foto-office.pl^
 ||fotocash.ru^
 ||fotoidea.com^
 ||fotolajt.pl^
@@ -27989,6 +28010,7 @@
 ||hoho.club^
 ||hohosearch.com^
 ||hohrnldconk.com^
+||hokaeshop.com^
 ||hokaybo.com^
 ||hokehntutt.bid^
 ||hola-shopping.com^
@@ -28004,7 +28026,6 @@
 ||holishit.in^
 ||hollandbusinessadvertising.nl^
 ||hollistersklep.com^
-||hollisterskleponline.pl^
 ||hollisterwarszawa.pl^
 ||hollowshake.com^
 ||holm.ru^
@@ -29855,6 +29876,7 @@
 ||infoclub.info^
 ||infocollect.dk^
 ||infogrypa.pl^
+||infoguardru.info^
 ||infolinia-kontakt-telefon.pl^
 ||infolinks.com^
 ||infomir.pw^
@@ -30154,7 +30176,6 @@
 ||intermundomedia.com^
 ||internal.media.net^
 ||internalads.gammae.com^
-||international-free-bank.com^
 ||internationalmarble.com^
 ||internebula.net^
 ||internet-apteka.ru^
@@ -31053,7 +31074,6 @@
 ||jessisjewels.com^
 ||jet.zbp.ru^
 ||jetcounter.ru^
-||jete.pl^
 ||jetlore.com^
 ||jetmultimedia1.audientia.net^
 ||jetpackdigital.com^
@@ -32110,6 +32130,7 @@
 ||kensyii.com^
 ||kenvam.online^
 ||keolqzbmsuykwi.bid^
+||kepler-37b.com^
 ||kepzavar.info^
 ||keqi7dh3df.com^
 ||keqnebfovnhl.com^
@@ -37264,7 +37285,6 @@
 ||mobilewithsms.net^
 ||mobilink.az^
 ||mobilpop.com^
-||mobiluj.eu^
 ||mobiluj.sk^
 ||mobilup.com^
 ||mobilure.com^
@@ -37354,7 +37374,6 @@
 ||mojadedra.pl^
 ||mojadietanamase.pl^
 ||mojapsina.com^
-||moje-iq.pl^
 ||mojekumpele.blogspot.com^
 ||mojepc.net^
 ||mojezakupy.net^
@@ -39666,6 +39685,7 @@
 ||ntosarang.com^
 ||ntoyqqrwrmzr.com^
 ||ntpawkfea.com^
+||ntrb.qc.coccoc.com^
 ||ntsearch.com^
 ||nttdocomo-service.com^
 ||ntv.io^
@@ -43094,6 +43114,7 @@
 ||plarium.com^
 ||plasmatv4free.com^
 ||plasmatvreward.com^
+||plastiquedesign.pl^
 ||platado.com^
 ||platads.com^
 ||platform.communicatorcorp.com^
@@ -43846,6 +43867,7 @@
 ||prctxexizzpp.com^
 ||prcymjchczmbjj.com^
 ||prdirectory.biz^
+||prdplock.pl^
 ||prdrmcwuawjwjl.bid^
 ||pre.footprintpredict.com^
 ||preaf-ad.jp^
@@ -46995,7 +47017,6 @@
 ||ro88qcuy.com^
 ||roagz.us^
 ||roar.com^
-||roaringcash.com^
 ||roarmyng.bid^
 ||roars.com^
 ||roastedvoice.com^
@@ -47632,6 +47653,7 @@
 ||s.motads.com^
 ||s.ndemiccreations.com^
 ||s.net-public.com^
+||s.newsportalssl1.top^
 ||s.o-clk.com^
 ||s.oroll.com^
 ||s.pixsrvcs.com^
@@ -48281,6 +48303,7 @@
 ||searchatomic.com^
 ||searchdims.network^
 ||searchdiscovered.com^
+||searcher.qc.coccoc.com^
 ||searchesinteractive.com^
 ||searchfeast.com^
 ||searchfeed.com^
@@ -50022,6 +50045,7 @@
 ||social1listnews.com^
 ||socialannex.com^
 ||socialbirth.com^
+||socialbump.hekko24.pl^
 ||socialelective.com^
 ||socialhoney.co^
 ||socialize-it.com^
@@ -50163,6 +50187,7 @@
 ||somoreq-track-west-1951866777.us-west-1.elb.amazonaws.com^
 ||sompuserve.com^
 ||somt.honda.com^
+||somuboteso.com^
 ||sonat.space^
 ||sonata.1.p2l.info^
 ||sonatns.sonatrach.dz^
@@ -50873,6 +50898,7 @@
 ||staging.ads.superawesome.tv^
 ||staging.beta.ads.superawesome.tv^
 ||staging.beta.dashboard.superawesome.tv^
+||staging.convertkit.com^
 ||staging.dashboard.superawesome.tv^
 ||staging.demo.appdynamics.com^
 ||staging.pu.msas.media.net^
@@ -52165,6 +52191,7 @@
 ||swfqsfewk.bid^
 ||swfstats.com^
 ||swgvpkwmojcv.com^
+||swietna-pozyczka.pl^
 ||swiezaki.weebly.com^
 ||swiftad.com^
 ||swiftmining.win^
@@ -52356,7 +52383,6 @@
 ||szxnruaeuig.com^
 ||szybka-pozyczka.com^
 ||szybka-wyplata.pl^
-||szybkanaukapro.pl^
 ||szybkapozyczkateraz.pl^
 ||szybki-przeglad.blogspot.com^
 ||szyejlnlvnmy.com^
@@ -53579,6 +53605,7 @@
 ||tipsurf.com^
 ||tiptwfbksobui.com^
 ||tirbxuopf.com^
+||tirqeso.ru^
 ||tisadama.com^
 ||tisagama.com^
 ||tisarama.com^
@@ -53923,6 +53950,7 @@
 ||top-fwz1.mail.ru^
 ||top-games.me^
 ||top-kopi.net^
+||top-oferty.net^
 ||top-rank.pl^
 ||top-ro.ro^
 ||top-shop.ru^
@@ -58024,7 +58052,6 @@
 ||visitortracklog.com^
 ||visitorville.com^
 ||visitorvoice.etracker.com^
-||visitpath.com^
 ||visitping.rossel.be^
 ||visits.lt^
 ||visitstreamer.com^
@@ -58259,6 +58286,7 @@
 ||vologda-info.ru^
 ||voluum.com^
 ||voluum.redirecting.site^
+||voluumtlkrnarketing.com^
 ||voluumtracker.com^
 ||voluumtracker1.com^
 ||voluumtrk.com^
@@ -59284,6 +59312,7 @@
 ||werbenetzwerk.tk^
 ||werbung.meteoxpress.com^
 ||werbung.xfind.de^
+||wernet.pl^
 ||weryfikacjadanych.ml^
 ||weryfikacjadanych.tk^
 ||wesell.co.il^
@@ -59927,6 +59956,7 @@
 ||wpkbwrkejd.com^
 ||wpkcfajkeytrro.com^
 ||wpktjtwsidcz.com^
+||wplogin.5v.pl^
 ||wplqgfpj.com^
 ||wpm.neustar.biz^
 ||wpmimkheartfelt.review^
@@ -62167,8 +62197,8 @@
 ||zakupeo.com^
 ||zakupyagd.net^
 ||zakupymax.net^
-||zakupyrtvagd.pl^
 ||zalo-ads-td.zadn.vn^
+||zalo-ads.zadn.vn^
 ||zalukaj-online.pl^
 ||zalukajfilmy.pl^
 ||zambini.ru^
