@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-08-2019 23:50 BST
-! Count: 62,979
+! Last Modified: 07-08-2019 23:50 BST
+! Count: 62,981
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -10312,6 +10312,7 @@
 ||ape-tagit.timeinc.net^
 ||ape78cn2.com^
 ||apepix.com^
+||apester.com^
 ||apex-ad.com^
 ||apexcdn.com^
 ||apexstats.com^
@@ -13498,7 +13499,6 @@
 ||bitonclick.com^
 ||bitraffic.com^
 ||bitrix.info^
-||bitslot.se^
 ||bitsonthewire.com^
 ||bitspresentdownload.com^
 ||bittads.com^
@@ -17241,7 +17241,6 @@
 ||collector-cdn.github.com^
 ||collector-test.staging.mb-internal.com^
 ||collector.air.tv^
-||collector.apester.com^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
 ||collector.fiverr.com^
@@ -18085,6 +18084,7 @@
 ||cpalock.com^
 ||cpam.pro^
 ||cpamatik.com^
+||cpamedia.info^
 ||cpamnizzierk.com^
 ||cpanuk.com^
 ||cpapointer.com^
@@ -18905,7 +18905,6 @@
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
 ||d1af165twk0zgn.cloudfront.net^
-||d1aqhv4sn5kxtx.cloudfront.net^
 ||d1ar5xirbydtuc.cloudfront.net^
 ||d1b0fk9ns6n0w9.cloudfront.net^
 ||d1bevsqehy4npt.cloudfront.net^
@@ -22834,7 +22833,6 @@
 ||eventoptimize.com^
 ||events.air.tv^
 ||events.antenna.is^
-||events.apester.com^
 ||events.artirix.com^
 ||events.avantisvideo.com^
 ||events.chaordicsystems.com^
@@ -34391,6 +34389,8 @@
 ||logv2.r-oo.jp^
 ||logw312.ati-host.net^
 ||logw349.ati-host.net^
+||logx.mtime.cn^
+||logx.mtime.com^
 ||logxp.ru^
 ||logz.ru^
 ||lohxvwjpvl.com^
@@ -35030,7 +35030,6 @@
 ||mac-osx.message-warning.net^
 ||mac-protection.info^
 ||mac-safety-check.com.ppikkoyfug.db3irlfl8g2nrljgxnlsoqmvb1s.icu^
-||mac-system-alert.com^
 ||mac.com-w.net^
 ||mac.system-alert1.com^
 ||macaddictads.snv.futurenet.nl^
@@ -35851,7 +35850,6 @@
 ||media970.com^
 ||mediaad.org^
 ||mediaadserver.org^
-||mediaalpha.com^
 ||mediaarea.eu^
 ||mediaarmor.com^
 ||mediab.uy^
@@ -48822,6 +48820,7 @@
 ||server2034.ru^
 ||server3.yieldmanaged.com^
 ||server821.com^
+||serverable.com^
 ||serveradobe.co.cc^
 ||serverads.net^
 ||serverbest.xyz^
@@ -48908,6 +48907,7 @@
 ||sevendaystart.com^
 ||sevenstars7.com^
 ||sevnhcdshops.review^
+||sevootie.com^
 ||sex-and-flirt.com^
 ||sex-finger.com^
 ||sex-haus.de^
@@ -49755,6 +49755,7 @@
 ||smart-ip.net^
 ||smart-m-system.com^
 ||smart-scripts.com^
+||smart-tds.info^
 ||smart.allocine.fr^
 ||smart.besonders.ru^
 ||smart.brvaffs.com^
@@ -52701,6 +52702,7 @@
 ||targad.de^
 ||targaubs.com^
 ||target-talent.com^
+||target.aws.amazon.com^
 ||target.cm^
 ||target.fark.com^
 ||target.mirtesen.ru^
