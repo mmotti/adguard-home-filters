@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 08-08-2019 23:50 BST
-! Count: 62,971
+! Last Modified: 09-08-2019 23:50 BST
+! Count: 62,982
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -9809,6 +9809,7 @@
 ||analytics.disneyinternational.com^
 ||analytics.dol.gr^
 ||analytics.dvidshub.net^
+||analytics.easyvideo.vn^
 ||analytics.ecosia.org^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
@@ -14412,6 +14413,7 @@
 ||bulkclicks.com^
 ||bullads.net^
 ||bulletads.com^
+||bulletprofit.com^
 ||bulletproofserving.com^
 ||bullseye-media.net^
 ||bullseye-network.com^
@@ -16375,6 +16377,7 @@
 ||cleverads.vn^
 ||clevergirlscollective.com^
 ||cleveritics.com^
+||clevernet.vn^
 ||clevernt.com^
 ||clevi.com^
 ||clevv.com^
@@ -23921,7 +23924,6 @@
 ||financenews.pw^
 ||financial-advice-books.com^
 ||financial.org^
-||financialprofileorchestration.api.intuit.com^
 ||financialprovider-logos.platform.intuit.com^
 ||finanse-payu.pl^
 ||finansedladziecka.pl^
@@ -34192,6 +34194,7 @@
 ||log.aimtell.com^
 ||log.aliyuncs.com^
 ||log.amitshah.net^
+||log.anninhthudo.vn^
 ||log.api.zaloapp.com^
 ||log.apk.v-mate.mobi^
 ||log.artipbox.net^
@@ -35290,6 +35293,7 @@
 ||mangler8.generals.ea.com^
 ||mangler9.generals.ea.com^
 ||mangoads.net^
+||mangoads.vn^
 ||mangoforex.com^
 ||mannela.info^
 ||manorparty.com^
@@ -36116,6 +36120,7 @@
 ||mepchnbjsrik.com^
 ||mepirtedic.com^
 ||mepra.blautechnology.cl^
+||mepuzz.com^
 ||meqxh.com^
 ||meraad2.blogspot.com^
 ||mercadoclics.com^
@@ -36636,6 +36641,7 @@
 ||micro-win.com^
 ||microad.jp^
 ||microad.net^
+||microad.vn^
 ||microadinc.com^
 ||microcounter.de^
 ||microreporting.metrofrance.com^
@@ -46018,7 +46024,6 @@
 ||rdzxpvbveezdkcyustcomuhczsbvteccejkdkfepouuhxpxtmy.com^
 ||re-directme.com^
 ||re.rutan.org^
-||reach-api.beachfrontreach.com^
 ||reachandrich.antevenio.com^
 ||reacherinst.com^
 ||reachforce.com^
@@ -50975,6 +50980,7 @@
 ||stat.cliche.se^
 ||stat.clichehosting.de^
 ||stat.clickfrog.ru^
+||stat.cludo.com^
 ||stat.cncenter.cz^
 ||stat.dealtime.com^
 ||stat.delo.ua^
@@ -55067,6 +55073,7 @@
 ||tracking.unrealengine.com^
 ||tracking.ustream.tv^
 ||tracking.vacationsmadeeasy.com^
+||tracking.vht.com.vn^
 ||tracking.vid4u.org^
 ||tracking.viewster.com^
 ||tracking.vitringez.com^
@@ -58292,6 +58299,8 @@
 ||vomitgirl.org^
 ||vongomedia.ru^
 ||voob.ru^
+||voodoo-ads.io^
+||voodoo-analytics.io^
 ||voodoo.com^
 ||voodooalerts.com^
 ||voodooparking.com^
@@ -58459,6 +58468,7 @@
 ||vtqdavdjsymt.com^
 ||vtqmlzprsunm.com^
 ||vtrack.larvtrk.com^
+||vtrack.vht.com.vn^
 ||vtrack.wdavtrk.com^
 ||vtracker.net^
 ||vtracking.in.com^
@@ -61796,6 +61806,7 @@
 ||youmetrix.co.uk^
 ||youmi.net^
 ||youndoo.com^
+||younetmedia.com^
 ||younglingsbcjzvozva.download^
 ||youngrul.pro^
 ||youporn.sexy^
