@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 09-08-2019 23:50 BST
-! Count: 62,982
+! Last Modified: 10-08-2019 23:50 BST
+! Count: 62,983
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -258,7 +258,6 @@
 ||10cd.ru^
 ||10clicks.com^
 ||10fbb07a4b0.se^
-||10gb.6ka.info^
 ||10pg.scl5fyd.info^
 ||10pipsaffiliates.com^
 ||10root25.website^
@@ -4355,7 +4354,13 @@
 ||admicro.vn^
 ||admicro1.vcmedia.vn^
 ||admicro2.vcmedia.vn^
+||admicro3.vcmedia.vn^
+||admicro4.vcmedia.vn^
+||admicro5.vcmedia.vn^
 ||admicro6.vcmedia.vn^
+||admicro7.vcmedia.vn^
+||admicro8.vcmedia.vn^
+||admicro9.vcmedia.vn^
 ||admile.ru^
 ||admilk.ru^
 ||admin.digitalacre.com^
@@ -9965,7 +9970,6 @@
 ||analytics.spotta.nl^
 ||analytics.springboardvideo.com^
 ||analytics.ssbbartgroup.com^
-||analytics.staticiv.com^
 ||analytics.stg.online.xl.pt^
 ||analytics.stg.springboardvideo.com^
 ||analytics.strangeloopnetworks.com^
@@ -10591,7 +10595,6 @@
 ||apple.com-scan-virus-detected.com^
 ||apple.com-scan.live^
 ||apple.com-security-desktop-antimalware-support.download^
-||apple.com-shield-device.live^
 ||apple.com-shield.live^
 ||apple.com-speed-macbook.live^
 ||apple.com-speed-macos.live^
@@ -12666,6 +12669,7 @@
 ||barclaysghana.org^
 ||bardogjvsa.com^
 ||bardzomedia.com^
+||baremetrics.com^
 ||bargainbeautybuys.com^
 ||bargainingayzgdp.download^
 ||bargainpricedude.com^
@@ -12959,6 +12963,7 @@
 ||beead.co.uk^
 ||beead.net^
 ||beeftransmission.com^
+||beeketing.com^
 ||beelzgkdjr.com^
 ||beemray.com^
 ||beemrdwn.com^
@@ -16020,7 +16025,6 @@
 ||chiefcurrent.com^
 ||chikayo-dsp.shinobi.jp^
 ||chikhanos.info^
-||childcaredaycare.ca^
 ||chilecapacita.cl^
 ||chiliadv.com^
 ||chillinessfjnvbh.download^
@@ -16088,6 +16092,7 @@
 ||chuckfaganco.com^
 ||chuckledeliveryhosting.com^
 ||chucklefunhead.com^
+||chucktaylor.pl^
 ||chukalapopi.com^
 ||chukalorqa.com^
 ||chukka.pl^
@@ -20706,6 +20711,7 @@
 ||dofeb.frenchgerlemanelectric.com^
 ||dofinansowania-jezykowe.pl^
 ||dofolo.ru^
+||dog1.verystream.com^
 ||doga.cm^
 ||dogcustom-works.com^
 ||doggroomingbycaitlin.com^
@@ -21464,6 +21470,7 @@
 ||e2.molbuk.ua^
 ||e2618abc9a1.com^
 ||e2e.mashable.com^
+||e2e.pcmag.com^
 ||e2ertt.com^
 ||e2yth.tv^
 ||e32e0c3c972d179cd1d0-1847ac4c91d55b307d162b6d5ad07fe3.r71.cf2.rackcdn.com^
@@ -22868,6 +22875,7 @@
 ||events.walla.co.il^
 ||events.yourcx.io^
 ||eventtracker.elitedaily.com^
+||eventtracking.hubapi.com^
 ||eventwisparwil.ru^
 ||evepcynlxks.com^
 ||everestclick.com^
@@ -23364,8 +23372,6 @@
 ||fakturownia-pl.cf^
 ||fakturownia-pl.ga^
 ||fakturownia-pl.gq^
-||fakturownia-pl.ml^
-||fakturownia-pl.tk^
 ||falconsafe.com.sg^
 ||falcoware.com^
 ||faldagehvvbwm.download^
@@ -27365,7 +27371,6 @@
 ||hcyqwhquqjosn.com^
 ||hcyxksgsxnzb.com^
 ||hd-plugin.com^
-||hd.serial.h2g.pl^
 ||hd100546b.com^
 ||hd149026b.com^
 ||hd3pi8cv.com^
@@ -30529,7 +30534,6 @@
 ||is.base.de^
 ||is.sabah.com.tr^
 ||is2.websearch.com^
-||isamuxpompapsc50.6ka.info^
 ||isapi.solutions^
 ||isbzjaedbdjr.com^
 ||iscaebizkzyd.com^
@@ -31951,7 +31955,6 @@
 ||karaokepesni.ru^
 ||karasutanu.com^
 ||karcvrpwayal.com^
-||karela-sklep.eu^
 ||kargo.com^
 ||karisimbi.net^
 ||karma.mdpcdn.com^
@@ -32111,6 +32114,7 @@
 ||kein-brd-personal.de^
 ||keitush.ru^
 ||kekuko.com^
+||kelerisriders.pl^
 ||keller-gmbh.de^
 ||kellicardoso.com^
 ||kellnerengenharia.com.br^
@@ -33019,7 +33023,6 @@
 ||l.popin.cc^
 ||l.qq.com^
 ||l.wix.com^
-||l00tfiilues.lepfj.site^
 ||l0b.ru^
 ||l1.britannica.com^
 ||l2.io^
@@ -33392,7 +33395,6 @@
 ||leapfind.com^
 ||leaplunchroom.com^
 ||leaptrade.com^
-||learn2upgrade.find4bettervideoing.info^
 ||learning-offer.com^
 ||leashac.com^
 ||leastsuuhyh.download^
@@ -33511,6 +33513,7 @@
 ||lexcyehlniruu.bid^
 ||lexiconsahzdcver.download^
 ||lexinget.info^
+||lexip.4pcdn.de^
 ||lexip.4players.de^
 ||lexity.com^
 ||lexozfldkklgvc.com^
@@ -34807,7 +34810,6 @@
 ||lwenrqtarmdx.com^
 ||lwepsxhcm.bid^
 ||lwequndmgc.com^
-||lwfjd.today^
 ||lwfvrhlqzjseyu.com^
 ||lwjzsigenxsl.com^
 ||lwken.com^
@@ -35034,7 +35036,6 @@
 ||macarier.review^
 ||macaxpower.com.br^
 ||maccleaner.space^
-||maccleaner3.r.worldssl.net^
 ||maccleanersecurity.com^
 ||macdamaged.tech^
 ||macfillerck.com^
@@ -35451,7 +35452,6 @@
 ||massetersspaeu.download^
 ||massmerchandise.com^
 ||masterads.org^
-||mastercoach.com.au^
 ||mastercount.net^
 ||masteriklan.net^
 ||mastermind.com^
@@ -35743,7 +35743,6 @@
 ||mecounxmawn.bid^
 ||mecsjjkomehyv.com^
 ||mecz.ujm.pl^
-||mecze24.6ka.info^
 ||med-rul.ru^
 ||medads.ru^
 ||medi-8.net^
@@ -35930,6 +35929,7 @@
 ||mediarich.us^
 ||mediarithmics.com^
 ||mediarotate.com^
+||mediartvagd.in.net^
 ||mediasam.net^
 ||mediascale.de^
 ||mediaseeding.com^
@@ -36706,6 +36706,7 @@
 ||milleniumpapelaria.com.br^
 ||millennialmedia.com^
 ||milleonid.com^
+||milletpolska.pl^
 ||milliardytv.ru^
 ||million.francite.com^
 ||millioncash.ru^
@@ -37110,6 +37111,7 @@
 ||mms.cnn.com^
 ||mms.deadspin.com^
 ||mms.gizmodo.com^
+||mms.graziadaily.co.uk^
 ||mms.gulflive.com^
 ||mms.jalopnik.com^
 ||mms.jezebel.com^
@@ -37334,7 +37336,6 @@
 ||mochibot.com^
 ||mocka.frost-electric-supply.com^
 ||modastro.ee^
-||model-agd.pl^
 ||modelatos.com^
 ||modelegating.com^
 ||modelsgonebad.com^
@@ -37870,6 +37871,7 @@
 ||mueller-holz-bau.com^
 ||mueqzsdabscd.com^
 ||mueyqvzw.com^
+||muflena.pl^
 ||muhexvakuawzo.com^
 ||muhtoni.ru^
 ||mujap.com^
@@ -37920,7 +37922,6 @@
 ||musecdn.businesscatalyst.com^
 ||music-desktop.com^
 ||music.getyesappz1.com^
-||music.jbl-solo.com^
 ||music.myappzcenter.com^
 ||music102.awardspace.com^
 ||music611.com^
@@ -41497,6 +41498,8 @@
 ||outbrain.org^
 ||outerinfo.com^
 ||outerpages.com^
+||outhulem.net^
+||outletowo.com^
 ||outlets-online.pl^
 ||outletto24.com^
 ||outlinearray.com^
@@ -42480,7 +42483,6 @@
 ||petrenko.biz^
 ||pets.finaltips.com^
 ||petsarlaaafru.com^
-||petshooop.com^
 ||petsmovies.com^
 ||pewdewgeehc.com^
 ||pewgnvqixnhvij.com^
@@ -42651,7 +42653,6 @@
 ||phormstandards.com^
 ||photo-ads.co.uk^
 ||photographpan.com^
-||photook.vxm.pl^
 ||photorank.me^
 ||photos-bazaar-use1.nexus.bazaarvoice.com^
 ||photos-us.bazaarvoice.com^
@@ -42907,6 +42908,7 @@
 ||pixel-use201-lighttpd-elb-1612913623.us-east-2.elb.amazonaws.com^
 ||pixel-xpanama.netdna-ssl.com^
 ||pixel.1und1.de^
+||pixel.4pcdn.de^
 ||pixel.4players.de^
 ||pixel.ad^
 ||pixel.admobclick.com^
@@ -45913,7 +45915,6 @@
 ||rbfxurlfctsz.com^
 ||rbgrlqsepeds.com^
 ||rbhhjxsomzq.com^
-||rbhth.com^
 ||rbhwkfnxhqnri.com^
 ||rbkshort.info^
 ||rbl.ms^
@@ -49739,6 +49740,7 @@
 ||smadex.com^
 ||smallbestappleliteflash.services^
 ||smallseotools.com^
+||smallshop.pl^
 ||smapohsnoww.com^
 ||smart-ad.sakura.ne.jp^
 ||smart-c.jp^
@@ -51200,6 +51202,7 @@
 ||staticadm.leju.sina.com.cn^
 ||staticads.btopenworld.com^
 ||staticb.mydirtyhobby.com^
+||staticiv.com^
 ||staticmedia.org^
 ||staticrr.paleokits.net^
 ||staticrr.sslsecure1.com^
@@ -56751,7 +56754,6 @@
 ||updateauto.preparevideosafesystem4unow.space^
 ||updated.com^
 ||updatehere.ultimatesetnewfreeallsoftupgradesystems.pw^
-||updatenewversion.thewebsitetofindplayersbest.info^
 ||updateplayer-flash.icu^
 ||updatesoftwaresend.com^
 ||updatestar.com^
@@ -60440,7 +60442,6 @@
 ||wyjazd24.pl^
 ||wyjdunwcqnetus.com^
 ||wyjyuahcunm.bid^
-||wykreslanka.com.pl^
 ||wykskkpplgfi.com^
 ||wyksoovox.bid^
 ||wyleczpc.pl^
