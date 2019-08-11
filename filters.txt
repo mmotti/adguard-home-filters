@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-08-2019 23:50 BST
-! Count: 62,983
+! Last Modified: 11-08-2019 23:50 BST
+! Count: 62,998
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -9981,12 +9981,14 @@
 ||analytics.tbs.com^
 ||analytics.teespring.com^
 ||analytics.thebump.com^
+||analytics.thegedsection.com^
 ||analytics.theknot.com^
 ||analytics.themarketiq.com^
 ||analytics.theminersunion.com^
 ||analytics.thenest.com^
 ||analytics.thenewslens.com^
 ||analytics.thetab.com^
+||analytics.thethao247.org^
 ||analytics.thevideo.me^
 ||analytics.thingx.tv^
 ||analytics.tio.ch^
@@ -22286,6 +22288,7 @@
 ||enlvs.com^
 ||enmaer.com^
 ||enmbg.com^
+||enmisindingat.info^
 ||ennwwuxijwjgdm.bid^
 ||enokjulejktukh.com^
 ||enoratraffic.com^
@@ -23064,6 +23067,7 @@
 ||exo.kiev.ua^
 ||exoclick.com^
 ||exoclickz.com^
+||exoclsodaqs.com^
 ||exodusesnkkvycngt.download^
 ||exogamichkstnksb.download^
 ||exogripper.com^
@@ -23350,6 +23354,7 @@
 ||fahowtxv.bid^
 ||fahrrad.bikesshop.de^
 ||faibl.org^
+||faidoud.com^
 ||failmobile.net^
 ||fairadsnetwork.com^
 ||fairfaxmedia.sharedcount.com^
@@ -34228,6 +34233,7 @@
 ||log.idg.no^
 ||log.idnes.cz^
 ||log.incredibar-search.com^
+||log.infonet.vn^
 ||log.invodo.com^
 ||log.itworld.com^
 ||log.iyunmai.com^
@@ -34275,6 +34281,7 @@
 ||log.us.mybogames.com^
 ||log.v.iask.com^
 ||log.vdn.apps.cntv.cn^
+||log.vietnamdaily.net.vn^
 ||log.vietnamplus.vn^
 ||log.viva.co.id^
 ||log.vov.vn^
@@ -38956,6 +38963,7 @@
 ||newsclicker.com^
 ||newscurve.com^
 ||newseek.org^
+||newsepads.com^
 ||newsexbook.com^
 ||newsfeed.net.ua^
 ||newsfile.club^
@@ -42140,6 +42148,7 @@
 ||patoris.xyz^
 ||patrickhickey.eu^
 ||patriot.cs.pp.cn^
+||patrizio.pro^
 ||patterntrader.biz^
 ||patuarioahzaen.bid^
 ||paulinajanowicz.pl^
@@ -43463,6 +43472,7 @@
 ||pool.ads.netlog.com^
 ||pool.hws.ru^
 ||pool5.info^
+||poolgmsd.com^
 ||poolmining.eu^
 ||poolmining.net^
 ||poolnoodle.tech.^
@@ -45355,6 +45365,7 @@
 ||qqdnhrkjtmv.bid^
 ||qqfrciwnc.bid^
 ||qqgtevtjnpwd.com^
+||qqjar.ru^
 ||qqjmbj.com^
 ||qqkxrlzaaul.com^
 ||qqlogo.qq.com^
@@ -45362,6 +45373,7 @@
 ||qqoncxkrkc.bid^
 ||qqrkutrsg.com^
 ||qqrwncvoig.bid^
+||qqshoe.ru^
 ||qqtqicbvrwg.com^
 ||qquncjiru.bid^
 ||qquwjmmgtmle.com^
@@ -46704,6 +46716,7 @@
 ||rezacze.pl^
 ||rezbzvrbemeb.bid^
 ||rezfubngrzdet.bid^
+||rezhiv.ru^
 ||rezilopompa.com^
 ||reztksclx.com^
 ||reztrack.com^
@@ -51199,6 +51212,7 @@
 ||static.xpct.de^
 ||static.youappi.com^
 ||static2.amateurpin.net^
+||staticad.thethao247.vn^
 ||staticadm.leju.sina.com.cn^
 ||staticads.btopenworld.com^
 ||staticb.mydirtyhobby.com^
@@ -53456,6 +53470,7 @@
 ||thogethoffic.co^
 ||thomized.co^
 ||thongke.24h.com.vn^
+||thongke.baotintuc.vn^
 ||thor-cpa.com^
 ||thor-media.ru^
 ||thor-z.com^
