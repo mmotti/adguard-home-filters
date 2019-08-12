@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 11-08-2019 23:50 BST
-! Count: 62,998
+! Last Modified: 12-08-2019 23:50 BST
+! Count: 63,033
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -8762,6 +8762,7 @@
 ||affiliates.playboy.com^
 ||affiliates.playboyplus.com^
 ||affiliates.powweb.com^
+||affiliates.purevpn.com^
 ||affiliates.quintura.com^
 ||affiliates.reunion.com^
 ||affiliates.rozetka.com.ua^
@@ -12921,6 +12922,7 @@
 ||beacons.extremereach.io^
 ||beacons.helium.com^
 ||beacons.mediamelon.com^
+||beacyoryjkbhqb.com^
 ||bead-ad.com^
 ||beadngmke.download^
 ||beads.sx.atl.publicus.com^
@@ -13455,6 +13457,7 @@
 ||binullxzwnsqws.com^
 ||bio-chemik24.pl^
 ||bionicclick.com^
+||biosda.com^
 ||biotalerz.pl^
 ||bioxtubes.com^
 ||bip-bip-blip.com^
@@ -13836,6 +13839,7 @@
 ||bniarapemvbd.com^
 ||bnjhbghjznq.com^
 ||bnjrtdsafo.com^
+||bnjuhrbpdjtjul.com^
 ||bnkgacehxxmx.com^
 ||bnmla.com^
 ||bnmq.com^
@@ -14628,6 +14632,7 @@
 ||bvnmmdelarn.com^
 ||bvobtmbziccr.com^
 ||bvqfuryhas.bid^
+||bvrdzbzwa.com^
 ||bvreosoejjt.bid^
 ||bvrkzhtxlgono.com^
 ||bvuficdch.com^
@@ -14722,6 +14727,7 @@
 ||byzoo.org^
 ||bzbaizntfrhl.com^
 ||bzclk.baidu.com^
+||bzctqprddwhj.com^
 ||bzeidqugwde.bid^
 ||bzeitvxguf.com^
 ||bzfguipyjops.com^
@@ -17553,7 +17559,6 @@
 ||content.liveuniverse.com^
 ||content.mkt922.com^
 ||content.mkt931.com^
-||content.mql5.com^
 ||content.pop6.com^
 ||content.printdirect.ru^
 ||content.promoisland.net^
@@ -18213,6 +18218,7 @@
 ||cqsmswwidrn.bid^
 ||cquotient.com^
 ||cqvbvpxnqqcfwl.bid^
+||cqvkwpulpwfudg.com^
 ||cqwqxapujf.com^
 ||cqyfjodshwuici.com^
 ||cqzqdoqsgxyf.com^
@@ -18391,6 +18397,7 @@
 ||crpmohfici.com^
 ||crpoy.com^
 ||crptentry.com^
+||crptgate.com^
 ||crqnosmxstdfnp.bid^
 ||crrgnnqidpf.com^
 ||crsspxl.com^
@@ -18670,6 +18677,7 @@
 ||cvnmmeux.com^
 ||cvofpjhscrj.com^
 ||cvqgnkeqme.com^
+||cvsuqfsul.com^
 ||cvtr.io^
 ||cvupqfim.com^
 ||cvwipkjyu.bid^
@@ -22234,6 +22242,7 @@
 ||engage-cdn.schibsted.media^
 ||engage.everyone.net^
 ||engage.morespeck.com^
+||engage.physicstoday.org^
 ||engage.speedera.net^
 ||engage2.advanstar.com^
 ||engagebdr.com^
@@ -23814,6 +23823,7 @@
 ||fhylnqzxwsbo.com^
 ||fhzgapsfnlsvx.bid^
 ||fi.advertising.com^
+||fiaehdnnx.com^
 ||fiafii.org^
 ||fialet.com^
 ||fiarnvygamgpqf.com^
@@ -24570,6 +24580,7 @@
 ||fraudmetrix.cn^
 ||frbhjvazapgo.com^
 ||frcinpdv.com^
+||frclyody.com^
 ||frczfzikturw.com^
 ||frcznmfu.com^
 ||frddujheozns.com^
@@ -25090,7 +25101,9 @@
 ||fvwcwbdrprdt.com^
 ||fvwfkfzhha.com^
 ||fvwlzsm3tt921krvoq6.pro^
+||fvwvhvsvqgyhs.com^
 ||fvzompquocgdsu.com^
+||fvzrxepvqibn.com^
 ||fvzusqdf.com^
 ||fw.qq.com^
 ||fw433.npic.ac.cn^
@@ -25160,6 +25173,7 @@
 ||fyber.com^
 ||fyblldnlr.com^
 ||fybrwdikdsvzt.com^
+||fygpdajgtsqp.com^
 ||fyifssdoq.bid^
 ||fynprrom.com^
 ||fypbjnwbuz.bid^
@@ -29353,6 +29367,7 @@
 ||ilxwlsnzhzukj.com^
 ||ilyonanalytics.herokuapp.com^
 ||ilysa.ru^
+||ilzjjdujrgaa.com^
 ||ilzwenpgf.com^
 ||im-apps.net^
 ||im.52441.com^
@@ -31796,6 +31811,7 @@
 ||jwwlyiicjkuh.com^
 ||jwwotfckxcyv.bid^
 ||jwwyuxjv.com^
+||jwxdrgscszvxlu.com^
 ||jwzegfmsgyba.com^
 ||jwzuohydf.com^
 ||jxanmrdurjhw.com^
@@ -31991,6 +32007,7 @@
 ||kaviar-dreams.be.tc^
 ||kavijaseuranta.fi^
 ||kavkazporno.com^
+||kawmxbphaj.com^
 ||kaxsdc.com^
 ||kayakingtrips.info^
 ||kayfdraimewk.com^
@@ -33271,6 +33288,7 @@
 ||lckpubqq.com^
 ||lckzoepctj.com^
 ||lcl2adserver.com^
+||lcmausjvnc.com^
 ||lcmkcvisyynkw.com^
 ||lcmwchhybzik.bid^
 ||lcnvxuipvq.bid^
@@ -33893,6 +33911,7 @@
 ||linono.ru^
 ||linuxpark.adtech.fr^
 ||linuxpark.adtech.us^
+||liocwxpkakrf.com^
 ||liod1ours.com^
 ||lionsads.com^
 ||lionstracking.com^
@@ -36905,6 +36924,7 @@
 ||mjckfsgogzcd.com^
 ||mjgxsidsixes.review^
 ||mjjbag78.com^
+||mjkvwpabdce.com^
 ||mjlkhnizufhmrt.bid^
 ||mjquyspsrgybs.com^
 ||mjujcjfrgslf.com^
@@ -37691,6 +37711,7 @@
 ||mqgvsxqc.com^
 ||mqhjvfeiiucga.com^
 ||mqjfzzgcrupfh.com^
+||mql5.com^
 ||mqlkcicnrgpntw.bid^
 ||mqmbbiadhb.bid^
 ||mqmh.uihdlx.xyz^
@@ -40529,6 +40550,7 @@
 ||ogyhsyuhczvjg.com^
 ||ogzivkwjhrs.com^
 ||oh.5.p2l.info^
+||ohdoxowrbkyd.com^
 ||ohecnqpldvuw.com^
 ||ohgipscavenging.review^
 ||ohiomm.com^
@@ -43060,6 +43082,7 @@
 ||pkoyiqjjxhsy.com^
 ||pkpojhc.com^
 ||pkqbgjuinhgpizxifssrtqsyxnzjxwozacnxsrxnvkrokysnhb.com^
+||pkqfuffahcdbm.com^
 ||pkrgwlwhhsie.com^
 ||pktgargbhjmo.com^
 ||pkucwwgcnuxzo.bid^
@@ -44471,6 +44494,7 @@
 ||psoaptou.net^
 ||psonstrentie.info^
 ||psoomeeg.com^
+||psoonsod.com^
 ||psooz.tourstogo.us^
 ||psorias.atspace.com^
 ||psrbrytujuxv.com^
@@ -44938,6 +44962,7 @@
 ||pyksf.com^
 ||pyllxjfkjhpjbq.com^
 ||pymx5.com^
+||pypkrvtepsha.com^
 ||pypozeqi.com^
 ||pyqnmtgtsrouleaux.review^
 ||pyqwtxicjodcij.com^
@@ -48626,6 +48651,7 @@
 ||selective-business.com^
 ||selectivesummer.com^
 ||selectornews.com^
+||selectroduced.com^
 ||self-destructing-email.com^
 ||self-destructing.com^
 ||self-destructingemail.com^
@@ -48740,6 +48766,7 @@
 ||sepyw.top^
 ||serating.ru^
 ||serbapromo.com^
+||serconmp.com^
 ||serendipitygalenite.club^
 ||serenky.ru^
 ||sergey-mavrodi-mmm.net^
@@ -49018,6 +49045,7 @@
 ||sgphctileh-a.akamaihd.net^
 ||sgqcvfjvr.onet.pl^
 ||sgqmhpqrstwzwd.com^
+||sgqqhydoovcd.com^
 ||sgr1.com^
 ||sgrreqyxvigwuh.com^
 ||sgs.us.com^
@@ -49128,6 +49156,7 @@
 ||shitpissfuck.com^
 ||shivafurnishings.com^
 ||shiveringsail.com^
+||shjmjmds.com^
 ||shjuivapg.bid^
 ||shkfrsif.com^
 ||shldethxhl.com^
@@ -49244,6 +49273,7 @@
 ||siads.sv.publicus.com^
 ||siaiscphvghttd.com^
 ||siamzone.com^
+||sibatnsryjpcq.com^
 ||sibulla.com^
 ||sibylipmxs.download^
 ||siccash.com^
@@ -50946,6 +50976,7 @@
 ||stargamesaffiliate.com^
 ||starlayer.com^
 ||starlife.eu^
+||starling.crowdriff.com^
 ||starlix.ql.st^
 ||starsads.com^
 ||starshipsanctuary.pl^
@@ -51898,7 +51929,6 @@
 ||sub2tech.com^
 ||subad-server.com^
 ||subchanterpjiyqc.download^
-||subdo.tumejortorrent.com^
 ||sube.puwangkj.com^
 ||subeditorsoqltcxf.download^
 ||subemania.com^
@@ -60012,6 +60042,7 @@
 ||wqpyqirgzfqsc.com^
 ||wqrwopgkkohk.com^
 ||wqtsvqzthaoq.com^
+||wqvfhbwr.com^
 ||wqxccfoswbwo.com^
 ||wqypgiakfbxb.com^
 ||wqzaloayckal.com^
@@ -60702,6 +60733,7 @@
 ||xcukrfpchsxn.com^
 ||xcvgdf.party^
 ||xcvlescqkwan.com^
+||xcvtpwxz.com^
 ||xcwmyyglayg.com^
 ||xcwnwrgvwg.com^
 ||xcwqzbcpberyp.com^
@@ -61082,6 +61114,7 @@
 ||xref.io^
 ||xrevtrk.com^
 ||xrexjmudy.com^
+||xrfjymmysdr.com^
 ||xrgqermbslvg.com^
 ||xrgrymutlq.com^
 ||xrivpngzagpy.com^
@@ -62124,6 +62157,7 @@
 ||yxsyvsqrkbdqym.com^
 ||yxtdupqc.bid^
 ||yxtwx.cn^
+||yxvuvzrz.com^
 ||yxvxjtupwlee.com^
 ||yxwdppixvzxau.bid^
 ||yxwnopnfgctpr.com^
@@ -62440,6 +62474,7 @@
 ||zevents.com^
 ||zevszinklxyf.com^
 ||zewkj.com^
+||zexygpxlamac.com^
 ||zeyiihbqbswtn.bid^
 ||zezowfisdfyn.com^
 ||zf1.quebec-bin.com^
