@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 22-08-2019 23:50 BST
-! Count: 63,300
+! Last Modified: 23-08-2019 23:50 BST
+! Count: 63,320
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2018,6 +2018,7 @@
 ||a46b257bc29b.com^
 ||a48.info^
 ||a48aad1dc4085376c.com^
+||a4b-tracking.com^
 ||a4dtracker.com^
 ||a4dtrk.com^
 ||a4g.com^
@@ -9888,6 +9889,9 @@
 ||analytics.livestream.com^
 ||analytics.lk.api.ditto.com^
 ||analytics.loop-cloud.de^
+||analytics.lucidchart.com^
+||analytics.lucidchart.eu^
+||analytics.lucidpress.com^
 ||analytics.mail-corp.com^
 ||analytics.mailmunch.co^
 ||analytics.mecloud.vn^
@@ -9937,6 +9941,8 @@
 ||analytics.popsci.com^
 ||analytics.posttv.com^
 ||analytics.praetor.im^
+||analytics.preprodchart.com^
+||analytics.preprodpress.com^
 ||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
 ||analytics.proxer.me^
@@ -19047,6 +19053,7 @@
 ||d1uwd25yvxu96k.cloudfront.net^
 ||d1uy7uzra011au.cloudfront.net^
 ||d1v6js7bjzmhoa.cloudfront.net^
+||d1v99qnc7usc0g.cloudfront.net^
 ||d1v9u0bgi1uimx.cloudfront.net^
 ||d1vbm0eveofcle.cloudfront.net^
 ||d1vh0xkmncek4z.cloudfront.net^
@@ -21314,6 +21321,7 @@
 ||dvhznawcuacblo.com^
 ||dviavwhykcdp.com^
 ||dviixeyykyqjv.cloudfront.net^
+||dvjhdodvcu.com^
 ||dvlhwokr.bid^
 ||dvnafl0qtqz9k.cloudfront.net^
 ||dvokgydenwaksi.com^
@@ -23252,6 +23260,7 @@
 ||eysmaa.pw^
 ||eytoshab.com^
 ||eytqtjpjnmeas.com^
+||eyvcjtoiwbrt.com^
 ||eywirvfupvo.com^
 ||ez-zsir.net^
 ||ezadserver.net^
@@ -24176,6 +24185,7 @@
 ||fkphqtgqrfixl.com^
 ||fkref.com^
 ||fkrgfktdvta.com^
+||fkrisjefbx.com^
 ||fkrrvhoierty.com^
 ||fktrlckpmsxx.com^
 ||fkvjntfj.com^
@@ -27043,6 +27053,7 @@
 ||gubdadtxwqow.com^
 ||gubisowidb.com^
 ||guccimenjpsale.com^
+||guce.huffpost.com^
 ||guckawoh.net^
 ||gudangbanner.com^
 ||gudlhvxz.com^
@@ -34319,6 +34330,7 @@
 ||lockview.cn^
 ||locotrack.net^
 ||lodnare.ru^
+||lodqycbq.com^
 ||loestrin.1.p2l.info^
 ||lofipgeld.bid^
 ||loft2126.dedicatedpanel.com^
@@ -38107,6 +38119,7 @@
 ||mv0129.stream^
 ||mvakbserenates.review^
 ||mvav.com^
+||mvbemeggnodty.com^
 ||mvdbdtwicgw.bid^
 ||mvddovmyeh.bid^
 ||mvdnsrgolwgru.com^
@@ -38434,6 +38447,7 @@
 ||mysite.irkdsu.ru^
 ||mysitetraffic.net^
 ||mysmallcock.com^
+||mysmokingmistress.com^
 ||mysocialpixel.com^
 ||mysoftbank-jp.com^
 ||mystat-in.net^
@@ -45529,6 +45543,7 @@
 ||qpeczlqvv.com^
 ||qpernrqxjfto.com^
 ||qpfumxmsxvoars.review^
+||qpfzpcsknvt.com^
 ||qpganepbkw.com^
 ||qpianhkxxuc.com^
 ||qpiyjprptazz.com^
@@ -51154,6 +51169,7 @@
 ||stan.xing.com^
 ||stan1.adultmoviezone.com^
 ||standadv.com^
+||standardjs.com^
 ||standardsandpraiserepurpose.com^
 ||standartads.com^
 ||standingnest.com^
@@ -53289,7 +53305,6 @@
 ||tektbzadrceqje.com^
 ||tel-tel-fie.com^
 ||tel.geenstijl.nl^
-||telderi.ru^
 ||teleaudio.pl^
 ||telecharger-openoffice.fr^
 ||telecop.in.net^
@@ -53938,6 +53953,7 @@
 ||tjfot.com^
 ||tjhcjhvzbto.bid^
 ||tjhjyiylc.com^
+||tjhkdxzzxyb.com^
 ||tjkckpytpnje.com^
 ||tjkenzfnjpfd.com^
 ||tjkrhnwfuj.bid^
@@ -56200,6 +56216,7 @@
 ||turbotraff.net^
 ||turdgasm.com^
 ||turfmpnpiv.bid^
+||turkakisi.com^
 ||turkeyrank.com^
 ||turmene.ru^
 ||turn.com^
@@ -61301,6 +61318,7 @@
 ||xorgwebs.webs.com^
 ||xotsa.frenchgerlemanelectric.com^
 ||xovq5nemr.com^
+||xoyoijhp.com^
 ||xpahdmitqadqda.com^
 ||xpahnzgke.bid^
 ||xpanama.net^
@@ -61404,6 +61422,7 @@
 ||xsnqhzbiqdmqw.com^
 ||xsqylzml.com^
 ||xsrs.com^
+||xsrzmhriydfcqx.com^
 ||xssburizmrmd.bid^
 ||xssrmimmnq.ru^
 ||xstat.pl^
@@ -63283,6 +63302,7 @@
 ||zyeawuzisttu.com^
 ||zyf03k.xyz^
 ||zyfuywrjbxyf.com^
+||zygrlkimddjzd.com^
 ||zyiis.net^
 ||zyikzhgqzjyvgu.com^
 ||zyiztazhfprochain.review^
