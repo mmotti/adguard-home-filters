@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-08-2019 23:50 BST
-! Count: 63,320
+! Last Modified: 24-08-2019 23:50 BST
+! Count: 63,332
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -3743,6 +3743,7 @@
 ||adcdn.goo.ne.jp^
 ||adcdnx.com^
 ||adcel.vrvm.com^
+||adcell.com^
 ||adcell.de^
 ||adcenter.mdf.se^
 ||adcenter.net^
@@ -9498,6 +9499,7 @@
 ||alprazolam.ourtablets.com^
 ||alpventures.bravejournal.com^
 ||alrpost69.com^
+||als-svc.nytimes.com^
 ||alslz.top^
 ||alsoknowsit.com^
 ||altabold1.com^
@@ -16373,6 +16375,7 @@
 ||clckcloud.com^
 ||clcken.com^
 ||clckme.com^
+||clckmedia.club^
 ||clcknads.pro^
 ||clcknpop.com^
 ||clcktm.ru^
@@ -16616,6 +16619,7 @@
 ||clickfunnels.com^
 ||clickfuse.com^
 ||clickganic.com^
+||clickgate.biz^
 ||clickgp.gyao.jp^
 ||clickguardian.co.uk^
 ||clickhere.ru^
@@ -25782,6 +25786,7 @@
 ||geocompteur.com^
 ||geocontatore.com^
 ||geocounter.net^
+||geoedge.be^
 ||geofamily.ru^
 ||geofence.sys.miui.com^
 ||geoinfo.i2w.io^
@@ -33352,6 +33357,7 @@
 ||lawvcpqtapzsh.com^
 ||lax-1.media.net^
 ||lay.elticket.com.ar^
+||laydata.com^
 ||laydcilck.com^
 ||layer-ad.de^
 ||layer-ad.org^
@@ -39644,6 +39650,7 @@
 ||novatracking.superawesome.com^
 ||novbrom.com^
 ||novelsys.co^
+||novelty.media^
 ||novem.onet.pl^
 ||novem.pl^
 ||novemberrainx.com^
@@ -39825,6 +39832,7 @@
 ||nsqdwwwoxs.com^
 ||nsqitedrzv.bid^
 ||nsrecord.org^
+||nsstatic.com^
 ||nsstatic.net^
 ||nst.broadcast.pm^
 ||nstat.tudou.com^
@@ -40710,6 +40718,7 @@
 ||ogyhsyuhczvjg.com^
 ||ogzivkwjhrs.com^
 ||oh.5.p2l.info^
+||ohchat.net^
 ||ohdoxowrbkyd.com^
 ||ohecnqpldvuw.com^
 ||ohgipscavenging.review^
@@ -43120,6 +43129,7 @@
 ||pixel.aspirei.com^
 ||pixel.bild.de^
 ||pixel.bilinmedia.net^
+||pixel.blivenyc.com^
 ||pixel.blog.hu^
 ||pixel.bullion.media^
 ||pixel.buzzfeed.com^
@@ -45096,6 +45106,7 @@
 ||px.topspin.net^
 ||px.wayfair.com^
 ||px.wp.pl^
+||px.za.zaloapp.com^
 ||px10.net^
 ||px1alsry.com^
 ||px24.com^
@@ -50715,6 +50726,7 @@
 ||sperse.com^
 ||spezialreporte.de^
 ||spfrlpjmvkmq.com^
+||sphereup.com^
 ||sphjqakwuteg.com^
 ||spider-mich.com^
 ||spider.ad^
@@ -52588,7 +52600,6 @@
 ||synthes.vo.llnwd.net^
 ||synthetic.api.appdynamics.com^
 ||syorlvhuzgmdqbuxgiulsrusnkgkpvbwmxeqqcboeamyqmyexv.com^
-||sypi.gpshopper.com^
 ||sypleni.ru^
 ||syrnujjldljl.com^
 ||sys.osttirol-online.at^
@@ -55251,6 +55262,7 @@
 ||tracking.marketviaemail.net^
 ||tracking.maxcdn.com^
 ||tracking.medpagetoday.com^
+||tracking.meete.co^
 ||tracking.melty.es^
 ||tracking.melty.fr^
 ||tracking.messagemates.com^
@@ -55559,6 +55571,7 @@
 ||trafficmagnates.com^
 ||trafficmagnet.com^
 ||trafficmagnet.net^
+||trafficmanager.anyclip.com^
 ||trafficmanagers.nl^
 ||trafficmasterz.net^
 ||trafficmaxx.de^
@@ -62665,7 +62678,6 @@
 ||zdfyowkafur.com^
 ||zdhnepeadrwetg.com^
 ||zdjkzqwpqvwcmc.com^
-||zdlogs.sphereup.com^
 ||zdolhnqbtnbcx.com^
 ||zdorovmagazine.ru^
 ||zdplhparvrd.com^
