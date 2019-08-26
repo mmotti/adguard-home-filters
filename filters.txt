@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 25-08-2019 23:50 BST
-! Count: 63,359
+! Last Modified: 26-08-2019 23:50 BST
+! Count: 63,400
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2663,6 +2663,7 @@
 ||ad.100.tbn.ru^
 ||ad.114.com.cn^
 ||ad.120.tbn.ru^
+||ad.1k3.com^
 ||ad.1serve-sys.com^
 ||ad.23blogs.com^
 ||ad.24h.com.vn^
@@ -9684,6 +9685,7 @@
 ||amway.pl^
 ||amwupsihqfewgr.com^
 ||amxdt.com^
+||amxodxmsuwdhn.com^
 ||amylaseyaxvh.download^
 ||amz.steamprices.com^
 ||amzbr.com^
@@ -10033,6 +10035,7 @@
 ||analytics.vadio.com^
 ||analytics.vanillaforums.com^
 ||analytics.vast.com^
+||analytics.vcdevhub.com^
 ||analytics.vendemore.com^
 ||analytics.verizonenterprise.com^
 ||analytics.vnreview.vn^
@@ -10340,6 +10343,7 @@
 ||ape-asset-tag.timeinc.com^
 ||ape-tagit.timeinc.net^
 ||ape78cn2.com^
+||apearmark.online^
 ||apepix.com^
 ||apester.com^
 ||apex-ad.com^
@@ -10753,6 +10757,7 @@
 ||apsmediaagency.com^
 ||apsntakwzycu.com^
 ||aptaeabkg.com^
+||aptapebog.online^
 ||apteka2000.pl^
 ||aptitude.newversionupdatefreshand4you.space^
 ||aptrafficnetwork.com^
@@ -11024,6 +11029,7 @@
 ||asowp.com^
 ||asp.m-live.jp^
 ||aspair3.fingta.com^
+||aspampbrr.online^
 ||aspartamerpzyyzyn.download^
 ||aspesa.info^
 ||aspgfx.org^
@@ -11536,6 +11542,7 @@
 ||aycwvgrra.com^
 ||ayehcleaners.com^
 ||ayerbo.xhost.ro^
+||ayggsmmb.com^
 ||ayhdwulehfdwn.com^
 ||ayjebauqdrys.com^
 ||ayjfodxqmykn.com^
@@ -13917,6 +13924,7 @@
 ||bobi-bobi.info^
 ||bobi-mobi.info^
 ||bobrilla.com^
+||bobwjhcuavqklk.com^
 ||bocksnabswdq.com^
 ||bocqmlgslzoo.com^
 ||bodaybo.net^
@@ -15612,6 +15620,7 @@
 ||cdn.smartclick.io^
 ||cdn.snapsitemap.com^
 ||cdn.socialtwist.com^
+||cdn.sportlabs.online^
 ||cdn.springboard.gorillanation.com^
 ||cdn.static-cnt.bi^
 ||cdn.steambets.net^
@@ -16188,6 +16197,7 @@
 ||cieh.mx^
 ||ciekawinki.pl^
 ||ciel7.free.fr^
+||ciencecom.salesloftlinks.com^
 ||cienum.fr^
 ||ciepleklimaty.pl^
 ||cif.su^
@@ -18665,6 +18675,7 @@
 ||cunderdr.net^
 ||cuntador.com^
 ||cuntwars.com^
+||cuortwomnr.com^
 ||cuoujvfi.angelcities.com^
 ||cup2board.gold^
 ||cupzwcxgx.com^
@@ -19089,6 +19100,7 @@
 ||d21o24qxwf7uku.cloudfront.net^
 ||d22chwk8np.com^
 ||d22lo5bcpq2fif.cloudfront.net^
+||d22sfab2t5o9bq.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d239g0z67jcted.cloudfront.net^
 ||d23guct4biwna6.cloudfront.net^
@@ -20166,6 +20178,8 @@
 ||device.maxmind.com^
 ||device.zhiliaoapp.com^
 ||device9.com^
+||deviceatlas.com^
+||deviceatlasdc.appspot.com^
 ||deviceinfo.capitalone.com^
 ||devis-abri-de-piscine.fr^
 ||devkiforyou.org^
@@ -21038,6 +21052,7 @@
 ||dpwmloknxtuw.com^
 ||dpwrhdzeqw.com^
 ||dpwsvrkmfxrt.com^
+||dpxjvfdtufp.com^
 ||dpypzvjarj.com^
 ||dpz55hrzd89zs.cloudfront.net^
 ||dq2tgxnc2knif.cloudfront.net^
@@ -21455,6 +21470,7 @@
 ||dz2fz0bgyq9tn.cloudfront.net^
 ||dz4ad.com^
 ||dzacosgvnz.com^
+||dzaphjajrisgr.com^
 ||dzaqzgjsot.com^
 ||dzblysulli.com^
 ||dzbx8qv1at614.cloudfront.net^
@@ -22890,6 +22906,7 @@
 ||eva.ucas.com^
 ||evaairline.com^
 ||evaff.com^
+||evaffwmdjgtn.com^
 ||evanetpro.com^
 ||evania.de^
 ||evans.babajilab.in^
@@ -23648,6 +23665,7 @@
 ||fc.yahoo.com^
 ||fc2b9b7ce3165.com^
 ||fc9033ae4bac99b6e.com^
+||fcafnvgdokqfo.com^
 ||fcbykurluasdeu.com^
 ||fcfd5de4b3be3.com^
 ||fcgadgets.blogspot.com^
@@ -24420,6 +24438,7 @@
 ||fnsjfalwuti.bid^
 ||fnutdrjkcebyw.com^
 ||fnuuhrhfkvpbnm.com^
+||fnytdllpzdv.com^
 ||fnzpchmrhlpfzl.bid^
 ||fo4n.com^
 ||fo5.a1-downloader.org^
@@ -24481,6 +24500,7 @@
 ||footprintlive.com^
 ||foovyagf.com^
 ||fophaumpoor.com^
+||foqbcgpwrq.com^
 ||foqzposfvmk.com^
 ||for-ward.jp^
 ||for.health-net-lady.ru^
@@ -27516,6 +27536,7 @@
 ||hdpreview.com^
 ||hdscout.com^
 ||hdseriale.pl^
+||hdslnhmjga.com^
 ||hdtracker.ru^
 ||hduefoyd.com^
 ||hdvid-codecs-dl.net^
@@ -29101,6 +29122,7 @@
 ||idaschop.ru^
 ||idbhsgy.com^
 ||idbjhskxiablsi.com^
+||idbjldbeguhq.com^
 ||idbpftjjz.com^
 ||idbtfwllhogxc.com^
 ||idbxnzgmn.com^
@@ -30488,6 +30510,7 @@
 ||ip193.cn^
 ||ip2c.landscape.co.jp^
 ||ip2location.com^
+||ip2location.wmgartistservices.com^
 ||ip2map.com^
 ||ip2phrase.com^
 ||ipa.elev.io^
@@ -31301,6 +31324,7 @@
 ||jiifnvkesug.com^
 ||jiiyddosyv.com^
 ||jijcetagjfzo.com^
+||jijyubjf.com^
 ||jikottnbg.com^
 ||jilabukurlabu.com^
 ||jilliancamwell.com^
@@ -31389,6 +31413,7 @@
 ||jldstutlnz.com^
 ||jleagueshop.com^
 ||jleagueuniform.com^
+||jlehwynpwadmq.com^
 ||jlflzjdt.com^
 ||jlgtjteei.com^
 ||jlhkteiqgvafic.com^
@@ -33536,6 +33561,7 @@
 ||leadtrackgo.com^
 ||leadtracking.plumvoice.com^
 ||leadvision.dotmailer.co.uk^
+||leadware.io^
 ||leady.com^
 ||leadzu.com^
 ||leadzupc.com^
@@ -34119,6 +34145,7 @@
 ||liverank.org^
 ||livere.co.kr.cizion.ixcloud.net^
 ||livere.co.kr^
+||liveresources.mensxp.com^
 ||liversely.com^
 ||liversely.net^
 ||livesearchnow.com^
@@ -35661,6 +35688,7 @@
 ||matiro.com^
 ||matomo.activate.cz^
 ||matomo.cloud^
+||matomo.saotn.org^
 ||matomy.com^
 ||matomygroup.com^
 ||matomymail.com^
@@ -36727,6 +36755,7 @@
 ||mfeoaesafo.com^
 ||mffurrpzbum.com^
 ||mfgyyqqjpp.com^
+||mfhsvkepu.com^
 ||mfigasff.com^
 ||mfiksyuanw.bid^
 ||mfio.cf^
@@ -38202,6 +38231,7 @@
 ||mxptint.net^
 ||mxpzslze.com^
 ||mxqxkljb.bid^
+||mxradon.com^
 ||mxsuikhqaggf.com^
 ||mxtads.com^
 ||mxtcafifuufp.com^
@@ -38809,6 +38839,7 @@
 ||nctrk.abmail.com.br^
 ||nctymqrcplanular.review^
 ||ncwjhywskph.com^
+||nczlhwsguwc.com^
 ||nd.5.p2l.info^
 ||nd1.gamecopyworld.com^
 ||nd11mx1-a-fixed.sancharnet.in^
@@ -39882,6 +39913,7 @@
 ||ntosarang.com^
 ||ntoyqqrwrmzr.com^
 ||ntpawkfea.com^
+||ntpmhryl.com^
 ||ntrb.qc.coccoc.com^
 ||ntsearch.com^
 ||nttdocomo-service.com^
@@ -40003,6 +40035,7 @@
 ||nwkwefhpjohlor.bid^
 ||nwmum.com^
 ||nwooatwtmhfdh.bid^
+||nwqcvbyznx.com^
 ||nwqgyaxazz.com^
 ||nwrgqhjtullyjs.com^
 ||nwrkyuftlnbzuh.bid^
@@ -40726,6 +40759,7 @@
 ||ogulzxfxrmow.com^
 ||oguorftbvegb.com^
 ||ogvrdxjcgzst.com^
+||ogwykjkqbhf.com^
 ||ogxatekkyzr.com^
 ||ogyhsyuhczvjg.com^
 ||ogzivkwjhrs.com^
@@ -40835,6 +40869,7 @@
 ||ojtcgnyikbtg.bid^
 ||ojtobu.angelcities.com^
 ||ojvwpiqnmecd.com^
+||ojwgkxcgdhvacc.com^
 ||ojxzmlgl.com^
 ||ok-outlet.com^
 ||ok.5.p2l.info^
@@ -46096,6 +46131,7 @@
 ||rapistory.info^
 ||rapizoda.com^
 ||rapleaf.com^
+||rappenedstoric.info^
 ||rapt.com^
 ||raqucjjblu.com^
 ||raqueocznwden.bid^
@@ -48099,6 +48135,7 @@
 ||salesdoubler.com.ua^
 ||salesgenius.com^
 ||salesiq.zoho.com^
+||salesloft.com^
 ||salesmanago.pl^
 ||salesnleads.com^
 ||salesonline.ie^
@@ -48369,7 +48406,6 @@
 ||scotiaonline.scotiabank.salferreras.com^
 ||scottishstuff-online.com^
 ||scounter.rambler.ru^
-||scout-cdn.salesloft.com^
 ||scout.haymarketmedia.com^
 ||scout.lexisnexis.com^
 ||scout.rollcall.com^
@@ -50788,6 +50824,7 @@
 ||spondenced.info^
 ||sponge.creditkarma.com^
 ||spongecell.com^
+||sponsor.segmentfault.com^
 ||sponsor1.com^
 ||sponsor4cash.de^
 ||sponsorads.de^
@@ -55889,6 +55926,7 @@
 ||trk.dsllgal.com^
 ||trk.dsv2trk.com^
 ||trk.email.dynect.net^
+||trk.flazio.com^
 ||trk.freepik.com^
 ||trk.glispa.com^
 ||trk.i0.cz^
@@ -56534,6 +56572,7 @@
 ||ubdudsdfcll.com^
 ||ubdwc.com^
 ||ubecybzqf.bid^
+||ubembed.com^
 ||uberads.net^
 ||ubercpm.com^
 ||ubermedia.com^
@@ -59288,7 +59327,6 @@
 ||web.f8.pyco.vn^
 ||web.info.com^
 ||web.informer.com^
-||web.mxradon.com^
 ||web.nyc.ads.juno.co^
 ||web.secmedia.de^
 ||web.stagingf8.pycogroup.com^
@@ -59682,6 +59720,7 @@
 ||wexevoom.net^
 ||wexrt.ru^
 ||wfbqjdwwunle.com^
+||wfcxcblmy.com^
 ||wffiuoyzo.com^
 ||wfiejyjdlbsrkklvxxwkferadhbcwtxrotehopgqppsqwluboc.com^
 ||wfjdmkjetpbgv.com^
@@ -60523,6 +60562,7 @@
 ||wtxoicsjxbsj.com^
 ||wty46.com^
 ||wtybgaghcqxoae.com^
+||wtyruwwvjloyk.com^
 ||wuaefxberbqcv.com^
 ||wuatqdbzzamj.bid^
 ||wubdkryfkr.com^
@@ -63289,6 +63329,7 @@
 ||zweryfikuj-sie.pl^
 ||zwfvzxmc.com^
 ||zwjnzhln.bid^
+||zwmauyerfotyh.com^
 ||zwpaujzg.com^
 ||zwqfnizwcvbx.com^
 ||zws.avvo.com^
