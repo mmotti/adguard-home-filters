@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 26-08-2019 23:50 BST
-! Count: 63,400
+! Last Modified: 27-08-2019 23:50 BST
+! Count: 63,420
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2205,6 +2205,7 @@
 ||abc.limaction.com^
 ||abccampaignaudit.co.uk^
 ||abcdespanol.com^
+||abcdserver.com^
 ||abcjmp.com^
 ||abckj123.com^
 ||abclauncher.com^
@@ -4504,6 +4505,7 @@
 ||adohana.com^
 ||adomic.com^
 ||adomik.com^
+||adon.io^
 ||adonads.com^
 ||adonavi.jp^
 ||adone.ru^
@@ -10102,6 +10104,7 @@
 ||anatol.com^
 ||anatomiseddybglcuku.download^
 ||anatomytrains.co.uk^
+||anbalxkcpwa.com^
 ||anbkoxl.com^
 ||anbstudios.com^
 ||anchor.stailamedia.com^
@@ -11467,6 +11470,7 @@
 ||awmcounter.de^
 ||awmpartners.com^
 ||awmserve.com^
+||awnyohgtmb.com^
 ||awogbtinorwx.com^
 ||awpxjguq.com^
 ||awreert.ru^
@@ -12852,6 +12856,7 @@
 ||bcsrciccspermatic.review^
 ||bcvc.mobi^
 ||bcvcrdr.xyz^
+||bcvrczvqlm.com^
 ||bcxdjxlassr.bid^
 ||bcxfshnxaiqemn.bid^
 ||bcxronvqkwe.com^
@@ -13132,6 +13137,7 @@
 ||bestcoinsignals.com^
 ||bestcontentcompany.top^
 ||bestcontentonline.com^
+||bestcontentpc.top^
 ||bestcontentservice.top^
 ||bestcontentsoftware.top^
 ||bestcontentuse.top^
@@ -21076,6 +21082,7 @@
 ||dqs001.adtech.fr^
 ||dqs001.adtech.us^
 ||dqusbshqrtv.bid^
+||dqvckdfaa.com^
 ||dqxaszsk.angelcities.com^
 ||dqyczunj.com^
 ||dqzuy.com^
@@ -25038,6 +25045,7 @@
 ||ftbnrjzvgtdyzs.bid^
 ||ftbpro.com^
 ||ftcjcmcovx.com^
+||ftd.agency^
 ||ftdcseuvlmfp.com^
 ||ftdownload.com^
 ||ftdyrqgjr.bid^
@@ -25054,6 +25062,7 @@
 ||ftqnttckompj.com^
 ||ftr2.external.xerox.com^
 ||ftrack.ru^
+||ftsygfycaybskz.com^
 ||fttcj.com^
 ||fttsgimpiagrwa.com^
 ||ftttziizhuplfj.com^
@@ -25066,6 +25075,7 @@
 ||ftvwoljibdwd.com^
 ||ftwdbhsztw.com^
 ||ftxekufylzqis.com^
+||ftxmicgc.com^
 ||ftymjfywuyv.com^
 ||ftymzxmic.com^
 ||ftytssqazcqx.com^
@@ -25446,7 +25456,6 @@
 ||gamecetera.com^
 ||gamecity.net^
 ||gameconsolerewards.com^
-||gamedl.ru^
 ||gamefeat.net^
 ||gamefiles.pl^
 ||gamehotus.com^
@@ -28362,6 +28371,7 @@
 ||hotfeed.net^
 ||hotfreebees.com^
 ||hotgiftzone.com^
+||hotgvibe.com^
 ||hotheadedwrkqqsm.download^
 ||hothta.com^
 ||hothub.pl^
@@ -28418,6 +28428,7 @@
 ||hoytzfyok.bid^
 ||hpabkunldxhpc.com^
 ||hpad.www.infoseek.co.jp^
+||hpasvfsndgr.com^
 ||hpbczauldndnep.com^
 ||hpbsyqsypxy.com^
 ||hpcat.cn^
@@ -37368,6 +37379,7 @@
 ||mnjgoxmx.com^
 ||mnkwxsjxp.bid^
 ||mnnanyddolwf.com^
+||mnnsjudnfgalyx.com^
 ||mno.link^
 ||mnodkuklcw.bid^
 ||mnqziregyq.bid^
@@ -38189,6 +38201,7 @@
 ||mvumhltl.com^
 ||mvunstblutptj.com^
 ||mvvecbfomk.com^
+||mvvspjarye.com^
 ||mvxhbajzn.com^
 ||mvyctyji.com^
 ||mvyfuwczzotfe.bid^
@@ -43302,6 +43315,7 @@
 ||pkitdifnkz.com^
 ||pkklpazhqqda.com^
 ||pkkuouvecratte.bid^
+||pklaowdpzwflvr.com^
 ||pkmzxzfazpst.com^
 ||pknzoizczuhjvk.com^
 ||pko-bp.pl^
@@ -47506,6 +47520,7 @@
 ||rqjgepzyowyr.com^
 ||rqmlurpad.bid^
 ||rqndohbkuer.com^
+||rqqljktze.com^
 ||rqsndrkezz.com^
 ||rqtdnrhjktzr.com^
 ||rqthkhiuddlg.com^
@@ -49129,13 +49144,11 @@
 ||servertraffic.de^
 ||servestats.com^
 ||servethis.com^
-||service-dev.sp.advertising.com^
 ||service-stat.tbn.ru^
 ||service.adtech.fr^
 ||service.adtech.us^
 ||service.mm-r-prop-11-16-2.com^
 ||service.multi-pops.com^
-||service.sp.advertising.com^
 ||service.srvmd60.com^
 ||service.videoplaza.tv^
 ||service001.adtech.fr^
@@ -50552,6 +50565,7 @@
 ||sozdyrrtsvr.com^
 ||sp-click2.jp^
 ||sp-mms.weather.com^
+||sp.advertising.com^
 ||sp.app.com^
 ||sp.argusleader.com^
 ||sp.azcentral.com^
@@ -52848,7 +52862,6 @@
 ||taffr.com^
 ||tafmaster.com^
 ||tag-abe.cartrawler.com^
-||tag-dev.sp.advertising.com^
 ||tag-manager.teladoc.com^
 ||tag-stats.huffpost.com^
 ||tag.120ask.com^
@@ -52868,7 +52881,6 @@
 ||tag.shopping-feed.com^
 ||tag.shopping-flux.com^
 ||tag.sonymusic.com^
-||tag.sp.advertising.com^
 ||tag.triboomedia.it^
 ||tag.yakarouler.com^
 ||tag.zhupiter.com^
@@ -55688,6 +55700,7 @@
 ||traffstock.ru^
 ||trafgid.com^
 ||trafic-fr.com^
+||trafic-media.ru^
 ||trafic.ro^
 ||traficmax.fr^
 ||trafikkfondet.no^
@@ -57194,6 +57207,7 @@
 ||uptracs.com^
 ||uptrck.com^
 ||uptrendsdata.com^
+||upvtnuffy.com^
 ||upxip.xyz^
 ||upzpyrsvvxpoey.com^
 ||uqbxjdeeq.com^
@@ -61442,6 +61456,7 @@
 ||xqhwdjuk.bid^
 ||xqiqnxxy.com^
 ||xqjhszpussoeur.com^
+||xqjrnsxiwxgcd.com^
 ||xqkqkfszveqvm.com^
 ||xqkzsifxgv.com^
 ||xqngocao.com^
@@ -61900,6 +61915,7 @@
 ||yeouakimhubraf.com^
 ||yepads.com^
 ||yepiafsrxffl.com^
+||yeplavtzm.com^
 ||yepoints.net^
 ||yes-messenger.com^
 ||yesads.com^
@@ -62145,6 +62161,7 @@
 ||ynlvwynnsstalh.com^
 ||ynoiezey.com^
 ||ynopkisq.com^
+||ynqmordtj.com^
 ||ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com^
 ||yntwcepykkts.com^
 ||ynuf.alibaba.com^
@@ -62445,6 +62462,7 @@
 ||yvap.query.yahoo.com^
 ||yvbrgzeu.com^
 ||yvdeuwn.angelcities.com^
+||yvdkwgrfatt.com^
 ||yvdzdkiov.com^
 ||yvfsfoctkls.com^
 ||yvisvreih.com^
@@ -62500,6 +62518,7 @@
 ||yxghdgwi.bid^
 ||yxhyxfyibqhd.com^
 ||yxidkikr.bid^
+||yximgdpivguxke.com^
 ||yxjecoghjycuvm.com^
 ||yxjnldaw.bid^
 ||yxjvmjlhyfrp.com^
@@ -63429,6 +63448,7 @@
 ||zzhomes.com^
 ||zziblxasbl.bid^
 ||zzkrxder.com^
+||zzmwzarweka.com^
 ||zzmyypjedpfxck.com^
 ||zzomiuob.com^
 ||zzoxzkpqmklr.com^
