@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 02-09-2019 23:50 BST
-! Count: 63,569
+! Last Modified: 03-09-2019 23:50 BST
+! Count: 63,579
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -9389,6 +9389,7 @@
 ||aliru2.ru^
 ||aliru3.ru^
 ||aliru4.ru^
+||aliru5.ru^
 ||alisat.biz^
 ||alisatilsner.com^
 ||alishop7.ru^
@@ -19275,6 +19276,7 @@
 ||d2vig74li2resi.cloudfront.net^
 ||d2vt6q0n0iy66w.cloudfront.net^
 ||d2wl3qmk54t3ha.cloudfront.net^
+||d2wpknqle9nuv8.cloudfront.net^
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||d2xgf76oeu9pbh.cloudfront.net^
 ||d2xkqxdy6ewr93.cloudfront.net^
@@ -19563,6 +19565,7 @@
 ||dalj98ktasppa.cloudfront.net^
 ||daljntupdaoejb.com^
 ||dallavel.com^
+||dalqybwdy.com^
 ||dalseeds.net^
 ||damamaty.tk^
 ||damavandkuh.com^
@@ -20792,6 +20795,7 @@
 ||dnvndngbn.bid^
 ||dnxpseduuehm.com^
 ||dnzevkqpk.com^
+||dnzwjlbknhe.com^
 ||do-not-tracker.org^
 ||do-wn-lo-ad.com^
 ||do09.net^
@@ -24970,6 +24974,7 @@
 ||fresh8.co^
 ||freshcounter.com^
 ||fresheye.com^
+||freshis.ru^
 ||freshiuz.com^
 ||freshmac.space^
 ||freshmarketer.com^
@@ -30268,6 +30273,7 @@
 ||installtracker.com^
 ||instana.io^
 ||instancetour.info^
+||instant.page^
 ||instantbannercreator.com^
 ||instantcash.ru^
 ||instantclk.com^
@@ -36011,6 +36017,7 @@
 ||mdvkn.com^
 ||mdvrxmzofurvkm.com^
 ||mdxapi.io^
+||mdxzmatcc.com^
 ||me.5.p2l.info^
 ||me.networkandfaces.com^
 ||meadigital.com^
@@ -43180,6 +43187,7 @@
 ||pinkintim.com^
 ||pinkstar.pl^
 ||pinlrzucbjt.com^
+||pinpoint.us-east-1.amazonaws.com^
 ||pioneeringad.com^
 ||pip-pip-pop.com^
 ||pipe-collect.ebu.io^
@@ -53521,7 +53529,6 @@
 ||telemetry.malwarebytes.com^
 ||telemetry.microsoft.com^
 ||telemetry.reembed.com^
-||telemetry.ros.rockstargames.com^
 ||telemetry.servers.getgo.com^
 ||telemetry.sonarsource.com^
 ||telemetry.soundcloud.com^
@@ -56956,6 +56963,7 @@
 ||ukjzdydnveuc.com^
 ||ukksghzwxha.com^
 ||uklvebsp.com^
+||uklyolpqnt.com^
 ||ukngpcuyc.com^
 ||uknlxuxflvlw.com^
 ||ukolwxqopahb.com^
@@ -61661,6 +61669,7 @@
 ||xssrmimmnq.ru^
 ||xstat.pl^
 ||xstatic.nk-net.pl^
+||xswezzwxh.com^
 ||xswnrjbzmdof.com^
 ||xswsrpeeyh.com^
 ||xswutjmmznesinsltpkefkjifvchyqiinnorwikatwbqzjelnp.com^
@@ -62503,6 +62512,7 @@
 ||yrpjklwly.com^
 ||yrrcrvoivbv.com^
 ||yrsfs.com^
+||yrsjqzfku.com^
 ||yrtyflmurngv.com^
 ||yruwnpnam.com^
 ||yrvrppewe.bid^
