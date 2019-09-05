@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 04-09-2019 23:50 BST
-! Count: 63,606
+! Last Modified: 05-09-2019 23:51 BST
+! Count: 63,617
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -15758,6 +15758,7 @@
 ||cdnmaster.cn^
 ||cdnmaster.com^
 ||cdnmedia.xyz^
+||cdnmerkezi.ninja^
 ||cdnondemand.org^
 ||cdnproviders.net^
 ||cdnquality.com^
@@ -16044,6 +16045,8 @@
 ||chat.ero-advertising.com^
 ||chat2.livechatinc.com^
 ||chathu.apkmania.co^
+||chatid.com^
+||chatidcdn.com^
 ||chatinator.com^
 ||chatserver.comm100.cn^
 ||chatzoe.de^
@@ -16928,6 +16931,7 @@
 ||clk1005.com^
 ||clk1011.com^
 ||clk1015.com^
+||clka.media.net^
 ||clkads.com^
 ||clkd.at^
 ||clkdeals.com^
@@ -20206,6 +20210,7 @@
 ||detroithardcore.com^
 ||detroposal.com^
 ||deucodialytic.review^
+||dev-test-1.k8.hb-fa-dev.omtrdc.net^
 ||dev.adforum.com^
 ||dev.ajc.cimedia.com^
 ||dev.demo.appdynamics.com^
@@ -23254,6 +23259,7 @@
 ||expdb2.msn.com^
 ||expebtu.com^
 ||expectorslapsino.info^
+||expepp.de^
 ||experclick.com^
 ||experianmarketingservices.digital^
 ||experience.tinypass.com^
@@ -26863,6 +26869,7 @@
 ||gqnotcpintcq.bid^
 ||gqorytmpkjdq.com^
 ||gqosdcpjxajae.com^
+||gqqdlckj8y.com^
 ||gqqsqbipuhlzb.com^
 ||gqrsxfwxvx.com^
 ||gqrwjsjbnoayff.com^
@@ -41896,6 +41903,7 @@
 ||outlyingveburydd.download^
 ||outporn.com^
 ||outpost.real.com^
+||outseeltor.com^
 ||outsolesevkcifol.download^
 ||outspeaksisfjto.download^
 ||outster.com^
@@ -47911,7 +47919,6 @@
 ||rushmyrepair.com^
 ||rushpay.pl^
 ||rusinlepading.pro^
-||rusplt.ru^
 ||ruspolice.com^
 ||ruspolice.net^
 ||russ-shalavy.ru^
@@ -50647,6 +50654,7 @@
 ||something-wrong5.agency^
 ||something-wrong9.agency^
 ||somethingnice.hc0.me^
+||sometired.com^
 ||sometrics.com^
 ||sommons.co^
 ||somniture.stuff.co.nz^
@@ -51172,6 +51180,7 @@
 ||srtvohoivnrahq.bid^
 ||srv-ca-to-1.buysellads.com^
 ||srv-eu-ldn-10.buysellads.com^
+||srv-eu-ldn-13.buysellads.com^
 ||srv-eu-ldn-5.buysellads.com^
 ||srv-eu-ldn-7.buysellads.com^
 ||srv-eu-ldn-9.buysellads.com^
@@ -51191,6 +51200,7 @@
 ||srv-us-ny-12.buysellads.com^
 ||srv-us-ny-14.buysellads.com^
 ||srv-us-ny-17.buysellads.com^
+||srv-us-ny-18.buysellads.com^
 ||srv-us-ny-7.buysellads.com^
 ||srv-us-ny-8.buysellads.com^
 ||srv-us-ny-9.buysellads.com^
@@ -58317,7 +58327,6 @@
 ||vid7delivery.com^
 ||vidalak.com^
 ||vidamsag.postr.hu^
-||vidapi.expepp.de^
 ||vidasys.ru^
 ||vidaugust.ru^
 ||vidazoo-bi-worker-connection.vidazoo.com^
@@ -59326,6 +59335,7 @@
 ||wap.mobiltek.pl^
 ||wapbanner.net^
 ||wapdollar.in^
+||wapempire.com^
 ||waploft.cc^
 ||waploft.com^
 ||waplog.mobi^
@@ -61396,6 +61406,7 @@
 ||ximad.com^
 ||ximeldnjuusl.com^
 ||xindalawyer.com^
+||xineday.com^
 ||xiniuz.com^
 ||xinpmsvinfmc.bid^
 ||xiodoyvbauv.com^
