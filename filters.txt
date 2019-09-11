@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-09-2019 23:50 BST
-! Count: 63,811
+! Last Modified: 11-09-2019 23:50 BST
+! Count: 63,880
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2585,6 +2585,7 @@
 ||ad-board.com^
 ||ad-brix.com^
 ||ad-center.com^
+||ad-center.snapchat.com^
 ||ad-check.disconnect.me^
 ||ad-ck.ru^
 ||ad-click.biz^
@@ -3610,6 +3611,7 @@
 ||adaction.de^
 ||adaction.se^
 ||adacts.com^
+||adadqwq.cf^
 ||adadvisor.net^
 ||adafazerub.com^
 ||adagiobanner.s3.amazonaws.com^
@@ -5840,6 +5842,7 @@
 ||ads.optusnet.com.au^
 ||ads.orange142.com^
 ||ads.oregonlive.com^
+||ads.org^
 ||ads.orsm.net^
 ||ads.osdn.com^
 ||ads.outpersonals.com^
@@ -6069,6 +6072,7 @@
 ||ads.smartolution.com^
 ||ads.smartshoppingads.de^
 ||ads.smartstream.tv^
+||ads.snapchat.com^
 ||ads.snowball.com^
 ||ads.socialbakers.com^
 ||ads.socialtheater.com^
@@ -6834,6 +6838,9 @@
 ||adsame.com^
 ||adsances.ero-advertising.com^
 ||adsapi.manhuaren.com^
+||adsapi.snapchat.com^
+||adsapi2.snapchat.com^
+||adsapimus.snapchat.com^
 ||adsatt.abc.starwave.com^
 ||adsatt.abcnews.starwave.com^
 ||adsatt.disney.starwave.com^
@@ -7203,6 +7210,7 @@
 ||adserver.online-tech.com^
 ||adserver.onlinesyn.com^
 ||adserver.onwisconsin.com^
+||adserver.org^
 ||adserver.outpersonals.com^
 ||adserver.panaceapublishing.com^
 ||adserver.pandora.com^
@@ -8212,6 +8220,7 @@
 ||advertising.net^
 ||advertising.paltalk.com^
 ||advertising.seenews.com^
+||advertising.snapchat.com^
 ||advertising.spreadomat.net^
 ||advertising.superawesome.tv^
 ||advertising.thediabetesnetwork.com^
@@ -10254,6 +10263,7 @@
 ||anonymousads.com^
 ||anonymousdemographics.com^
 ||anonymousdmp.com^
+||anonymousinsights.us^
 ||anonymousproxy.tk^
 ||anonymousstats.keefox.org^
 ||anormal-tracker.de^
@@ -10538,6 +10548,7 @@
 ||apopt.hbmediapro.com^
 ||app-adforce.jp^
 ||app-analytics.snapchat.com^
+||app-analyticsv2.snapchat.com^
 ||app-authority.com^
 ||app-c.net^
 ||app-creatives.cdn.admobile.me^
@@ -11352,6 +11363,7 @@
 ||autoaffiliatenetwork.com^
 ||autoaudience.com^
 ||autodengi.com^
+||autodiscover.ads.org^
 ||autohipnose.com^
 ||autohits.dk^
 ||autoid.com^
@@ -11867,6 +11879,7 @@
 ||badsabs.com^
 ||badsamps.com^
 ||badservant.guj.de^
+||badshores.com^
 ||badtopwitch.work^
 ||badults.se^
 ||badv.wp.pl^
@@ -15894,6 +15907,7 @@
 ||centrumnaukowe.eu^
 ||centrumofert.com^
 ||centrumplay.pl^
+||centuryautobodylv.com^
 ||centwrite.com^
 ||cepailru.com^
 ||cepereh.ru^
@@ -17087,7 +17101,20 @@
 ||cmp-cdn.ghostery.com^
 ||cmp-dev.advertising.com^
 ||cmp.advertising.com^
+||cmp.arnnet.com.au^
+||cmp.cio.com.au^
+||cmp.cmo.com.au^
+||cmp.computerworld.com.au^
+||cmp.cso.com.au^
+||cmp.digitalartsonline.co.uk^
 ||cmp.entertainmentcrave.com^
+||cmp.greenbot.com^
+||cmp.macworld.co.uk^
+||cmp.macworld.com^
+||cmp.pcworld.co.nz^
+||cmp.pcworld.com^
+||cmp.techadvisor.co.uk^
+||cmp.techhive.com^
 ||cmpkynhhmkni.com^
 ||cmplay.did.ijinshan.com^
 ||cmps.mt50ad.com^
@@ -17678,6 +17705,7 @@
 ||content-ad.net^
 ||content-ads.impactengine.com^
 ||content-cooperation.com^
+||content-insights-revenue.snapchat.com^
 ||content-square.net^
 ||content.ad^
 ||content.adscension.com^
@@ -18395,6 +18423,7 @@
 ||crazypopups.com^
 ||crazyprotocol.com^
 ||crazyvideosempire.com^
+||crazywillowtree.com^
 ||crazywinnings.com^
 ||crbcdn.jsfiddle.net^
 ||crcewevoy.com^
@@ -19249,6 +19278,7 @@
 ||d2gfi8ctn6kki7.cloudfront.net^
 ||d2ghscazvn398x.cloudfront.net^
 ||d2gi7ultltnc2u.cloudfront.net^
+||d2glav2919q4cw.cloudfront.net^
 ||d2gpgaupalra1d.cloudfront.net^
 ||d2gt9oovykfp1z.cloudfront.net^
 ||d2gtlljtkeiyzd.cloudfront.net^
@@ -19320,6 +19350,7 @@
 ||d2uepos3ef6db0.cloudfront.net^
 ||d2uevgmgh16uk4.cloudfront.net^
 ||d2uzdrx7k4koxz.cloudfront.net^
+||d2v02itv0y9u9t.cloudfront.net^
 ||d2v4glj2m8yzg5.cloudfront.net^
 ||d2v9ajh2eysdau.cloudfront.net^
 ||d2va1d0hpla18n.cloudfront.net^
@@ -20627,6 +20658,7 @@
 ||divx.it^
 ||diwiosqupuecg.com^
 ||diwkemnk.bid^
+||diwsvdnmpn.com^
 ||diwtbtakcu.com^
 ||diysqcbfyuru.com^
 ||dizixdllzznrf.cloudfront.net^
@@ -24534,6 +24566,7 @@
 ||fmoihhvbehopc.com^
 ||fmpsrqsib.bid^
 ||fmpub.net^
+||fmrbnuhtabzavu.com^
 ||fms2.eyewonder.speedera.net^
 ||fms2.pointroll.speedera.net^
 ||fmsads.com^
@@ -24698,6 +24731,7 @@
 ||fortnitehack2018.com^
 ||fortpush.com^
 ||fortrader.ru^
+||fortressarcade.com^
 ||fortsould.pro^
 ||fortuka.com^
 ||fortvision.com^
@@ -28608,6 +28642,7 @@
 ||hpufwccrmiwz.com^
 ||hpvvn.com^
 ||hpvxmmttf.bid^
+||hpwdohgicpmi.com^
 ||hpwsosviqyjem.com^
 ||hpwtrpizecrowned.review^
 ||hpwzlfjpa.com^
@@ -29304,6 +29339,7 @@
 ||idch9s8d.com^
 ||idcounter.com^
 ||idcoyhwzthhjv.com^
+||iddgzongegt.com^
 ||iddiction.com^
 ||iddpop.com^
 ||iddvmkxme.com^
@@ -33249,6 +33285,7 @@
 ||kurkizraka.com^
 ||kurlikburlik.com^
 ||kurlipush.com^
+||kursuspemrogramman.com^
 ||kurtgcwrdakv.com^
 ||kurtkiwyprzedaz.pl^
 ||kurulum.xyz^
@@ -33377,6 +33414,7 @@
 ||kzfinsoee.com^
 ||kzgzfndrvpnz.com^
 ||kzlmwsyftm.com^
+||kzmipklxanggf.com^
 ||kzqjwdxxussshe.net^
 ||kzqrjfulybvv.com^
 ||kzujizavnlxf.com^
@@ -33796,6 +33834,7 @@
 ||ledhenone.com^
 ||ledinika.ru^
 ||ledinund.com^
+||lediyxobgmrgeb.com^
 ||ledobbensz.blogspot.hu^
 ||ledsitling.pro^
 ||ledvqaldtf.com^
@@ -33956,6 +33995,7 @@
 ||lgnjrjdju.bid^
 ||lgogujahrnxr.bid^
 ||lgse.com^
+||lgsmartad.com^
 ||lgtbcaqkjo.bid^
 ||lgthvsytzwtc.com^
 ||lgtnwgfqkyyf.com^
@@ -35574,6 +35614,7 @@
 ||maikiki.com^
 ||mail-gw.jbic.go.jp^
 ||mail-to-a-friend.com^
+||mail.ads.org^
 ||mail.bangla.net^
 ||mail.banklife.ru^
 ||mail.cyberh.fr^
@@ -36528,6 +36569,7 @@
 ||memorizeneck.com^
 ||memorycobweb.com^
 ||memsyndazra.com^
+||menagexbqhxf.com^
 ||mename.de^
 ||menato.ru^
 ||menemier.info^
@@ -36965,6 +37007,7 @@
 ||mezima.com^
 ||mezimedia.com^
 ||mezzobit.com^
+||mf-strategies.com^
 ||mf.advantage.as^
 ||mfad1.advantage.as^
 ||mfadsrvr.com^
@@ -37831,6 +37874,7 @@
 ||molqvpnnlmnb.com^
 ||momently.com^
 ||moments.advertising.com^
+||momentumconsumermetrics.com^
 ||momocak.com^
 ||momoemoe.com^
 ||momoxxio.com^
@@ -37921,6 +37965,7 @@
 ||monofeel.com^
 ||monsonis.net^
 ||monsoonads.com^
+||monstat.com^
 ||monster-ads.net^
 ||monsterpops.com^
 ||montacarichi.it^
@@ -38099,6 +38144,7 @@
 ||mpmdostmf.com^
 ||mpmfdpakljrv.bid^
 ||mpmotrk.com^
+||mpmzqgkpavhhkt.com^
 ||mpnkfljjfjqd.bid^
 ||mpnrs.com^
 ||mpoboqvqhjqv.com^
@@ -39665,6 +39711,7 @@
 ||niytrusmedia.com^
 ||nization.com^
 ||nj.5.p2l.info^
+||njawafwpmv.com^
 ||njcdmsgjbbbz.com^
 ||njcmfnnzwwuj.com^
 ||njeozjhyjb.com^
@@ -40010,6 +40057,7 @@
 ||nr7.us^
 ||nrads.1host.co.il^
 ||nrcrbfqa.com^
+||nrdaixdlt.com^
 ||nrdlj2ru.com^
 ||nrectoqhwdhi.com^
 ||nrelievedbrand.com^
@@ -41270,6 +41318,7 @@
 ||omni.sportingnews.com^
 ||omniata.com^
 ||omnicleaningservices.com^
+||omnicollector.snapchat.com^
 ||omniconvert.com^
 ||omnikool.discovery.com^
 ||omniscientspark.com^
@@ -42080,6 +42129,7 @@
 ||owebmoney.ru^
 ||owha.vancouverco.com^
 ||owihjchxgydd.com^
+||owitms.ga^
 ||owjoflavzaerby.com^
 ||owkkdsfg.com^
 ||owlads.io^
@@ -43007,6 +43057,7 @@
 ||pets.finaltips.com^
 ||petsarlaaafru.com^
 ||petsmovies.com^
+||petsoocm.com^
 ||pewdewgeehc.com^
 ||pewgnvqixnhvij.com^
 ||peypcjxllo.bid^
@@ -43050,6 +43101,7 @@
 ||pgcollect.com^
 ||pgdb1.surf-town.net^
 ||pgdbb1.surf-town.net^
+||pgepkagfndl.com^
 ||pgfxwbgema.com^
 ||pgkdyhdhul.com^
 ||pgl.example0101^
@@ -43338,6 +43390,7 @@
 ||pinkintim.com^
 ||pinkstar.pl^
 ||pinlrzucbjt.com^
+||pinnaclecustomermetrics.com^
 ||pinpoint.us-east-1.amazonaws.com^
 ||pioneeringad.com^
 ||pip-pip-pop.com^
@@ -44565,6 +44618,7 @@
 ||prnxtmtbbqs.bid^
 ||pro-advert.de^
 ||pro-advertising.com^
+||pro-insights.snapchat.com^
 ||pro-market.net^
 ||pro-partners.nl^
 ||pro-pro-go.com^
@@ -46504,6 +46558,7 @@
 ||rbtpsbtzh.com^
 ||rbtqofrkiixz.com^
 ||rbuowrinsjsx.com^
+||rbuppjvcn.com^
 ||rbvfibdsouqz.com^
 ||rbxfree.com^
 ||rbyjirwjbibz.com^
@@ -47891,6 +47946,7 @@
 ||rt.rakuten.co.jp^
 ||rta.dailymail.co.uk^
 ||rta2.metro.co.uk^
+||rtam-collector.snapchat.com^
 ||rtaofgamnnfh.com^
 ||rtapi.abbi.io^
 ||rtb-adsterra.flshtrk.store^
@@ -48549,6 +48605,7 @@
 ||sayutracking.co.uk^
 ||sayyac.com^
 ||sayyac.net^
+||sayzziir.com^
 ||sazadubo48.bid^
 ||sb-money.ru^
 ||sb.vevo.com^
@@ -49289,6 +49346,7 @@
 ||sensor.org.ua^
 ||sentemanactri.com^
 ||sentifi.com^
+||sentinel.twitchsvc.net^
 ||sentrapromosi.com^
 ||sentrol.cl^
 ||sentry-cdn.com^
@@ -49402,6 +49460,7 @@
 ||servedbyopenx.com^
 ||servemeads.com^
 ||servemoney.ru^
+||server-analytics.snapchat.com^
 ||server-corporation.com^
 ||server-ssl.yieldmanaged.com^
 ||server.adeasy.ru^
@@ -50077,6 +50136,7 @@
 ||sjgklyyyraghhrgimsepycygdqvezppyfjkqddhlzbimoabjae.com^
 ||sjgttcfj.com^
 ||sjguild.com^
+||sjjazrfvzbkt.com^
 ||sjkcufcpgzsno.bid^
 ||sjlgoazubflpcs.com^
 ||sjmwugmtfeuu.com^
@@ -52369,6 +52429,7 @@
 ||stickylogic.com^
 ||sticoats.net^
 ||stiffnetwork.com^
+||stiffstem.com^
 ||stilanzeigen.net^
 ||still-innocent.info^
 ||stiltyulrmms.download^
@@ -52420,6 +52481,7 @@
 ||stormyshock.com^
 ||stormysponge.com^
 ||storoukr.net^
+||story-insights.snapchat.com^
 ||storygize.net^
 ||storystack.com^
 ||stoshoos.com^
@@ -52683,6 +52745,7 @@
 ||supertop.ru^
 ||supertop100.com^
 ||supertura.com^
+||supervisor.ext-twitch.tv^
 ||superwebs.pro^
 ||supload.com^
 ||supplements.1.p2l.info^
@@ -52784,6 +52847,7 @@
 ||sverd.net^
 ||svetyivanrilski.com^
 ||svfqoztfopv.com^
+||sviklutt.site^
 ||svision-online.de^
 ||svitnews.com^
 ||svivqrhrh.ru^
@@ -54443,6 +54507,7 @@
 ||tmfkuesmlpto.com^
 ||tmgcffep.bid^
 ||tmgr.ccmbg.com^
+||tmhfbwgpvzcxly.com^
 ||tmhgsorajits.com^
 ||tmhwggtg.bid^
 ||tmjavresvaqxly.bid^
@@ -54787,6 +54852,7 @@
 ||torstytons.pro^
 ||torvind.com^
 ||toryburchoutlet.info^
+||toseesulbvbe.com^
 ||tosfeed.com^
 ||tossm.com^
 ||tossoffads.com^
@@ -55661,6 +55727,7 @@
 ||tracking.mlsat02.de^
 ||tracking.mobile.de^
 ||tracking.moneyam.com^
+||tracking.monsido.com^
 ||tracking.moon-ray.com^
 ||tracking.moportals.com^
 ||tracking.motleyfool.com^
@@ -58752,6 +58819,7 @@
 ||visionads.de^
 ||visioncriticalpanels.com^
 ||visistat.com^
+||visit.asb.co.nz^
 ||visit.dealspwn.com^
 ||visit.geocities.com^
 ||visit.geocities.jp^
@@ -59756,6 +59824,7 @@
 ||webd.francite.com^
 ||webd.home.news.cn^
 ||webdata.vidz.com^
+||webdisk.ads.org^
 ||webdissector.com^
 ||webdiva3001.bravejournal.com^
 ||webeatyouradblocker.com^
