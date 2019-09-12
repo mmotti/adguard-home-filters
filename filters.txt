@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 11-09-2019 23:50 BST
-! Count: 63,880
+! Last Modified: 12-09-2019 23:50 BST
+! Count: 63,911
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -269,6 +269,7 @@
 ||110.6.87.194.dynamic.dol.ru^
 ||1100ad.com^
 ||1100i.com^
+||110380d053f716c4.com^
 ||111.6.87.194.dynamic.dol.ru^
 ||11165583-40348.id2.clickprotects.com^
 ||11167236.adscreendirect.com^
@@ -786,6 +787,7 @@
 ||29bca6cb72a665c8.se^
 ||29d16ed498.com^
 ||29d65cebb82ef9f.com^
+||2a12be6140880286.com^
 ||2ad.de^
 ||2al.pw^
 ||2amsports.com^
@@ -812,6 +814,7 @@
 ||2delllwrite.com^
 ||2dpt.com^
 ||2ds.ero-advertising.com^
+||2e27bf1f09307aeb.com^
 ||2el-2el-fie.com^
 ||2f5a1f1fab21a56.com^
 ||2fbanners.ero-advertising.com^
@@ -998,6 +1001,7 @@
 ||3bfkxta3dg.com^
 ||3bsoftware.com^
 ||3c0012ab95c132f.com^
+||3c06b86c4147745b.com^
 ||3c0cb3b4.space^
 ||3c34083bda22d8.com^
 ||3c41ddc0.se^
@@ -1130,6 +1134,7 @@
 ||44-trk-srv.com^
 ||44.6.87.194.dynamic.dol.ru^
 ||442c8891ec726f339.com^
+||442d9f2ac50ca502.com^
 ||4465ef53c8ffded.com^
 ||45.6.87.194.dynamic.dol.ru^
 ||459517eb349739b.com^
@@ -1357,6 +1362,7 @@
 ||600z.com^
 ||602d76e204c032.com^
 ||60608787.com^
+||6066bd8aab9d73e3.com^
 ||6068a17eed25.com^
 ||60ads.com^
 ||60secpanic.com^
@@ -1487,6 +1493,7 @@
 ||7218.pl^
 ||7228.eu^
 ||728x90.exad.me^
+||729dcbaa57e80c1e.com^
 ||72b8869dfc34690.com^
 ||72impala.com^
 ||73.6.87.194.dynamic.dol.ru^
@@ -9873,6 +9880,7 @@
 ||analytics.datahc.com^
 ||analytics.de.algolia.com^
 ||analytics.dev.springboardvideo.com^
+||analytics.developer.riotgames.com^
 ||analytics.digitouch.it^
 ||analytics.disneyinternational.com^
 ||analytics.dol.gr^
@@ -11605,6 +11613,7 @@
 ||aykosfkx.bid^
 ||aylarl.com^
 ||ayloqdal.bid^
+||aymaypibp.com^
 ||aymcsx.ru^
 ||aynachatsrv.com^
 ||ayozhcgcsyun.com^
@@ -14765,6 +14774,7 @@
 ||bwnrgfhbd.bid^
 ||bwoefrhtycp.com^
 ||bwohgwrk.com^
+||bwoipfjnvbw.com^
 ||bwp.download.com^
 ||bwp.mp3.com^
 ||bwp.news.com^
@@ -15456,6 +15466,7 @@
 ||cbxqceuuwnaz.com^
 ||cbxtnudkklwh.com^
 ||cbyjjheawrcfq.com^
+||cbzjukldosooj.com^
 ||cbzkrwjdskg.com^
 ||cc-analytics.trafficmanager.net^
 ||cc-dt.com^
@@ -15932,6 +15943,7 @@
 ||ceskarepublika.net^
 ||ceskydomov.alias.ngs.modry.cz^
 ||cesxssavc.com^
+||cetedaninghining.pro^
 ||cetlog.jp^
 ||cetrk.com^
 ||cettente.com^
@@ -17111,6 +17123,7 @@
 ||cmp.greenbot.com^
 ||cmp.macworld.co.uk^
 ||cmp.macworld.com^
+||cmp.network-n.com^
 ||cmp.pcworld.co.nz^
 ||cmp.pcworld.com^
 ||cmp.techadvisor.co.uk^
@@ -18896,6 +18909,7 @@
 ||cxqevkkfhdqu.bid^
 ||cxqmzfcfcwbwv.com^
 ||cxrmgoybhyrk.com^
+||cxt.deutsche-bank.de^
 ||cxt.ms^
 ||cxunpvor.com^
 ||cxxhkmuxdjsmw.com^
@@ -21708,6 +21722,7 @@
 ||e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com^
 ||e4aa8afa77b8.com^
 ||e521d17fa185a2.com^
+||e553bcf717698d33.com^
 ||e5mbjzv.com^
 ||e6081b73afec581f.com^
 ||e65ew88.com^
@@ -23527,6 +23542,7 @@
 ||f2958da6965fde48.com^
 ||f3.p0y.com^
 ||f35c5dba3b0b5b017.com^
+||f369a60bf483bcc9.com^
 ||f3a2dc11dfb33.com^
 ||f3c1cc473b337ded.com^
 ||f4.p0y.com^
@@ -25553,6 +25569,7 @@
 ||ga-beacon.appspot.com^
 ||ga.5.p2l.info^
 ||ga.canoe.ca^
+||ga.gfycat.com^
 ||ga.kvideo.io^
 ||ga.nsimg.net^
 ||ga.webdigi.co.uk^
@@ -26837,6 +26854,7 @@
 ||goplayz.com^
 ||gopogle.com^
 ||gopopup.com^
+||goprediction.com^
 ||gopuralverslakf.download^
 ||goraps.com^
 ||gordipucha.com^
@@ -31058,7 +31076,6 @@
 ||iupqelechcmj.com^
 ||iuqerfsodp9ifjaposdfjhgosurijfaewrwergwea.com^
 ||iuqerfsodp9ifjaposdfjhgosurijfaewrwergwff.com^
-||iurhxzmr.ga.gfycat.com^
 ||iurl.media.net^
 ||iusfpiadefunction.review^
 ||iutqdjtajrhpi.com^
@@ -31275,6 +31292,7 @@
 ||jairtejvkqiux.com^
 ||jaizouji.com^
 ||jajajaj-thats-you-really.com^
+||jajbufmcl.com^
 ||jajkgegza.com^
 ||jak-szybko-zarobic.com^
 ||jakpodrywacnatinderze.pl^
@@ -34900,6 +34918,7 @@
 ||lopley.com^
 ||lopon.pl^
 ||loponop.com^
+||loppjod.online^
 ||lopsidedspoon.com^
 ||lopuut.ru^
 ||loq-90.com^
@@ -36067,6 +36086,7 @@
 ||mbid.io^
 ||mbixofultnnd.com^
 ||mbixuxsfeoutfields.review^
+||mbjrejhbcaihz.com^
 ||mblapi.ssl2.duapps.com^
 ||mbmjqinvsil.com^
 ||mbmwfufkaxll.com^
@@ -39881,6 +39901,7 @@
 ||noiaifyednjt.com^
 ||noiselessplough.com^
 ||nojsstats.appspot.com^
+||nokaut.link^
 ||nokswnfvghee.com^
 ||nol.yahoo.com^
 ||noletdint.com^
@@ -40871,6 +40892,7 @@
 ||ocxxx.com^
 ||ocybtztforth.review^
 ||ocydwjnqasrn.com^
+||ocyhiome.com^
 ||ocyhpouojiss.com^
 ||oczqdwqnvhzz.bid^
 ||oczvtbskwbmj.com^
@@ -42107,6 +42129,7 @@
 ||ovgzbnjj.com^
 ||ovhomes.com^
 ||ovintic.ru^
+||oviwtvswp.com^
 ||ovjlgvapqhmpy.com^
 ||ovk.xceler8.io^
 ||ovkihcbxsbfeo.com^
@@ -42119,6 +42142,7 @@
 ||ovvddcpjqndfv.com^
 ||ovxvhtext.review^
 ||ovzmelkxgtgf.com^
+||ow.truesteamachievements.com^
 ||owabgxis.wp.pl^
 ||owap.su^
 ||owb101.goo.ne.jp^
@@ -46906,6 +46930,7 @@
 ||referdriving.com^
 ||referer.org^
 ||referforex.com^
+||refericon.pl^
 ||referlytics.com^
 ||referral-secrets.com^
 ||referral.game-insight.com^
@@ -55475,6 +55500,7 @@
 ||tracker.iqnomy.com^
 ||tracker.issuu.com^
 ||tracker.iws.vc^
+||tracker.jawcloud.co^
 ||tracker.jcstracker.net^
 ||tracker.joost.com^
 ||tracker.kantan-access.com^
@@ -56482,6 +56508,7 @@
 ||ts2.hockey-talks.com^
 ||ts777.com^
 ||tsandycateup.com^
+||tsastrmq.com^
 ||tscapeplay.com^
 ||tscl.com.bd^
 ||tscounter.com^
@@ -57642,6 +57669,7 @@
 ||urijswfbgh.com^
 ||urikbkwiwy.bid^
 ||uriqirelle.xyz^
+||uriren.pw^
 ||uriuridfg.com^
 ||uriyuri.com^
 ||urjbglpktn.com^
@@ -58289,6 +58317,7 @@
 ||vdlvaqsbaiok.com^
 ||vdna-assets.com^
 ||vdnwtglxprwx.com^
+||vdo.ai^
 ||vdoing.com^
 ||vdojdljult.bid^
 ||vdopia.com^
@@ -58463,6 +58492,7 @@
 ||vfqwpoxshelfroom.review^
 ||vfsmtbtqducat.com^
 ||vfstdqercaffu.com^
+||vfsyklhwbxgq.com^
 ||vfugvqbamwcjwz.bid^
 ||vfvbarhywkjsf.com^
 ||vfvjddae.bid^
@@ -61849,6 +61879,7 @@
 ||xoqwirroygxv.com^
 ||xoredi.com^
 ||xorgwebs.webs.com^
+||xorotmjjst.com^
 ||xotsa.frenchgerlemanelectric.com^
 ||xovq5nemr.com^
 ||xoyoijhp.com^
