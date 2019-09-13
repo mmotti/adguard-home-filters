@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 12-09-2019 23:50 BST
-! Count: 63,911
+! Last Modified: 13-09-2019 23:50 BST
+! Count: 63,948
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -11601,6 +11601,8 @@
 ||ayandns.com^
 ||ayboll.com^
 ||ayboll.sgsrv.com^
+||ayc0zsm69431gfebd.info^
+||ayc0zsm69431gfebd.xyz^
 ||ayclinical.com^
 ||aycwvgrra.com^
 ||ayehcleaners.com^
@@ -17661,6 +17663,7 @@
 ||connexionsecure.com^
 ||connexity.net^
 ||connexplace.com^
+||connext-cdn.ec.azureedge.net^
 ||connextra.com^
 ||connor-kauft.de^
 ||connotenrrvlxq.download^
@@ -17811,6 +17814,7 @@
 ||conversionlogic.net^
 ||conversionly.com^
 ||conversionruler.com^
+||conversions.genieventures.co.uk^
 ||convertcart.com^
 ||convertexperiments.com^
 ||convertglobal.com^
@@ -19203,6 +19207,7 @@
 ||d1vh0xkmncek4z.cloudfront.net^
 ||d1vrcwxei1aj0g.cloudfront.net^
 ||d1vwpe7grtcv9d.cloudfront.net^
+||d1wa9546y9kg0n.cloudfront.net^
 ||d1wi563t0137vz.cloudfront.net^
 ||d1wjz6mrey9f5v.cloudfront.net^
 ||d1wscoizcbxzhp.cloudfront.net^
@@ -19814,6 +19819,7 @@
 ||datacoral.com^
 ||datacoral.io^
 ||datacratic-px.com^
+||datadoghq-browser-agent.com^
 ||datadome.co^
 ||datafeedfile.com^
 ||dataforce.net^
@@ -19886,6 +19892,7 @@
 ||daz.com^
 ||dazeurbht.download^
 ||dazhantai.com^
+||db-ip.com^
 ||db.advertising.com^
 ||db.riskwaters.com^
 ||db14a56766c5e1a1c2.com^
@@ -21504,6 +21511,7 @@
 ||dvsrlrnpyxwv.com^
 ||dvszrkspd.com^
 ||dvt4pepo9om3r.cloudfront.net^
+||dvtwezyzog.com^
 ||dvzyppnmfgtr.com^
 ||dw-eu.com.com^
 ||dw.cbsi.com.cn^
@@ -21771,6 +21779,7 @@
 ||eaffzvnyj.com^
 ||eahkxyuezqvx.com^
 ||eaidabmuxbqy.com^
+||eajmyphr.com^
 ||eaknxurdsogwr.com^
 ||eanalyzer.de^
 ||eaolnbvd.com^
@@ -22524,6 +22533,7 @@
 ||engine.turboroller.ru^
 ||engine212.com^
 ||engine64.com^
+||engineering.convertkit.com^
 ||enginenetwork.com^
 ||engineseeker.com^
 ||englobingoopmzqu.download^
@@ -23015,6 +23025,7 @@
 ||eum-appdynamics.com^
 ||eum-col.appdynamics.com^
 ||eum-image.appdynamics.com^
+||eum-iot-col.appdynamics.com^
 ||eum.concursolutions.com^
 ||euniverseads.com^
 ||eunysqxppf.bid^
@@ -24490,6 +24501,8 @@
 ||flirtingsms.com^
 ||flite.com^
 ||fliteilex.com^
+||flittz-cdn.azureedge.net^
+||flittz.com^
 ||flix16.com^
 ||flix360.com^
 ||flixcar.com^
@@ -24791,6 +24804,7 @@
 ||foxx.to^
 ||foxypp.com^
 ||fp-analytics.hotstar.com^
+||fp-cdn.azureedge.net^
 ||fp.gad-network.com^
 ||fp.oneshotdate.com^
 ||fpa.ero-advertising.com^
@@ -25554,6 +25568,7 @@
 ||g2546417787.com^
 ||g27zkdvsxl.com^
 ||g2921554487.com^
+||g2insights-cdn.azureedge.net^
 ||g3369554495.com^
 ||g344530742.com^
 ||g36525192.com^
@@ -27469,6 +27484,7 @@
 ||gzrlatbooqmt.com^
 ||gzumjmvqjkki.com^
 ||gzuvyhqb.com^
+||gzxdkaytxdsyxg.com^
 ||gzxjfkhwvhwfzr.com^
 ||gzyddiyiyme.bid^
 ||gzzctcekf.com^
@@ -30893,6 +30909,7 @@
 ||ireklama.cz^
 ||ireklama.mk^
 ||irelandmetrix.ie^
+||irene.dictionary.com^
 ||irepdeliver.com^
 ||iretlniy.bid^
 ||irfiysdcrnleu.com^
@@ -31503,6 +31520,7 @@
 ||jffdktcyr.com^
 ||jffhbunkrxmyhf.bid^
 ||jffwwuyychxw.com^
+||jfgbdjhyc.com^
 ||jfhoq.com^
 ||jfhupoqrydm.com^
 ||jfjuhxfllw.com^
@@ -32813,6 +32831,7 @@
 ||kjgh5o.com^
 ||kjhdoend.com^
 ||kjhkgh.skroc.pl^
+||kjiiatolx.com^
 ||kjizuuuvqbcd.com^
 ||kjjlucebvxtu.com^
 ||kjkdagfnjm.bid^
@@ -34601,6 +34620,7 @@
 ||lo2.me^
 ||loa-traffic.com^
 ||load.s3.amazonaws.com^
+||loader-cdn.azureedge.net^
 ||loader-tor.ru^
 ||loadercdn.com^
 ||loading-delivery1.com^
@@ -35875,6 +35895,7 @@
 ||marketing365.mk^
 ||marketingautomation.services^
 ||marketingenhanced.com^
+||marketingg2.com^
 ||marketinghub.hp.com^
 ||marketingmachine.co.za^
 ||marketingsecrets.com^
@@ -36400,6 +36421,7 @@
 ||mediaonenetwork.net^
 ||mediaonpro.com^
 ||mediapartner.bigpoint.net^
+||mediapass.com^
 ||mediapeartree.com^
 ||mediapeo.com^
 ||mediapixelnet.com^
@@ -37058,6 +37080,7 @@
 ||mfxzxrveb.com^
 ||mg.dt00.net^
 ||mg.dt07.net^
+||mg2assetsdev.blob.core.windows.net^
 ||mg2connext.com^
 ||mg6ikpbhco.com^
 ||mgage.com^
@@ -42251,6 +42274,7 @@
 ||oxcluster.com^
 ||oxcpvsxgegd.com^
 ||oxen.hillcountrytexas.com^
+||oxfjlzyhxjihk.com^
 ||oxiads.fr^
 ||oxidy.com^
 ||oxlerco.info^
@@ -43291,6 +43315,7 @@
 ||phqqzdemby.bid^
 ||phragnmpo.com^
 ||phskaieua.com^
+||phtfydtpxkdhmo.com^
 ||phudrour.net^
 ||phukrovo.com^
 ||phunware.com^
@@ -44672,9 +44697,11 @@
 ||proclivitysystems.com^
 ||prod-e.sprtad.com^
 ||prod-metro-collector.cloudapp.net^
+||prod-mng-proxy-connext.azurewebsites.net^
 ||prod-services.interactiveone.com^
 ||prod.appnexus.map.fastly.net^
 ||prod.outbrain.map.fastlylb.net^
+||prodmg2.blob.core.windows.net^
 ||producebreed.com^
 ||producer.getwisdom.io^
 ||production-adserver-666328397.us-east-1.elb.amazonaws.com^
@@ -46768,6 +46795,7 @@
 ||reate.info^
 ||reauthenticator.com^
 ||rebeccacella.com^
+||rebel.ai^
 ||rebelsubway.com^
 ||reberr.pro^
 ||rebevengwas.com^
@@ -48200,6 +48228,7 @@
 ||rwphwhdoktfq.com^
 ||rwqckakqfq.ru^
 ||rwt.reichelt.de^
+||rwtbgaguhmfj.com^
 ||rwtvvdspsbll.com^
 ||rwugdvqdpxfz.com^
 ||rwugglxboxgw.com^
@@ -51416,6 +51445,7 @@
 ||srv-eu-ldn-9.buysellads.com^
 ||srv-eu-nl-10.buysellads.com^
 ||srv-eu-nl-11.buysellads.com^
+||srv-eu-nl-13.buysellads.com^
 ||srv-eu-nl-5.buysellads.com^
 ||srv-eu-nl-6.buysellads.com^
 ||srv-eu-nl-7.buysellads.com^
@@ -51431,6 +51461,7 @@
 ||srv-us-ny-14.buysellads.com^
 ||srv-us-ny-17.buysellads.com^
 ||srv-us-ny-18.buysellads.com^
+||srv-us-ny-20.buysellads.com^
 ||srv-us-ny-7.buysellads.com^
 ||srv-us-ny-8.buysellads.com^
 ||srv-us-ny-9.buysellads.com^
@@ -54938,6 +54969,7 @@
 ||tpbproxyone.org^
 ||tpc.googlesyndication.com.proxy.c9w.net^
 ||tpdowdhhn.com^
+||tpdpidgyjhjn.com^
 ||tperkulpflry.bid^
 ||tpesjhkf.bid^
 ||tpfnibqjrpcj.com^
@@ -56553,6 +56585,7 @@
 ||tsygari.info^
 ||tsyndicate.com^
 ||tsyuftaindignance.review^
+||tt-staging.omtrdc.net^
 ||tt.biquge.la^
 ||tt.omtrdc.net^
 ||tt.twzui6.com^
@@ -57418,6 +57451,7 @@
 ||unifini.de^
 ||unifomushop.com^
 ||uniform-fc.com^
+||unify.media.net^
 ||unikmmqybjy.com^
 ||union.56.com^
 ||union.6.cn^
@@ -57717,6 +57751,7 @@
 ||us.3zs0.date^
 ||us.a1.yimg.com^
 ||us.a2.yimg.com^
+||us.appdynamics.com^
 ||us.b1.yimg.com^
 ||us.b3018.pw^
 ||us.c1.yimg.com^
@@ -61308,6 +61343,7 @@
 ||wyksoovox.bid^
 ||wyleczpc.pl^
 ||wylnauxhkerp.com^
+||wymoviciyvj.com^
 ||wynather.com^
 ||wypad3k0.blogspot.com^
 ||wypyocogs.bid^
@@ -61638,6 +61674,7 @@
 ||xgefmxd.ru^
 ||xghfi97mk6.com^
 ||xghretunapafes.com^
+||xgievxfxhy.com^
 ||xgmc6lu8fs.me^
 ||xgmlmmulciz.com^
 ||xgogi.com^
