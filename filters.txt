@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 21-09-2019 23:50 BST
-! Count: 64,134
+! Last Modified: 22-09-2019 23:50 BST
+! Count: 64,209
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -5270,6 +5270,7 @@
 ||ads.ersamedia.ch^
 ||ads.esmas.com^
 ||ads.etoiledirect.com^
+||ads.eu.msn.com^
 ||ads.eudora.com^
 ||ads.eurogrand.com^
 ||ads.everyplay.com^
@@ -5567,6 +5568,7 @@
 ||ads.jokaroo.com^
 ||ads.jornadavirtual.com.mx^
 ||ads.jossip.com^
+||ads.jp.msn.com^
 ||ads.jpost.com^
 ||ads.jubii.dk^
 ||ads.juneauempire.com^
@@ -5741,6 +5743,7 @@
 ||ads.mrtones.com^
 ||ads.msn-ppe.com^
 ||ads.msn.co.il^
+||ads.msn.com^
 ||ads.mtv.uol.com.br^
 ||ads.multimania.lycos.fr^
 ||ads.musiccity.com^
@@ -6454,8 +6457,10 @@
 ||ads1.hpg.com.br^
 ||ads1.itadnetwork.co.uk^
 ||ads1.jev.co.za^
+||ads1.jp.msn.com^
 ||ads1.legalworld.bg^
 ||ads1.mediacapital.pt^
+||ads1.msn.com^
 ||ads1.nexdra.com^
 ||ads1.omdadget.com^
 ||ads1.perfadbrite.com.akadns.net^
@@ -6614,6 +6619,7 @@
 ||ads2.jubii.dk^
 ||ads2.ljworld.com^
 ||ads2.medianord.de^
+||ads2.msn.com^
 ||ads2.mynet.com^
 ||ads2.net-communities.co.uk^
 ||ads2.newtimes.com^
@@ -7434,7 +7440,6 @@
 ||adsglow.net^
 ||adsgroup.qq.com^
 ||adshack.com^
-||adshare.freedocast.com^
 ||adsharenetwork.com^
 ||adshark.site^
 ||adshell.net^
@@ -7693,6 +7698,7 @@
 ||adsxyz.com^
 ||adsy.mail.bg^
 ||adsymptotic.com^
+||adsyndication.msn.com^
 ||adsyndication.yelldirect.com^
 ||adsynergy.com^
 ||adsys.insert.bg^
@@ -8223,6 +8229,7 @@
 ||advertising.ie^
 ||advertising.illinimedia.com^
 ||advertising.ingame.de^
+||advertising.jp.msn.com^
 ||advertising.lycos.com^
 ||advertising.microsoft.com^
 ||advertising.net^
@@ -9200,7 +9207,6 @@
 ||ajmggjgrardn.com^
 ||ajmwuweeif.com^
 ||ajmyrtdiwvg.bid^
-||ajnad.aljazeera.net^
 ||ajoaorexnieym.com^
 ||ajocbplhzcvr.bid^
 ||ajokeaday.com^
@@ -9974,7 +9980,9 @@
 ||analytics.moviepilot.de^
 ||analytics.moz.com^
 ||analytics.mozzi.com^
+||analytics.msn.com^
 ||analytics.msnbc.com^
+||analytics.msnbc.msn.com^
 ||analytics.myfinance.com^
 ||analytics.myfinances.com^
 ||analytics.mytvzion.pro^
@@ -10896,6 +10904,7 @@
 ||arbadgika.ru^
 ||arbeitssuche-web.de^
 ||arbomedia.pl^
+||arc1.msn.com^
 ||arcade.ya.com^
 ||arcadebannerexchange.net^
 ||arcadebannerexchange.org^
@@ -14746,6 +14755,7 @@
 ||buyvalium.polybuild.ru^
 ||buyviagra.polybuild.ru^
 ||buyvicodinonline.veryweird.com^
+||buywing.com^
 ||buywords.de^
 ||buyxiaomimi6.com^
 ||buz2mobile.com^
@@ -14916,30 +14926,50 @@
 ||c.anytrx.com^
 ||c.aol.com^
 ||c.apple.com^
+||c.ar.msn.com^
+||c.at.msn.com^
 ||c.baidu.com^
+||c.be.msn.com^
 ||c.bing.com^
 ||c.bizjournals.com^
+||c.br.msn.com^
 ||c.bxjpl.cn^
+||c.ca.msn.com^
 ||c.cfjump.com^
+||c.cl.msn.com^
 ||c.cocacola.co.jp^
 ||c.computerbild.de^
 ||c.cpa5.ru^
 ||c.cpa6.ru^
 ||c.cpl2.ru^
 ||c.crazy-bee.com^
+||c.de.msn.com^
+||c.dk.msn.com^
 ||c.domob.cn^
 ||c.ecliks.com^
+||c.es.msn.com^
+||c.fi.msn.com^
+||c.fr.msn.com^
 ||c.gazetevatan.com^
 ||c.gcp.msas.media.net^
 ||c.gdt.qq.com^
 ||c.gmtrack.com^
+||c.gr.msn.com^
 ||c.grimuar.ru^
+||c.hk.msn.com^
 ||c.homestore.com^
+||c.id.msn.com^
+||c.ie.msn.com^
+||c.il.msn.com^
 ||c.imedia.cz^
+||c.in.msn.com^
 ||c.ina.media.net^
 ||c.ipaddress.com^
+||c.it.msn.com^
+||c.jp.msn.com^
 ||c.kakaku.com^
 ||c.la1-c2-phx.salesforceliveagent.com^
+||c.latam.msn.com^
 ||c.live.com^
 ||c.lomadee.com^
 ||c.m-a-d.jp^
@@ -14949,35 +14979,50 @@
 ||c.mobhubrdrms.com^
 ||c.msas.media.net^
 ||c.mscimg.com^
+||c.msn.com^
 ||c.msnbc.com^
 ||c.mtro.co^
 ||c.munmedtrflow.com^
+||c.my.msn.com^
 ||c.netu.tv^
 ||c.newsinc.com^
 ||c.ninemsn.com.au^
+||c.nl.msn.com^
+||c.no.msn.com^
 ||c.ns.inbox.lv^
 ||c.opinion.com.ua^
 ||c.orange.fr^
 ||c.paypal.com^
 ||c.perlentaucher.de^
+||c.ph.msn.com^
+||c.prodigy.msn.com^
+||c.pt.msn.com^
 ||c.pubguard.com^
 ||c.realtytrac.com^
 ||c.rhapsody.com^
 ||c.rmgserving.com^
+||c.ru.msn.com^
 ||c.sahcdn.com^
+||c.se.msn.com^
+||c.sg.msn.com^
 ||c.silvinst.com^
 ||c.spiegel.de^
 ||c.staging.ina.media.net^
 ||c.start280.com^
 ||c.t-online.de^
+||c.th.msn.com^
 ||c.thanksearch.com^
 ||c.thecounter.de^
+||c.tr.msn.com^
+||c.tw.msn.com^
+||c.uk.msn.com^
 ||c.vrvm.com^
 ||c.wen.ru^
 ||c.woopic.com^
 ||c.wort-suche.com^
 ||c.x.oanda.com^
 ||c.xbox.com^
+||c.za.msn.com^
 ||c00.adobe.com^
 ||c01.brickoffers.com^
 ||c03jij5q.website^
@@ -15201,7 +15246,6 @@
 ||cannabispicture.com^
 ||cannontwin.com^
 ||canoeklix.com^
-||canonresourcecenter.com^
 ||canopylabs.com^
 ||cantatricekrwutrlj.download^
 ||cantedmxcndjhm.download^
@@ -15229,6 +15273,7 @@
 ||caprofitx.adtop.com^
 ||caprofitx.com^
 ||capsizalsoxdxke.download^
+||capsquirrel.com^
 ||capsuledaily.com^
 ||captainad.com^
 ||captainbicycle.com^
@@ -15925,7 +15970,6 @@
 ||ceppartner.com^
 ||ceptavou.net^
 ||ceraitoa.com^
-||cerebral.typn.com^
 ||ceregete.com^
 ||ceromobi.club^
 ||ceros.com^
@@ -17081,6 +17125,7 @@
 ||clyksqxxdeduq.bid^
 ||clz3.net^
 ||clzfurcqmlgw.com^
+||cm.ac3.msn.com^
 ||cm.dpclk.com^
 ||cm.need2find.com^
 ||cm1359.com^
@@ -18680,6 +18725,7 @@
 ||cslogger.media.net^
 ||cslxhmchzgbx.com^
 ||csmail.iggcn.com^
+||csmcfetvb.com^
 ||csmqorveetie.com^
 ||csn-origin.media.net^
 ||csorigin.media.net^
@@ -20651,7 +20697,6 @@
 ||displacedijnnd.download^
 ||display.digitalriver.com^
 ||display.qc.coccoc.com^
-||display.superbay.net^
 ||displayadserv.adsimilate.com^
 ||displayadsmedia.com^
 ||displaybrowser.com^
@@ -23388,6 +23433,7 @@
 ||expandsearchanswers.com^
 ||expansilehsnpjlpb.download^
 ||expbl2ro.xbox.com^
+||expdb2.msn.com^
 ||expebtu.com^
 ||expectorslapsino.info^
 ||expepp.de^
@@ -24385,6 +24431,7 @@
 ||five88.com^
 ||fivecdm.com^
 ||fivzzu1vyo.com^
+||fiwatmctnaqec.com^
 ||fixbonus.com^
 ||fixcleaner.com^
 ||fixcounter.com^
@@ -24495,6 +24542,7 @@
 ||fleshlightcash.com^
 ||fleshlightgirls.com^
 ||fleshyourlight.com^
+||flex.msn.com^
 ||flexbanner.com^
 ||flexeril.1.p2l.info^
 ||flexibleadmin.com^
@@ -25525,6 +25573,7 @@
 ||fybrwdikdsvzt.com^
 ||fygpdajgtsqp.com^
 ||fyifssdoq.bid^
+||fykmahfa.com^
 ||fynprrom.com^
 ||fypbjnwbuz.bid^
 ||fyphnmoz.com^
@@ -25580,6 +25629,7 @@
 ||g.itespresso.fr^
 ||g.jwpsrv.com^
 ||g.letaojuan68.com^
+||g.msn.com^
 ||g.promosrv.com^
 ||g.silicon.de^
 ||g.siliconweek.es^
@@ -27543,14 +27593,17 @@
 ||h.live.com^
 ||h.ppjol.com^
 ||h.spill.com^
+||h1.msn.com^
 ||h1.ripway.com^
 ||h12-media.com^
 ||h1317070.stratoserver.net^
 ||h1666015.stratoserver.net^
+||h2.msn.com^
 ||h21.ru^
 ||h4k5.com^
 ||h5.wannaplay.cn^
 ||h5tjj3loy2.com^
+||h6.msn.com^
 ||h6y654wgfdhd.com^
 ||h78xb.pw^
 ||h83zvgrg29.com^
@@ -27572,6 +27625,7 @@
 ||hadczwhwfvhcc.com^
 ||hadecpjvwytpy.download^
 ||hadik.info^
+||hadlacrighterthen.pro^
 ||haedong.es.kr^
 ||haeg1ei.bid^
 ||haezawhdumz.bid^
@@ -28706,6 +28760,7 @@
 ||hpdmnmehzcor.com^
 ||hpkkzzyek.com^
 ||hpkwirncwvxo.com^
+||hplctrsd.com^
 ||hplgpoicsnea.com^
 ||hplose.de^
 ||hpltfwbm.com^
@@ -31422,6 +31477,7 @@
 ||javdict.disqus.com^
 ||javrdcyrgmdeeg.bid^
 ||jaxmbkhyr.com^
+||jaxwrwvxfscq.com^
 ||jayde.com^
 ||jaymancash.com^
 ||jaymedianetwork.com^
@@ -33930,6 +33986,7 @@
 ||leashac.com^
 ||leastsuuhyh.download^
 ||lebeiivzmm.com^
+||lebneeklnuru.com^
 ||lebqrivt.com^
 ||lebskmaewbhm.bid^
 ||lecap-services.fr^
@@ -34463,6 +34520,7 @@
 ||live.ec2.cxo.name^
 ||live.hyprmx.com^
 ||live.philips.com^
+||live.rads.msn.com^
 ||live3s.me^
 ||livead.jp^
 ||liveadclicks.com^
@@ -34591,7 +34649,6 @@
 ||lkuirehx.com^
 ||lkyuoybczr.com^
 ||lkzvhtetshbu.com^
-||ll.a.hulu.com^
 ||lladinserts.us.publicus.com^
 ||llanalytics.com^
 ||llaredlrgn.angelcities.com^
@@ -37849,6 +37906,7 @@
 ||mobileads.dieuviet.com^
 ||mobileads.ero-advertising.com^
 ||mobileads.mobilebanner.net^
+||mobileads.msn.com^
 ||mobileadspopup.com^
 ||mobileadtrading.com^
 ||mobileadvertisinghub.com^
@@ -37868,6 +37926,7 @@
 ||mobileiconnect.com^
 ||mobilejmp.com^
 ||mobilelandings.com^
+||mobileleads.msn.com^
 ||mobilelog.upqzfile.com^
 ||mobilemessenger.com^
 ||mobilemetrics.appspot.com^
@@ -38237,7 +38296,6 @@
 ||mp.twitch.tv^
 ||mp3downloadhq.com^
 ||mp3helpdesk.com^
-||mp3ix.com^
 ||mp3playersource.com^
 ||mp3red.cc^
 ||mp3toavi.xyz^
@@ -38387,10 +38445,10 @@
 ||msmaijsxlo.com^
 ||msmetrics.ws.sonos.com^
 ||msmyjmkshh.bid^
-||msn.com^
 ||msn.uvwbox.de^
 ||msn1.com^
 ||msnads-wm9.fplive.net^
+||msnbot-65-55-108-23.search.msn.com^
 ||msnhome.com^
 ||msnhomepage.com^
 ||msnm.com^
@@ -39314,6 +39372,7 @@
 ||negdrvgo.com^
 ||negolist.com^
 ||negomes.info^
+||nehersheteen.pro^
 ||nehmhyktj.bid^
 ||nehuha.ru^
 ||neieiqiqfepwb.com^
@@ -42117,6 +42176,7 @@
 ||otdgnmvw.com^
 ||otefauks.link^
 ||otewxlcmkih.com^
+||otf.msn.com^
 ||otfquqgqvsjof.com^
 ||othepbuttit.com^
 ||othere.info^
@@ -42748,6 +42808,7 @@
 ||partner.tagscreator.com^
 ||partner.teufel.de^
 ||partner.topcities.com^
+||partner.video.syndication.msn.com^
 ||partner.wapacz.pl^
 ||partner.worldoftanks.com^
 ||partner.zooplus.de^
@@ -44303,6 +44364,7 @@
 ||popup-rotation.de^
 ||popup-traffic.com^
 ||popup.matchmaker.com^
+||popup.msn.com^
 ||popup.smusic.ir^
 ||popup.softreklam.com^
 ||popupad.net^
@@ -44687,6 +44749,7 @@
 ||prevacid.1.p2l.info^
 ||prevalue.pl^
 ||prevent-asian-flu.com^
+||preview.msn.com^
 ||previousplayground.com^
 ||previouspotato.com^
 ||prexista.com^
@@ -45144,6 +45207,7 @@
 ||proxy4life.org^
 ||proxyfl.info^
 ||proxyindia.net^
+||proxypage.msn.com^
 ||proxytpb.pw^
 ||prpkhpjxghhn.com^
 ||prpops.com^
@@ -46463,6 +46527,7 @@
 ||r.migch.com^
 ||r.mobhubrdrms.com^
 ||r.movad.de^
+||r.msn.com^
 ||r.my.com^
 ||r.myadx.net^
 ||r.offnews.bg^
@@ -46523,6 +46588,7 @@
 ||raconteurnvlwsc.download^
 ||rad.live.com^
 ||rad.microsoft.com^
+||rad.msn.com^
 ||radar.cedexis.swiftserve.com^
 ||radar.imgsmail.ru^
 ||radar11ab.co.uk^
@@ -47209,6 +47275,7 @@
 ||rekovers.ru^
 ||rekrutacja.zafriko.pl^
 ||rekvid1.ru^
+||rel.msn.com^
 ||relap.io^
 ||relapayssia.xyz^
 ||relatable.top^
@@ -47705,6 +47772,7 @@
 ||rjtcrxzd.com^
 ||rjveitlz.com^
 ||rjwdhpxdrufbcg.com^
+||rjwotofyxoszk.com^
 ||rjxspgol.com^
 ||rjyihkorkewq.com^
 ||rkaxivxdtws.com^
@@ -47751,6 +47819,8 @@
 ||rlxmbkwcyw.com^
 ||rlypbeouoxxw.com^
 ||rm.tapuz.co.il^
+||rmads.eu.msn.com^
+||rmads.msn.com^
 ||rmawm7mw.top^
 ||rmbilhzcytee.com^
 ||rmbn.net^
@@ -48671,6 +48741,7 @@
 ||salon77.co.uk^
 ||saltamendors.com^
 ||salvador24.com^
+||sam.msn.com^
 ||sam.setimedia.com^
 ||samaclub.com^
 ||sambaads.com^
@@ -50207,6 +50278,7 @@
 ||sisyfos.se^
 ||sisyqzktimhrgo.com^
 ||sit.com.tr^
+||sitcom24.com^
 ||site-analyzer.com^
 ||site-checksite.tk^
 ||site-id.nl^
@@ -52837,6 +52909,7 @@
 ||suggesttool.com^
 ||sugh8yami.com^
 ||sugoicounter.com^
+||sugqlryshxarn.com^
 ||sugs.m.sm.cn^
 ||suhprdfb.bid^
 ||suhunsoo.uk^
@@ -55937,6 +56010,7 @@
 ||tracking.moon-ray.com^
 ||tracking.moportals.com^
 ||tracking.motleyfool.com^
+||tracking.msadcenter.msn.com^
 ||tracking.musixmatch.com^
 ||tracking.mvsuite.de^
 ||tracking.mycapture.com^
@@ -57253,6 +57327,7 @@
 ||udbmqqkl.bid^
 ||udbtmvuoncdtrg.com^
 ||udbwpgvnalth.com^
+||udc.msn.com^
 ||udc.yahoo.com^
 ||udcufwvt.com^
 ||uddlywcatarrhs.review^
@@ -57509,6 +57584,7 @@
 ||ultratokensx.com^
 ||ultratrck.com^
 ||ultsearch.com^
+||ulufyprtd.com^
 ||ulwsjpfxwniz.com^
 ||ulyppmnm.bid^
 ||um-public-panel-prod.s3.amazonaws.com^
@@ -58876,7 +58952,6 @@
 ||videovfr.com^
 ||videovikt.com^
 ||videovint.com^
-||videozr.com^
 ||videsjs.com^
 ||vidfile.net^
 ||vidgain.com^
@@ -59049,7 +59124,6 @@
 ||visit.geocities.com^
 ||visit.geocities.jp^
 ||visit.hepsiburada.com^
-||visit.homepagle.com^
 ||visit.mobot.net^
 ||visit.theglobeandmail.com^
 ||visit.webhosting.yahoo.com^
@@ -59346,6 +59420,7 @@
 ||vortex-sandbox.data.microsoft.com^
 ||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com^
+||vortex.data.msn.com^
 ||vortex.hulu.com.akadns.net^
 ||vortex.hulu.com^
 ||vortextraffic.com^
