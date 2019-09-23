@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 22-09-2019 23:50 BST
-! Count: 64,209
+! Last Modified: 23-09-2019 23:50 BST
+! Count: 64,228
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -147,6 +147,7 @@
 ||0azx1.com^
 ||0b6e714203b6797e8d4.com^
 ||0b9d84d93f1b.com^
+||0byv9mgbn0.com^
 ||0c8a10b46fc6.com^
 ||0d847862199.com^
 ||0dax.com^
@@ -1073,7 +1074,6 @@
 ||3wr110.xyz^
 ||3wt4c.com^
 ||3xit.net^
-||3xlist.com^
 ||3xtraffic.com^
 ||4-counter.com^
 ||4.6.87.194.dynamic.dol.ru^
@@ -1688,6 +1688,7 @@
 ||88d7b6aa44fb8eb.com^
 ||88infra-strat.com^
 ||88shu.cn^
+||88viet.com^
 ||89.6.87.194.dynamic.dol.ru^
 ||89eb01f7f8503aef.com^
 ||89tmolir.top^
@@ -2115,7 +2116,6 @@
 ||aaa.aj5.info^
 ||aaa.at4.info^
 ||aaa.japanxvideos.mobi^
-||aaa419.com^
 ||aaacompany.net^
 ||aaaf.jp^
 ||aaannuairex.com^
@@ -2477,7 +2477,6 @@
 ||acnsavlosahs.com^
 ||acompanhantesbrasil.com.br^
 ||acompanhantesdeportugal.com^
-||acompanhantesportoalegre.net^
 ||acookie.alibaba.com^
 ||acookie.aliexpress.com^
 ||acookie.taobao.com^
@@ -2521,7 +2520,6 @@
 ||act.poznan.pl^
 ||actiagroup.com^
 ||actiflex.org^
-||actingonacts.com^
 ||action.evrikak.ru^
 ||action.ientry.net^
 ||actionads.ru^
@@ -3874,6 +3872,7 @@
 ||add.in.ua^
 ||add.newmedia.cz^
 ||addaim.com^
+||addan.xyz^
 ||addapptr.com^
 ||addash.co^
 ||addbags.com^
@@ -9149,7 +9148,6 @@
 ||airmore.co^
 ||airnetinfotech.com^
 ||airpb.com^
-||airportaxi.pl^
 ||airportsys.com^
 ||airpr.com^
 ||airproxybay.ar^
@@ -9956,7 +9954,6 @@
 ||analytics.kwebsoft.com^
 ||analytics.ladmedia.fr^
 ||analytics.leadlifesolutions.net^
-||analytics.levelaccess.net^
 ||analytics.leviton.com^
 ||analytics.linkwelove.com^
 ||analytics.live.com^
@@ -10223,7 +10220,6 @@
 ||angege.com^
 ||angeing.info^
 ||angeinge.com^
-||angel-x.com^
 ||angelalittle.net^
 ||angelas-place.com^
 ||angelbetting.com^
@@ -10368,6 +10364,7 @@
 ||anzeigen-vor-ort.de^
 ||anzeigen.bei-uns.de^
 ||anzeigenlieferant.de^
+||ao-freegeoip.herokuapp.com^
 ||aobocker.se^
 ||aobyp1una641o8.com^
 ||aocular.com^
@@ -10496,7 +10493,6 @@
 ||api.kiip.me^
 ||api.lanistaads.com^
 ||api.lazyswipe.com^
-||api.levelaccess.net^
 ||api.linkgist.com^
 ||api.magmamobile.com^
 ||api.miui.security.xiaomi.com^
@@ -10913,6 +10909,7 @@
 ||arcadechain.com^
 ||arcadefree.com^
 ||arcadeweb.com^
+||arcartall.club^
 ||arcfwcxi.com^
 ||arch-nicto.com^
 ||archigate.it^
@@ -10965,6 +10962,7 @@
 ||arm2pie.com^
 ||armame.info^
 ||armanix.white.prohosting.com^
+||armantark.com^
 ||armsart.com^
 ||armstrongsystems.bizland.com^
 ||arolrurt.uk^
@@ -15455,6 +15453,7 @@
 ||cayaaebmb.com^
 ||caycecole.com^
 ||caygh.com^
+||caykotranybjvx.com^
 ||cayqecxokz.com^
 ||cb-content.com^
 ||cb.baidu.com^
@@ -15665,6 +15664,7 @@
 ||cdn.dirjournal.com^
 ||cdn.download.sweetpacks.com^
 ||cdn.downloaddabs.com^
+||cdn.driveback.ru^
 ||cdn.dustyorate.com^
 ||cdn.employchannel.info^
 ||cdn.epommarket.com^
@@ -15701,7 +15701,6 @@
 ||cdn.klasseo.com^
 ||cdn.lazymem.com^
 ||cdn.lazymic.com^
-||cdn.levelaccess.net^
 ||cdn.likeaced.com^
 ||cdn.livechatinc.com^
 ||cdn.lodeo.io^
@@ -17073,6 +17072,7 @@
 ||clotezar.com^
 ||clothiquet.info^
 ||clottingsuoxiz.download^
+||cloud-commerce-visit.oracleoutsourcing.com^
 ||cloud-exploration.com^
 ||cloud-iq.com^
 ||cloud.roistat.com^
@@ -20722,6 +20722,7 @@
 ||dit-dit-dot.com^
 ||ditabu.pro^
 ||ditdotsol.com^
+||ditds.xyz^
 ||ditincoriligh.pro^
 ||ditouyldfqgt.com^
 ||ditwrite.com^
@@ -22598,7 +22599,6 @@
 ||engine.turboroller.ru^
 ||engine212.com^
 ||engine64.com^
-||engineering.convertkit.com^
 ||enginenetwork.com^
 ||engineseeker.com^
 ||englobingoopmzqu.download^
@@ -23381,7 +23381,6 @@
 ||exercially.mobi^
 ||exeroearu.bid^
 ||exfgumodulated.review^
-||exgrafix.com^
 ||exhibenfrance.com^
 ||exhibi-club.com^
 ||exhibicionismo-publico.com^
@@ -24514,6 +24513,7 @@
 ||flashclicks.com^
 ||flashgamestats.com^
 ||flashmediaportal.com^
+||flashplayerload.com^
 ||flashsavant.com^
 ||flashstats.libsyn.com^
 ||flashtalking.com^
@@ -24894,6 +24894,7 @@
 ||fpctraffic.com^
 ||fpctraffic2.com^
 ||fpdsavexteno.com^
+||fpeegzspcgnjt.com^
 ||fperefo.ru^
 ||fpfivothg.com^
 ||fpguuwnpkvqsq.bid^
@@ -25591,6 +25592,7 @@
 ||fzcgtfyn.bid^
 ||fzcgugzx.bid^
 ||fzcyyqvrbrpk.com^
+||fzeahussyd.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhwvlpnqg.bid^
 ||fzmogmfqh.com^
@@ -26005,6 +26007,7 @@
 ||gearnews.info^
 ||geazikjazoid.com^
 ||gebadu.com^
+||gecatikonstantin.ru^
 ||gecxceztcnhkmh.com^
 ||gedmodsxbebd.com^
 ||geebicom.net^
@@ -26682,6 +26685,7 @@
 ||gmyvids.com^
 ||gmyze.com^
 ||gmzaaeenp.com^
+||gmzdaily.com^
 ||gnadhzstittd.com^
 ||gnaizrodp.com^
 ||gnar.grammarly.com^
@@ -30707,7 +30711,6 @@
 ||interpolls.com^
 ||interracial-anal1.com^
 ||interracial-dating-services.info^
-||interracialfuckingporn.com^
 ||interracialpussy.com^
 ||interracialraw.com^
 ||interreklame.de^
@@ -32549,7 +32552,6 @@
 ||kavkazporno.com^
 ||kawmxbphaj.com^
 ||kaxsdc.com^
-||kayakingtrips.info^
 ||kayfdraimewk.com^
 ||kaykk.com^
 ||kaylaxxx.com^
@@ -34007,6 +34009,7 @@
 ||lefopost.com^
 ||leforma.com^
 ||lefos.net^
+||leftnetarenning.pro^
 ||legal-rewardpath.com^
 ||legal.appdynamics.com^
 ||legalizacja.5v.pl^
@@ -34085,6 +34088,7 @@
 ||leuojmgbkpcl.com^
 ||leuxq.com^
 ||level1cdn.com^
+||levelaccess.net^
 ||levelads.de^
 ||levelbehavior.com^
 ||levelpay.ru^
@@ -34116,7 +34120,6 @@
 ||leyuetuan.com^
 ||lezbiyanki.net^
 ||lezcuties.info^
-||lezrotic.com^
 ||lezzyporn.com^
 ||lfahycetwt.com^
 ||lfclktkwnc.com^
@@ -38308,6 +38311,7 @@
 ||mpay69.com^
 ||mpay69.pw^
 ||mpays.pw^
+||mpeasylink.com^
 ||mpfzgidlxsqtyt.com^
 ||mpgflvbe.com^
 ||mphqfyhswko.bid^
@@ -39777,7 +39781,6 @@
 ||ngbn.net^
 ||ngd.thesun.co.uk^
 ||ngecity.com^
-||ngenix.net^
 ||ngfsciiu.com^
 ||nginx-ad-stacka-1467818758.us-east-1.elb.amazonaws.com^
 ||ngkqlfcm.com^
@@ -43523,6 +43526,7 @@
 ||pictures.zooplus.com^
 ||pictureturn.com^
 ||picupload.tnaflix.com^
+||picznhen.com^
 ||pidbbdxixp.com^
 ||pidorg.ru^
 ||pieiron.co.uk^
@@ -44439,6 +44443,7 @@
 ||porno.biz.pl^
 ||pornoadvid.info^
 ||pornodanke.com^
+||pornogoogle.info^
 ||pornogrund.com^
 ||pornoizle-hd.com^
 ||pornojux.com^
@@ -46327,6 +46332,7 @@
 ||qued9yae1ai.info^
 ||queen-casino.info^
 ||queenmult.link^
+||queensiteforapp.com^
 ||queerestxyxlws.download^
 ||quensillo.com^
 ||queronamoro.com^
@@ -48211,6 +48217,7 @@
 ||rtbget.com^
 ||rtbidder.net^
 ||rtbinternet.com^
+||rtbiq.com^
 ||rtbmedia.org^
 ||rtbnowads.com^
 ||rtbpop.com^
@@ -50097,6 +50104,7 @@
 ||shorkads.de^
 ||shorlakmedia.com^
 ||shorte.st^
+||shorteh.com^
 ||shotyfy.com^
 ||shouxaum.net^
 ||shoveac.com^
@@ -51308,7 +51316,6 @@
 ||spankdatass.com^
 ||spanking-sex.com^
 ||spankmasters.com^
-||spankme.info^
 ||spankmedaddy.blogspot.com^
 ||spanksvrfvabcuq.download^
 ||spanktown.com^
@@ -51868,7 +51875,6 @@
 ||stagingjobshq.com^
 ||stain.tv^
 ||stainless-steel-producers.com^
-||stair.registrydomainservices.com^
 ||stairliftsarea.com^
 ||stairliftstrue.com^
 ||stakingscrew.com^
@@ -54797,6 +54803,7 @@
 ||tmqhw.us^
 ||tmrhtbbhrfbx.bid^
 ||tmrsjdxavhjgww.com^
+||tms-st.cdn.ngenix.net^
 ||tmsads.tribune.com^
 ||tmserver-1.com^
 ||tmserver-2.net^
@@ -55323,6 +55330,7 @@
 ||track.analyticsbridge.io^
 ||track.anchorfree.com^
 ||track.anideaevolves.com^
+||track.aplaut.io^
 ||track.ashley-george.com^
 ||track.atgstores.com^
 ||track.atom-data.io^
@@ -57423,6 +57431,7 @@
 ||ugwctmus.bid^
 ||ugwkyqdbmpwbbi.com^
 ||ugxqfkslreop.bid^
+||ugxshqnodoha.com^
 ||ugxyemavfvlolypdqcksmqzorlphjycckszifyknwlfcvxxihx.com^
 ||ugyymqcxyoi.bid^
 ||ugzpvflxa.com^
@@ -58315,6 +58324,7 @@
 ||uzbciwrwzzhs.com^
 ||uzekrs.com^
 ||uzesptwcwwmt.com^
+||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
 ||uzkkocgdasr.bid^
 ||uzljra.ru^
@@ -59324,6 +59334,9 @@
 ||vmyvsltb.com^
 ||vmyzwzgggbcp.com^
 ||vn.grab-credit4u.com^
+||vn88.bet^
+||vn88.casino^
+||vn88.com^
 ||vnadjbcsxfyt.com^
 ||vncvownr.bid^
 ||vndfakned.com^
@@ -59657,6 +59670,7 @@
 ||vvrlbbjlw.bid^
 ||vvrygjuozwps.com^
 ||vvscrhqok.com^
+||vvshsrdlf.com^
 ||vvtysgrbmx.com^
 ||vvvic.com^
 ||vvvnbqnhxgs.com^
@@ -59729,6 +59743,7 @@
 ||vyrvfojwci.bid^
 ||vyrwkkiuzgtu.com^
 ||vysdpgndbzylf.bid^
+||vysgpewbyfbiob.com^
 ||vyueglbpe.bid^
 ||vywujhsinxfa.com^
 ||vywycfxgxqlv.com^
@@ -60304,6 +60319,7 @@
 ||webstats4u.com^
 ||websuit.pl^
 ||websurvey.spa-mr.com^
+||websvn.info^
 ||webtalking.ru^
 ||webteaser.ru^
 ||webtemsilcisi.com^
@@ -60678,6 +60694,7 @@
 ||widgets.digg.com^
 ||widgets.digitalmediacommunications.com^
 ||widgets.fccinteractive.com^
+||widgets.fie-data.co.uk^
 ||widgets.future-fie.co.uk^
 ||widgets.getglue.com^
 ||widgets.goldankauf123.de^
@@ -61860,6 +61877,7 @@
 ||xdoygumiams.com^
 ||xdqjeggqm.com^
 ||xdqlnidntqmz.com^
+||xdqodcrayeat.com^
 ||xdqoopws.bid^
 ||xdrig.com^
 ||xdsydkgkbvwq.com^
@@ -64242,6 +64260,7 @@
 ||zzomiuob.com^
 ||zzoxzkpqmklr.com^
 ||zzptzdhugavot.review^
+||zzpzenvmibvm.com^
 ||zzqhsrg.ru^
 ||zzqnkezokbegc.bid^
 ||zzqrt.com^
