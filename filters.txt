@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 27-09-2019 23:50 BST
-! Count: 62,580
+! Last Modified: 28-09-2019 23:50 BST
+! Count: 62,614
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1379,6 +1379,7 @@
 ||65a29ceed813bbca61.com^
 ||65e750617ae8f0421.com^
 ||65mjvw6i1z.com^
+||65vk1fba34.com^
 ||65xps.com^
 ||66.6.87.194.dynamic.dol.ru^
 ||660a755deb8829fe.com^
@@ -1696,6 +1697,7 @@
 ||8live.com^
 ||8rf.com^
 ||8ruzz.allcpa.006238.xyz^
+||8s32e590un.com^
 ||8s8.eu^
 ||8si.ru^
 ||8streams.com^
@@ -3901,6 +3903,7 @@
 ||adengage.com^
 ||adengine.rt.ru^
 ||adengine.theglobe.net^
+||adentifi.com^
 ||adespresso.com^
 ||adeventtracker.spotify.com^
 ||adex.adchakra.net^
@@ -4003,6 +4006,7 @@
 ||adgear.com^
 ||adgebra.co.in^
 ||adgebra.in^
+||adgeiros.pw^
 ||adgenie.co.uk^
 ||adgent007.com^
 ||adgeo.163.com^
@@ -9068,6 +9072,7 @@
 ||aj1603.online^
 ||aj1616.online^
 ||aj1713.online^
+||aj1907.online^
 ||aj1913.online^
 ||aja-recommend.com^
 ||ajaeihzlcwvn.com^
@@ -9975,6 +9980,7 @@
 ||analytics.zhihu.com^
 ||analytics.ziftsolutions.com^
 ||analytics00.meride.tv^
+||analytics2.socialblade.com^
 ||analyticsapi.bsbportal.com^
 ||analyticschecker.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -13664,7 +13670,6 @@
 ||blwfqlmhi.com^
 ||blwgtqakqaxemz.com^
 ||blyppvdjofkqg.bid^
-||bm.adentifi.com^
 ||bm.annonce.cz^
 ||bm.hbtronix.de^
 ||bm23.com^
@@ -14360,6 +14365,7 @@
 ||business.sharedcount.com^
 ||businessbells.com^
 ||businesscare.com^
+||businessclick.ch^
 ||businessclick.com^
 ||businessdealsblog.com^
 ||businessdirectnessource.com^
@@ -16714,6 +16720,7 @@
 ||clockdisplaystoring.com^
 ||clod.pw^
 ||clog.go.com^
+||cloisteredcord.com^
 ||cloisteredhydrant.com^
 ||clomggnzxsyf.bid^
 ||clonezilla.es^
@@ -17637,6 +17644,7 @@
 ||count.infoemail.gamexp.ru^
 ||count.iwbank.it^
 ||count.joy.cn^
+||count.kandian.com^
 ||count.livetv.ru^
 ||count.livetv.sx^
 ||count.ly^
@@ -17662,6 +17670,7 @@
 ||count.timedg.com^
 ||count.upc.rakuten.co.jp^
 ||count.video.sina.com.cn^
+||count.vrs.sohu.com^
 ||count.west263.com^
 ||count.windows9download.net^
 ||count.yandeg.ru^
@@ -19063,7 +19072,6 @@
 ||d3e44a82c2df88.com^
 ||d3elm8wezzwg42.cloudfront.net^
 ||d3emsmln8xfj03.cloudfront.net^
-||d3eokk6ya562p5.cloudfront.net^
 ||d3ezl4ajpp2zy8.cloudfront.net^
 ||d3f9mcik999dte.cloudfront.net^
 ||d3fqhkmofpujs3.cloudfront.net^
@@ -22673,6 +22681,7 @@
 ||events.reddit.com^
 ||events.redditmedia.com^
 ||events.secureserver.net^
+||events.sk.ht^
 ||events.snacktv.de^
 ||events.streamrail.net^
 ||events.turbosquid.com^
@@ -26002,6 +26011,7 @@
 ||glordd.com^
 ||glorinlost.rocks^
 ||glosowanie.ujm.pl^
+||glossingly.com^
 ||glossom.co.jp^
 ||glossom.jp^
 ||glossysense.com^
@@ -26621,6 +26631,7 @@
 ||grmtech.net^
 ||grnrmwxf.com^
 ||grobido.info^
+||gromairt.net^
 ||groogloo.net^
 ||grooveshark.fr^
 ||groovinads.com^
@@ -28947,6 +28958,7 @@
 ||ifyngpctovtv.com^
 ||ifyoublockthisvideotoo.club^
 ||ig0nr8hhhb.com^
+||ig8al3mkou.com^
 ||igadgetsworld.com^
 ||igagh.tourstogo.us^
 ||igain-mail.co.uk^
@@ -31340,6 +31352,7 @@
 ||js.francite.com^
 ||js.ftp0118.info^
 ||js.gdsln.ru^
+||js.high-minded.net^
 ||js.hs-scripts.com^
 ||js.hscollectedforms.net^
 ||js.hsleadflows.net^
@@ -33257,6 +33270,7 @@
 ||legjava.pro^
 ||legolas-media.com^
 ||leisure-offer.com^
+||lejhdbxl.com^
 ||lejournaldescarrieres.com^
 ||lelexw.com^
 ||lemetri.info^
@@ -34749,6 +34763,7 @@
 ||m.czbiw.com^
 ||m.dubcm.com^
 ||m.fexiaen.com^
+||m.hbstjt88.cn^
 ||m.helloworld2018.top^
 ||m.jakc0.com^
 ||m.jsqinvest.com^
@@ -38814,6 +38829,7 @@
 ||nidtest.timesink.com^
 ||niechoruje.pl^
 ||niematego.tk^
+||nieveni.com^
 ||niftymaps.com^
 ||nifyalnngdhb.com^
 ||nightened.com^
@@ -39088,6 +39104,7 @@
 ||normour.com^
 ||normygvd.bid^
 ||nornelis.pw^
+||norteevu.com^
 ||northclick-statistiken.de^
 ||northlandtimeshares.com^
 ||northmay.com^
@@ -40003,6 +40020,7 @@
 ||octafx.com^
 ||octagonize.com^
 ||octavius.rocks^
+||octclck.xyz^
 ||octobird.com^
 ||octoclick.net^
 ||octomarket.com^
@@ -40803,6 +40821,7 @@
 ||openstat.ru^
 ||opentag-stats.qubit.com^
 ||opentracker.net^
+||opentracking.ru^
 ||openunder.net^
 ||openvenue.com^
 ||openvn.com^
@@ -44383,6 +44402,7 @@
 ||pushnice.com^
 ||pushno.com^
 ||pushqwer.com^
+||pushrase.com^
 ||pushs.site^
 ||pushservice.one^
 ||pushwhy.com^
@@ -45056,6 +45076,7 @@
 ||qsstats.com^
 ||qstwmmuukimz.bid^
 ||qsxggbsthsk.bid^
+||qt54a.cn^
 ||qtahsbgdqbu.com^
 ||qtavukgrtgk.com^
 ||qtbvatpkwxq.com^
@@ -45783,6 +45804,7 @@
 ||receptiveink.com^
 ||receptivereaction.com^
 ||recessary.com^
+||reckinbuttiten.pro^
 ||recl.kulinar.bg^
 ||reclamus.com^
 ||reco.hardsextube.com^
@@ -45951,6 +45973,7 @@
 ||reftedlettiny.info^
 ||refundacjeregionalne.pl^
 ||refunevent.com^
+||reg88.ru^
 ||regardens.info^
 ||regardensa.com^
 ||regbigltd.bid^
@@ -46472,6 +46495,7 @@
 ||rigelink.com^
 ||rightmedia.com^
 ||rightmedia.net^
+||rightmoveanalytics.co.uk^
 ||rightstats.com^
 ||rigoczly.com^
 ||rigybdgiubwqg.com^
@@ -46957,7 +46981,6 @@
 ||rtb-pclick.secure.yahoo.com^
 ||rtb-seller.com^
 ||rtb-usync.com^
-||rtb.adentifi.com^
 ||rtb.appbid.com^
 ||rtb.com.ru^
 ||rtb.kds.media^
@@ -47403,6 +47426,7 @@
 ||sacredphoenix.com^
 ||sad.sharethis.com^
 ||sad2tizer.ru^
+||sadbads.com^
 ||sade-ecrivain.com^
 ||sadiqtv.com^
 ||sadv.dadapro.com^
@@ -49039,6 +49063,7 @@
 ||siteverification.online^
 ||siteverification.site^
 ||sitionne.pro^
+||sitizy.network^
 ||sitorew.com^
 ||sitti.co.id^
 ||sittiad.com^
@@ -51813,6 +51838,7 @@
 ||sync.pulseradius.com^
 ||sync.rambler.ru^
 ||sync.shinobi.jp^
+||sync.tv^
 ||syncaccess.net^
 ||synconnector.com^
 ||syndapop.com^
@@ -51967,6 +51993,7 @@
 ||t.pswec.com^
 ||t.purch.com^
 ||t.pusk.ru^
+||t.regionsjob.com^
 ||t.searchelper.com^
 ||t.searchhelper.com^
 ||t.seesaa.net^
@@ -53126,6 +53153,7 @@
 ||title.mximg.com^
 ||titokterminal.com^
 ||titon.info^
+||titorsbutaning.info^
 ||titranco.info^
 ||titsbro.net^
 ||titsbro.org^
@@ -54591,6 +54619,7 @@
 ||tracking.voltagesearch.com^
 ||tracking.waterfrontmedia.com^
 ||tracking.websitealive.com^
+||tracking.webtradecenter.com^
 ||tracking.whattoexpect.com^
 ||tracking.wlscripts.net^
 ||tracking.worldmedia.net^
@@ -57750,6 +57779,7 @@
 ||vnnqiqzcslnh.bid^
 ||vnoeiemdhqf.com^
 ||vnptobld.bid^
+||vnrapyiaxxj.com^
 ||vntanktransport.com^
 ||vntcxqxuqki.com^
 ||vntsm.com^
@@ -60804,6 +60834,7 @@
 ||xxxex.com^
 ||xxxlnk.com^
 ||xxxmatch.com^
+||xxxmov.site^
 ||xxxmyself.com^
 ||xxxnations.com^
 ||xxxnavy.com^
@@ -61012,6 +61043,7 @@
 ||ydxzdniz.com^
 ||ydzakntxe.com^
 ||ydzbxtld.bid^
+||ye185hcamw.com^
 ||yea.uploadimagex.com^
 ||yeabble.com^
 ||yeagdfyw.com^
@@ -61133,6 +61165,7 @@
 ||yidsense.com^
 ||yidxvzosvwsd.com^
 ||yie4zooseif.info^
+||yield-op-idsync.live.streamtheworld.com^
 ||yield.audience.digitalmedia.bg^
 ||yieldads.com^
 ||yieldadvert.com^
@@ -61727,6 +61760,7 @@
 ||z32538.nb.host127-0-0-1.com^
 ||z444o.com^
 ||z5x.net^
+||z6vmw.top^
 ||z7752.com^
 ||za-ads.de^
 ||za-music.mymobiplanet.com^
