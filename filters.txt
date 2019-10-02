@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 01-10-2019 23:50 BST
-! Count: 62,674
+! Last Modified: 02-10-2019 23:50 BST
+! Count: 62,696
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2549,6 +2549,7 @@
 ||ad-analytics-bootstrap.metaps.com^
 ||ad-analyze.jp^
 ||ad-api-v01.uliza.jp^
+||ad-api.ehawk.com^
 ||ad-arata.com^
 ||ad-arata.s3.amazonaws.com^
 ||ad-back.net^
@@ -11164,6 +11165,7 @@
 ||aulosyhydzitxb.download^
 ||aultemeztokc.com^
 ||aunmdhxrco.com^
+||auqefmhsutnldv.com^
 ||aurabom.ru^
 ||aureate.com^
 ||aureolasfdoqu.download^
@@ -13227,6 +13229,7 @@
 ||bi.installcore.com^
 ||bi.medscape.com^
 ||bi.softservers.net^
+||bi.yeshen.com^
 ||biallo1.de^
 ||biallo2.de^
 ||biallo3.de^
@@ -18746,6 +18749,7 @@
 ||d1635hfcvs8ero.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d16xpr36wrmcmk.cloudfront.net^
 ||d173vqb05g6hza.cloudfront.net^
 ||d17f2fxw547952.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
@@ -21717,6 +21721,7 @@
 ||egcocjwpzqsa.com^
 ||egcsbdrj.com^
 ||egeszsegespont.hu^
+||egfbynnwhco.com^
 ||eggplant.cloud^
 ||eghuntsrizvbt.com^
 ||egkkeahdzjqy.com^
@@ -25032,6 +25037,7 @@
 ||fzeahussyd.com^
 ||fzgitqrqrsyyiv.com^
 ||fzhwvlpnqg.bid^
+||fzhxi.com^
 ||fzmogmfqh.com^
 ||fznpq.com^
 ||fzoneli.info^
@@ -26714,6 +26720,7 @@
 ||gscounters.us1.gigya.com^
 ||gscsystemwithdarren.com^
 ||gsdolqvdjr.com^
+||gsdsccoo.com^
 ||gsecondscreen.com^
 ||gserv.cneteu.net^
 ||gserv.zdnet.co.uk^
@@ -27202,6 +27209,7 @@
 ||hcbntenhgaq.bid^
 ||hcg82f2b.com^
 ||hcggkyhzxzsv.com^
+||hcgtkmes.com^
 ||hcharbach.de^
 ||hcijbbzz.com^
 ||hckmbeebnstnp.bid^
@@ -27971,6 +27979,7 @@
 ||horizon.mashable.com^
 ||horizon.playboy.com^
 ||horizon.sailthru.com^
+||horjhksl.com^
 ||hormebets.info^
 ||hornymatches.com^
 ||hornyspots.com^
@@ -33062,6 +33071,7 @@
 ||launch1.co^
 ||launchbit.com^
 ||launchbuffer.com^
+||launcher.us.yeshen.com^
 ||launchermsg.3g.cn^
 ||launchers.network^
 ||laurel.macrovision.com^
@@ -33111,6 +33121,7 @@
 ||lbm1.com^
 ||lbn.ru^
 ||lbpndcvhuqlm.com^
+||lbsohfnkqgxo.com^
 ||lbtcymxcocwh.bid^
 ||lbtifiprfzy.com^
 ||lburmovcjefv.com^
@@ -37027,6 +37038,7 @@
 ||moboland.net^
 ||mobon.com^
 ||moborobot.com^
+||mobotoolpush.moboapps.io^
 ||mobpartner.com^
 ||mobpartner.mobi^
 ||mobpowertech.com^
@@ -37196,6 +37208,7 @@
 ||moninosa.com^
 ||monitis.com^
 ||monitor-targeting-failures.sqrt-5041.de^
+||monitor.adcaffe.com^
 ||monitoringservice.co^
 ||monitus.net^
 ||monkeyball.osa.pl^
@@ -38083,6 +38096,7 @@
 ||mzqxeqrmgzxv.com^
 ||mzrhjbbikqm.com^
 ||mzwaqcfbx.com^
+||mzwmdaadjf.com^
 ||mzxexigxkb.com^
 ||mzzouiciajems.com^
 ||n-ad.work^
@@ -43675,6 +43689,7 @@
 ||primaryads.com^
 ||prime535.com^
 ||primead.jp^
+||primebc1.website^
 ||primechoice.ru^
 ||primetime.net^
 ||primosearch.com^
@@ -47964,6 +47979,7 @@
 ||search-results.com^
 ||search-results.mobi^
 ||search-tracker.com^
+||search.adcaffe.com^
 ||search.buzzdock.com^
 ||search.freeonline.com^
 ||search.in^
@@ -50346,6 +50362,7 @@
 ||srpx.net^
 ||srslogisticts.com^
 ||srt.pch.com^
+||srtb.msn.com^
 ||srtk.net^
 ||srtvohoivnrahq.bid^
 ||srv.buysellads.com^
@@ -50442,6 +50459,7 @@
 ||ssobmhpxnjjp.bid^
 ||ssowfsbps.bid^
 ||ssp.hinet.net^
+||ssp.mediation.trnox.com^
 ||ssp.rambler.ru^
 ||ssp.sellads.me^
 ||ssp.streamrail.net^
@@ -50628,6 +50646,7 @@
 ||stat.ku6.com^
 ||stat.kununu.cz^
 ||stat.lenta.ru^
+||stat.m.360.cn^
 ||stat.maalaimalar.com^
 ||stat.matichon.co.th^
 ||stat.media^
@@ -50868,6 +50887,7 @@
 ||statowl.com^
 ||statpipe.ru^
 ||statredpic.ru^
+||stats-a.maxthon.com^
 ||stats-analytics.info^
 ||stats-dc1.frz.io^
 ||stats-ec2-46-137-101-227.layar.com^
@@ -52518,7 +52538,7 @@
 ||te.versiontracker.com^
 ||te.wsls.com^
 ||te81.net^
-||tea.pornolomka.sex^
+||tea.pornolomka.video^
 ||teachac.com^
 ||teachscape.vo.llnwd.net^
 ||teads.tv^
@@ -59318,6 +59338,7 @@
 ||wjkwjcmeymu.com^
 ||wjmckfsdcxpj.com^
 ||wjnkvhlgvixx.com^
+||wjodtshzu.com^
 ||wjpdgueqasdgeq.com^
 ||wjuowevxibmg.com^
 ||wjvwxcnavjodj.com^
@@ -62634,6 +62655,7 @@
 ||zxxfoccanf.com^
 ||zxxzqiqbchqkaw.com^
 ||zy16eoat1w.com^
+||zyadwzlxllogm.com^
 ||zyaorkkdvcbl.com^
 ||zyban-store.shengen.ru^
 ||zyban.1.p2l.info^
