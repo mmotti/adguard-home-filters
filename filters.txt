@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-10-2019 23:50 BST
-! Count: 62,717
+! Last Modified: 07-10-2019 23:50 BST
+! Count: 62,697
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -180,7 +180,6 @@
 ||0tracker.com^
 ||0uk.net^
 ||0x1f4b0.com^
-||0xwxmj21r75kka.com^
 ||1-1ads.com^
 ||1-2fly-befragung.de^
 ||1-800onlinecasino.com^
@@ -412,8 +411,6 @@
 ||159.6.87.194.dynamic.dol.ru^
 ||15b37.skroc.pl^
 ||15bb51.info^
-||15f3c01a.info^
-||15f3c01c.info^
 ||15gifts.com^
 ||15x.info^
 ||15yomodels.com^
@@ -453,8 +450,6 @@
 ||178.6.87.194.dynamic.dol.ru^
 ||179.6.87.194.dynamic.dol.ru^
 ||17990.vicp.net^
-||17a898b9.info^
-||17a898bb.info^
 ||17b1dbd9f3ae7db27cf.com^
 ||17chezhan.com^
 ||17k.originalsafteyredir.com^
@@ -532,7 +527,6 @@
 ||1clickdownloads.com^
 ||1directory.ru^
 ||1dmp.io^
-||1e0y.xyz^
 ||1e122c580cf.com^
 ||1ea1sley.com^
 ||1ejaculationinterne.com^
@@ -589,7 +583,6 @@
 ||1rtlfor.info^
 ||1rx.io^
 ||1rxntv.io^
-||1sadx.net^
 ||1sen-pit-fan.com^
 ||1sexe1.free.fr^
 ||1sputnik.ru^
@@ -795,8 +788,6 @@
 ||2cbisyjaae.com^
 ||2cnt.net^
 ||2cuknh50ef.com^
-||2d4c3870.info^
-||2d4c3872.info^
 ||2d5072d5732ab.com^
 ||2d7bd9e6eb370143.com^
 ||2da2.ru^
@@ -1168,7 +1159,6 @@
 ||4dsply.com^
 ||4dtrk.com^
 ||4e34b4865905c4.com^
-||4e43ac9c.info^
 ||4eacccd99990beed317.com^
 ||4ever.cc^
 ||4f2sm1y1ss.com^
@@ -1300,7 +1290,6 @@
 ||5b15a826.xyz^
 ||5b5a93686577c13.com^
 ||5bc58da97b.com^
-||5clickcashsoftware.com^
 ||5d02977f6511aa.com^
 ||5dabf928ad9ad4.com^
 ||5db8d92zi2.com^
@@ -1390,7 +1379,6 @@
 ||66cpwgln.space^
 ||67.6.87.194.dynamic.dol.ru^
 ||67126e4413a.com^
-||67s6gxv28kin.com^
 ||68.6.87.194.dynamic.dol.ru^
 ||6868bbe42af8e518.com^
 ||688de7b3822de.com^
@@ -2013,7 +2001,6 @@
 ||a3h.de^
 ||a3m.io^
 ||a3p4.net^
-||a3pub.com^
 ||a3shd.realshieldlinked.com^
 ||a4.overclockers.ua^
 ||a4.suntimes.com^
@@ -2040,7 +2027,6 @@
 ||a5a5a.com^
 ||a5cee7.se^
 ||a5e04df959f1af34.com^
-||a5pub.com^
 ||a615.ac-images.myspacecdn.com^
 ||a62.info^
 ||a63t9o1azf.com^
@@ -2091,7 +2077,6 @@
 ||aa9bd78f328a6a41279d0fad0a88df1901.com^
 ||aa9d046aab36af4ff182f097f840430d51.com^
 ||aaa.aj5.info^
-||aaa.at4.info^
 ||aaa.japanxvideos.mobi^
 ||aaacompany.net^
 ||aaaf.jp^
@@ -2182,7 +2167,6 @@
 ||abandonedclover.com^
 ||abandonglare.8m.com^
 ||abashedangle.com^
-||abasourdir.tech^
 ||abaujsqnndg.bid^
 ||abb963a46029eb.com^
 ||abbahoxgss.com^
@@ -2247,7 +2231,6 @@
 ||ablen11.tk^
 ||ablen12.tk^
 ||ablenctionalle.info^
-||abletomeet.com^
 ||ablida-rotation.com^
 ||ablip.pl^
 ||ablsrv.com^
@@ -2302,7 +2285,6 @@
 ||abtest.mistat.xiaomi.com^
 ||abtest.swrve.com^
 ||abtracker.adultbouncer.com^
-||abtracker.us^
 ||abtrcking.com^
 ||abtshield.com^
 ||abunmrqsbfn.bid^
@@ -2336,7 +2318,6 @@
 ||acads.net^
 ||acaiberryextreme.pl^
 ||acales.ru^
-||acamar.xyz^
 ||acbacb9c.ipt.aol.com^
 ||acbp0020171456.page.tl^
 ||acbrupozabmdc.com^
@@ -3237,19 +3218,15 @@
 ||ad120.hpg.com.br^
 ||ad120m.com^
 ||ad121.hpg.com.br^
-||ad121m.com^
 ||ad122.hpg.com.br^
-||ad122m.com^
 ||ad123.hpg.com.br^
 ||ad123m.com^
 ||ad124.hpg.com.br^
 ||ad125.hpg.com.br^
-||ad125m.com^
 ||ad126.hpg.com.br^
 ||ad127.hpg.com.br^
 ||ad127m.com^
 ||ad128.hpg.com.br^
-||ad128m.com^
 ||ad129.hpg.com.br^
 ||ad129m.com^
 ||ad13.hpg.com.br^
@@ -3260,7 +3237,6 @@
 ||ad132m.com^
 ||ad133.hpg.com.br^
 ||ad134.hpg.com.br^
-||ad134m.com^
 ||ad135.hpg.com.br^
 ||ad136.hpg.com.br^
 ||ad137.hpg.com.br^
@@ -3491,6 +3467,7 @@
 ||ad4cash.de^
 ||ad4game.com^
 ||ad4games.com^
+||ad4m.at^
 ||ad4mat.at^
 ||ad4mat.ch^
 ||ad4mat.com^
@@ -3676,7 +3653,6 @@
 ||adbrn.com^
 ||adbro.me^
 ||adbroker.de^
-||adbroo.com^
 ||adbrook.com^
 ||adbsys.icu^
 ||adbtc.top^
@@ -3810,7 +3786,6 @@
 ||adcron.com^
 ||adcrops.net^
 ||adcrowd.com^
-||adcru.com^
 ||adcv.jp^
 ||adcycle.com^
 ||adcycle.everyone.net^
@@ -18132,7 +18107,9 @@
 ||creative-mobile.com^
 ||creative-serving.com^
 ||creative.abestservers.com^
+||creative.ad121m.com^
 ||creative.ad124m.com^
+||creative.ad125m.com^
 ||creative.ad135m.com^
 ||creative.ad7m.com^
 ||creative.ak.facebook.com^
@@ -18972,6 +18949,7 @@
 ||d2o5idwacg3gyw.cloudfront.net^
 ||d2o67tzzxkqap2.cloudfront.net^
 ||d2o9ozfswytaqz.cloudfront.net^
+||d2oa97wrxvxm7y.cloudfront.net^
 ||d2oallm7wrqvmi.cloudfront.net^
 ||d2oh4tlt9mrke9.cloudfront.net^
 ||d2omcicc3a4zlg.cloudfront.net^
@@ -26658,6 +26636,7 @@
 ||grobido.info^
 ||gromairt.net^
 ||groogloo.net^
+||grooksom.com^
 ||grooveshark.fr^
 ||groovinads.com^
 ||grosirkecantikan.com^
@@ -40643,6 +40622,7 @@
 ||onetag.ectest.net^
 ||oneund.com^
 ||oneund.ru^
+||onewastansepa.pro^
 ||onewaylinkexchange.net^
 ||onfocus.io^
 ||ongkidcasarv.com^
@@ -41216,6 +41196,7 @@
 ||ouhdgmzajfaop.com^
 ||ouiinryhlvbgq.com^
 ||oujlnbyavjhy.com^
+||oukruque.com^
 ||ouloutso.net^
 ||oultuwee.net^
 ||oulxdvvpmfcd.com^
@@ -43189,7 +43170,6 @@
 ||poolgmsd.com^
 ||poolmining.eu^
 ||poolmining.net^
-||poolnoodle.tech^
 ||poonproscash.com^
 ||poorybdbh.bid^
 ||pooxbpxm.com^
@@ -47122,7 +47102,6 @@
 ||rubyfortune.com^
 ||rubylan.net^
 ||rubytag.net^
-||ruckusschroederraspberry.com^
 ||ruclicks.com^
 ||rucounter.ru^
 ||rudtedmhm.com^
@@ -47339,7 +47318,9 @@
 ||s.2app.lk^
 ||s.360.cn^
 ||s.95105012.com^
+||s.ad121m.com^
 ||s.ad124m.com^
+||s.ad125m.com^
 ||s.ad7m.com^
 ||s.adexpert.cz^
 ||s.admathhd.com^
@@ -47578,6 +47559,7 @@
 ||samsclub33.pochta.ru^
 ||samsungacr.com^
 ||samsungads.com^
+||samsungtvads.com^
 ||samtrack1.com^
 ||samvaulter.com^
 ||samvinva.info^
@@ -49244,7 +49226,6 @@
 ||skytemjo.link^
 ||skytvonline.tv^
 ||skyvideo1.ru^
-||skywarts.ru^
 ||skzhfyqozkic.com^
 ||skzpsnpp.com^
 ||skzsukues.bid^
@@ -51020,6 +51001,7 @@
 ||stats.grok.se^
 ||stats.groupninetyfour.com^
 ||stats.grubstreet.com^
+||stats.guiamais.com.br^
 ||stats.harpercollins.com^
 ||stats.heyoya.com^
 ||stats.hickoryfarms.com^
@@ -53455,7 +53437,6 @@
 ||tnwjldvivhgr.com^
 ||tnxiuvjtplhhdy.com^
 ||tnyomnyezzz.bid^
-||tnyzin.ru^
 ||tnznswilqtni.com^
 ||toads.id^
 ||toads.osdn.com^
@@ -53469,7 +53450,6 @@
 ||todaymix.ru^
 ||todayresearch.com^
 ||todayssn.com^
-||todich.ru^
 ||todogecoin.biz^
 ||todolize.com^
 ||toecircle.com^
