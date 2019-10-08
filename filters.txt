@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 07-10-2019 23:50 BST
-! Count: 62,697
+! Last Modified: 08-10-2019 23:50 BST
+! Count: 62,710
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -162,6 +162,7 @@
 ||0icep80f.com^
 ||0iecfobt.com^
 ||0j7z9aw6.top^
+||0jkro0unul.execute-api.us-west-2.amazonaws.com^
 ||0koryu0.easter.ne.jp^
 ||0latfee.ero-advertising.com^
 ||0llii0g6.com^
@@ -1711,6 +1712,7 @@
 ||927a8dd1afec73.com^
 ||929a6f82280b7f.com^
 ||92ec94d51076357.com^
+||92kyxiz5xg.execute-api.us-west-2.amazonaws.com^
 ||92x.tumblr.com^
 ||93.6.87.194.dynamic.dol.ru^
 ||9376ec23d50b1.com^
@@ -10558,6 +10560,7 @@
 ||appraisingemfxg.download^
 ||apprebates.com^
 ||appredeem.com^
+||apprefaculty.pro^
 ||apprep.smartscreen.microsoft.com^
 ||approp.pro^
 ||approstar.com^
@@ -14831,6 +14834,8 @@
 ||cadvv.heraldm.com^
 ||cadvv.koreaherald.com^
 ||cafarducqhonk.download^
+||cafe-latte.myshoplus.com^
+||cafe-log.myshoplus.com^
 ||cafe58cc6d0ac.com^
 ||cafecoc.com^
 ||cafecoquin.com^
@@ -18735,6 +18740,7 @@
 ||d194f913ee63.com^
 ||d19972r8wdpby8.cloudfront.net^
 ||d19uh5b0umbjrr.cloudfront.net^
+||d19xf4taj229i8.cloudfront.net^
 ||d1ade4ciw4bqyc.cloudfront.net^
 ||d1aezk8tun0dhm.cloudfront.net^
 ||d1af033869koo7.cloudfront.net^
@@ -24144,6 +24150,7 @@
 ||foabezckdiv.bid^
 ||foagoasu.net^
 ||foamybox.com^
+||foazasis.com^
 ||fobjoccwkrkv.com^
 ||focalex.com^
 ||focalink.com^
@@ -32469,6 +32476,7 @@
 ||kontenka.ru^
 ||kontera.com^
 ||kontextua.com^
+||kontik28.ru^
 ||konversation.com^
 ||konverta.ru^
 ||koocash.com^
@@ -34543,6 +34551,7 @@
 ||luckyclear.info^
 ||luckyday.world^
 ||luckyeffect.info^
+||luckyforworlds.com^
 ||luckyhalo.info^
 ||luckyorange.com^
 ||luckyorange.net^
@@ -45043,6 +45052,7 @@
 ||qqablora.com^
 ||qqapezviufsh.com^
 ||qqatllrijx.com^
+||qqbook.ru^
 ||qqbwymba.com^
 ||qqbyfhlctzty.com^
 ||qqc.co^
@@ -45246,6 +45256,7 @@
 ||quizzstar.com^
 ||qukqptxilr.com^
 ||qulsqiqrev.com^
+||qumagee.com^
 ||qumzxkpexf.com^
 ||qunnvfhdgfm.com^
 ||quoeuedtku.com^
@@ -52641,6 +52652,7 @@
 ||telemetry.jivosite.com^
 ||telemetry.layer.com^
 ||telemetry.microsoft.com^
+||telemetry.qa.webex.com^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tradingview.com^
@@ -58161,6 +58173,7 @@
 ||vvyimltzbnu.com^
 ||vvziqyahhmq.bid^
 ||vw.onlinia.net^
+||vw.xxxmshel.org^
 ||vwadblujv.com^
 ||vwbnexnwpmangv.com^
 ||vwbvandbj.bid^
