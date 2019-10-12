@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 11-10-2019 23:50 BST
-! Count: 62,136
+! Last Modified: 12-10-2019 23:50 BST
+! Count: 62,148
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -5104,7 +5104,6 @@
 ||ads.dumpalink.com^
 ||ads.dvdreview.com^
 ||ads.dynamic-media.org^
-||ads.dynamicyield.com^
 ||ads.e9china.com^
 ||ads.eagletribune.com^
 ||ads.easy-forex.com^
@@ -9722,6 +9721,7 @@
 ||analytics.ero-advertising.com^
 ||analytics.ettoredelnegro.pro^
 ||analytics.explus.vn^
+||analytics.ext.go-tellm.com^
 ||analytics.fairfax.com.au^
 ||analytics.favcy.com^
 ||analytics.faw.sky.com^
@@ -10935,7 +10935,6 @@
 ||asuum.com^
 ||aswpapius.com^
 ||asx13.com^
-||async-px.dynamicyield.com^
 ||aszdmbftkccdkj.com^
 ||aszyzwbjs.com^
 ||at-adserver.alltop.com^
@@ -12536,6 +12535,7 @@
 ||bargainracks.co.uk^
 ||bariebenefit.com^
 ||barilliance.net^
+||barip15.com^
 ||barium.cheezdev.com^
 ||barlive.link^
 ||barnyardszjvrvndj.download^
@@ -12928,6 +12928,7 @@
 ||bestcasinopartner.com^
 ||bestcoinsignals.com^
 ||bestcontentcompany.top^
+||bestcontentfood.top^
 ||bestcontentpc.top^
 ||bestcontentservice.top^
 ||bestcontentsoftware.top^
@@ -13245,6 +13246,7 @@
 ||bilbob.com^
 ||bilbowtunxjujc.download^
 ||bildwl.mobile.de^
+||bileth.pw^
 ||bilgibahis.com^
 ||bilink.xyz^
 ||biliqpvehf.com^
@@ -14684,6 +14686,7 @@
 ||c.xbox.com^
 ||c.za.msn.com^
 ||c00.adobe.com^
+||c0011.boursorama.com^
 ||c01.brickoffers.com^
 ||c03jij5q.website^
 ||c0afd4609c303.com^
@@ -15307,7 +15310,6 @@
 ||cdn.downloaddabs.com^
 ||cdn.driveback.ru^
 ||cdn.dustyorate.com^
-||cdn.dynamicyield.com^
 ||cdn.employchannel.info^
 ||cdn.epommarket.com^
 ||cdn.fancybar.net^
@@ -17078,6 +17080,7 @@
 ||colwayinternational.com^
 ||com-fasting.live^
 ||com-notice.info^
+||com-optimize-mac.live^
 ||com-reports.com^
 ||com-todaynews.com^
 ||com-wkejf32ljd23409system.net^
@@ -17280,7 +17283,6 @@
 ||consumerinfo.com^
 ||consumerproductsusa.com^
 ||consumesldpmue.download^
-||contactatonce.com^
 ||contactmonkey.com^
 ||contactos-gay.com^
 ||contactreserve.com^
@@ -20109,6 +20111,7 @@
 ||discoveryplus.popin.cc^
 ||discreetfield.com^
 ||discreetlocalgirls.com^
+||discsplay.com^
 ||diseaseless.com^
 ||disedet.info^
 ||disgustingsjnhmuv.download^
@@ -20939,7 +20942,6 @@
 ||duyxfipwgrzwwd.bid^
 ||duzakergeex.com^
 ||duzt6rhr7wo8p.cloudfront.net^
-||duzyszczupak.pl^
 ||dv0.info^
 ||dv2m1uumnsgtu.cloudfront.net^
 ||dv4uxy777adjt.cloudfront.net^
@@ -21058,6 +21060,7 @@
 ||dynamicoxygen.com^
 ||dynamicserving.com^
 ||dynamictoolbar.com^
+||dynamicyield.com^
 ||dynamitedata.com^
 ||dynatrace.com^
 ||dynatracesaas.com^
@@ -21804,7 +21807,6 @@
 ||elparmo.ru^
 ||elr.sfr.fr^
 ||elsgsgxywj.bid^
-||elthamely.com^
 ||eltrafiko.com^
 ||eluhhfyxx.com^
 ||eluxer.net^
@@ -22062,6 +22064,7 @@
 ||eojrldtucqsf.com^
 ||eol1.egyptonline.com^
 ||eonline.pl^
+||eontent.streamp1ay.me^
 ||eoqsbpvdxllxo.com^
 ||eoredi.com^
 ||eoruxpqn.com^
@@ -25688,6 +25691,7 @@
 ||giml.ml^
 ||gimmethatreward.com^
 ||gimmickedofpkjfxln.download^
+||gimnazjumlyski.pl^
 ||gimp.es^
 ||gimxqltq.bid^
 ||ginads.com^
@@ -26226,6 +26230,7 @@
 ||gortags.com^
 ||gos-kanal.ru^
 ||gosciniec-paproc.pl^
+||gosirzarzecze.pl^
 ||goska.siol.net^
 ||gosms.3g.cn^
 ||gosmsdev.3g.cn^
@@ -29458,6 +29463,7 @@
 ||incrediblesugar.com^
 ||incstone.com^
 ||incstone.top^
+||indabox.pl^
 ||indcoest.com^
 ||indemandads.com^
 ||independentescortservices.com^
@@ -29587,6 +29593,7 @@
 ||infox.sg^
 ||infra-ad.com^
 ||infra.by^
+||infra.systems^
 ||infrashift.com^
 ||ingame.ad^
 ||ingameads.gameloft.com^
@@ -30103,7 +30110,6 @@
 ||ipsite.net^
 ||ipsowrite.com^
 ||ipstat.com^
-||ipstatp.com^
 ||iptivicini.com^
 ||iptoo.cruisingsmallship.com^
 ||iptool.xyz^
@@ -30144,6 +30150,7 @@
 ||iqwbqjnst.bid^
 ||iqwczlbxvtcnh.com^
 ||iqwhwomdmjg.bid^
+||iqwrmwssizr.com^
 ||iqyirwfzlx.com^
 ||iqzone.com^
 ||ir0.mobify.com^
@@ -33567,6 +33574,7 @@
 ||listennewsnetwork.com^
 ||listingcafe.com^
 ||listrakbi.com^
+||lists-tracking.komando.com^
 ||listtop.ru^
 ||litec-fr.com^
 ||litiumo.com^
@@ -36837,7 +36845,6 @@
 ||moist-thunderstorm.com^
 ||mojadedra.pl^
 ||mojadietanamase.pl^
-||mojapsina.com^
 ||mojekumpele.blogspot.com^
 ||mojepc.net^
 ||mojezakupy.net^
@@ -37304,6 +37311,7 @@
 ||mts-ws.rueducommerce.fr^
 ||mts.mansion.com^
 ||mts.sdtieta.com^
+||mtsoxkqlqnawre.com^
 ||mttag.com^
 ||mttwtrack.com^
 ||mttyfwtvyumc.com^
@@ -39079,6 +39087,7 @@
 ||nsm.shinobi.jp^
 ||nsmartad.com^
 ||nsnfokcikwf.com^
+||nsnm.pl^
 ||nsovwzmhl.com^
 ||nspmotion.com^
 ||nspot.co^
@@ -41841,6 +41850,7 @@
 ||perfectmarket.com^
 ||perfectome.pro^
 ||perfecttds.net^
+||perfecturist.pl^
 ||perfiliate.com^
 ||perfmelab.com^
 ||perfoormapp.info^
@@ -44222,7 +44232,6 @@
 ||pwzn9ze.com^
 ||px.247inc.net^
 ||px.boundhub.com^
-||px.dynamicyield.com^
 ||px.excitedigitalmedia.com^
 ||px.gfycat.com^
 ||px.marchex.io^
@@ -44525,6 +44534,7 @@
 ||qhkfgjoyinllld.com^
 ||qhlwqzntlwvbf.bid^
 ||qhlzkkwb.com^
+||qhoosovyj.com^
 ||qhpjexftk.com^
 ||qhpwanmnbvkiio.com^
 ||qhpwqremdlclpk.com^
@@ -44605,6 +44615,7 @@
 ||qksrv.net^
 ||qksz.net^
 ||qkuprxbmkeqp.com^
+||qkvklknzycrgo.com^
 ||qkwbygfsbfmj.com^
 ||qkyzjwhyeh.com^
 ||qkzwxhcleqj.com^
@@ -46525,6 +46536,7 @@
 ||roupsouk.com^
 ||routehero.com^
 ||router.googlecom.biz^
+||rouvoute.net^
 ||rouvpebtazdlq.com^
 ||rovarti.info^
 ||rovelrpphyrua.download^
@@ -47413,6 +47425,7 @@
 ||scfkfridulshkd.com^
 ||scgnsficmwipuj.bid^
 ||scgyndrujhzf.com^
+||schedhomoso.pro^
 ||schedmemory.com^
 ||schemas.microsoft.akadns.net^
 ||schemic.top^
@@ -48076,6 +48089,7 @@
 ||services.mailermailer.com^
 ||services.webestools.com^
 ||services.wetek.com^
+||services.zam.com^
 ||services1.adtech.fr^
 ||services1.adtech.us^
 ||servicetick.com^
@@ -49006,7 +49020,6 @@
 ||smarterdownloads.net^
 ||smarterhq.io^
 ||smarterremarketer.net^
-||smartfonmedia.com^
 ||smartgiveaway.com^
 ||smarticon.geotrust.com^
 ||smartinfomarketing.ru^
@@ -49894,7 +49907,6 @@
 ||srtvohoivnrahq.bid^
 ||srv.buysellads.com^
 ||srv.de.ebayrtm.com^
-||srv.dynamicyield.com^
 ||srv.thespacereporter.com^
 ||srv.tyroodr.com^
 ||srv.yavli.com^
@@ -50017,7 +50029,6 @@
 ||st.astraone.io^
 ||st.cdnco.us^
 ||st.cv46.ru^
-||st.dynamicyield.com^
 ||st.fanatics.com^
 ||st.ipornia.com^
 ||st.listrak.com^
@@ -51003,7 +51014,6 @@
 ||stts.rbc.ru^
 ||sttvisa.com^
 ||stubbierrjdassboo.download^
-||studcat.infra.systems^
 ||studiochiarelli.eu^
 ||studiolegaleabbruzzese.com^
 ||studiolineworks.com^
@@ -53707,7 +53717,6 @@
 ||track.todayreward.net^
 ||track.tooplay.com^
 ||track.topromotion.net^
-||track.totalav.com^
 ||track.tracking85.com^
 ||track.trademail.fr^
 ||track.traffcdn.com^
@@ -54774,7 +54783,6 @@
 ||trustedads.adtrustmedia.com^
 ||trustedads.org^
 ||trustedadserver.com^
-||trustedform.com^
 ||trustedirectdownload.com^
 ||trustedmaccleaner.com^
 ||trustedmacleaner.click^
@@ -58629,6 +58637,7 @@
 ||widgetcontent.net^
 ||widgetdigital.info^
 ||widgetlead.net^
+||widgetly.com^
 ||widgets-cdn.rpxnow.com^
 ||widgets.adviceiq.com^
 ||widgets.cam-content.com^
@@ -60081,6 +60090,7 @@
 ||xoqkhbtpnzblh.com^
 ||xoqwirroygxv.com^
 ||xoredi.com^
+||xoreha84.bid^
 ||xorgwebs.webs.com^
 ||xorotmjjst.com^
 ||xotsa.frenchgerlemanelectric.com^
@@ -61329,6 +61339,7 @@
 ||zalukaj-cda.pl^
 ||zalukaj-online.pl^
 ||zalukaj.cc^
+||zalukaj.ws^
 ||zalukaj24.pl^
 ||zalukajfilmy.pl^
 ||zambini.ru^
@@ -61641,6 +61652,7 @@
 ||zidedge.com^
 ||zidqkapwgnsh.com^
 ||ziebgbikz.com^
+||zielonadrewutnia.pl^
 ||zieloneswiatki.pl^
 ||zieltracker.de^
 ||ziffdavis.com^
