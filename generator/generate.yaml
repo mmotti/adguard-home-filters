@@ -19,6 +19,7 @@ remote_files:
     - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
     - https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
     - https://www.malwaredomainlist.com/hostslist/hosts.txt
+    - https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
   regex:
     - https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
   filters:
