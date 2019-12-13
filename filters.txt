@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 11-12-2019 23:50 GMT
-! Count: 62,146
+! Last Modified: 12-12-2019 23:50 GMT
+! Count: 62,167
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -10607,7 +10607,6 @@
 ||app.getresponse.com^
 ||app.getvero.com^
 ||app.hubspot.com^
-||app.intuit.launchdarkly.com^
 ||app.link^
 ||app.mlcampaignru.com^
 ||app.mlnewsletterru.com^
@@ -16011,6 +16010,7 @@
 ||cfyvrgvopaejx.com^
 ||cfzskkkmjg.com^
 ||cgaemihcbvr.com^
+||cgamyfohry.com^
 ||cgbqzfjf.com^
 ||cgcukmix.com^
 ||cgecwm.org^
@@ -16939,8 +16939,6 @@
 ||clients.tbo.com^
 ||clientstat.castup.net^
 ||clientstats.advertising.com^
-||clientstream.intuit.launchdarkly.com^
-||clientstream.launchdarkly.com^
 ||clifftopper.com^
 ||clikerz.net^
 ||cliksolution.com^
@@ -17410,6 +17408,7 @@
 ||collector.air.tv^
 ||collector.automote.co.nz^
 ||collector.brandify.com^
+||collector.datadoghq.com^
 ||collector.fiverr.com^
 ||collector.githubapp.com^
 ||collector.ksax.com^
@@ -18881,6 +18880,7 @@
 ||cxgwwsapihlo.com^
 ||cxhfzipv.com^
 ||cxhtodgorrq.com^
+||cxjrsb.com^
 ||cxmakekcesubep.com^
 ||cxmedia.co^
 ||cxmolk.com^
@@ -22810,6 +22810,7 @@
 ||eskk.pl^
 ||eslgydoqbedo.com^
 ||esliga.ru^
+||eslkcmhn.com^
 ||eslydbnukkme.com^
 ||esm1.net^
 ||esneakers.net.pl^
@@ -23423,6 +23424,7 @@
 ||eylefeyrwl.com^
 ||eylyitpslpqu.com^
 ||eympwecfhxy.com^
+||eynusizl.com^
 ||eyqletzkhybsef.com^
 ||eyrqubnodswlkw.com^
 ||eysmaa.pw^
@@ -25070,6 +25072,7 @@
 ||fromslowmactofastmac.com^
 ||front.facetz.net^
 ||front.optimonk.com^
+||frontier.musical.ly^
 ||frontingfjwpsvis.download^
 ||frontletsvuesv.download^
 ||frontpagecash.com^
@@ -27673,6 +27676,7 @@
 ||helltraffic.com^
 ||hellwert.biz^
 ||helmsstikizg.download^
+||heloymydva.com^
 ||help.adtech.fr^
 ||help.adtech.us^
 ||helpbatteryov1.ksmobile.com^
@@ -31574,6 +31578,7 @@
 ||jtacrwtaf.com^
 ||jtbmxdoadktnm.com^
 ||jtgckwsacymph.com^
+||jtikwyeper.com^
 ||jtmwjkkoes.com^
 ||jtneoqbd.com^
 ||jtqhcgndrawlers.review^
@@ -31741,6 +31746,7 @@
 ||jydbctzvbqrh.com^
 ||jyezgitcx.com^
 ||jyfthtacsxkbp.com^
+||jygdjiocmt.com^
 ||jyhfuqoh.info^
 ||jyijwgsqj.com^
 ||jyknnhll.yearbrazil.com^
@@ -31953,6 +31959,7 @@
 ||kdluruaor.com^
 ||kdmilqoiaucqto.com^
 ||kdmkauchahynhrs.ru^
+||kdmuqtxadtl.com^
 ||kdoraraq.com^
 ||kdowqlpt.info^
 ||kdplay.net^
@@ -32519,6 +32526,7 @@
 ||kpsdnlprwclz.com^
 ||kpu.samsungelectronics.com^
 ||kpwjtpgvowifq.com^
+||kpzsyqhje.com^
 ||kpzvcvclybfa.com^
 ||kqcflzvunhew.com^
 ||kqflgvrwqpzwue.com^
@@ -33045,6 +33053,7 @@
 ||lcpqoewrzuxh.com^
 ||lcqnkwcfwrkvh.com^
 ||lcrdolxjoxxlr.com^
+||lcryooiliokm.com^
 ||lcs.livedoor.net^
 ||lcs.naver.com^
 ||lcsgdwlxrlgq.com^
@@ -34038,6 +34047,7 @@
 ||log1.17173.com^
 ||log1.24liveplus.com^
 ||log1.survey.io^
+||log2.musical.ly^
 ||log2.reflow.tv^
 ||log2.ru^
 ||log4x.nixcdn.com^
@@ -44722,6 +44732,7 @@
 ||qfrpehkvqtyj.com^
 ||qfsutura.com^
 ||qfubwupddefjw.com^
+||qfwjclpckrdehi.com^
 ||qfymuoqugz.com^
 ||qfypbqbumu.com^
 ||qgawivqfotfyrw.com^
@@ -49181,7 +49192,6 @@
 ||smaclick.com^
 ||smadex.com^
 ||smallbestappleliteflash.services^
-||smallseotools.com^
 ||smapohsnoww.com^
 ||smart-ad.sakura.ne.jp^
 ||smart-c.jp^
@@ -50406,6 +50416,7 @@
 ||stat-c.maxthon.com^
 ||stat-counter.tass-online.ru^
 ||stat-rock.com^
+||stat-track.com^
 ||stat-well.com^
 ||stat.1688.com^
 ||stat.4u.pl^
@@ -51835,6 +51846,7 @@
 ||t.bookbub.com^
 ||t.booksuper.info^
 ||t.brand-server.com^
+||t.castle.io^
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.cinemablend.com^
@@ -52923,6 +52935,7 @@
 ||thpsflsjw.com^
 ||thputr.pro^
 ||thqwivyhdpoem.com^
+||threat-analytics.com^
 ||threechurch.com^
 ||threedrive.su^
 ||thrgo.pro^
@@ -55643,6 +55656,7 @@
 ||uawj.moqhixoz.cn^
 ||uaxdkesuxtvu.com^
 ||uayzbioy.com^
+||ub-analytics.com^
 ||ubazpxeafwjr.com^
 ||ubdudsdfcll.com^
 ||ubdwc.com^
@@ -56319,6 +56333,7 @@
 ||urmediazone.com^
 ||urmilan.info^
 ||uroffer.link^
+||uroidgcc.com^
 ||urpscavikbyv.com^
 ||urqxrzrphsga.com^
 ||urs.zdnet.com^
@@ -58932,6 +58947,7 @@
 ||wie9eig.top^
 ||wielkanagroda.com^
 ||wielkaniespodzianka.pl^
+||wiewsulznyncf.com^
 ||wiezvhxoqhnn.com^
 ||wiffqhum.com^
 ||wifiprotector.com^
@@ -59177,6 +59193,7 @@
 ||wnzmauurgol.com^
 ||wnzxwgatxjuf.com^
 ||wnzzxwysay.com^
+||woazowup.net^
 ||wocfrherjxm.com^
 ||wodipaca.com^
 ||wodizapt.com^
@@ -60208,6 +60225,7 @@
 ||xlmis.com^
 ||xlnuj.com^
 ||xlnwabndmqn.com^
+||xlog-va.musical.ly^
 ||xlonhcld.xlontech.net^
 ||xlounge.ru^
 ||xlqkpyimdep.com^
@@ -60510,6 +60528,7 @@
 ||xxamqnqeygbk.com^
 ||xxccdshj.com^
 ||xxchhgilfheu.com^
+||xxczncbczvd.com^
 ||xxdjmuekj.com^
 ||xxehantfkywk.com^
 ||xxggvfkuawkri.com^
@@ -61278,6 +61297,7 @@
 ||yvxerfdxk.com^
 ||yvyfyuacwz.com^
 ||yvystpvmpnz.com^
+||yvytbqgmersgw.com^
 ||yvzgazds6d.com^
 ||yw9f088h61.com^
 ||ywadk.top^
@@ -61539,6 +61559,7 @@
 ||zdplhparvrd.com^
 ||zdqsrdamdgmn.com^
 ||zdrawnews.ru^
+||zdsyifistjlag.com^
 ||zdtag.com^
 ||zdutcdhvwlpkge.com^
 ||zdydvjzexmp.com^
