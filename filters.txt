@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 15-12-2019 23:50 GMT
-! Count: 62,025
+! Last Modified: 16-12-2019 23:50 GMT
+! Count: 62,050
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -43,6 +43,7 @@
 @@||acdn.adnxs.com^
 @@||ads.tdbank.com^
 @@||api-merchants.skimlinks.com^
+@@||app.adjust.com^
 @@||authentication-api.skimlinks.com^
 @@||awin1.com^
 @@||blog.logrocket.com^
@@ -60,6 +61,8 @@
 @@||omniture.walmart.com^
 @@||optout.networkadvertising.org^
 @@||pagead.l.doubleclick.net^
+@@||pathe.emsecure.net^
+@@||radiofrance.targetspot.com^
 @@||redirect.appmetrica.yandex.com^
 @@||str.hit.gemius.pl^
 @@||track.rutarget.ru^
@@ -174,6 +177,7 @@
 ||0q2.sitey.me^
 ||0qizz.super-promo.hoxo.info^
 ||0ql3xxre2h.com^
+||0sbm.consobaby.co.uk^
 ||0stats.com^
 ||0tracker.com^
 ||0u.fastdmn0.com^
@@ -917,7 +921,6 @@
 ||360ads.com^
 ||360adshost.com^
 ||360adshost.net^
-||360adstrack.com^
 ||360caa42.space^
 ||360clicks.de^
 ||360direct.click^
@@ -1982,6 +1985,7 @@
 ||a3.suntimes.com^
 ||a3.websitealive.com^
 ||a32.g.a.yimg.com^
+||a32a.com.cn^
 ||a337b163a0bc.com^
 ||a353364ec1bd19a.com^
 ||a35c92d96766745.com^
@@ -3731,7 +3735,6 @@
 ||adcentriconline.com^
 ||adcept.net^
 ||adcfrthyo.tk^
-||adchannels.in^
 ||adchap.com^
 ||adcheck.about.co.kr^
 ||adchemical.com^
@@ -3739,7 +3742,6 @@
 ||adchemy-content.com^
 ||adchemy.com^
 ||adchimp.com^
-||adchoice.co.za^
 ||adchoice.com.vn^
 ||adchoice.com^
 ||adchoices.com.vn^
@@ -3798,7 +3800,6 @@
 ||adcontrolsolutions.net^
 ||adcore.ru^
 ||adcount.hollywood.com^
-||adcount.in^
 ||adcount.mobi^
 ||adcount.ohmynews.com^
 ||adcounter.globeandmail.com^
@@ -4686,7 +4687,6 @@
 ||adrevolver.com^
 ||adrewards.com^
 ||adrianzajewicz.blogspot.com^
-||adrich.cash^
 ||adrife.net^
 ||adright.co^
 ||adrime.com^
@@ -8932,7 +8932,6 @@
 ||aggregateknowledge.com^
 ||aggregator.inquisitr.com^
 ||aggregatorgetb.com^
-||agilecrm.com^
 ||agilemedia.jp^
 ||agility.cartoonnetwork.com^
 ||agility.cnn.com^
@@ -9158,7 +9157,6 @@
 ||akailoparzapi.com^
 ||akama.com^
 ||akamaihd.site^
-||akamhd.com^
 ||akanoo.com^
 ||akariyer.com^
 ||akavita.com^
@@ -12778,7 +12776,6 @@
 ||bbheuxcancwj.com^
 ||bbillwowlfur.com^
 ||bbitetuncmwfjd.com^
-||bbjlsdqhpbuqaspgjyxaobmpmzunjnvqmahejnwwvaqbzzqodu.com^
 ||bblznptpffqc.com^
 ||bbmptlckxgi.com^
 ||bbn.img.com.ua^
@@ -13058,6 +13055,7 @@
 ||bentonow.com^
 ||benzkartel.duckdns.org^
 ||bepolite.eu^
+||beqkxrcgjfnc.com^
 ||berateveng.ru^
 ||berentain.ru^
 ||berg-6-82.com^
@@ -14663,6 +14661,7 @@
 ||bwp.theinsider.com.com^
 ||bwpqqofejekh.com^
 ||bwssvome.com^
+||bwtsrv.com^
 ||bwuqqnxubseq.com^
 ||bwvigmkn.com^
 ||bwwfncfuzahpg.com^
@@ -14723,7 +14722,6 @@
 ||bzfguipyjops.com^
 ||bzfvcavza.com^
 ||bzgwkxnjqjdz.com^
-||bzjtjfjteazqzmukjwhyzsaqdtouiopcmtmgdiytfdzboxdann.com^
 ||bzkmfzoxqmau.com^
 ||bzlwe.com^
 ||bznclicks.com^
@@ -15960,6 +15958,7 @@
 ||channeltraffic.net^
 ||chantly.info^
 ||chappel.videogamer.com^
+||chaptoor.com^
 ||charanchedope.info^
 ||chardneave.info^
 ||chardwardse.club^
@@ -16846,6 +16845,7 @@
 ||clixsense.com^
 ||clixtk.com^
 ||clixtrac.com^
+||cljmarinq.com^
 ||clk-can.com^
 ||clk-sec.com^
 ||clk.77978.xn--q9jyb4c^
@@ -17270,6 +17270,7 @@
 ||collect.rewardstyle.com^
 ||collect.sas.com^
 ||collect.tianya.cn^
+||collect.usefathom.com^
 ||collect.yinyuetai.com^
 ||collect2.sas.com^
 ||collectiable.com^
@@ -17298,6 +17299,7 @@
 ||collector.ksax.com^
 ||collector.kstptv5.com^
 ||collector.leaddyno.com^
+||collector.mazeberry.com^
 ||collector.newsx.cc^
 ||collector.nextguide.tv^
 ||collector.prod.expedia.com^
@@ -18858,6 +18860,7 @@
 ||czrtrfoin.com^
 ||czsnzyykqzcreu.com^
 ||czspwzutqpbr.com^
+||czvfrzvnsltwco.com^
 ||czx5eyk0exbhwp43ya.biz^
 ||czyjtonumertel.pl^
 ||czzzwuvvc.com^
@@ -21584,6 +21587,7 @@
 ||ea.ciblo.net^
 ||ea.clubic.com^
 ||ea.deguisetoi.fr^
+||ea.diamant-unique.com^
 ||ea.fleurancenature.fr^
 ||ea.greenweez.com^
 ||ea.habitat.fr^
@@ -22466,6 +22470,7 @@
 ||ep.xone.com^
 ||ep4p.com^
 ||ep7kpqn8.online^
+||epacash.com^
 ||epartner.ru^
 ||epbathcyav.com^
 ||eperfectdata.com^
@@ -22517,6 +22522,7 @@
 ||eqads.com^
 ||eqdfilkwrpn.com^
 ||eqdlypxvit.com^
+||eqdxwctuflfc.com^
 ||eqegggmtc.com^
 ||eqezqqdpjmxbpb.com^
 ||eqfgc.com^
@@ -23418,6 +23424,7 @@
 ||f9918c3545cc7b.com^
 ||f9uri.mymobilelead.com^
 ||fa00c331ceacc.com^
+||faayojxf.com^
 ||fab.interia.pl^
 ||faberlic.com^
 ||faberville.com^
@@ -24533,7 +24540,6 @@
 ||forexadv.eu^
 ||forexforecast.co.cc^
 ||forexplmdb.com^
-||forexprostools.com^
 ||forexyard.com^
 ||forexyestrader.pl^
 ||forfollow.net^
@@ -26149,6 +26155,7 @@
 ||gjliurjvfnkymq.com^
 ||gjmlseezqjy.com^
 ||gjnusfiby.com^
+||gjproyrwjv.com^
 ||gjriyqsfrnvuv.com^
 ||gjrstyulnbf.com^
 ||gjrzirxxkbw.com^
@@ -26284,6 +26291,7 @@
 ||glslciwwvtxn.com^
 ||glssp.jp^
 ||glssp.net^
+||glt1fogiank3.ru^
 ||gltpstgjnyb.com^
 ||glucmift.net^
 ||glugjbygh.download^
@@ -27303,6 +27311,7 @@
 ||haostat.qihoo.com^
 ||haotyxhbv.com^
 ||haouzy.info^
+||haoxxwang.com^
 ||haoyunlaid.com^
 ||haphiterton.ru^
 ||hapjes-maken.eu^
@@ -29926,6 +29935,7 @@
 ||innovativemetrics.com^
 ||innovid.com^
 ||inovscope.pt^
+||inpagepush.com^
 ||inpagevideo.nl^
 ||inphonic.com^
 ||inpost24.me^
@@ -30699,6 +30709,7 @@
 ||izarc.fr^
 ||izavihllfvej.com^
 ||izbarin.info^
+||izbxxwogfufnfi.com^
 ||izdagda.ru^
 ||izdatra.ru^
 ||izea.com^
@@ -31788,6 +31799,7 @@
 ||kbdiu5z8ah.us^
 ||kbdstwnruc.com^
 ||kbgyxsoskilli.com^
+||kbhaxxsiucgnek.com^
 ||kbjddmnkallz.com^
 ||kbkvptlxijafb.com^
 ||kbllskkwvp.pw^
@@ -41311,7 +41323,6 @@
 ||p.srv2trkk.com^
 ||p.staging.ina.media.net^
 ||p.t-online.de^
-||p.travelsmarter.net^
 ||p.twitter.com^
 ||p.txtsrving.info^
 ||p.typekit.net^
@@ -43929,6 +43940,7 @@
 ||psma02.com^
 ||psmardr.com^
 ||psmlgjalddqu.com^
+||psmxlnkovf.com^
 ||psnkrefrfh.com^
 ||psnmail.su^
 ||psoaghie.net^
@@ -44832,6 +44844,7 @@
 ||qqkxrlzaaul.com^
 ||qqlogo.qq.com^
 ||qqmilk.ru^
+||qqqmnopcixyi.com^
 ||qqqwes.com^
 ||qqrkutrsg.com^
 ||qqshoe.ru^
@@ -46903,6 +46916,7 @@
 ||runcpa.com^
 ||rundsp.com^
 ||runetki.tv^
+||runewslenta.com^
 ||rungrinh.vn^
 ||runmewivel.com^
 ||runnergamesch.com^
@@ -48025,6 +48039,7 @@
 ||sendfwd.com^
 ||sendgrid.net^
 ||sendmepixel.com^
+||sendmepush.com^
 ||sendori.com^
 ||sendptp.com^
 ||sendspace.pl^
@@ -48901,6 +48916,7 @@
 ||slfsmf.com^
 ||slgnt.eu.cdn.cloudflare.net^
 ||slgnt.eu^
+||slgynezaygkjqi.com^
 ||slhnj.com^
 ||slickaffiliate.com^
 ||slickjump.net^
@@ -54747,6 +54763,7 @@
 ||traveloscity.com^
 ||travelovity.com^
 ||travelscream.com^
+||travelsmarter.net^
 ||travelstool.com^
 ||traveltogandi.com^
 ||traveolocity.com^
@@ -55013,6 +55030,7 @@
 ||truoctran.com^
 ||truongton.net^
 ||truoptik.com^
+||trupir-asia.info^
 ||trusearch.net^
 ||trustaffs.com^
 ||trustclick.ne.jp^
@@ -55656,6 +55674,7 @@
 ||ugabuga.icu^
 ||ugahbedypf.com^
 ||ugaral.com^
+||ugbadcqsqep.com^
 ||ugdturner.com^
 ||uggbootsjapan.net^
 ||uggbutywyprzedaz.pl^
@@ -56368,6 +56387,7 @@
 ||usurv.com^
 ||usvgzajftrzkr.com^
 ||uswgkadyika.com^
+||usxobxnmmaix.com^
 ||usxsp7v.com^
 ||usymycvrilyt.com^
 ||uszpxpcoflkl.com^
@@ -58142,6 +58162,7 @@
 ||wdm29.com^
 ||wdmwebs.us^
 ||wdnflsjig.com^
+||wdpwhnxfzoozsw.com^
 ||wdquizratrntwr.com^
 ||wdrgqoweorjfp.com^
 ||wduygininqbu.com^
@@ -59595,6 +59616,7 @@
 ||wwwgmacmortgage.com^
 ||wwwgoogles.com^
 ||wwwimlive.com^
+||wwwlog.thebell.co.kr^
 ||wwwmancow.com^
 ||wwwmurgd.com^
 ||wwwnwa.com^
@@ -60041,6 +60063,7 @@
 ||xjjjohojeeozv.com^
 ||xjmrl.xyz^
 ||xjompsubsozc.com^
+||xjqbftcstq.com^
 ||xjqha.com^
 ||xjsqhlfscjxo.com^
 ||xjtiqdylurgima.com^
@@ -61046,6 +61069,7 @@
 ||yrfeurfeacuul.com^
 ||yrfrvrbmipzb.com^
 ||yrgnouqinylg.com^
+||yrivoste.com^
 ||yrkozodemantj.com^
 ||yrmxtvqpp.com^
 ||yrnzxgsjokuv.com^
@@ -61879,6 +61903,7 @@
 ||zsihqvjfwwlk.com^
 ||zsikmzoehqw.com^
 ||zsisk.com^
+||zsjnxkur.com^
 ||zskleczany.pl^
 ||zslembevfypr.com^
 ||zsruuckp.com^
