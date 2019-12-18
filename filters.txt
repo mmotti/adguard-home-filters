@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 16-12-2019 23:50 GMT
-! Count: 62,050
+! Last Modified: 17-12-2019 23:50 GMT
+! Count: 62,091
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -876,6 +876,7 @@
 ||31.6.87.194.dynamic.dol.ru^
 ||310ca263.space^
 ||312.1d27c9b8fb.com^
+||319dn.dieti-natura.com^
 ||31a5610ce3a8a2.com^
 ||31ab9d66427a22.com^
 ||31d.net^
@@ -1389,6 +1390,7 @@
 ||6c37f8a12dede103bf7.com^
 ||6c4t5.cn^
 ||6d25c5a1bb9e821f3b7.com^
+||6ddc.tartine-et-chocolat.com^
 ||6e.co.kr^
 ||6e2bd3848d2b73.se^
 ||6e2f1d2ae033.com^
@@ -1529,12 +1531,14 @@
 ||7hu8e1u001.com^
 ||7insight.com^
 ||7ix.ru^
+||7lbd4.armandthiery.fr^
 ||7lstw4cd.top^
 ||7lyonline.com^
 ||7metasearch.com^
 ||7metodik.ru^
 ||7minuteworkout.com^
 ||7mu36somt5.com^
+||7mx.eider.com^
 ||7n0zz.300prize.7113879.com^
 ||7offers.ru^
 ||7out.ru^
@@ -1677,6 +1681,7 @@
 ||9104cecde1c32cb25f5.com^
 ||911.x24hr.com^
 ||911promotion.com^
+||913nd.dieti-natura.es^
 ||91say.cc^
 ||92.6.87.194.dynamic.dol.ru^
 ||924e60106cd9d0e.com^
@@ -1914,6 +1919,7 @@
 ||a.ucoz.net^
 ||a.ucoz.ru^
 ||a.vonage.com^
+||a.w3techs.com^
 ||a.walla.co.il^
 ||a.watershed-publishing.com^
 ||a.wishabi.com^
@@ -2043,6 +2049,7 @@
 ||a885.ac-images.myspacecdn.com^
 ||a8a9455e53fbc75bc995.com^
 ||a8c37822e110e3.com^
+||a8ht.hipp.fr^
 ||a8shd.realshieldlinked.com^
 ||a8ww.net^
 ||a9.com^
@@ -4261,6 +4268,7 @@
 ||adlogix.com^
 ||adlogix.net^
 ||adlook.net^
+||adloop.co^
 ||adloox.com^
 ||adlooxtracking.com^
 ||adlove.jp^
@@ -6816,6 +6824,7 @@
 ||adsco.re^
 ||adscontent.indiatimes.com^
 ||adscoops.com^
+||adscorp.win^
 ||adscpm.com^
 ||adscpm.net^
 ||adscpm.site^
@@ -14257,6 +14266,7 @@
 ||browserhawk.com^
 ||browsermine.com^
 ||browserprotecter.com^
+||browserr.top^
 ||browsers.support^
 ||browsersfeedback.com^
 ||browsersolution.win^
@@ -14964,9 +14974,12 @@
 ||cadreon.s3.amazonaws.com^
 ||cads.ch^
 ||cadsabs.com^
+||cadsatz.com^
 ||cadsecs.com^
 ||cadsips.com^
+||cadsipz.com^
 ||cadskis.com^
+||cadsokz.com^
 ||cadvv.heraldm.com^
 ||cadvv.koreaherald.com^
 ||cafarducqhonk.download^
@@ -16612,6 +16625,7 @@
 ||clickfuse.com^
 ||clickgate.biz^
 ||clickgp.gyao.jp^
+||clickguard.com^
 ||clickguardian.co.uk^
 ||clickhere.ru^
 ||clickhereforcellphones.com^
@@ -21165,6 +21179,7 @@
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds1.nl^
 ||dsa.pl^
+||dsaiwxrneawj.com^
 ||dsct1.com^
 ||dsd7ugeb97nnc.cloudfront.net^
 ||dsdsc.win^
@@ -22844,6 +22859,7 @@
 ||eue.collect-opnet.com^
 ||eugxcnqw.com^
 ||euhewiruckv.com^
+||eukjktmw.com^
 ||euktoywjpdxpdh.com^
 ||eulbamjx.com^
 ||eule1.pmu.fr^
@@ -23952,6 +23968,7 @@
 ||ficcionaliza.angelcities.com^
 ||ficken-ficken-ficken.cxa.de^
 ||ficken-xxx.cxa.de^
+||ficrwcptjvfpd.com^
 ||fictioncinema.com^
 ||ficusoid.xyz^
 ||fideismmbertleo.download^
@@ -24350,6 +24367,7 @@
 ||fls-eu.amazon.com^
 ||fls-eu.amazon.de^
 ||fls-fe.amazon.co.jp^
+||flsfxpostdtvgc.com^
 ||flttracksecure.com^
 ||flu.secureintl.com^
 ||flu23.com^
@@ -25753,6 +25771,7 @@
 ||geo.kaloo.ga^
 ||geo.ltassrv.com^
 ||geo.metronews.ca^
+||geo.mezr.com^
 ||geo.mozilla.org^
 ||geo.mtvnn.com^
 ||geo.nbcsports.com^
@@ -26863,6 +26882,7 @@
 ||greentooth.xtgem.com^
 ||greerlies.pro^
 ||greetham.net^
+||greetpanda.info^
 ||greetzebra.com^
 ||greev.randbinternationaltravel.com^
 ||gregnobs.com^
@@ -27668,6 +27688,7 @@
 ||hgacevkuxzifv.com^
 ||hgads.com^
 ||hgbmwkklwittcdkjapnpeikxojivfhgszbxmrjfrvajzhzhuks.com^
+||hgbn.rocks^
 ||hgbn.space^
 ||hgbn1.com^
 ||hgbnr.com^
@@ -30163,6 +30184,7 @@
 ||intextual.net^
 ||intg.snapchat.com^
 ||intgr.net^
+||inti24.com^
 ||intim.love^
 ||intimistsoqitkh.download^
 ||intimlife.net^
@@ -30439,6 +30461,7 @@
 ||iscaebizkzyd.com^
 ||isdlyvhegxxz.com^
 ||isettatech.com^
+||isffnlbsuyinnv.com^
 ||isfilebest.com^
 ||isfmvohloskgw.com^
 ||isfxsiooyjad.com^
@@ -32319,6 +32342,7 @@
 ||kolorowy-fejs.blogspot.com^
 ||koloryfejsa.blogspot.com^
 ||koltruah.com^
+||kolur.top^
 ||kolwksic.com^
 ||komachi.yomiuri.co.jp^
 ||komatireddy.net^
@@ -32643,6 +32667,7 @@
 ||kwflzktzaxczm.com^
 ||kwgpddeduvje.com^
 ||kwhgsdnkrusyw.com^
+||kwhsnwdpwsv.com^
 ||kwiaofifmdqpif.com^
 ||kwipnlppnybc.com^
 ||kwistal.nl^
@@ -38734,6 +38759,7 @@
 ||niechoruje.pl^
 ||niematego.tk^
 ||nieveni.com^
+||niforniadistollie.info^
 ||niftymaps.com^
 ||nifyalnngdhb.com^
 ||nightened.com^
@@ -40068,6 +40094,7 @@
 ||ogqclfvaq.com^
 ||ogqeedybsojr.com^
 ||ogqewglysfc.com^
+||ogrfi3uyt7.com^
 ||ogrid.org^
 ||ogrodekedukacyjny.pl^
 ||ogt.jp^
@@ -40554,6 +40581,7 @@
 ||onti.rocks^
 ||onvertise.com^
 ||onvhilwrqdgd.com^
+||onvictinitor.com^
 ||onwardclick.com^
 ||onwey.com^
 ||onwkmbhucalthaeas.review^
@@ -40750,6 +40778,7 @@
 ||ophpbseelohv.com^
 ||opienetwork.com^
 ||opimpeeb.net^
+||opingexamplyt.info^
 ||opinion.com.ua^
 ||opinionlab.com^
 ||opinions.research-interactive.com^
@@ -40764,6 +40793,7 @@
 ||oplatyi.pl^
 ||opmnstr.com^
 ||oponykarbownik.pl^
+||opoxv.com^
 ||oppcgcqytazs.com^
 ||opportunity-tracking.com^
 ||opr.formulas.jp^
@@ -41017,6 +41047,7 @@
 ||otracking.com^
 ||otrfmbluvrde.com^
 ||otruzjgxof.com^
+||otrwaram.com^
 ||otsserver.com^
 ||otto-images.developershed.com^
 ||otusnijhkyihod.com^
@@ -42021,6 +42052,7 @@
 ||personyze.com^
 ||pertholin.com^
 ||perupuntocom.com^
+||perymiynf.com^
 ||pesbqkopdm.com^
 ||pestrike.com^
 ||petametrics.com^
@@ -44660,6 +44692,7 @@
 ||qhupdate.com^
 ||qhxpdoipj.com^
 ||qhzvvwblzrjc.com^
+||qibbblerzykelr.com^
 ||qicggmagur.com^
 ||qidkcvmr.com^
 ||qienews.cn^
@@ -47526,6 +47559,7 @@
 ||scd.secureintl.com^
 ||scdown.qq.com^
 ||scdsfdfgdr12.tk^
+||sceieibhpdday.com^
 ||scelebnow.xyz^
 ||scenbe.com^
 ||scene-ads.biz^
@@ -48370,6 +48404,7 @@
 ||sgs.us.com^
 ||sgs001.adtech.fr^
 ||sgs001.adtech.us^
+||sgutelyg.com^
 ||sgvuexlhbgpylr.com^
 ||sgwebhook.convertkit.com^
 ||sgxaqysyilwkiu.com^
@@ -55148,6 +55183,7 @@
 ||ttulyfbkatyzp.com^
 ||ttwitter.com^
 ||ttzmedia.com^
+||tu.7j813.cn^
 ||tu.dxcnd.cn^
 ||tubatebunjrqzi.download^
 ||tubberlo.com^
@@ -56455,6 +56491,7 @@
 ||uubxhbwnwmfqp.com^
 ||uudehlgu.com^
 ||uue2.destinia.ir^
+||uufbvpidyn.com^
 ||uugpwdbtalaria.review^
 ||uuidksinc.net^
 ||uuiqhzpvfql.com^
@@ -56779,6 +56816,7 @@
 ||vcslotoplay.com^
 ||vctgwjsgivo.com^
 ||vcvapkiua.com^
+||vcvefwzdxhysh.com^
 ||vcwdjbbughuy.com^
 ||vcwrigdrnh.com^
 ||vcxoizuwy.com^
@@ -56886,6 +56924,7 @@
 ||verblife-3.co^
 ||verdict.abc.go.com^
 ||verdoledran.ru^
+||verdrivenbru.info^
 ||veretiggoo.com^
 ||vergestatic.com^
 ||vergic.com^
@@ -59756,6 +59795,7 @@
 ||x.bloggurat.net^
 ||x.castanet.net^
 ||x.cb.kount.com^
+||x.dmouy.cn^
 ||x.dpstatic.com^
 ||x.eroticity.net^
 ||x.fidelity-media.com^
@@ -61652,6 +61692,7 @@
 ||zjgbpjmqfaow.com^
 ||zjgygpdfudfu.com^
 ||zjhnmbfqylme.com^
+||zjiktkmjyo.com^
 ||zjjlf.croukwexdbyerr.net^
 ||zjk24.com^
 ||zjkdrqtjowihn.com^
