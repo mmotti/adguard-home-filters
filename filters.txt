@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 21-12-2019 23:50 GMT
-! Count: 62,153
+! Last Modified: 22-12-2019 23:50 GMT
+! Count: 62,165
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1313,6 +1313,7 @@
 ||5yfi7sy.com^
 ||6.6.87.194.dynamic.dol.ru^
 ||6.mamaswishes.com^
+||6.spacepur.de^
 ||60.6.87.194.dynamic.dol.ru^
 ||6000518.com^
 ||600co.info^
@@ -1822,6 +1823,7 @@
 ||a.bestcontenttool.top^
 ||a.bitmango.com^
 ||a.bizarremag.com^
+||a.breaktime.com.tw^
 ||a.cam4free.com^
 ||a.cbc.ca^
 ||a.cctv.com^
@@ -3490,6 +3492,7 @@
 ||ad4mat.nl^
 ||ad4mat.pl^
 ||ad4mat.se^
+||ad4max.com^
 ||ad4me.net^
 ||ad4partners.com^
 ||ad4sell.com^
@@ -3647,6 +3650,7 @@
 ||adbitty.com^
 ||adbl.spieletipps.de^
 ||adblade.com^
+||adblade.org^
 ||adblender.ru^
 ||adblock-listefr.com^
 ||adblock.fr^
@@ -4790,7 +4794,6 @@
 ||ads.activepower.net^
 ||ads.activestate.com^
 ||ads.ad2iction.com^
-||ads.ad4max.com^
 ||ads.adadapted.com^
 ||ads.adagent.chacha.com^
 ||ads.adcorps.com^
@@ -9793,6 +9796,7 @@
 ||analytics.cincopa.com^
 ||analytics.civicplus.com^
 ||analytics.clickdimensions.com^
+||analytics.cliqz.com^
 ||analytics.closealert.com^
 ||analytics.cloud.unity3d.com^
 ||analytics.cloudron.io^
@@ -10194,6 +10198,7 @@
 ||annuncio.com.do^
 ||anobufefig.com^
 ||anogjkubvdfe.com^
+||anolysis.privacy.cliqz.com^
 ||anomicpcwgrml.download^
 ||anon-stats.eff.org^
 ||anon.doubleclick.speedera.net^
@@ -13467,6 +13472,7 @@
 ||binaryoptionssystems.org^
 ||binarysystem4u.com^
 ||binasmdul.com^
+||binchoise.ml^
 ||bindedge.com^
 ||bindfast.com^
 ||bing0.ru^
@@ -16850,7 +16856,6 @@
 ||cliop.com^
 ||clipbongda.info^
 ||clipserv.adclip.com^
-||cliqz.com^
 ||clit120.outster.com^
 ||clit50.outster.com^
 ||clix.vn^
@@ -17308,6 +17313,7 @@
 ||collector-analytics.efigence.com^
 ||collector-axa.cloud.ca.com^
 ||collector-cdn.github.com^
+||collector-hpn.cliqz.com^
 ||collector-test.staging.mb-internal.com^
 ||collector.air.tv^
 ||collector.automote.co.nz^
@@ -17315,6 +17321,7 @@
 ||collector.datadoghq.com^
 ||collector.fiverr.com^
 ||collector.githubapp.com^
+||collector.hpn.cliqz.com^
 ||collector.ksax.com^
 ||collector.kstptv5.com^
 ||collector.leaddyno.com^
@@ -25866,6 +25873,7 @@
 ||geoplugin.net^
 ||geopolice.com^
 ||geopromos.com^
+||georiot.com^
 ||geoservice.curse.com^
 ||geoshopping.nzherald.co.nz^
 ||geosvc.globalmailer.com^
@@ -28360,6 +28368,7 @@
 ||hplose.de^
 ||hpltfwbm.com^
 ||hpmgdwvvqulp.com^
+||hpn-collector.cliqz.com^
 ||hpqvvpfloatage.review^
 ||hprofits.com^
 ||hpsthxyqxqae.com^
@@ -43302,6 +43311,7 @@
 ||powabcyfqe.com^
 ||powaifinearts.org^
 ||power-affliate.blogspot.com^
+||power.adhacker.online^
 ||power.info.com^
 ||powerad.ai^
 ||poweradcash.net^
@@ -50739,6 +50749,7 @@
 ||stats.click-internet.fr^
 ||stats.clickforknowledge.com^
 ||stats.clipprtv.com^
+||stats.cliqz.com^
 ||stats.cloudwp.io^
 ||stats.cmcigroup.com^
 ||stats.cnevids.com^
@@ -57414,6 +57425,7 @@
 ||visitor-stats.de^
 ||visitor-track.com^
 ||visitor.benchmarkemail.com^
+||visitor.pixplug.in^
 ||visitorbarscript.com^
 ||visitorcontact.com^
 ||visitorglobe.com^
