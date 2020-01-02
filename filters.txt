@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 31-12-2019 23:50 GMT
-! Count: 62,008
+! Last Modified: 01-01-2020 23:50 GMT
+! Count: 62,021
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2393,6 +2393,7 @@
 ||activeindexer.com^
 ||activemeter.com^
 ||activemetering.com^
+||activengage.com^
 ||activepr.info^
 ||activepr.ru^
 ||activeprospects.com^
@@ -9578,6 +9579,7 @@
 ||analytics.cynapse.com^
 ||analytics.datahc.com^
 ||analytics.de.algolia.com^
+||analytics.dealer.com^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
 ||analytics.digitouch.it^
@@ -9807,6 +9809,7 @@
 ||analytics.wetpaint.me^
 ||analytics.whatculture.com^
 ||analytics.wildtangent.com^
+||analytics.wirefly.com^
 ||analytics.wishabi.ca^
 ||analytics.witglobal.net^
 ||analytics.worldtable.co^
@@ -9974,6 +9977,7 @@
 ||anothing.info^
 ||anothinga.com^
 ||anouslab.cmail20.com^
+||anovbqzmit.com^
 ||anpwsppugpu.com^
 ||anrdoezrs.net^
 ||anshrit.com^
@@ -18397,7 +18401,6 @@
 ||cusok.ru^
 ||cussixia.de^
 ||custom-blacklisted-tracking-example.com^
-||custom-proxy.leadpages.net^
 ||custom-wrs.api.responsys.net^
 ||custom.allistracking.com^
 ||custom3hurricanedigitalmedia.com^
@@ -19608,6 +19611,7 @@
 ||dealcurrent.com^
 ||dealdestages.me^
 ||dealdotcom.com^
+||dealeronlinemarketing.com^
 ||dealhelper.com^
 ||dealitright.click^
 ||dealmanager.buysellads.com^
@@ -26107,7 +26111,6 @@
 ||go-rilla.offerstrack.net^
 ||go-rillatrack.com^
 ||go-stats.dlinkddns.com^
-||go.activengage.com^
 ||go.ad2upapp.com^
 ||go.biz^
 ||go.bluewin.ch^
@@ -26698,6 +26701,7 @@
 ||grupoeq.com^
 ||grvspn.com^
 ||grxpaizsvdzw.com^
+||grxzcfdcxu.com^
 ||grybow24.pl^
 ||gryjava.gsm.pl^
 ||grynanecie.pl^
@@ -31296,6 +31300,7 @@
 ||jumpinessrhbijjq.download^
 ||jumplead.com^
 ||jumplead.io^
+||jumpstarttaggingsolutions.com^
 ||jumptap.com^
 ||jumptime.com^
 ||junbi-tracker.com^
@@ -32842,6 +32847,7 @@
 ||leadn.pl^
 ||leadnationmedia.com^
 ||leadpages.co^
+||leadpages.net^
 ||leadplace.fr^
 ||leadpub.com^
 ||leads.383media.com^
@@ -40263,6 +40269,7 @@
 ||onetag-sys.com^
 ||onetag.ectest.net^
 ||onetag.io^
+||onetag.tws.toyota.jp^
 ||oneund.com^
 ||oneund.ru^
 ||onevideo.advertising.com^
@@ -44001,6 +44008,7 @@
 ||pulpyads.com^
 ||puls-sukcesu.net^
 ||puls.lv^
+||pulsar.ebay.com^
 ||pulse-analytics-beacon.reutersmedia.net^
 ||pulse-biznesowe.xyz^
 ||pulse.mcdonalds.com^
@@ -48949,6 +48957,7 @@
 ||smart-feed-online.com^
 ||smart-ip.net^
 ||smart-m-system.com^
+||smart-pixl.com^
 ||smart-scripts.com^
 ||smart-tds.info^
 ||smart-traffik.com^
@@ -49052,6 +49061,7 @@
 ||smetrics.freecreditreport.com^
 ||smetrics.hbogo.com^
 ||smetrics.hbonow.com^
+||smetrics.kbb.com^
 ||smetrics.lowes.com^
 ||smetrics.marriott.com^
 ||smetrics.mcafee.com^
@@ -53381,6 +53391,7 @@
 ||toy-offer.com^
 ||toy-offer.net^
 ||toyhxqjgqcjo.com^
+||toyota-tagging-prod.azureedge.net^
 ||toyota-tagging-tagserver-prod.azurewebsites.net^
 ||toyota.cyberealhosting.com^
 ||toyota.vo.llnwd.net^
@@ -54485,6 +54496,7 @@
 ||trafficcenter.com^
 ||trafficcenter.de^
 ||trafficclub-nde.netdna-ssl.com^
+||trafficcontrolmarketing.com^
 ||trafficcost.ru^
 ||trafficdiscount.com^
 ||trafficengine.net^
@@ -60026,6 +60038,7 @@
 ||xkygmtrrjalx.com^
 ||xkyicwujsmepsh.com^
 ||xkylfuhjh.com^
+||xkzrbaexyrds.com^
 ||xkzzkxntmryst.com^
 ||xl-counti.com^
 ||xl-rank.com^
