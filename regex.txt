@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - regex.txt
 ! Description: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
-! Last Modified: 19-12-2019 11:12 GMT
-! Count: 16
+! Last Modified: 03-01-2020 23:50 GMT
+! Count: 17
 !
 ! Sources:
 ! https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
@@ -40,6 +40,7 @@
 /^banners?[-.]/
 /^beacons?[0-9]*[-.]/
 /^count(ers?)?[0-9]*[-.]/
+/^mads\./
 /^pixels?[-.]/
 /^stat(s|istics)?[0-9]*[-.]/
 /^track(ers?|ing)?[0-9]*[-.]/

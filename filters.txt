@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 02-01-2020 23:50 GMT
-! Count: 61,524
+! Last Modified: 03-01-2020 23:50 GMT
+! Count: 61,441
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -457,6 +457,7 @@
 ||187.6.87.194.dynamic.dol.ru^
 ||18744.com^
 ||188.6.87.194.dynamic.dol.ru^
+||188affiliates.com^
 ||188server.com^
 ||189-211-177-171.static.axtel.net^
 ||189.6.87.194.dynamic.dol.ru^
@@ -11303,6 +11304,7 @@
 ||b.baidu.com^
 ||b.bedop.com^
 ||b.big7.com^
+||b.bnrsis.com^
 ||b.books555.com^
 ||b.boyfriendtv.com^
 ||b.camplace.com^
@@ -12541,6 +12543,7 @@
 ||beacon.lycos.com^
 ||beacon.mtgx.tv^
 ||beacon.netflix.com^
+||beacon.nrholding.net^
 ||beacon.qq.com^
 ||beacon.richrelevance.com^
 ||beacon.riskified.com^
@@ -12899,6 +12902,7 @@
 ||bgtop100.com^
 ||bgvexbybxxbcao.com^
 ||bgvfceqpqzx.com^
+||bgwbqsmj.com^
 ||bgwebads.com^
 ||bgwucxto.com^
 ||bgzyppwk.com^
@@ -18356,7 +18360,6 @@
 ||d2d2lbvq8xirbs.cloudfront.net^
 ||d2d8qsxiai9qwj.cloudfront.net^
 ||d2dq2ahtl5zl1z.cloudfront.net^
-||d2eb561c06fa6.com^
 ||d2edfzx4ay42og.cloudfront.net^
 ||d2fbkzyicji7c4.cloudfront.net^
 ||d2fhjyz3dwdx87.cloudfront.net^
@@ -18605,7 +18608,6 @@
 ||d4q8zgf756.com^
 ||d5.sv.omtrdc.net^
 ||d50285bff60edbb406.com^
-||d53497a82c4f.com^
 ||d58bf31082fa97.com^
 ||d59fa492f75f520.com^
 ||d5c18469d17cb1d1.com^
@@ -18615,7 +18617,6 @@
 ||d5ou3dytze6uf.cloudfront.net^
 ||d5pb47xzjz3fc.cloudfront.net^
 ||d5pvnbpawsaav.cloudfront.net^
-||d5zob5vm0r8li6khce5he5.com^
 ||d602196786e42d.com^
 ||d60227ef59e.com^
 ||d60y8cj1tje2a.cloudfront.net^
@@ -18631,7 +18632,6 @@
 ||d71e6dd31a026d45.com^
 ||d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com^
 ||d7e10fa2099.com^
-||d7vjqf37fh.com^
 ||d81mfvml8p5ml.cloudfront.net^
 ||d824d7f5cbcb0e00.com^
 ||d830x8j3o1b2k.cloudfront.net^
@@ -18645,7 +18645,6 @@
 ||d985a9d2clzq5.cloudfront.net^
 ||d9ae99824.se^
 ||d9c47b2e6aec5c8dbdab.date^
-||d9e2m9e83l.com^
 ||d9lq0o81skkdj.cloudfront.net^
 ||d9rj2sdxjer5v.cloudfront.net^
 ||d9tnvwv7i2n85.cloudfront.net^
@@ -18668,18 +18667,14 @@
 ||daccrois.com^
 ||dacknbenn.com^
 ||dacounter.com^
-||dacqmkmsjajm.com^
 ||dadafilehost.com^
-||dadegid.ru^
 ||dadi.technology^
-||dadllrpazourna.com^
 ||dadparty.com^
 ||dads.new.digg.com^
 ||daea.ero-advertising.com^
 ||daecan.xyz^
 ||daelynn.xyz^
 ||daero.pw^
-||daetemegxlyp.com^
 ||daethana.pw^
 ||dafa.io^
 ||dafferes.com^
@@ -18708,12 +18703,8 @@
 ||dailyvideo.securejoin.com^
 ||dairouzy.net^
 ||dairyingsmorbjo.download^
-||daitrff.info^
-||daiwyihpjhdy.com^
 ||daizoohu.net^
-||daizzagvvnv.com^
 ||dajlkvplxyzbsa.com^
-||dajoetsja.com^
 ||dakic-ia-300.com^
 ||dal.d.la^
 ||dal9hkyfi0m0n.cloudfront.net^
@@ -18736,7 +18727,6 @@
 ||danid.net^
 ||danieltan.evplayer.com^
 ||danilidi.ru^
-||danitabedtick.net^
 ||danmeneldur.com^
 ||dante2007.com^
 ||danunnpvy.com^
@@ -18873,7 +18863,6 @@
 ||datacollect.vmall.com^
 ||datacoral.com^
 ||datacoral.io^
-||datacratic-px.com^
 ||datado.me^
 ||datadog-service.mvfglobal.com^
 ||datadoghq-browser-agent.com^
@@ -18919,7 +18908,6 @@
 ||datingsinglesfree.net^
 ||dats.ero-advertising.com^
 ||datt.ero-advertising.com^
-||datumreact.com^
 ||datvantage.com^
 ||daua.ero-advertising.com^
 ||daunteegyptian.pro^
@@ -18933,8 +18921,6 @@
 ||dawin.tv^
 ||dawnframing.com^
 ||dawnnationaladvertiser.com^
-||daxnfpzmnfdr.com^
-||daxzupqivdoj.com^
 ||daylife-analytics.com^
 ||daylogs.com^
 ||daz.com^
@@ -18944,7 +18930,6 @@
 ||db.advertising.com^
 ||db.riskwaters.com^
 ||db14a56766c5e1a1c2.com^
-||db1527d1439.com^
 ||db52cc91beabf7e8.com^
 ||db8a41d81b8dfe41de2.com^
 ||dbaof.com^
@@ -18957,25 +18942,17 @@
 ||dbi1.surf-town.net^
 ||dbidatatech.com^
 ||dbios.org^
-||dbjcbnlwchgu.com^
 ||dbjnwpbqx5a6o.cloudfront.net^
-||dbjsnxncaxnpp.com^
 ||dbktgmyjph.com^
 ||dbmvideos.com^
 ||dbmysjylbpwrav.com^
-||dbojgaxhxalh.com^
 ||dbs.advertising.com^
 ||dbs.autolatest.ro^
 ||dbs.bitterstrawberry.org^
 ||dbta.ero-advertising.com^
-||dbtaclpoahri.com^
-||dbtglwtlxhysk.com^
-||dbusiki.info^
 ||dbuwkhpggim.com^
 ||dbvault.net^
-||dbwawnzkjniz.com^
 ||dbyinbsam.com^
-||dbysmkeerpzo.com^
 ||dc-int.services.visualstudio.com^
 ||dc-storm.com^
 ||dc.5.p2l.info^
@@ -18993,13 +18970,11 @@
 ||dc.tremormedia.com^
 ||dc08i221b0n8a.cloudfront.net^
 ||dc121677.com^
-||dc40b24004fa11f35b7.com^
 ||dc44qjwal3p07.cloudfront.net^
 ||dc4d4996bc86498d8959-7dc0216bc6cc2f4ed239035dfc17235b.r83.cf3.rackcdn.com^
 ||dc5ig2fc8lg83.cloudfront.net^
 ||dc5k8fg5ioc8s.cloudfront.net^
 ||dc63bfb069ea522f.com^
-||dc76b15913c.com^
 ||dc8na2hxrj29i.cloudfront.net^
 ||dc8xl0ndzn2cb.cloudfront.net^
 ||dcad.watersoul.com^
@@ -19008,9 +18983,7 @@
 ||dcapps.disney.go.com^
 ||dccss.banggood.com^
 ||dccstsamnyrjk.com^
-||dcdalkgtbmip.com^
 ||dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com^
-||dcgbswcvywyl.com^
 ||dchnguasrxubf.com^
 ||dcjg1gv1px1h.cloudfront.net^
 ||dcjhpaexcwtc.com^
@@ -19020,13 +18993,9 @@
 ||dclk.net^
 ||dclk.themarker.com^
 ||dclk.themarketer.com^
-||dclmmbjyshy.com^
 ||dcm5.com^
-||dcmatjqifoim.com^
-||dcmhpbpdcsy.com^
 ||dcmn.com^
 ||dcmn.io^
-||dcneohtx.com^
 ||dco.advertising.com^
 ||dcoxxsbn.com^
 ||dcplayeza.pw^
@@ -19044,11 +19013,9 @@
 ||dcw.1592878.com^
 ||dcxitlzzmyxbwn.com^
 ||dcyeufoq.com^
-||dcznhkojghrl.com^
 ||dd6zx4ibq538k.cloudfront.net^
 ||ddaac98f67e384d8a9.com^
 ||ddacn6pr5v0tl.cloudfront.net^
-||ddbnikwub.com^
 ||ddd.gouwuke.cn^
 ||dddcc.com^
 ||dddevki4u.com^
@@ -19065,7 +19032,6 @@
 ||ddmlzfwsb.com^
 ||ddnmzrpp.com^
 ||ddomb.com^
-||ddprxzxnhzbq.com^
 ||ddwht76d9jvfl.cloudfront.net^
 ||ddyv8sl7ewq1w.cloudfront.net^
 ||ddzuuyx7zj81k.cloudfront.net^
@@ -19134,7 +19100,6 @@
 ||decynsire.com^
 ||dedicatedmedia.com^
 ||dedicatednetworks.com^
-||deebwmbbytr.com^
 ||deep.bi^
 ||deepattention.com^
 ||deepc.cc^
@@ -19162,11 +19127,8 @@
 ||definitial.info^
 ||deflorationvirgins.com^
 ||defpush.com^
-||degitlwfezpe.com^
 ||degivuladles.review^
-||deguiste.com^
 ||dehardward.com^
-||dehtale.ru^
 ||deicslktis.com^
 ||deignsgcngub.download^
 ||deiqehvcdnntg.com^
@@ -19181,9 +19143,7 @@
 ||delb2.myspace.com^
 ||delegatediscussion.com^
 ||deleondeos.com^
-||deletemer.online^
 ||deletespyware-adware.com^
-||deliberatelyvirtuallyshared.xyz^
 ||delidatax.net^
 ||delightcash.com^
 ||delightdriving.com^
@@ -19214,10 +19174,8 @@
 ||delivery47.com^
 ||delivery49.com^
 ||delivery51.com^
-||deliverylizer.com^
 ||deliverymailsysytem.co.uk^
 ||deliverymodo.com^
-||deliverytaste.com^
 ||delnapb.com^
 ||deloitteca.com^
 ||deloo.de^
@@ -19261,7 +19219,6 @@
 ||dentalsearchsolutions.com^
 ||deobp.com^
 ||deostr.com^
-||deouvnqbgflv.com^
 ||dep-x.com^
 ||deparationew.info^
 ||deparisesamer.info^
@@ -19270,12 +19227,9 @@
 ||depilflash.tv^
 ||deplayer.net^
 ||deployads.com^
-||depodub.info^
 ||depravedwhores.com^
-||depresis.com^
 ||depttake.ga^
 ||deqik.com^
-||deqrdwsjlpjz.com^
 ||deqwas-dsp.net^
 ||deqwas.net^
 ||der-wallstreet-affiliate.com^
@@ -19294,7 +19248,6 @@
 ||desalinateorixnpf.download^
 ||desb.fkapi.net^
 ||desb.mspaceads.com^
-||descapita.com^
 ||descargas2.tuvideogratis.com^
 ||descrepush.com^
 ||descz.ovh^
@@ -19325,7 +19278,6 @@
 ||detailedglue.com^
 ||detailedgovernment.com^
 ||detailsay.info^
-||detailtoothteam.com^
 ||detect.ergebnis-dienst.de^
 ||detectdiscovery.com^
 ||detectnewfavorite.com^
@@ -19336,7 +19288,6 @@
 ||detox-kit.com^
 ||detox.shengen.ru^
 ||detroithardcore.com^
-||detroposal.com^
 ||detwzgl8cvciv.cloudfront.net^
 ||deucodialytic.review^
 ||deuqpxrht.com^
@@ -19382,8 +19333,6 @@
 ||dexim.space^
 ||deximedia.com^
 ||dexplatform.com^
-||dexxxrggi.com^
-||deyzjaiggwz.com^
 ||dezuiderwaard.nl^
 ||df-srv.de^
 ||df.mmo001.info^
@@ -19409,21 +19358,15 @@
 ||dfmedtntwcepqx.com^
 ||dfmnbv.pro^
 ||dfmunigpp.com^
-||dfnnhwiyxjajhq.com^
 ||dfomexjuokpuxi.com^
 ||dfpejgtwrgawen.com^
-||dfrcdywe.com^
-||dfrekewe.com^
 ||dfrs12kz9qye2.cloudfront.net^
-||dfskgmrepts.com^
-||dfujqyjifvoe.com^
 ||dfxvfkutloxnyl.com^
 ||dfyudpyceqoy.com^
 ||dg.sxybjjz.cn^
 ||dgarvwharbgpb.com^
 ||dgauda.com^
 ||dgeggjwyhkrr.com^
-||dggcgurqynie.com^
 ||dghgutalvz.com^
 ||dgit.com^
 ||dgkvriccq.com^
@@ -19433,7 +19376,6 @@
 ||dgmatix.com^
 ||dgmaustralia.com^
 ||dgmaxinteractive.com^
-||dgmlubjidcxc.com^
 ||dgmsearchlab.com^
 ||dgnuumyxpqiget.com^
 ||dgowzelhoaqqb.com^
@@ -19453,22 +19395,13 @@
 ||dhaomvok.com^
 ||dhauzja511.co.cc^
 ||dhgcqqmtf.com^
-||dhienrfamv.com^
 ||dhl-24.pl^
-||dhlnlwxspczc.com^
-||dhmhdiozqbnq.com^
 ||dhmonitor.dinaserver.com^
 ||dhmtracking.co.za^
 ||dhmwedckf.com^
-||dhnxwgxszvi.com^
-||dhomixidnkas.com^
-||dhsztvyjwcmk.com^
 ||dhtqupvxujyfp.com^
 ||dhundora.com^
-||dhuodal.com^
 ||dhuqolbvyla.com^
-||dhvaigzy.com^
-||dhvzrpvjwibr.com^
 ||dhxwczetwdkt.com^
 ||dhygr.com^
 ||di1.shopping.com^
@@ -19547,10 +19480,8 @@
 ||digitru.st^
 ||digits.com^
 ||dignow.org^
-||digwzeutydo.com^
 ||dihitt.com^
 ||dijutbdzbv.com^
-||diktafe.info^
 ||dikzfvrgjpygz.com^
 ||dildo.tnaflix.com^
 ||dillweqbducwi.com^
@@ -19576,7 +19507,6 @@
 ||dinkstat.com^
 ||dinoadserver1.roka.net^
 ||dinoadserver2.roka.net^
-||dinorslick.icu^
 ||dinovala.com^
 ||dinthorop.ru^
 ||dintronferow.ru^
@@ -19610,8 +19540,6 @@
 ||directfreebies.com^
 ||directgrowthhormone.com^
 ||directhackerz.tk^
-||directile.info^
-||directile.net^
 ||directivepub.com^
 ||directleads.com^
 ||directleads.net^
@@ -19620,7 +19548,6 @@
 ||directnavbt.com^
 ||directnetadvertising.net^
 ||directnow.me^
-||directoral.info^
 ||directorym.com^
 ||directpowerrewards.com^
 ||directprimal.com^
@@ -19641,7 +19568,6 @@
 ||dirtyje.ws^
 ||dirtyrhino.com^
 ||disable-uac.com^
-||disbkzufvqhk.com^
 ||discloserwdojtmjb.download^
 ||discount-savings-more.com^
 ||discountclick.com^
@@ -19657,7 +19583,6 @@
 ||discreetfield.com^
 ||discsplay.com^
 ||diseaseless.com^
-||disedet.info^
 ||disgustingsjnhmuv.download^
 ||disjoiningjfdxyogp.download^
 ||diskager.com^
@@ -19699,19 +19624,15 @@
 ||ditdotsol.com^
 ||ditds.xyz^
 ||ditincoriligh.pro^
-||ditouyldfqgt.com^
 ||ditwrite.com^
-||diuiyzhao.com^
 ||divine.lunarbreeze.com^
 ||divisioncore.com^
 ||divolution.com^
 ||divp3w86nodu0.cloudfront.net^
 ||divx.it^
 ||diwamugh.net^
-||diwiosqupuecg.com^
 ||diwsvdnmpn.com^
 ||diwtbtakcu.com^
-||diysqcbfyuru.com^
 ||dizzcloud.com^
 ||dizzyac.com^
 ||dj-updates.com^
@@ -19719,11 +19640,8 @@
 ||dj1.baidu.com^
 ||djagrjpaoek.com^
 ||djarumgol.com^
-||djavljmti.com^
 ||djbanners.deadjournal.com^
-||djbnmqdawodm.com^
 ||djchfgacdfaaadfdc.ru^
-||djeoxopgw.com^
 ||djers.com^
 ||djfhwosjck.bid^
 ||djfiln.com^
@@ -19737,21 +19655,17 @@
 ||djmaza.in^
 ||djnf6e5yyirys.cloudfront.net^
 ||djnroblmpyxrh.com^
-||djntmaplqzbi.com^
 ||djpff.top^
-||djqercix.com^
 ||djr4k68f8n55o.cloudfront.net^
 ||djsrp.com^
 ||djtfkakbufpwot.com^
 ||djtflbt20bdde.cloudfront.net^
 ||djugoogs.com^
-||djuxmbjauluis.com^
 ||djuzsbnnm.biz^
 ||djv99sxoqpv11.cloudfront.net^
 ||djvpsxtkdmga.com^
 ||djwdefnov.com^
 ||djwf0dl2q9i99.cloudfront.net^
-||djxvususwvso.com^
 ||djz9es32qen64.cloudfront.net^
 ||dk-statistik.de^
 ||dk2mvwe4uw0z3.cloudfront.net^
@@ -19761,11 +19675,9 @@
 ||dkd69bwkvrht1.cloudfront.net^
 ||dkdwv3lcby5zi.cloudfront.net^
 ||dketrade.top^
-||dkfdpglo.com^
 ||dkfindnpdgac.com^
 ||dkgitkwo.com^
 ||dkj2m377b0yzw.cloudfront.net^
-||dklvewbgjksyy.com^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkmdklhu.com^
 ||dkorusxgputkrb.com^
@@ -19774,7 +19686,6 @@
 ||dksvmumbi.com^
 ||dktaqipmquo.com^
 ||dktyjwldv.com^
-||dkvzpqcqan.com^
 ||dkxeorhjmua.com^
 ||dl-plugin.com^
 ||dl-rms.com^
@@ -30957,6 +30868,7 @@
 ||k.h.a.d.free.fr^
 ||k.iinfo.cz^
 ||k.ilius.net^
+||k.rueducommerce.fr^
 ||k.streamrail.com^
 ||k0z09okc.com^
 ||k1.mobileadsserver.com^
@@ -32419,6 +32331,7 @@
 ||lejhdbxl.com^
 ||lejournaldescarrieres.com^
 ||lelexw.com^
+||lem.nouvelobs.com^
 ||lemetri.info^
 ||lemitsuz.net^
 ||lemmatechnologies.com^
@@ -46258,6 +46171,7 @@
 ||rulgltvmpzig.com^
 ||rum.conde.io^
 ||rum.marquardmedia.hu^
+||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
 ||rum.turbobytes.com^
 ||rumanalytics.com^
@@ -49714,6 +49628,7 @@
 ||stat.funshion.net^
 ||stat.gamy.ameba.jp^
 ||stat.ganbox.com^
+||stat.glaze.ai^
 ||stat.hudong.com^
 ||stat.info-stream.net^
 ||stat.it168.com^
@@ -50966,6 +50881,7 @@
 ||sy.ameblo.jp^
 ||sy123888.com^
 ||syaseigangan.club^
+||sycbmucgctvha.com^
 ||sydhbmlmdxzd.com^
 ||sydnkqqscbxc.com^
 ||syds588.cn^
@@ -51116,6 +51032,7 @@
 ||t.cfjump.com^
 ||t.channeladvisor.com^
 ||t.cinemablend.com^
+||t.clic2buy.com^
 ||t.cpa37.com^
 ||t.cqq5id8n.com^
 ||t.custora.com^
