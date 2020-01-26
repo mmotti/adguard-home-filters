@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-01-2020 23:50 GMT
-! Count: 61,183
+! Last Modified: 25-01-2020 23:50 GMT
+! Count: 61,246
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -7985,6 +7985,7 @@
 ||advadnetwork.me^
 ||advagava.su^
 ||advaliant.com^
+||advalo.com^
 ||advance.net^
 ||advanced-web-analytics.com^
 ||advancedad.com^
@@ -9459,6 +9460,7 @@
 ||allmysource.ru^
 ||allmyverygreatlife.com^
 ||allnvbtrtpku.com^
+||allo-media.net^
 ||allo-sexe.com^
 ||allo-sexe.net^
 ||alloffs.ru^
@@ -11151,6 +11153,7 @@
 ||ares.agoop.net^
 ||areyouabot.net^
 ||areyouahuman.co^
+||arfeservation.info^
 ||arfmdqwyztn.com^
 ||arfttojxv.com^
 ||arganostrella.com^
@@ -14968,6 +14971,7 @@
 ||bzctqprddwhj.com^
 ||bzeitvxguf.com^
 ||bzfvcavza.com^
+||bzgijyfjo.com^
 ||bzkmfzoxqmau.com^
 ||bzlwe.com^
 ||bznclicks.com^
@@ -15662,6 +15666,7 @@
 ||cdn-adacado.netdna-ssl.com^
 ||cdn-adn.smardroid.com^
 ||cdn-adspot.tfgco.com^
+||cdn-alliancegravity.s3.amazonaws.com^
 ||cdn-analytics.ladmedia.fr^
 ||cdn-analytics.pl^
 ||cdn-api.appadhoc.com^
@@ -16007,6 +16012,7 @@
 ||cds26.ams9.msecn.net^
 ||cdsbnrs.com^
 ||cdsportadapte91.fr^
+||cdvjpzltcouxm.com^
 ||cdvoqspgdp.com^
 ||cdwqibctfz.com^
 ||cdxbin.vulnerap.com^
@@ -19465,6 +19471,7 @@
 ||d2i54aseqwhx68.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2ip7iv1l4ergv.cloudfront.net^
+||d2izls9pm2f64q.cloudfront.net^
 ||d2j3te7y7s8xxp.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
@@ -20822,12 +20829,14 @@
 ||dk7rftbivnkgr.cloudfront.net^
 ||dkd69bwkvrht1.cloudfront.net^
 ||dkdwv3lcby5zi.cloudfront.net^
+||dkecozphug.com^
 ||dketrade.top^
 ||dkfindnpdgac.com^
 ||dkgitkwo.com^
 ||dkj2m377b0yzw.cloudfront.net^
 ||dkm6b5q0h53z4.cloudfront.net^
 ||dkmdklhu.com^
+||dko.vente-unique.nl^
 ||dkorusxgputkrb.com^
 ||dkpartners.backstopsolutions.com^
 ||dkroonzvxvansw.com^
@@ -20983,6 +20992,7 @@
 ||do-wn-lo-ad.com^
 ||do09.net^
 ||do67etikr7pwz.cloudfront.net^
+||doa1.immobilier-neuf.com^
 ||doaraifa.click^
 ||doastebu.net^
 ||doathair.com^
@@ -21525,6 +21535,7 @@
 ||dv0.info^
 ||dv2m1uumnsgtu.cloudfront.net^
 ||dv4uxy777adjt.cloudfront.net^
+||dv59b.montecarlomeeting.com^
 ||dv7t7qyvgyrt5.cloudfront.net^
 ||dvaminusodin.net^
 ||dvanaro.ru^
@@ -21541,6 +21552,7 @@
 ||dviixeyykyqjv.cloudfront.net^
 ||dvjhdodvcu.com^
 ||dvnafl0qtqz9k.cloudfront.net^
+||dvo.assurandme.fr^
 ||dvokgydenwaksi.com^
 ||dvoyy3qexr.com^
 ||dvpgijdm.com^
@@ -21573,6 +21585,7 @@
 ||dwuvmraztukg.com^
 ||dwxmyiyf7jg6.cloudfront.net^
 ||dx5qvhwg92mjd.cloudfront.net^
+||dxe2.heip.fr^
 ||dxedge-prod-lb-946522505.us-east-1.elb.amazonaws.com^
 ||dxiixnrumvni.com^
 ||dxkkixczpsdaw.com^
@@ -21752,6 +21765,7 @@
 ||e347bb14dc71778.com^
 ||e350570881272e.com^
 ||e376ef28103177cc.com^
+||e3tmyc4rbs.com^
 ||e46fa8d94b17745ac277-ae524ab82d83e9108c081b44b53c4ff2.r94.cf2.rackcdn.com^
 ||e521d17fa185a2.com^
 ||e553bcf717698d33.com^
@@ -21776,12 +21790,14 @@
 ||e9mlrvy1.com^
 ||ea.auchantelecom.fr^
 ||ea.aujourdhui.com^
+||ea.bouquetnantais.com^
 ||ea.celio.com^
 ||ea.ciblo.net^
 ||ea.deguisetoi.fr^
 ||ea.diamant-unique.com^
 ||ea.fleurancenature.fr^
 ||ea.greenweez.com^
+||ea.habitat.de^
 ||ea.habitat.fr^
 ||ea.histoiredor.com^
 ||ea.hofmann.es^
@@ -21789,20 +21805,37 @@
 ||ea.homair.com^
 ||ea.jeuxvideopc.com^
 ||ea.kauf-unique.at^
+||ea.kauf-unique.de^
 ||ea.lafrancedunordausud.fr^
+||ea.leskidunordausud.fr^
+||ea.lespagnedunordausud.fr^
 ||ea.lexpress.fr^
+||ea.megustaleer.com.pe^
+||ea.megustaleer.com^
 ||ea.melijoe.com^
 ||ea.millet-mountain.com^
 ||ea.millet.fr^
 ||ea.monsieurmanuel.com^
 ||ea.natiloo.com^
+||ea.odalys-vacances.com^
+||ea.odalys-vacation-rental.com^
 ||ea.officedepot.fr^
+||ea.pixmania.de^
+||ea.pixmania.dk^
+||ea.pixmania.fi^
+||ea.pixmania.ie^
+||ea.pixmania.it^
+||ea.pixmania.nl^
+||ea.pixmania.pl^
+||ea.pixmania.se^
+||ea.placedestendances.com^
 ||ea.rentacar.fr^
 ||ea.rueducommerce.fr^
 ||ea.venta-unica.com^
 ||ea.vente-unique.be^
 ||ea.vente-unique.ch^
 ||ea.vente-unique.com^
+||ea.vente-unique.lu^
 ||ea.warnerbros.fr^
 ||eac0823ca94e3c07.com^
 ||eacdn.com^
@@ -22136,6 +22169,7 @@
 ||eeu.pl^
 ||eewherak.net^
 ||ef.futuroscope.com^
+||ef.futuroscope.mobi^
 ||ef867a1be4f83922.com^
 ||efam4.info^
 ||efatik.me^
@@ -23019,11 +23053,14 @@
 ||eula.mindspark.com^
 ||eulbamjx.com^
 ||eule1.pmu.fr^
+||eulerian.belambra.be^
+||eulerian.belambra.fr^
 ||eulerian.brandalley.fr^
 ||eulerian.com^
 ||eulerian.madeindesign.com^
 ||eulerian.mathon.fr^
 ||eulerian.net^
+||eulerian.officiel-des-vacances.com^
 ||eulerian.sarenza.com^
 ||eulerian.splendia.com^
 ||euleriancdn.net^
@@ -27059,6 +27096,7 @@
 ||gw4.surf-town.net^
 ||gwa.lphbs.com^
 ||gwallet.com^
+||gwashiondevelhig.info^
 ||gwb.lphbs.com^
 ||gwc.lphbs.com^
 ||gwd.lphbs.com^
@@ -29991,6 +30029,7 @@
 ||iotiot.cf^
 ||ioubes.press^
 ||ioujbpldicfgm.com^
+||iouxtayinkmu.com^
 ||iovation.co.uk^
 ||iovation.com^
 ||iozpujvmlojzhp.com^
@@ -30888,6 +30927,7 @@
 ||jqcv28q.com^
 ||jqfjrjka5t.top^
 ||jqgblwjfvox.com^
+||jqnshpbuj.com^
 ||jqpccewciuzj.com^
 ||jqpuxvgnxkf.com^
 ||jqqlucchmbxnn.com^
@@ -31356,6 +31396,7 @@
 ||kcta.or.kr^
 ||kctag.net^
 ||kcugdqmmfcqrb.com^
+||kcveufgl.com^
 ||kczambians.com^
 ||kdata.fr^
 ||kdatabidder.com^
@@ -33651,6 +33692,7 @@
 ||lsassoc.com^
 ||lsawards.com^
 ||lsc.hextom.com^
+||lsckvlhhqlo.com^
 ||lsdgtifuqrwjax.com^
 ||lseddehpo.com^
 ||lsfinteractive.com^
@@ -35962,6 +36004,7 @@
 ||mltrk.io^
 ||mlvc4zzw.space^
 ||mlweb.dmlab.hu^
+||mlyqbqha.com^
 ||mm-syringe.com^
 ||mm.777-partner.com^
 ||mm.777-partners.net^
@@ -36310,6 +36353,7 @@
 ||mohini-ger.com^
 ||mohqurakhwvf.com^
 ||moijs.com^
+||moimjvrbzb.com^
 ||mojadedra.pl^
 ||mojadietanamase.pl^
 ||moje-last-minute.pl^
@@ -37126,6 +37170,7 @@
 ||mypopup.ir^
 ||mypowermall.com^
 ||myprivateemails.com^
+||mypydwibqja.com^
 ||myqnpgfgjo.com^
 ||myqvhpjyd.com^
 ||myqzicfxbkpk.com^
@@ -39374,6 +39419,7 @@
 ||ofy3m0gp.com^
 ||ofzoxqcldl.com^
 ||og.zyzjpx.cn^
+||og4.me^
 ||ogamon.win^
 ||ogbwqq.gkwtk.xyz^
 ||ogclick.com^
@@ -43928,6 +43974,7 @@
 ||pxyltyzjnm.com^
 ||pxzacgmr.com^
 ||pybul.bestfrozenporn.nl^
+||pycmdgig.com^
 ||pycvhwxtqhknb.com^
 ||pydpcqjenhjx.com^
 ||pyfmxzhrnivq.com^
@@ -45056,6 +45103,7 @@
 ||re.rutan.org^
 ||re.taobao.com^
 ||re.try9.com^
+||reach5.net^
 ||reachandrich.antevenio.com^
 ||reacherinst.com^
 ||reachforce.com^
@@ -45489,6 +45537,7 @@
 ||relytec.com^
 ||rem-track.bild.de^
 ||rem.rezonmedia.eu^
+||remailtarget.com^
 ||remain.appcpi.net^
 ||remarketingpixel.com^
 ||remarketstats.com^
@@ -46176,6 +46225,7 @@
 ||rosa-wypoczynek.pl^
 ||rosalieeve.pl^
 ||rosaspasowka.pl^
+||roscvyybfkm.com^
 ||rose.ixbt.com^
 ||rosemand.pro^
 ||roshanavar.com^
@@ -48317,6 +48367,7 @@
 ||shulhanafuh.com^
 ||shusacem.net^
 ||shuteehe.net^
+||shutternsbe.info^
 ||shuxcbgab.com^
 ||shvjvbmyyyfa.com^
 ||shyseed.com^
@@ -49059,6 +49110,7 @@
 ||snowplowcollector-env-3.us-east-1.elasticbeanstalk.com^
 ||snowplowcollector.talkspace.com^
 ||snowsignal.com^
+||snr4.canalplus.com^
 ||snrbox.com^
 ||snrmqtnnlxdgdh.com^
 ||snsfjpes.com^
@@ -50354,6 +50406,7 @@
 ||stats-collector-int.socialquantum.com^
 ||stats-dc1.frz.io^
 ||stats-ec2-46-137-101-227.layar.com^
+||stats-factory.digitregroup.io^
 ||stats-messages.gifs.com^
 ||stats-newyork1.bloxcms.com^
 ||stats-us-tx-2.buysellads.com^
@@ -52730,6 +52783,7 @@
 ||tinkoffinsurance.ru^
 ||tinnaveran.ru^
 ||tinybar.com^
+||tinyclues.com^
 ||tinycounter.com^
 ||tinyfilehost.com^
 ||tinyfileshost.com^
@@ -55078,6 +55132,7 @@
 ||ttegjzxzxyetf.com^
 ||ttflb.com^
 ||ttgazjzsdotiy.com^
+||ttgikcpmkpul.com^
 ||ttgvmqdpomt.com^
 ||tthvomis.com^
 ||ttkx.qyctj.com^
@@ -56348,6 +56403,7 @@
 ||uyznjuyfyjc.com^
 ||uyzzzeodgommgb.com^
 ||uzekrs.com^
+||uzerly.net^
 ||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
 ||uzlleehrsmibli.com^
@@ -58227,6 +58283,7 @@
 ||wellu.eu^
 ||welt-der-links.de^
 ||wemfbox.ch^
+||wemgcdygokm.com^
 ||wenda.io^
 ||wenpsnpqher.com^
 ||weoukcpr.com^
@@ -58522,6 +58579,7 @@
 ||wingads.com^
 ||wingoads.com^
 ||wingowin.com^
+||winitout.com^
 ||winneradsmedia.com^
 ||winnerlink.xyz^
 ||winneronline.com^
@@ -58569,9 +58627,11 @@
 ||wizard-traffic.com^
 ||wizzogames-sdk.wappier.com^
 ||wjavelurhgx.com^
+||wjeeqkdbjsg.com^
 ||wjevvjxwg.com^
 ||wjglgkuyqhaguq.com^
 ||wjgohz.com^
+||wjhwruwrirpizx.com^
 ||wjmckfsdcxpj.com^
 ||wjodtshzu.com^
 ||wjpaspdktadog.com^
@@ -58638,6 +58698,7 @@
 ||wmzona.com^
 ||wndwhzjmfshthv.com^
 ||wnhzlesdqzu.com^
+||wnlhbehajh.com^
 ||wnmtmdlvqqscs.com^
 ||wnp.com^
 ||wnpcdn.com^
@@ -59198,6 +59259,7 @@
 ||wxtrzeizpnp.com^
 ||wxubrlotdguineas.review^
 ||wxupwyabry.com^
+||wxwbvytlvabs.com^
 ||wy.5.p2l.info^
 ||wyaeyjaqx.com^
 ||wybfcxze.com^
@@ -60895,6 +60957,7 @@
 ||zl1.bravo-deg.com^
 ||zlacraft.com^
 ||zlahmbwm.com^
+||zlddifyo.com^
 ||zldijcenor.com^
 ||zlegojgwg.com^
 ||zlfgedpuxrbpgm.com^
