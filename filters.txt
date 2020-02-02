@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 01-02-2020 23:50 GMT
-! Count: 61,953
+! Last Modified: 02-02-2020 11:18 GMT
+! Count: 61,955
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -72,7 +72,9 @@
 @@||radiofrance.targetspot.com^
 @@||redirect.appmetrica.yandex.com^
 @@||str.hit.gemius.pl^
+@@||tags.tiqcdn.com^
 @@||track.rutarget.ru^
+@@||tracking-protection.cdn.mozilla.net^
 @@||www.googleadservices.com^
 ||0.nextyourcontent.com^
 ||000.gaysexe.free.fr^
