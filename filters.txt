@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 07-02-2020 23:50 GMT
-! Count: 62,098
+! Last Modified: 08-02-2020 23:50 GMT
+! Count: 62,132
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -225,6 +225,7 @@
 ||100shemales.com^
 ||100sport.tv^
 ||100webads.com^
+||100widgets.com^
 ||101.6.87.194.dynamic.dol.ru^
 ||101billion.com^
 ||101com.com^
@@ -285,6 +286,7 @@
 ||119.6.87.194.dynamic.dol.ru^
 ||11bet.com^
 ||11bet.net^
+||11bet.win^
 ||11flexiblebig9.website^
 ||11hour.com^
 ||11hrcnll.com^
@@ -9484,6 +9486,7 @@
 ||allbestpantyhose.com^
 ||allbn.net^
 ||allboard.xobor.de^
+||allbouttruth.info^
 ||allboys.buckshost.com^
 ||allbritishescorts.com^
 ||allcredits.su^
@@ -10370,6 +10373,7 @@
 ||anonymousproxy.tk^
 ||anonymousstats.keefox.org^
 ||anormal-tracker.de^
+||anorrecenturybr.info^
 ||anothing.info^
 ||anothinga.com^
 ||anouslab.cmail20.com^
@@ -14159,6 +14163,7 @@
 ||blueheart.org^
 ||bluehparking.com^
 ||blueimagen.com^
+||blueioabj.com^
 ||bluekai.com^
 ||bluelithium.com^
 ||bluemongoose.com^
@@ -17321,6 +17326,7 @@
 ||clkmg.com^
 ||clkmon.com^
 ||clkmr.com^
+||clknrtrg.pro^
 ||clkoffers.com^
 ||clkrev.com^
 ||clkrtrkr.com^
@@ -22417,6 +22423,7 @@
 ||eee3a05c040fef3.com^
 ||eeewax.de^
 ||eefiywjjzxry.com^
+||eeftordu.net^
 ||eegad.freeservers.com^
 ||eegjpwmi.com^
 ||eegnacou.com^
@@ -22767,6 +22774,7 @@
 ||en.ultrex.ru^
 ||en25.com^
 ||enabler.datalake.mediaset.it^
+||enaceanspection.info^
 ||enamadugib.com^
 ||enatimedia.com^
 ||enavtfdjjcmgy.com^
@@ -24874,6 +24882,7 @@
 ||fo5.a1-downloader.org^
 ||foagoasu.net^
 ||foamybox.com^
+||foavistu.net^
 ||foazasis.com^
 ||focalex.com^
 ||focalink.com^
@@ -25761,6 +25770,7 @@
 ||gaja79.com^
 ||gak.webtoons.com^
 ||gakogedifoda.ru^
+||gakseeft.com^
 ||galaks.io^
 ||galatransmisja.pe.hu^
 ||galaxien.com^
@@ -27235,6 +27245,7 @@
 ||greenr.pl^
 ||greenshot.fr^
 ||greensmoke.com^
+||greensuy.net^
 ||greenthinkday.com^
 ||greentooth.xtgem.com^
 ||greerlies.pro^
@@ -27246,6 +27257,7 @@
 ||gregoryvjvbd.download^
 ||gremimedia.pl^
 ||grendizer.biz^
+||grensauy.com^
 ||grepdata.com^
 ||grergoch.net^
 ||gresokie.com^
@@ -28299,6 +28311,7 @@
 ||hkoxznukwpdhxu.com^
 ||hkqhuilqnu.com^
 ||hksfa.org^
+||hkswktixvcot.com^
 ||hkwzswzf.com^
 ||hkzradomsko.pl^
 ||hlads.com^
@@ -31345,6 +31358,7 @@
 ||jookerclik.site^
 ||joomlalivechat.com^
 ||joophesh.com^
+||joorejou.net^
 ||jopd.ru^
 ||joplionnsld.xyz^
 ||jordenmadsen.com^
@@ -32123,6 +32137,7 @@
 ||kirilaboola.com^
 ||kirstenbijlsma.com^
 ||kisakuku.org^
+||kischartsrelimit.pro^
 ||kiskegyed.creatorword.com^
 ||kissmetrics.com^
 ||kissmyads.biz^
@@ -33053,6 +33068,7 @@
 ||league-of-legends.ru^
 ||lean.com^
 ||leancoding.co^
+||leanlab.co^
 ||leanmobi.fusetracking.com^
 ||leanoisgo.com^
 ||leanplum.com^
@@ -33077,6 +33093,7 @@
 ||ledinund.com^
 ||lediyxobgmrgeb.com^
 ||ledobbensz.blogspot.hu^
+||ledraumt.com^
 ||ledsdwwmhapz.com^
 ||ledsitling.pro^
 ||ledvqaldtf.com^
@@ -33228,6 +33245,7 @@
 ||lgncal.media.net^
 ||lgse.com^
 ||lgsmartad.com^
+||lgsvywogylblv.com^
 ||lgtiaqukf.com^
 ||lguqeppylijw.com^
 ||lgw500.com^
@@ -34940,6 +34958,7 @@
 ||manoske.com^
 ||mansion66.com^
 ||mansmith.net^
+||mantedtonisms.info^
 ||mantodea.mantisadnetwork.com^
 ||mantoropols.xyz^
 ||manuel.theonion.com^
@@ -35163,6 +35182,7 @@
 ||mathenea.com^
 ||matheranalytics.com^
 ||mathtag.com^
+||mation.xyz^
 ||matiro.com^
 ||matlag.pl^
 ||matomo.activate.cz^
@@ -35905,7 +35925,6 @@
 ||metricfast.com^
 ||metricology.com^
 ||metricool.com^
-||metrics-api.dimensions.ai^
 ||metrics-api.librato.com^
 ||metrics-cbslocal-com.cdn.ampproject.org^
 ||metrics-collector-1584522448.us-east-1.elb.amazonaws.com^
@@ -38291,6 +38310,7 @@
 ||needmorehits.com^
 ||neemfmujqqz.download^
 ||neepaips.com^
+||neesoape.com^
 ||neesupee.com^
 ||neewoapi.com^
 ||nefczemmdcqi.com^
@@ -40846,6 +40866,7 @@
 ||oqogtkqquflpf.com^
 ||oqvjuqnkncom.com^
 ||oqvzugnitr.com^
+||oqxyzvkwso.com^
 ||oqziwmemusftg.com^
 ||oqzwmbeliefs.review^
 ||or.5.p2l.info^
@@ -41084,6 +41105,7 @@
 ||ournet-analytics.com^
 ||ourstats.de^
 ||ourtoolbar.com^
+||oushenoo.net^
 ||ousufauk.com^
 ||out-lok.hpage.com^
 ||out-there-media.com^
@@ -41156,6 +41178,7 @@
 ||ovoczhahelca.com^
 ||ovqsyawrm.com^
 ||ovrdkhamiljt.com^
+||ovscyvcucd.com^
 ||ovtopli.ru^
 ||ovustav.ru^
 ||ovvddcpjqndfv.com^
@@ -41983,6 +42006,7 @@
 ||peewuvgdcian.com^
 ||pegasoweb.com^
 ||pegasuswebco.com^
+||pegaumsi.com^
 ||pegfkacjwjca.com^
 ||pegloang.com^
 ||pehot.pro^
@@ -41996,6 +42020,7 @@
 ||pelckw.qjudpxkisv.xyz^
 ||pelicanprogram.com^
 ||pelicansource.com^
+||pemainedperio.info^
 ||pemgeccz.com^
 ||pendo.io^
 ||penelopekurier.com^
@@ -44748,6 +44773,7 @@
 ||qadserve.com^
 ||qadservice.com^
 ||qadtkdlqlemf.com^
+||qaggfomwjko.com^
 ||qagkaxrj.com^
 ||qagnufdwht.com^
 ||qahajvkyfjpg.com^
@@ -45112,6 +45138,7 @@
 ||qqc.co^
 ||qqcbzxwzpmzdcd.com^
 ||qqcjvbsd.com^
+||qqgdboaq.com^
 ||qqgtevtjnpwd.com^
 ||qqipjtzgo.com^
 ||qqjar.ru^
@@ -45478,6 +45505,7 @@
 ||r3-front-15.pushwoosh.com^
 ||r3.cooleremail.com^
 ||r4.cooleremail.com^
+||r4nwdude.com^
 ||r5.cooleremail.com^
 ||r528e.cn^
 ||r5jpkacq.ru^
@@ -47113,6 +47141,7 @@
 ||rtmark.net^
 ||rtn.thestar.com^
 ||rtogkeafeedde.com^
+||rtox.net^
 ||rtpdn10.com^
 ||rtpdn11.com^
 ||rtraccoin1.com^
@@ -50270,6 +50299,7 @@
 ||spolecznosci.net^
 ||sponge.creditkarma.com^
 ||spongecell.com^
+||sponsideantialm.info^
 ||sponsor.segmentfault.com^
 ||sponsor1.com^
 ||sponsor4cash.de^
@@ -53476,6 +53506,7 @@
 ||tiller.co^
 ||tilosman.com^
 ||tiltott.net^
+||tim.nextinpact.com^
 ||timberland-polska.pl^
 ||timberlandeurosprint.pl^
 ||timberlandpoland.pl^
@@ -54461,7 +54492,6 @@
 ||track.lawoftrade.com^
 ||track.leadhit.io^
 ||track.leady.cz^
-||track.leanlab.co^
 ||track.learntotradesrv.com^
 ||track.lexico.com^
 ||track.linkmails.net^
@@ -55535,6 +55565,7 @@
 ||treasuredata.com^
 ||treasuredome.com^
 ||treasuretrooper.com^
+||treateramortgag.info^
 ||treavelocity.com^
 ||treddleswdnnipx.download^
 ||tredirect.com^
@@ -58666,6 +58697,7 @@
 ||wdads.sx.atl.publicus.com^
 ||wdaqrxfppj.com^
 ||wdata.ero-advertising.com^
+||wdbqsuukggoyg.com^
 ||wdcs.trendmicro.com^
 ||wdfg.pro^
 ||wdfl.co^
@@ -59404,6 +59436,7 @@
 ||witchlab.com^
 ||witgatons.com^
 ||withcubed.com^
+||withingsessed.pro^
 ||withnewswearebest.com^
 ||witlee.com^
 ||wixed.wix.com^
@@ -61219,6 +61252,7 @@
 ||ypfdp.com^
 ||ypictqesjuib.com^
 ||ypixrvxi.com^
+||ypkbybzpd.com^
 ||ypksjcnrsett.com^
 ||yplan.ru^
 ||ypmadserver.com^
