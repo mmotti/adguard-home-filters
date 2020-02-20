@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 18-02-2020 23:50 GMT
-! Count: 62,950
+! Last Modified: 19-02-2020 23:50 GMT
+! Count: 62,991
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2602,6 +2602,7 @@
 ||ad-space.net^
 ||ad-specs.guoshipartners.com^
 ||ad-sponsor.com^
+||ad-srv-track.com^
 ||ad-srv.co^
 ||ad-srv.net^
 ||ad-staff.com^
@@ -9157,6 +9158,7 @@
 ||ailiyou1999.com^
 ||ailoganalyticsportal-eus.cloudapp.net^
 ||ailtumty.net^
+||ailwayssteverin.info^
 ||aim-charts.pf.aol.com^
 ||aim4media.com^
 ||aimadigital.com^
@@ -9592,6 +9594,7 @@
 ||almondnetworks.com^
 ||almonriesdocerjqcc.download^
 ||alnera.eu^
+||alnsvbmp.com^
 ||alocdn.com^
 ||alogationa.co^
 ||alohasoftware.net^
@@ -17575,6 +17578,7 @@
 ||cmp.dreamlab.pl^
 ||cmp.entertainmentcrave.com^
 ||cmp.greenbot.com^
+||cmp.infoworld.com^
 ||cmp.macworld.co.uk^
 ||cmp.macworld.com^
 ||cmp.network-n.com^
@@ -19300,6 +19304,7 @@
 ||cts.snmmd.nl^
 ||cts.tradepub.com^
 ||cts.vresp.com^
+||ctsjackupspete.info^
 ||ctsrwmcshv.com^
 ||cttghjfhsw.com^
 ||cttnlnsnwdokqb.com^
@@ -19977,6 +19982,7 @@
 ||d3iz6lralvg77g.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3jgr4uve1d188.cloudfront.net^
+||d3kpkrgd3aj4o7.cloudfront.net^
 ||d3kyk5bao1crtw.cloudfront.net^
 ||d3l320urli0p1u.cloudfront.net^
 ||d3l3lkinz3f56t.cloudfront.net^
@@ -21160,6 +21166,7 @@
 ||ditdotsol.com^
 ||ditds.xyz^
 ||ditincoriligh.pro^
+||ditookry.com^
 ||ditwrite.com^
 ||diveringecondsw.info^
 ||divine.lunarbreeze.com^
@@ -21901,6 +21908,7 @@
 ||dtxtngytz5im1.cloudfront.net^
 ||dtym7iokkjlif.cloudfront.net^
 ||dtzads.com^
+||du01z5hhojprz.cloudfront.net^
 ||du2uh7rq0r0d3.cloudfront.net^
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
@@ -21996,6 +22004,7 @@
 ||dw-eu.com.com^
 ||dw.cnet.com^
 ||dw.com.com^
+||dw9uc6c6b8nwx.cloudfront.net^
 ||dwabissw.com^
 ||dwaceiiywjwcyf.com^
 ||dwclick.com^
@@ -22641,6 +22650,7 @@
 ||efficienttraffic.com^
 ||effiliation.com^
 ||efhabjaabgfbbegjacj.ru^
+||efhlntnvpzi.com^
 ||efhseqgqgl.com^
 ||eficdbhnojt.com^
 ||efishedo.info^
@@ -22730,6 +22740,7 @@
 ||ekerisiltihaliyikama.com^
 ||ekg.riotgames.com^
 ||ekggptrw.com^
+||ekhqoivfkm.com^
 ||ekingkrmxzfpml.download^
 ||ekino.com.pl^
 ||ekipl.eu^
@@ -24591,6 +24602,7 @@
 ||ffhwzaenzoue.com^
 ||ffjzebtmdwi.com^
 ||ffortongoropenityin.info^
+||ffortyimagist.info^
 ||fforum.pisz.pl^
 ||ffpnlrnmfyeqx.com^
 ||ffqpdpezdmnpb.com^
@@ -26003,6 +26015,7 @@
 ||gadgetsytecnologia.com^
 ||gads.ru^
 ||gadsans.com^
+||gadsanz.com^
 ||gadsats.com^
 ||gadsbee.com^
 ||gadsecz.com^
@@ -26848,6 +26861,7 @@
 ||gleebsex.net^
 ||gleechie.net^
 ||gleechood.com^
+||gleergie.net^
 ||gleersoo.net^
 ||gleetait.net^
 ||gleglb.com^
@@ -27906,6 +27920,7 @@
 ||haedong.es.kr^
 ||haeechihhfajibdfaef.ru^
 ||hafksvqiir.com^
+||haftobso.net^
 ||haggilder.com^
 ||hagiqxizxqf.com^
 ||hagoit.com^
@@ -28170,6 +28185,7 @@
 ||hebiichigo.com^
 ||hecakieca.pl^
 ||hechaocheng.cn^
+||heckagny.com^
 ||heckcallohertons.info^
 ||heckhaphanofres.info^
 ||hedlimitatelearlyb.info^
@@ -29677,6 +29693,7 @@
 ||igg.biz^
 ||iggukjfuylwyv.com^
 ||ighavizixlohvi.com^
+||iglaique.net^
 ||igllgmtrioka.com^
 ||igloohq.com^
 ||igmarauders.isotx.com^
@@ -29958,6 +29975,7 @@
 ||imbetan.info^
 ||imbof.com^
 ||imbpmlyhkk.com^
+||imbwnxknxzmo.com^
 ||imcht.net^
 ||imcounting.com^
 ||imdaginea.cf^
@@ -30900,6 +30918,7 @@
 ||ipromote.com^
 ||ipromsi.iprom.net^
 ||iprotrk.com^
+||ipsoorel.com^
 ||ipsowrite.com^
 ||ipstack.com^
 ||ipstat.com^
@@ -32056,6 +32075,7 @@
 ||jykqpeumdrjopy.com^
 ||jynhztwrsl.com^
 ||jynp9m209p.com^
+||jypoagtophu.com^
 ||jyujouii.com^
 ||jyymhnyr.com^
 ||jzbutifk.com^
@@ -33110,6 +33130,7 @@
 ||labdwkqyavb.com^
 ||labersa.com^
 ||laborates.com^
+||labortiontrifee.info^
 ||lacableshaw.com^
 ||lacerta.space^
 ||lacodeworks.com^
@@ -33454,6 +33475,7 @@
 ||leashac.com^
 ||leastersmiled.pro^
 ||leastsuuhyh.download^
+||leathtexactlycin.info^
 ||lebakwatery.pl^
 ||lebneeklnuru.com^
 ||lebqrivt.com^
@@ -34137,6 +34159,7 @@
 ||lnwbiuetoymifj.com^
 ||lnwqvhcqw.com^
 ||lnx.lu^
+||lnxsrmsebsd.com^
 ||lnyhnpwjviyn.com^
 ||lnyypjocad.com^
 ||lo.ljkeefeco.com^
@@ -36786,6 +36809,7 @@
 ||miildoos.ru^
 ||mijnbladopdemat.nl^
 ||mikopi.com^
+||mikpumwbahkx.com^
 ||mikras.nl^
 ||mil-colores.com^
 ||milabra.com^
@@ -37160,6 +37184,7 @@
 ||mn.5.p2l.info^
 ||mn.mn.co.cu^
 ||mn1nm.com^
+||mnaljqzekv.com^
 ||mnbasd77.com^
 ||mnbfujorh.com^
 ||mnbvjhg.com^
@@ -39104,6 +39129,7 @@
 ||newtueads.com^
 ||newversionupdate.space4update.pw^
 ||newversionupdate.space4updating.win^
+||newvideos.xyz^
 ||newviralmobistore.com^
 ||newwayscanner.info^
 ||newwedads.com^
@@ -45601,6 +45627,7 @@
 ||qmouzhzz.com^
 ||qmovnrphbgqr.com^
 ||qmsdxo.ru^
+||qmxkmsmkjxlar.com^
 ||qmxpttxjv.com^
 ||qmzwcrordyc.com^
 ||qnajplxtvz-a.akamaihd.net^
@@ -46670,6 +46697,7 @@
 ||reformal.ru^
 ||refpa.top^
 ||refpaumckl.top^
+||refractionius.com^
 ||reftedlettiny.info^
 ||refundacjeregionalne.pl^
 ||refunsiy.net^
@@ -47302,6 +47330,7 @@
 ||rktch.com^
 ||rktu.com^
 ||rkueifizvmwbi.com^
+||rkvduvtdz.com^
 ||rl.heise.de^
 ||rl8vd.kikul.com^
 ||rland.searchlabel.com^
@@ -49104,6 +49133,7 @@
 ||sentry-app.postmanlabs.com^
 ||sentry-cdn.com^
 ||sentry-web-lb-160711358.us-east-1.elb.amazonaws.com^
+||sentry.adguard.com^
 ||sentry.dev.geekbot.io^
 ||sentry.fastboot.mobi^
 ||sentry.gitlab.net^
@@ -53480,6 +53510,7 @@
 ||tdstorage.site^
 ||tdw.pushwoosh.com^
 ||tdxio.com^
+||tdxipgdorydvzo.com^
 ||te.about.com^
 ||te.ap.org^
 ||te.astrology.com^
@@ -54979,6 +55010,7 @@
 ||tpx.tesseradigital.com^
 ||tpxur.top^
 ||tqbmcmttzid.com^
+||tqddgnqsrya.com^
 ||tqguvxunwvk.com^
 ||tqixovpneycfmk.com^
 ||tqlkg.com^
@@ -57240,6 +57272,7 @@
 ||umgbvaurcx.com^
 ||umhpzzloestt.com^
 ||umlrvgjkexv.com^
+||ummerciseha.info^
 ||umprow.com^
 ||umqhjmowzjrl.com^
 ||umrefebaot.biz^
@@ -57607,6 +57640,7 @@
 ||urnuvssumlrb.com^
 ||uroffer.link^
 ||uroidgcc.com^
+||urs.cnet.com^
 ||urs.zdnet.com^
 ||urshort.net^
 ||urstats.de^
@@ -57978,6 +58012,7 @@
 ||v2profit.com^
 ||v2st.shinobi.jp^
 ||v3.come.to^
+||v3.fstats.xyz^
 ||v3.stat.ku6.com^
 ||v3dev.estream.com^
 ||v3g4s.com^
@@ -59000,6 +59035,7 @@
 ||vqmdezgkkklcc.com^
 ||vqnruxpecsn.com^
 ||vqqvpouifhv.com^
+||vqsggzvcaujh.com^
 ||vqzqkhumdad.com^
 ||vrewpywootyu.com^
 ||vrmuyscnqgsg.com^
@@ -59451,6 +59487,7 @@
 ||wdfl.co^
 ||wdig.vo.llnwd.net^
 ||wdkbcvnh.com^
+||wdlnoecwykpon.com^
 ||wdm.map24.com^
 ||wdm29.com^
 ||wdmwebs.us^
@@ -60279,6 +60316,7 @@
 ||wmwloejxww.com^
 ||wmwyq.xyz^
 ||wmzona.com^
+||wnaibjbnqown.com^
 ||wndwhzjmfshthv.com^
 ||wnhzlesdqzu.com^
 ||wnlhbehajh.com^
@@ -61516,6 +61554,7 @@
 ||xwne.wcdn.co.il^
 ||xwoexbipp.com^
 ||xwonghmweu.com^
+||xwprdjbayq.com^
 ||xwvofxgqilhy.com^
 ||xwxbiywlavgpm.com^
 ||xxccdshj.com^
@@ -62282,6 +62321,7 @@
 ||zafrc.5780.site^
 ||zaglebiefanatykow.pl^
 ||zaijacho.net^
+||zaivikuk.com^
 ||zajawwgpl.com^
 ||zajazdbanderoza.pl^
 ||zajazdoaza.pl^
@@ -62350,6 +62390,7 @@
 ||zatrlsov.com^
 ||zatzy.com^
 ||zaugroaw.net^
+||zaushegi.net^
 ||zavlamhx.com^
 ||zavrotfro.com^
 ||zawijawa.pl^
