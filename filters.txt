@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 05-03-2020 23:50 GMT
-! Count: 63,740
+! Last Modified: 06-03-2020 23:50 GMT
+! Count: 63,784
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -129,6 +129,7 @@
 ||05ee3a24ed11df058c8.com^
 ||05f4e2756f290.com^
 ||05tz2e9.com^
+||05xz0h2xo799.com^
 ||06272002-dbase.hitcountz.net^
 ||0638.info^
 ||0664ic555p.com^
@@ -182,6 +183,7 @@
 ||0q2.sitey.me^
 ||0qizz.super-promo.hoxo.info^
 ||0ql3xxre2h.com^
+||0s9dxlr07huu.com^
 ||0sbm.consobaby.co.uk^
 ||0stats.com^
 ||0tracker.com^
@@ -253,6 +255,7 @@
 ||108shot.com^
 ||109-204-26-16.netconnexion.managedbroadband.co.uk^
 ||109.6.87.194.dynamic.dol.ru^
+||1097834592.rsc.cdn77.org^
 ||10a053584f01fcaeab1.com^
 ||10b883b3d61d.com^
 ||10bet.com^
@@ -392,8 +395,10 @@
 ||14713804a.l2m.net^
 ||148.6.87.194.dynamic.dol.ru^
 ||149.6.87.194.dynamic.dol.ru^
+||1493361689.rsc.cdn77.org^
 ||14b.info^
 ||14b41d7ec7766122d.com^
+||14nuzznszbdp.com^
 ||14teen.com^
 ||15.6.87.194.dynamic.dol.ru^
 ||150.6.87.194.dynamic.dol.ru^
@@ -419,6 +424,7 @@
 ||15x.info^
 ||16.6.87.194.dynamic.dol.ru^
 ||160.6.87.194.dynamic.dol.ru^
+||1605158521.rsc.cdn77.org^
 ||160tracker.com^
 ||160x600.exad.me^
 ||161.6.87.194.dynamic.dol.ru^
@@ -432,8 +438,10 @@
 ||166f.com^
 ||167.6.87.194.dynamic.dol.ru^
 ||168.6.87.194.dynamic.dol.ru^
+||1686607364.rsc.cdn77.org^
 ||168logger.com^
 ||169.6.87.194.dynamic.dol.ru^
+||1696908298.rsc.cdn77.org^
 ||16aq.cn^
 ||16e2ae8f200d975b.com^
 ||16js.org^
@@ -9177,6 +9185,7 @@
 ||ailamtrieuphu.com^
 ||ailanibah.com^
 ||ailaskarc.club^
+||ailawlani.club^
 ||aileenvideos.pro^
 ||ailegro.pl.ua^
 ||ailiyou1999.com^
@@ -10217,6 +10226,7 @@
 ||analytics.snssdk.com^
 ||analytics.socialbakers.com^
 ||analytics.socialblade.com^
+||analytics.sohatv.vn^
 ||analytics.solidbau.at^
 ||analytics.sonymusic.com^
 ||analytics.soup.io^
@@ -10354,6 +10364,7 @@
 ||and07.adnow.com^
 ||andagainanotherthing.com^
 ||andantask.online^
+||andarmair.club^
 ||andase.com^
 ||andbaybay.club^
 ||andbeyond.media.net^
@@ -10938,7 +10949,6 @@
 ||app.fancifulapp.cool^
 ||app.games-to-run123.com^
 ||app.gelirartisi.com^
-||app.getresponse.com^
 ||app.getvero.com^
 ||app.hubspot.com^
 ||app.iappgame.com^
@@ -11221,6 +11231,7 @@
 ||apsislead.com^
 ||apsmediaagency.com^
 ||apsntakwzycu.com^
+||aptantasp.site^
 ||aptapebog.online^
 ||aptausad.com^
 ||apteka2000.pl^
@@ -11471,6 +11482,7 @@
 ||asdhit.com^
 ||asdkd.tutuapp.com^
 ||asdorka.com^
+||asdqweq.com^
 ||asdtwttky.com^
 ||aseabnyw.com^
 ||aseadnet.com^
@@ -11943,6 +11955,7 @@
 ||avenuea.com^
 ||aveplay.com^
 ||aveprize.com^
+||averaladmi.info^
 ||avercarto.com^
 ||avero.xyz^
 ||averoconnector.com^
@@ -12424,6 +12437,7 @@
 ||bam-x.com^
 ||bambar.net^
 ||bambarmedia.com^
+||bamgrid.com^
 ||bamulat.blogspot.hu^
 ||ban-host.ru^
 ||ban.krooncasino.com^
@@ -16019,6 +16033,7 @@
 ||ccgateway.net^
 ||ccleaner.fr^
 ||cclive.istage.cloud^
+||cconseent.info^
 ||ccp.mobileappsuite.com^
 ||ccp14.ac.uk^
 ||ccpa.sp-prod.net^
@@ -16355,7 +16370,6 @@
 ||cdn7.network^
 ||cdn7.rocks^
 ||cdn7.space^
-||cdn77.org^
 ||cdn7now.com^
 ||cdn8now.com^
 ||cdn9now.com^
@@ -16371,6 +16385,7 @@
 ||cdncache2-a.akamaihd.net^
 ||cdneast-xch.media.net^
 ||cdneast2-xch.media.net^
+||cdneu-xch.media.net^
 ||cdneu.alcoholsoftcdn.com^
 ||cdneu.filefactscdn.com^
 ||cdnfiles.site^
@@ -17718,6 +17733,7 @@
 ||cmp-dev.advertising.com^
 ||cmp.advertising.com^
 ||cmp.arnnet.com.au^
+||cmp.channelpartner.de^
 ||cmp.cio.com.au^
 ||cmp.cmo.com.au^
 ||cmp.computerworld.com.au^
@@ -18388,6 +18404,7 @@
 ||consent-st.truste.com^
 ||consent.cmp.oath.com^
 ||consent.cookiebot.com^
+||consent.inm.ie^
 ||consent.truste.com^
 ||consoliads-api.us-west-2.elasticbeanstalk.com^
 ||consoliads.com^
@@ -19998,6 +20015,7 @@
 ||d2izls9pm2f64q.cloudfront.net^
 ||d2j3te7y7s8xxp.cloudfront.net^
 ||d2jn12r3o7an7z.cloudfront.net^
+||d2k7b1tjy36ro0.cloudfront.net^
 ||d2kdl5wcwrtj90.cloudfront.net^
 ||d2kmrmwhq7wkvs.cloudfront.net^
 ||d2kr2fnkbj2h4c.cloudfront.net^
@@ -20842,6 +20860,7 @@
 ||delb.mspaceads.com^
 ||delb.myspace.com^
 ||delb2.myspace.com^
+||delecpuzz.com^
 ||delegatediscussion.com^
 ||deleondeos.com^
 ||deletespyware-adware.com^
@@ -22960,6 +22979,7 @@
 ||ejodwopthpg.com^
 ||ejoonsoo.net^
 ||ejoyjumnsft.com^
+||ejurzsax.com^
 ||ejwxbwzrhihtp.com^
 ||ejyymghi.com^
 ||ek8.voyage-prive.com^
@@ -23921,6 +23941,7 @@
 ||event.demirorenteknoloji.com^
 ||event.dkb.de^
 ||event.getblue.io^
+||event.headlines.pw^
 ||event.ihuman.com^
 ||event.ksosoft.com^
 ||event.scimo.io^
@@ -24139,6 +24160,7 @@
 ||exgkfejvm.com^
 ||exhibenfrance.com^
 ||exhibits4court.com^
+||exikxnbxula.com^
 ||exit-ad.com^
 ||exit-ad.de^
 ||exit.macandbumble.com^
@@ -26313,6 +26335,7 @@
 ||gadsimz.com^
 ||gadsipz.com^
 ||gadskis.com^
+||gadskiz.com^
 ||gadslimz.com^
 ||gadsokz.com^
 ||gaeadata.com^
@@ -26861,7 +26884,6 @@
 ||getcouponsfast.com^
 ||getdatanetukscan.info^
 ||getdirect.ru^
-||getdrip.com^
 ||getelem.ru^
 ||getetafun.info^
 ||getexceptional.com^
@@ -26906,6 +26928,7 @@
 ||getpaidtosurfthenetmoney.homestead.com^
 ||getpopunder.com^
 ||getrank.net^
+||getresponse.com^
 ||getrockerbox.com^
 ||getrotad.ru^
 ||getrotag.ru^
@@ -27819,6 +27842,7 @@
 ||greatsexcontent.dk^
 ||greatsimplicity.com^
 ||greatusenetoffer.agency^
+||greatvideos.xyz^
 ||greatviews.de^
 ||grebanise.pw^
 ||grebibablo.com^
@@ -28232,6 +28256,7 @@
 ||hadesklub.pl^
 ||hadik.info^
 ||hadlacrighterthen.pro^
+||hadsabz.com^
 ||haedong.es.kr^
 ||haeechihhfajibdfaef.ru^
 ||hafksvqiir.com^
@@ -30059,6 +30084,7 @@
 ||igroo.barginginfrance.net^
 ||igrzyskasto.pl^
 ||igsxvpghnamnsz.com^
+||igtdovf.pro^
 ||igvuw.com^
 ||igycquuoypdiqx.com^
 ||ih.constantcontacts.com^
@@ -30094,6 +30120,7 @@
 ||iizgpusp.com^
 ||ijacgw.com^
 ||ijacko.net^
+||ijdjvaa.pro^
 ||ijfchpiptvvzko.com^
 ||ijfnbtksuntwqe.com^
 ||ijhpzjzjaujpov.com^
@@ -30837,6 +30864,7 @@
 ||inquiry.shop.xerox.com^
 ||inquisition.goguardian.com^
 ||inquisitiveinvention.com^
+||inquisitr.media.net^
 ||inrd.ru^
 ||inres.sk^
 ||inringtone.com^
@@ -34031,6 +34059,7 @@
 ||lfscpttracking.com^
 ||lfstmedia.com^
 ||lfztmoamieum.com^
+||lg.lotus.vn^
 ||lg.smardroid.com^
 ||lg.tr.pandora.tv^
 ||lg1.media.net^
@@ -40416,6 +40445,7 @@
 ||nyetm2mkch.com^
 ||nyibqkuhqdz.com^
 ||nyltsyud.com^
+||nyltx.com^
 ||nympropiedades.cl^
 ||nypmjsgpmhd.com^
 ||nyrevi.ru^
@@ -41830,6 +41860,7 @@
 ||optimizely.com^
 ||optimizely.s3.amazonaws.com^
 ||optimizelyapis.com^
+||optimizelydata.com^
 ||optimizesocial.com^
 ||optimost.com^
 ||optimum-hits.com^
@@ -42363,6 +42394,7 @@
 ||oztzipze.com^
 ||ozugzufdxniu.com^
 ||ozvncdlo.com^
+||ozvxadosic.com^
 ||ozvzmgvssaou.com^
 ||ozwjhdler.com^
 ||ozwtmmcdglos.com^
@@ -42486,6 +42518,7 @@
 ||padsdel.com^
 ||padsdelivery.com^
 ||padsecs.com^
+||padsims.com^
 ||padsips.com^
 ||padsipz.com^
 ||padskiz.com^
@@ -45028,6 +45061,7 @@
 ||promotioncamp.com^
 ||promotionengine.com^
 ||promotionmaterial.betacash.com^
+||promotions-884485.c.cdn77.org^
 ||promotions.betfred.com^
 ||promotions.iasbet.com^
 ||promotions.skype.com^
@@ -46823,6 +46857,7 @@
 ||ratyakhu.ru^
 ||ratykredyt.pl^
 ||rauceesh.com^
+||raupsica.net^
 ||raupsooy.net^
 ||rauraich.com^
 ||ravalynn.pw^
@@ -47326,6 +47361,7 @@
 ||rek.www.wp.pl^
 ||rek2.tascatlasa.com^
 ||rekhatov.ru^
+||rekl.brawlstars-app.ru^
 ||rekl.seasonvar.ru^
 ||rekl1.com^
 ||rekl2.ru^
@@ -48141,6 +48177,7 @@
 ||roustast.net^
 ||routehero.com^
 ||routeme.one^
+||router-ethos.hb-fa-dev.omtrdc.net^
 ||router.googlecom.biz^
 ||routeserve.info^
 ||rouvoute.net^
@@ -52108,6 +52145,7 @@
 ||stat.gamy.ameba.jp^
 ||stat.ganbox.com^
 ||stat.glaze.ai^
+||stat.headlines.pw^
 ||stat.hudong.com^
 ||stat.info-stream.net^
 ||stat.it168.com^
@@ -52849,7 +52887,6 @@
 ||stenplus.onewaywinner.com^
 ||step-service.crossinstall.io^
 ||step-step-go.com^
-||stepan-fe.go.mail.ru^
 ||stephens-laughlin.com^
 ||stepkeydo.com^
 ||stepnation.com^
@@ -53746,6 +53783,7 @@
 ||tag.divvit.com^
 ||tag.dtrck.net^
 ||tag.email-attitude.com^
+||tag.getdrip.com^
 ||tag.goldenbees.fr^
 ||tag.gstat.orangeportails.net^
 ||tag.hockeycurve.com^
@@ -54205,6 +54243,7 @@
 ||te81.net^
 ||tea.pornolomka.video^
 ||teachac.com^
+||teachievedim.site^
 ||teachscape.vo.llnwd.net^
 ||teads.tv.edgekey.net^
 ||teads.tv^
@@ -54720,6 +54759,7 @@
 ||thewinesteward.com^
 ||thewise.com^
 ||theylike.org^
+||thichawheja.pro^
 ||thickcash.com^
 ||thicksetchrzcu.download^
 ||thigeeph.com^
@@ -56853,6 +56893,7 @@
 ||trafsearchonline.com^
 ||trafstarcurlms.com^
 ||trafstore.com^
+||trahes.site^
 ||trahic.ru^
 ||trail-web.com^
 ||trailheadapp.com^
@@ -57152,6 +57193,7 @@
 ||trotux.com^
 ||troubadourbaker.com^
 ||trourted.pro^
+||trouvredawes.site^
 ||trovi.com^
 ||trovus.co.uk^
 ||trowel.twitch.tv^
@@ -62508,6 +62550,7 @@
 ||yesno.co.il^
 ||yesra.xyz^
 ||yessearches.com^
+||yestedshere.site^
 ||yestupjldo.download^
 ||yesup.net^
 ||yesupmicro.com^
@@ -63170,6 +63213,7 @@
 ||zcczlrtbbx.com^
 ||zcedqmobebmv.com^
 ||zcfbwlgydxo.com^
+||zcjrjnxgukfcy.com^
 ||zcjxeitlmnuq.com^
 ||zckpaeifoq.com^
 ||zckphynp.com^
