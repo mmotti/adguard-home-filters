@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 07-03-2020 23:50 GMT
-! Count: 63,812
+! Last Modified: 08-03-2020 23:50 GMT
+! Count: 63,835
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -924,7 +924,6 @@
 ||3585656d9351553f.com^
 ||35d59588f15966.com^
 ||36.6.87.194.dynamic.dol.ru^
-||360.cn^
 ||360.yahoo.com^
 ||360ads.com^
 ||360adshost.com^
@@ -2244,6 +2243,7 @@
 ||abserv123.com^
 ||abskursin.com^
 ||absolstats.co.za^
+||absolubleldan.site^
 ||absolute-live.com^
 ||absoluteclickscom.com^
 ||absolutezeros.duckdns.org^
@@ -8380,6 +8380,7 @@
 ||adviews.de^
 ||advinci.co^
 ||advinci.net^
+||adviralmedia.com^
 ||advise.co^
 ||advisorded.com^
 ||advisormedia.cz^
@@ -9166,6 +9167,7 @@
 ||aibcqjlvxxd.com^
 ||aichaima.top^
 ||aickeeho.com^
+||aicleaner.shouji.360.cn^
 ||aicontents.net^
 ||aid-ad.jp^
 ||aid-golf-golfdust-training.tabrays.com^
@@ -9542,6 +9544,7 @@
 ||alivar.com.vn^
 ||alivar.vn^
 ||alive-ua.com^
+||aliveachiever.com^
 ||alizedusud.free.fr^
 ||aljassarengineering.com^
 ||aljsuubo.com^
@@ -10481,6 +10484,7 @@
 ||anonymousstats.keefox.org^
 ||anormal-tracker.de^
 ||anorrecenturybr.info^
+||anotherederi.site^
 ||anothing.info^
 ||anothinga.com^
 ||anousakieleni.gr.com^
@@ -10812,7 +10816,6 @@
 ||api.repro.io^
 ||api.rqmob.com^
 ||api.rvuzov.ru^
-||api.safedk.com^
 ||api.sail-personalize.com^
 ||api.sailthru.com^
 ||api.salmonads.com^
@@ -14819,6 +14822,7 @@
 ||brightshare.com^
 ||brikee.com^
 ||brilig.com^
+||brinarynuker.site^
 ||brinein.com^
 ||bristlyapace.com^
 ||british-banners.com^
@@ -15807,6 +15811,7 @@
 ||carbours.com^
 ||cardgamespidersolitaire.com^
 ||cards.virtuagirlhd.com^
+||care.help.360.cn^
 ||career.media.net^
 ||careers-rewardpath.com^
 ||careers.canwestad.net^
@@ -18352,7 +18357,6 @@
 ||config.hiido.com^
 ||config.kuyun.com^
 ||config.mobile.wxbug.com^
-||config.safedk.com^
 ||config.sdk.scopely.io^
 ||config.sdk.wiman.io^
 ||config.uca.cloud.unity3d.com^
@@ -26338,6 +26342,7 @@
 ||gadgeteer.pdamart.com^
 ||gadgetsytecnologia.com^
 ||gads.ru^
+||gadsabz.com^
 ||gadsans.com^
 ||gadsanz.com^
 ||gadsats.com^
@@ -26557,6 +26562,7 @@
 ||gbylaoajzugbgj.com^
 ||gbytjlggor.com^
 ||gc.gcl.ru^
+||gc.gjg-tech.com^
 ||gc.newsweek.com^
 ||gcads.osdn.com^
 ||gccoetmm.com^
@@ -26649,6 +26655,7 @@
 ||gdn.bigfishgames.com^
 ||gdpr-requests.utils.appdynamics.com^
 ||gdpr-service.herokuapp.com^
+||gdpr.gjg-tech.com^
 ||gdprcountryrestriction.com^
 ||gds786bomyc.com^
 ||gdsapi.cnbc.com^
@@ -28433,7 +28440,6 @@
 ||hb-minify-juc1ugur1qwqqqo4.stackpathdns.com^
 ||hb.brainlyads.com^
 ||hb.docs.msas.media.net^
-||hb.headbidder.net^
 ||hb.kumma.com^
 ||hb.omtrdc.net^
 ||hbads.eboz.com^
@@ -28448,6 +28454,7 @@
 ||hbhfslicqq.com^
 ||hbhgheovqz.com^
 ||hbi-ingest.net^
+||hbid.ams3.cdn.digitaloceanspaces.com^
 ||hbkajyvrus.com^
 ||hblg.media.net^
 ||hbnqcbfgsjfa.com^
@@ -28501,6 +28508,7 @@
 ||hdxfyoziizy.com^
 ||he2d.com^
 ||heaaizwhm.com^
+||headbidder.net^
 ||header.tech^
 ||headless.ebkfwd.com^
 ||headlinerlabs.com^
@@ -29303,6 +29311,7 @@
 ||hpcat.cn^
 ||hpcyk.com^
 ||hpd.baidu.com^
+||hpeshwdwkzyz.com^
 ||hpkkzzyek.com^
 ||hplctrsd.com^
 ||hplose.de^
@@ -31798,6 +31807,7 @@
 ||jbkxmktmatzk.com^
 ||jbovn.com^
 ||jbpsorexvuapf.com^
+||jbqeyfrli.com^
 ||jbqhnzmvh.com^
 ||jbrlsr.com^
 ||jbrotrk.com^
@@ -33896,6 +33906,7 @@
 ||leafdesign.jp^
 ||leaffi.jp^
 ||leaflet.cloudmade.com^
+||leagent.info^
 ||league-of-legends.ru^
 ||lean.com^
 ||leancoding.co^
@@ -36244,6 +36255,7 @@
 ||mcityadslink.com^
 ||mcjdsooo.com^
 ||mckygschalalled.review^
+||mclean.f.360.cn^
 ||mcleanvahomes.com^
 ||mcljm.top^
 ||mcloudglobal.com^
@@ -37623,6 +37635,7 @@
 ||mmismm.com^
 ||mmissedecon.info^
 ||mmlemberg.pl^
+||mmm.carbuyer.co.uk^
 ||mmm.theweek.co.uk^
 ||mmm.vindy.com^
 ||mmnetwork.mobi^
@@ -38571,6 +38584,7 @@
 ||mvakbserenates.review^
 ||mvav.com^
 ||mvbemeggnodty.com^
+||mvconf.f.360.cn^
 ||mvdizbgdpfgl.com^
 ||mvilivestats.com^
 ||mvimzkmondb.com^
@@ -39828,6 +39842,7 @@
 ||nimiqpool.com^
 ||nimiqtest.net^
 ||nimjdyknjzcp.com^
+||nimmediu.info^
 ||nimp.org^
 ||nimpool.io^
 ||nimsepee.net^
@@ -41631,6 +41646,7 @@
 ||oofuv.cruisingsmallship.com^
 ||oofywoeynt.download^
 ||oojee.barginginfrance.net^
+||oojthlwtlu.com^
 ||ookdapjylpvq.com^
 ||ookiqhfioldxwj.com^
 ||ookris.oferty-kredytowe.pl^
@@ -43597,6 +43613,7 @@
 ||pinmova.xyz^
 ||pinnacle.doubleverify.com^
 ||pinnaclecustomermetrics.com^
+||pinocularoud.site^
 ||pinpoint.us-east-1.amazonaws.com^
 ||pioneeringad.com^
 ||piotrkosek.pl^
@@ -48622,6 +48639,7 @@
 ||ryvqkjfsnmrya.com^
 ||ryybhoklizmuew.com^
 ||rz261.cn^
+||rzbozucqgmostr.com^
 ||rzddlsybql.com^
 ||rzdpobutiy.com^
 ||rzeczyzadarmo.pl^
@@ -48654,6 +48672,7 @@
 ||s-yoolk-banner-assets.yoolk.com^
 ||s-yoolk-billboard-assets.yoolk.com^
 ||s.2app.lk^
+||s.360.cn^
 ||s.95105012.com^
 ||s.ad121m.com^
 ||s.ad124m.com^
@@ -48849,6 +48868,7 @@
 ||safe.urgent--alert.com^
 ||safe524.xyz^
 ||safebrowse.com^
+||safedk.com^
 ||safedownloadcenter.com^
 ||safedownloadsrus166.com^
 ||safegraph.com^
@@ -52179,6 +52199,7 @@
 ||stat.kika-backend.com^
 ||stat.kununu.cz^
 ||stat.livesportbar.net^
+||stat.m.360.cn^
 ||stat.m.jd.com^
 ||stat.matichon.co.th^
 ||stat.media^
@@ -54577,6 +54598,7 @@
 ||textsrv.com^
 ||textswap.de^
 ||textun.ru^
+||tf.360.cn^
 ||tfa5e.top^
 ||tfag.de^
 ||tfaz.pl^
@@ -59578,6 +59600,7 @@
 ||vjnehfcprozymite.review^
 ||vjqshoyjxwk.com^
 ||vjsoft.net^
+||vjuvorqe.com^
 ||vjzcgotoy.com^
 ||vk.18sexporn.ru^
 ||vk.wix.com^
