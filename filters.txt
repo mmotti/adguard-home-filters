@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 09-03-2020 23:50 GMT
-! Count: 63,839
+! Last Modified: 10-03-2020 23:50 GMT
+! Count: 63,859
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -7760,6 +7760,8 @@
 ||adsview.com^
 ||adsview.qq.com^
 ||adsview2.qq.com^
+||adsvolum.com^
+||adsvolume.com^
 ||adsvr.deviantart.com^
 ||adsvr.taipeilink.net^
 ||adsvstream-a930.kxcdn.com^
@@ -15348,6 +15350,7 @@
 ||byet.org^
 ||byfgrwrpqjdkj.com^
 ||bygigguvflpv.com^
+||byhz.xyz^
 ||bypass.jp^
 ||bypasser.net^
 ||byrgin.ru^
@@ -16045,7 +16048,6 @@
 ||cconseent.info^
 ||ccp.mobileappsuite.com^
 ||ccp14.ac.uk^
-||ccpa.sp-prod.net^
 ||ccpmo.com^
 ||ccran.com^
 ||ccrtvi.com^
@@ -16855,6 +16857,7 @@
 ||choogeet.net^
 ||choorgiw.net^
 ||choose-a-lady.biz^
+||chooseyour26.live^
 ||chootsod.net^
 ||choozalady.pw^
 ||chordeez.net^
@@ -17922,6 +17925,7 @@
 ||codeadnetwork.com^
 ||codeads.com^
 ||codeandwork.pl^
+||codedexchange.com^
 ||codeenter.ru^
 ||codeexplain.com^
 ||codefund.app^
@@ -18512,7 +18516,6 @@
 ||contentstream.pl^
 ||contenture.com^
 ||contentwidgets.net^
-||contentz.mkt61.net^
 ||contentz.mkt912.com^
 ||contestlight.pl^
 ||context-art.ru^
@@ -19243,6 +19246,7 @@
 ||creatives.inmotionhosting.com^
 ||creatives.pichunter.com^
 ||creativestuff.com^
+||creativesumo.com^
 ||creativeteam.it^
 ||creativetv.pro^
 ||creator.zmags.com^
@@ -19805,6 +19809,7 @@
 ||d17m68fovwmgxj.cloudfront.net^
 ||d17rlarvg2khuc.cloudfront.net^
 ||d188elxamt3utn.cloudfront.net^
+||d18mealirgdbbz.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d18xeipe1243h6.cloudfront.net^
 ||d19182vyfoustz.cloudfront.net^
@@ -21387,6 +21392,7 @@
 ||distilled.ie^
 ||distillery.wistia.com^
 ||distiltag.com^
+||distinesseqe.site^
 ||distinethout.info^
 ||distortiveecynxpidy.download^
 ||distralytics.com^
@@ -22567,6 +22573,7 @@
 ||eaqci.com^
 ||eaqxjz6bra.com^
 ||earednorthymisund.info^
+||earlinggea.info^
 ||early-birds.fr^
 ||early-birds.io^
 ||earnbigo.com^
@@ -22812,6 +22819,7 @@
 ||edle-stuecke.de^
 ||edlsdyhll.com^
 ||edmedsnow.com^
+||edmi.nextinpact.com^
 ||ednplus.com^
 ||edococounter.de^
 ||edofinansowania.eu^
@@ -24493,6 +24501,7 @@
 ||fadsims.com^
 ||fadsips.com^
 ||fadskis.com^
+||fadskiz.com^
 ||fadslims.com^
 ||fadsoks.com^
 ||fadspms.com^
@@ -24826,6 +24835,7 @@
 ||feesocrald.com^
 ||feewoajy.net^
 ||fegariesupzxx.download^
+||fegortius.com^
 ||fehsnwiem.com^
 ||feidhartaime.pro^
 ||feiyang163.com^
@@ -25143,6 +25153,7 @@
 ||firecash.org^
 ||firecpa.com^
 ||firefeeder.com^
+||fireflyengagement.com^
 ||firefox-updater.com^
 ||firegifts.pl^
 ||firehouse651.com^
@@ -27074,6 +27085,7 @@
 ||gigaonclick.com^
 ||gigapromo.de^
 ||gigazine.asia^
+||gigbc.net^
 ||gigcount.com^
 ||gigdnetwork.com^
 ||gigletcirjy.download^
@@ -28529,6 +28541,7 @@
 ||healthcarestars.com^
 ||healthclicks.co.uk^
 ||healthknowledge.my^
+||healthoutabol.site^
 ||healthtrader.com^
 ||healthy-news.biz^
 ||healthyaltprods.com^
@@ -29143,7 +29156,6 @@
 ||hondawschod.pl^
 ||honestsun.top^
 ||honey.briefly.ru^
-||honeybadger.io^
 ||honeygoldfish.com^
 ||honeywell.corp.com^
 ||hongjiujiaoyi.com^
@@ -30323,7 +30335,6 @@
 ||images.newsx.cc^
 ||images.nuviad.com^
 ||images.orangepublicite.fr^
-||images.outbrainimg.com^
 ||images.paypal.com^
 ||images.people2people.com^
 ||images.performgroup.com^
@@ -34143,6 +34154,7 @@
 ||liadlzantv.com^
 ||liadm.com^
 ||liakiadlbs.com^
+||lianmeng.360.cn^
 ||liapentruromania.ro^
 ||lib0.org^
 ||libanyelm.com^
@@ -34770,7 +34782,6 @@
 ||log.olark.com^
 ||log.omiga-plus.com^
 ||log.oto.com.vn^
-||log.outbrainimg.com^
 ||log.paulbetts.org^
 ||log.pinterest.com^
 ||log.pladform.ru^
@@ -34916,6 +34927,7 @@
 ||logs.naukri.com^
 ||logs.nodejs.org^
 ||logs.ntvplus.tv^
+||logs.ovh.net^
 ||logs.roku.com^
 ||logs.sexy-parade.com^
 ||logs.sofaware.com^
@@ -37491,6 +37503,7 @@
 ||mkonyvjesnorkelled.review^
 ||mkt3261.com^
 ||mkt51.net^
+||mkt61.net^
 ||mkt81.net^
 ||mkt8668.com^
 ||mkt932.com^
@@ -42193,6 +42206,7 @@
 ||outboundlink.me^
 ||outbrain.com^
 ||outbrain.org^
+||outbrainimg.com^
 ||outdoors.gr.com^
 ||outerinfo.com^
 ||outerpages.com^
@@ -42248,7 +42262,6 @@
 ||ovfbwavekglf.com^
 ||ovgepsxx.com^
 ||ovgzbnjj.com^
-||ovh.net^
 ||ovhomes.com^
 ||ovintic.ru^
 ||oviwtvswp.com^
@@ -46643,6 +46656,7 @@
 ||qywpsotvagapji.com^
 ||qyzoejyqbqyd.com^
 ||qz.informs.com^
+||qza7iorexyrp.com^
 ||qzaahtgpnb.com^
 ||qzbnnpotm.com^
 ||qzbnokxxvvpwf.com^
@@ -46730,6 +46744,7 @@
 ||r7ls.net^
 ||r7mediar.com^
 ||r8.cooleremail.com^
+||r8nr2lzeqakd.com^
 ||r9.cooleremail.com^
 ||r932o.com^
 ||r9i8ud.cn^
@@ -49802,6 +49817,7 @@
 ||sensic.net^
 ||sensismediasmart.com.au^
 ||sensor.org.ua^
+||sensortower.com^
 ||sensytracker.appspot.com^
 ||sentemanactri.com^
 ||sentifi.com^
@@ -51361,6 +51377,7 @@
 ||sozcu.pushwoosh.com^
 ||sp-click2.jp^
 ||sp-mms.weather.com^
+||sp-prod.net^
 ||sp.advertising.com^
 ||sp.app.com^
 ||sp.argusleader.com^
@@ -54158,7 +54175,6 @@
 ||tcgtrkr.com^
 ||tch10.com^
 ||tch30.com^
-||tcheck.outbrainimg.com^
 ||tchhelpdmn.xyz^
 ||tchmemnasaxpt.com^
 ||tcimg.com^
@@ -54539,8 +54555,10 @@
 ||test-studio.ru^
 ||test.ajc.cimedia.com^
 ||test.besstidniki.ru^
+||test.churchofjesuschrist.org^
 ||test.com^
 ||test.ishvara-yoga.com^
+||test.lds.org^
 ||test.p.12cpm.com^
 ||test1.lmsoft.cz^
 ||testadmin.cimedia.com^
@@ -59470,6 +59488,7 @@
 ||viralmediatech.com^
 ||viralninjas.com^
 ||viralture.com^
+||viralvideos.pw^
 ||viralvideos.tips^
 ||virashux.net^
 ||virgbmkmear.com^
@@ -60230,6 +60249,7 @@
 ||wawalot.pl^
 ||wawlfosfkdy.com^
 ||wawyxzfkab.com^
+||waxtamnit.com^
 ||way2traffic.com^
 ||waycash.net^
 ||waytogrow.eu^
