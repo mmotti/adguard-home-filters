@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 12-03-2020 23:50 GMT
-! Count: 64,493
+! Last Modified: 13-03-2020 23:50 GMT
+! Count: 64,510
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -853,6 +853,7 @@
 ||2sexy.ro^
 ||2sfygwfxvsxv.info^
 ||2site.com^
+||2smt6mfgo.de^
 ||2ssltome.ga^
 ||2step-garage.co.uk^
 ||2taa9ib4ib.com^
@@ -5029,7 +5030,6 @@
 ||ads.beliefnet.com^
 ||ads.berlinonline.de^
 ||ads.berrynet.com^
-||ads.beta.dashboard.superawesome.tv^
 ||ads.beta.itravel2000.com^
 ||ads.betanews.com^
 ||ads.betfair.com.au^
@@ -8651,6 +8651,7 @@
 ||aerreravasi.com^
 ||aerserv.com^
 ||aertb.com^
+||aestivator.com^
 ||aestldhxdqlo.com^
 ||aeventlog.beacon.qq.com.adserver.com^
 ||aew9eigieng.info^
@@ -13810,6 +13811,9 @@
 ||bet365.com^
 ||bet365affiliates.com^
 ||beta-lombardi.advertising.com^
+||beta.ads.staging.superawesome.tv^
+||beta.ads.superawesome.tv^
+||beta.dashboard.superawesome.tv^
 ||beta.galleries.paperstreetcash.com^
 ||beta.mediafort.ru^
 ||betaffs.com^
@@ -15764,7 +15768,6 @@
 ||campaigncog.com^
 ||campaignmonitor.com^
 ||campaigns.apps-connects.com^
-||campaigns.beta.dashboard.superawesome.tv^
 ||campaigns.clevertap.com^
 ||campaigns.dashboard.superawesome.tv^
 ||campaigns.f2.com.au^
@@ -16420,6 +16423,7 @@
 ||cdn5-ref.landing.comcontent.net^
 ||cdn5.bad-credit-cdn.com^
 ||cdn5.deals-discounts-codes.com^
+||cdn5.nextinpact.com^
 ||cdn5.psdvault.com^
 ||cdn5now.com^
 ||cdn6.bad-credit-cdn.com^
@@ -18320,6 +18324,7 @@
 ||compactbanner.com^
 ||compactiongames.gameaholic.com^
 ||companiedhhplrdpp.download^
+||companiedoml.site^
 ||companies-catalog.com^
 ||company-target.com^
 ||company.com.ph^
@@ -19595,6 +19600,7 @@
 ||cultsneaks.pl^
 ||culturaltpnxpr.download^
 ||culturedcrayon.com^
+||cultwithough.info^
 ||culumunderbianwa.info^
 ||cumbersomecloud.com^
 ||cummba.de^
@@ -19634,6 +19640,7 @@
 ||customer.io^
 ||customerconversio.com^
 ||customerdiscoverytrack.com^
+||customerevents.netflix.com^
 ||customerlabs.co^
 ||customernoble.com^
 ||customerscreensavers.com^
@@ -21463,6 +21470,7 @@
 ||distilled.ie^
 ||distillery.wistia.com^
 ||distiltag.com^
+||distinctday.com^
 ||distinesseqe.site^
 ||distinethout.info^
 ||distortiveecynxpidy.download^
@@ -22563,6 +22571,7 @@
 ||e6cfmdmo81.com^
 ||e713c2431ad39079.com^
 ||e7393e33565ce805.com^
+||e77lmzbqou0n-a.akamaihd.net^
 ||e7876.dscg.akamaiedge.net^
 ||e7cb2d86b68099f16.com^
 ||e7e776c1a8bf677.com^
@@ -24099,6 +24108,7 @@
 ||events.olark.com^
 ||events.personali.com^
 ||events.popinfo.jp^
+||events.practo.com^
 ||events.realgravity.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
@@ -24825,6 +24835,7 @@
 ||fcpispplqq.com^
 ||fcporto.pushwoosh.com^
 ||fcrgzqkbtgu.co^
+||fcs.demo.appdynamics.com^
 ||fcs.ovh^
 ||fcstats.altervista.org^
 ||fcstats.bcentral.com^
@@ -25638,6 +25649,7 @@
 ||forexyestrader.pl^
 ||forfollow.net^
 ||forgotten-deals.com^
+||foriginserver.media.net^
 ||fork.juiceknee.xyz^
 ||forkcdn.com^
 ||forkitz.com^
@@ -39977,6 +39989,7 @@
 ||nicappazaza.com^
 ||nice-xxx.net^
 ||nicesearches.com^
+||nicevideos.xyz^
 ||nicewii.com^
 ||nicheads.com^
 ||nickhel.com^
@@ -46386,6 +46399,7 @@
 ||qa-ads-web.advertising.com^
 ||qa-craft.advertising.com^
 ||qa-moments.advertising.com^
+||qa.ftp.advertising.com^
 ||qa0.tinypass.com^
 ||qa04.nanorep.com^
 ||qa1.tinypass.com^
@@ -47057,6 +47071,7 @@
 ||quisma.com^
 ||quitsnap-blue.com^
 ||quiz-fun.com.my^
+||quiz.stroeermediabrands.de^
 ||quizflavor.com^
 ||quizilla.com^
 ||quizzicalzephyr.com^
@@ -48795,6 +48810,7 @@
 ||roznehistorie.pl^
 ||rozpalamynadzieje.pl^
 ||rp-rep.net^
+||rp-srw.net^
 ||rp.alcoholsoftcdn.com^
 ||rp.demo.appdynamics.com^
 ||rp.filefactscdn.com^
@@ -52665,8 +52681,6 @@
 ||stagehosts.com^
 ||staging.50onred.com^
 ||staging.ads.superawesome.tv^
-||staging.beta.ads.superawesome.tv^
-||staging.beta.dashboard.superawesome.tv^
 ||staging.convertkit.com^
 ||staging.dashboard.superawesome.tv^
 ||staging.demo.appdynamics.com^
@@ -54023,7 +54037,6 @@
 ||swan-swan-goose.com^
 ||swanksoft.com^
 ||swants.pro^
-||swapit.beta.dashboard.superawesome.tv^
 ||swapit.dashboard.superawesome.tv^
 ||swarzewo-fala.pl^
 ||swbdds.com^
@@ -54703,6 +54716,7 @@
 ||tauptaup.com^
 ||tauwhout.net^
 ||tavelscape.com^
+||taveredezeri.site^
 ||tavuks.com^
 ||tawdryson.com^
 ||taxel.jp^
@@ -55127,11 +55141,13 @@
 ||test-beacon.pol-collector.com^
 ||test-studio.ru^
 ||test.ajc.cimedia.com^
+||test.appdynamics.com^
 ||test.besstidniki.ru^
 ||test.churchofjesuschrist.org^
 ||test.com^
 ||test.ishvara-yoga.com^
 ||test.lds.org^
+||test.msas.media.net^
 ||test.p.12cpm.com^
 ||test1.lmsoft.cz^
 ||testadmin.cimedia.com^
@@ -59356,6 +59372,7 @@
 ||uzerly.net^
 ||uziiygdcwur.com^
 ||uzikrtotjbnq.com^
+||uzk4umokyri3.com^
 ||uzlleehrsmibli.com^
 ||uzmanreklam.com^
 ||uznwafjxmm.com^
