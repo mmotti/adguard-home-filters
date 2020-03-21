@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 19-03-2020 23:50 GMT
-! Count: 65,889
+! Last Modified: 20-03-2020 23:50 GMT
+! Count: 65,930
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -3786,6 +3786,7 @@
 ||adc.emp.co.uk^
 ||adc.emp.de^
 ||adc.nine.com.au^
+||adc.quantrimang.com^
 ||adc.shinobi.jp^
 ||adc.tripple.at^
 ||adc.xxxlshop.de^
@@ -4795,6 +4796,7 @@
 ||adreactor.com^
 ||adready.com^
 ||adreadytractions.com^
+||adrealclick.com^
 ||adreclaim.com^
 ||adrecover.com^
 ||adrecreate.com^
@@ -9135,6 +9137,7 @@
 ||aggravedgaree.info^
 ||aggregateknowledge.com^
 ||aggregator.inquisitr.com^
+||aghchnfzt.com^
 ||agiandsam.com^
 ||agilecrm-web-stats.appspot.com^
 ||agilemedia.jp^
@@ -12126,6 +12129,7 @@
 ||avjxftprif.com^
 ||avkigyhrazah.com^
 ||avkzarabotok.info^
+||avmftuama.com^
 ||avmul.space^
 ||avmws.com^
 ||avnads.com^
@@ -16668,6 +16672,7 @@
 ||cdnaimg-pla.media.net^
 ||cdnaimg-ra.media.net^
 ||cdnanalytics.xyz^
+||cdnapac-xch.media.net^
 ||cdnapi.net^
 ||cdnasjdkajgfhgajfjkagfa.pro^
 ||cdnativ.com^
@@ -17913,6 +17918,7 @@
 ||clk.cloudyisland.com^
 ||clk.flmsecure.com^
 ||clk.im^
+||clk.media.net^
 ||clk.members.fling.com^
 ||clk.ml-links.com^
 ||clk.onet.pl^
@@ -20113,6 +20119,7 @@
 ||d.image-ad.jp^
 ||d.ina.media.net^
 ||d.jazzedcdn.com^
+||d.joinhoney.com^
 ||d.kuai-go.com^
 ||d.la1-c2-iad.salesforceliveagent.com^
 ||d.la1-c2-phx.salesforceliveagent.com^
@@ -21502,6 +21509,7 @@
 ||devtest.media.net^
 ||devtizer.ru^
 ||dew9ckzjyt2gn.cloudfront.net^
+||dewgnvonohak.com^
 ||dewife.ru^
 ||dewltdgzgtt.com^
 ||dewqbkpy.com^
@@ -23549,6 +23557,7 @@
 ||ekkhgwp5atpuxdq.ru^
 ||ekkuztgnjnitmd.com^
 ||eklcrpehu.com^
+||eklrohpahufy.com^
 ||ekmas.com^
 ||ekmpinpoint.co.uk^
 ||ekmpinpoint.com^
@@ -23677,6 +23686,7 @@
 ||elwbhndbxfqk.com^
 ||elwirakurier.com^
 ||elwraek.xyz^
+||em.doubleverify.com^
 ||em.subiz.com^
 ||em1.shinobi.jp^
 ||email-login-support.com^
@@ -24657,6 +24667,7 @@
 ||ewebanalytics.com^
 ||ewebcounter.com^
 ||ewelinaplanuje.pl^
+||ewerhodub.com^
 ||ewgnexykqnyoun.com^
 ||ewills.access.ly^
 ||ewlnukukkca.com^
@@ -24872,6 +24883,7 @@
 ||extzbxocracknels.review^
 ||exvrvcnlfc.com^
 ||exw-wallet.com^
+||exwcadanpfc.com^
 ||exxotel.com^
 ||exyubuwtwmepqi.com^
 ||eyeblaster-bs.com^
@@ -25791,6 +25803,7 @@
 ||fivecdm.com^
 ||fiwatmctnaqec.com^
 ||fixbonus.com^
+||fixchidie.com^
 ||fixcleaner.com^
 ||fixcounter.com^
 ||fixel.ai^
@@ -26091,6 +26104,7 @@
 ||foodieblogroll.com^
 ||foodmaltese.com^
 ||foodmixeroffer.com^
+||foogykxlqa.com^
 ||footar.com^
 ||footnote.com^
 ||footoografie-pobieralnia.eu^
@@ -30564,6 +30578,7 @@
 ||ibishic.ru^
 ||ibizne.ru^
 ||ibjivzn.com^
+||ibkbshqqueoij.com^
 ||ibleigzj.com^
 ||ibmvideo.com^
 ||ibnuoduab.com^
@@ -31576,6 +31591,7 @@
 ||inlocomedia.com^
 ||inlrdxbuco.com^
 ||inmemcards.com^
+||inmobi-apac-bidder.manage.com^
 ||inmobi-east-bidder.manage.com^
 ||inmobi-eu-bidder.manage.com^
 ||inmobi-jp.com^
@@ -32614,6 +32630,7 @@
 ||jcwhitey.com^
 ||jcxghdlrrmyy.com^
 ||jd-mail.co.uk^
+||jd01estvpr.club^
 ||jdbovkzjtuup.com^
 ||jdd01.198game.net^
 ||jddghmkf.com^
@@ -34690,6 +34707,7 @@
 ||ldimage01.adtech.us^
 ||ldimage02.adtech.fr^
 ||ldimage02.adtech.us^
+||ldipafssohosls.com^
 ||ldkdierujjfmcn.club^
 ||ldkjrqcqp.com^
 ||ldnxy.xyz^
@@ -35722,6 +35740,7 @@
 ||log2.musical.ly^
 ||log2.reflow.tv^
 ||log2.ru^
+||log30.doubleverify.com^
 ||log4x.nixcdn.com^
 ||log5.doubleverify.com^
 ||log6.doubleverify.com^
@@ -36226,11 +36245,13 @@
 ||luzynka.ru^
 ||lv-guccl88.com^
 ||lvbagonsale.com^
+||lvbdvlnbht.com^
 ||lvbet.pl^
 ||lvcrcimfmfx.com^
 ||lvctzafuvn.com^
 ||lveif.com^
 ||lvesmhsex.com^
+||lvgaaldcza.com^
 ||lvgldleilov.com^
 ||lvgliqkumatjv.com^
 ||lvgvax82bp.com^
@@ -38582,6 +38603,7 @@
 ||mletracker.com^
 ||mlgtlxyicweqn.com^
 ||mlinktracker.com^
+||mljzbcrvexzn.com^
 ||mllfdnjrnkvhmd.com^
 ||mlltyllhgohn.com^
 ||mlm.de^
@@ -44336,6 +44358,7 @@
 ||pdrauqbvdgjut.bid^
 ||pdrvdmqcdd.com^
 ||pdsqopgtdiphyodont.review^
+||pdst.fm^
 ||pdtaqyjqwfkarz.bid^
 ||pdtnzykqa.com^
 ||pdwuengagementapiwkr.cloudapp.net^
@@ -44879,7 +44902,6 @@
 ||ping.dozuki.com^
 ||ping.getadblock.com^
 ||ping.hungama.com^
-||ping.idocdn.com^
 ||ping.media.net^
 ||ping.smyte.com^
 ||ping.tvmaze.com^
@@ -47229,6 +47251,7 @@
 ||pwlqrkgkk.com^
 ||pwm-image.trendmicro.com^
 ||pwnz.org^
+||pwoiseuoyxpxz.com^
 ||pwondjwwgqahw.com^
 ||pwp.netcabo.pt^
 ||pwrads.net^
@@ -47413,6 +47436,7 @@
 ||qavqnwwlxh.bid^
 ||qawaqcurthru.com^
 ||qawiman.com^
+||qaxgycvxm.com^
 ||qaxtgbdxjpibc.com^
 ||qaykb.com^
 ||qazzzxwynmot.com^
@@ -48625,6 +48649,7 @@
 ||realcastmedia.com^
 ||realclever.com^
 ||realclick.co.kr^
+||realclick.vn^
 ||realclix.com^
 ||realcounter.eu^
 ||realcounters.com^
@@ -49848,6 +49873,7 @@
 ||rpm.newrelisc.com^
 ||rpmdo.com^
 ||rpnhxhzcejyiym.com^
+||rpqknedxr.com^
 ||rprgsptwx.com^
 ||rprox.demo.appdynamics.com^
 ||rps-p2.rockpapershotgun.com^
@@ -50311,6 +50337,7 @@
 ||s.infogr.am^
 ||s.infogram.com^
 ||s.intercomcdn.com^
+||s.joinhoney.com^
 ||s.jpush.cn^
 ||s.kenh14.vn^
 ||s.kk30.com^
@@ -51942,6 +51969,7 @@
 ||shopify.intercom.io^
 ||shopkick.com^
 ||shoplenaro.com^
+||shopmetric.rediff.com^
 ||shopnetic.com^
 ||shoppanda.co^
 ||shopperpromotions.com^
@@ -52856,7 +52884,6 @@
 ||socialize-it.com^
 ||socialize.eu1.gigya.com^
 ||socialize.pl^
-||socialize.us1.gigya.com^
 ||sociallypublish.com^
 ||socialmedia.com^
 ||socialprofitmachine.com^
@@ -54242,6 +54269,7 @@
 ||stats.avast.com^
 ||stats.avg.com^
 ||stats.backcountry.com^
+||stats.bahnhof.net^
 ||stats.bbc.co.uk^
 ||stats.becu.org^
 ||stats.behance.net^
@@ -55304,6 +55332,7 @@
 ||sync-unosync-com.geodns.me^
 ||sync.3g.qq.com^
 ||sync.apesvr.com^
+||sync.blisspointmedia.com^
 ||sync.btn2go.com^
 ||sync.cmedia.s3.amazonaws.com^
 ||sync.credebat.com^
@@ -58665,6 +58694,7 @@
 ||trafficcontrolmarketing.com^
 ||trafficcost.ru^
 ||trafficdiscount.com^
+||trafficdok.com^
 ||trafficengine.net^
 ||trafficfabrik.com^
 ||trafficfactory.biz^
@@ -61053,6 +61083,7 @@
 ||vfocus.net^
 ||vfousvlr.com^
 ||vfqwpoxshelfroom.review^
+||vfsirfnosdx.com^
 ||vfsyklhwbxgq.com^
 ||vfxkeagns.com^
 ||vg74gi6mea.com^
@@ -61160,6 +61191,7 @@
 ||video.doubleverify.com^
 ||video.entertaintastic.com^
 ||video.flashiest-vacation.win^
+||video.intl.xiaomi.com^
 ||video.market-place.su^
 ||video.oms.eu^
 ||video.razvratu.net^
@@ -61232,6 +61264,7 @@
 ||vidigital.ru^
 ||vidnet.pl^
 ||vidnline.com^
+||vidoomy.com^
 ||vidoplay.b-cdn.net^
 ||vidora.com^
 ||vidout.net^
@@ -62674,6 +62707,7 @@
 ||wghmgbjpxmlxa.com^
 ||wgiftcard.com^
 ||wglbucuhxxxj.com^
+||wgpsethooknqv.com^
 ||wgqirxevoh.com^
 ||wgrbdqucfoieha.com^
 ||wgssxjoac.com^
@@ -63443,6 +63477,7 @@
 ||wuaefxberbqcv.com^
 ||wubdkryfkr.com^
 ||wucbuvitibyiy.com^
+||wudraqvw.com^
 ||wufcygryt.com^
 ||wugwwssgjcn.com^
 ||wuldvrdfie.com^
@@ -64181,6 +64216,7 @@
 ||xn--yotu-1ra.be^
 ||xn--zuzy24d.co^
 ||xn-2qux23confgml.club^
+||xncyiwbwfuqx.com^
 ||xndskrtxkiv.com^
 ||xnfdvmzb.com^
 ||xnfwhndl.com^
@@ -64310,6 +64346,7 @@
 ||xswbmktpgcwcud.com^
 ||xswezzwxh.com^
 ||xswmgpypkfbqoe.com^
+||xsxvxqtdppippq.com^
 ||xsztfrlkphqy.com^
 ||xtag.autotrader.com^
 ||xtag.kbb.com^
@@ -64791,6 +64828,7 @@
 ||ynlvwynnsstalh.com^
 ||ynoiezey.com^
 ||ynopkisq.com^
+||ynpypyqwu.com^
 ||ynqmordtj.com^
 ||yntwcepykkts.com^
 ||ynuf.alibaba.com^
@@ -65542,6 +65580,7 @@
 ||zjjlf.croukwexdbyerr.net^
 ||zjk24.com^
 ||zjkdrqtjowihn.com^
+||zjllvkfa.com^
 ||zjncvhnkh.com^
 ||zjnmgmidmx.com^
 ||zjo0tjqpm1.com^
@@ -65727,6 +65766,7 @@
 ||zqeskyeg.com^
 ||zqiknimzmcoedq.com^
 ||zqizn.com^
+||zqmnjxpavnpe.com^
 ||zqmwf.xyz^
 ||zqmxzjrhchg.com^
 ||zqojpysorkiddiewink.review^
@@ -65922,6 +65962,7 @@
 ||zzptzdhugavot.review^
 ||zzpzenvmibvm.com^
 ||zzrdvzryaiwsin.com^
+||zzvvzfiwyfq.com^
 ||zzwajufm.com^
 ||zzxlukodff.com^
 ||zzxosget.com^
