@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 22-03-2020 23:50 GMT
-! Count: 66,130
+! Last Modified: 23-03-2020 23:50 GMT
+! Count: 66,169
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -3213,6 +3213,7 @@
 ||ad.zet.net^
 ||ad.zing.vn^
 ||ad.zodera.hu^
+||ad0.bigmir.net^
 ||ad0.haynet.com^
 ||ad0.hpg.com.br^
 ||ad00.hpg.com.br^
@@ -3230,6 +3231,7 @@
 ||ad09.hpg.com.br^
 ||ad1.adtitan.net^
 ||ad1.bb.ru^
+||ad1.bigmir.net^
 ||ad1.dada.it^
 ||ad1.emule-project.org^
 ||ad1.ero-advertising.com^
@@ -3509,6 +3511,7 @@
 ||ad38.hpg.com.br^
 ||ad39.hpg.com.br^
 ||ad4.bb.ru^
+||ad4.bigmir.net^
 ||ad4.com.cn^
 ||ad4.enet.com.cn^
 ||ad4.gueb.com^
@@ -3555,6 +3558,7 @@
 ||ad4sell.com^
 ||ad4xh85llhcbfis8.com^
 ||ad5.bb.ru^
+||ad5.bigmir.net^
 ||ad5.hpg.com.br^
 ||ad5.speedbit.com^
 ||ad5.udn.com^
@@ -3570,6 +3574,7 @@
 ||ad59.hpg.com.br^
 ||ad5track.com^
 ||ad6.bb.ru^
+||ad6.bigmir.net^
 ||ad6.horvitznewspapers.net^
 ||ad6.hpg.com.br^
 ||ad6.speedbit.com^
@@ -3586,6 +3591,7 @@
 ||ad6media.co.uk^
 ||ad6media.fr^
 ||ad7.bb.ru^
+||ad7.bigmir.net^
 ||ad7.com^
 ||ad7.gueb.com^
 ||ad7.hpg.com.br^
@@ -4167,6 +4173,7 @@
 ||adhub.ru^
 ||adhubz.com^
 ||adhunter.media^
+||adi.bigmir.net^
 ||adi.mainichi.co.jp^
 ||adiant.com^
 ||adical.de^
@@ -9987,6 +9994,7 @@
 ||an.facebook.com^
 ||an.mainichi.jp^
 ||an.mlb.com^
+||an.motphim.net^
 ||an.reflektion.com^
 ||an.webvisor.org^
 ||an.worldbaseballclassic.com^
@@ -10048,6 +10056,7 @@
 ||analyticcdn.globalmailer.com^
 ||analyticdns.org^
 ||analytics-api-samples.googlecode.com^
+||analytics-au.clickdimensions.com^
 ||analytics-bal-nfl.yinzcam.com^
 ||analytics-cdiscount.com^
 ||analytics-chi-nfl.yinzcam.com^
@@ -10057,6 +10066,7 @@
 ||analytics-digit-in.cdn.ampproject.org^
 ||analytics-egain.com^
 ||analytics-engine.net^
+||analytics-eu.clickdimensions.com^
 ||analytics-eu.tactilews.com^
 ||analytics-events.inshorts.com^
 ||analytics-ext-prod.us-east-1.elasticbeanstalk.com^
@@ -10134,6 +10144,7 @@
 ||analytics.chase.com^
 ||analytics.cincopa.com^
 ||analytics.civicplus.com^
+||analytics.clickdimensions.com^
 ||analytics.cliqz.com^
 ||analytics.cloud.unity3d.com^
 ||analytics.cloudron.io^
@@ -11060,6 +11071,7 @@
 ||app-c.net^
 ||app-config.enhance.co^
 ||app-creatives.cdn.admobile.me^
+||app-eu.clickdimensions.com^
 ||app-icons.apptentive.com^
 ||app-install-world.com^
 ||app-log.immomo.com^
@@ -11075,6 +11087,7 @@
 ||app.backinstock.org^
 ||app.bugfender.com^
 ||app.bugreplay.com^
+||app.clickdimensions.com^
 ||app.clickyab.com^
 ||app.cobrowser.com^
 ||app.cocolog-nifty.com^
@@ -11434,6 +11447,7 @@
 ||arasyqslwmfat.com^
 ||arawegnvvufy.com^
 ||arbadgika.ru^
+||arbawijlgq.com^
 ||arbeitssuche-web.de^
 ||arbigo.com^
 ||arbomedia.pl^
@@ -11622,6 +11636,7 @@
 ||as2.advfn.com^
 ||as2.autoforums.com^
 ||as5000.com^
+||as62wl63346.rest^
 ||as997.de^
 ||asadcdn.com^
 ||asadzntx.com^
@@ -14219,7 +14234,6 @@
 ||biglinkext.xyz^
 ||bigmart.com.np^
 ||bigmining.com^
-||bigmir.net^
 ||bigmobileads.com^
 ||bigoff.info^
 ||bigpenisguide.com^
@@ -14367,6 +14381,7 @@
 ||bitonclick.com^
 ||bitraffic.com^
 ||bitrix.info^
+||bitsads.xyz^
 ||bitsonthewire.com^
 ||bitspresentdownload.com^
 ||bittads.com^
@@ -14942,7 +14957,6 @@
 ||bpilvlbzegwf.com^
 ||bplzgzpqp.com^
 ||bpm.eroterest.net^
-||bpmonline.com^
 ||bpmskwgodi.com^
 ||bpniszadiuc.com^
 ||bpnjigwalqjho.com^
@@ -15698,6 +15712,7 @@
 ||c.at.msn.com^
 ||c.baidu.com^
 ||c.be.msn.com^
+||c.bigmir.net^
 ||c.bing.com^
 ||c.bizjournals.com^
 ||c.br.msn.com^
@@ -16610,6 +16625,7 @@
 ||cdn.stat.easydate.biz^
 ||cdn.static-cnt.bid^
 ||cdn.steambets.net^
+||cdn.swellrewards.com^
 ||cdn.teamskeetimages.com^
 ||cdn.thetorntv.com^
 ||cdn.theturboforums.com^
@@ -17686,7 +17702,6 @@
 ||clickconversion.net^
 ||clickconvertsell.com^
 ||clickdensity.com^
-||clickdimensions.com^
 ||clickdough.com^
 ||clickedyclick.com^
 ||clickeight.com^
@@ -22008,6 +22023,7 @@
 ||dlf.pl^
 ||dlfdvyfn.com^
 ||dlfja.gdn^
+||dlfvgndsdfsn.com^
 ||dlgriyjm.com^
 ||dlhhzptgsavxu.com^
 ||dlist.iqilie.com^
@@ -22617,10 +22633,12 @@
 ||ds.resonifi.com^
 ||ds02gfqy6io6i.cloudfront.net^
 ||ds1.nl^
+||ds88pc0kw6cvc.cloudfront.net^
 ||dsa.pl^
 ||dsaiwxrneawj.com^
 ||dsct1.com^
 ||dsdsc.win^
+||dsdsde.xyz^
 ||dsemgngou.com^
 ||dsequence.com^
 ||dserver.hw.net^
@@ -23520,6 +23538,7 @@
 ||eggplant.cloud^
 ||eghuntsrizvbt.com^
 ||eglobalcentral.pl^
+||egmhrjxxil.com^
 ||egnatius-ear.com^
 ||egocefabus.com^
 ||egoldenglove.com^
@@ -23677,6 +23696,8 @@
 ||eliehabib.com^
 ||elijah-erwirbt.de^
 ||elimpfdlss.com^
+||elink.clickdimensions.com^
+||elinkeu.clickdimensions.com^
 ||elisaart.it^
 ||elite-crack.ml^
 ||elite-layer.de^
@@ -23848,6 +23869,7 @@
 ||endloseporno.com^
 ||endofhisrope.net^
 ||endow.com^
+||endpoint1.collection.us2.sumologic.com^
 ||endurableshop.com^
 ||enecto.com^
 ||enectoanalytics.com^
@@ -24703,6 +24725,7 @@
 ||evvjvrpldtnlqk.com^
 ||evvpibrfqzjn.com^
 ||evvznnafduvs.com^
+||evykfczgpwbvd.com^
 ||evyy.net^
 ||ew.politros.com^
 ||ew3.io^
@@ -24714,6 +24737,7 @@
 ||ewerhodub.com^
 ||ewgnexykqnyoun.com^
 ||ewills.access.ly^
+||ewitsorrgm.com^
 ||ewlnukukkca.com^
 ||ewordofmouth.com^
 ||eworldtrack.com^
@@ -25653,8 +25677,10 @@
 ||fileoasis.net^
 ||filepost.ru^
 ||filerom.com^
+||files-eu.clickdimensions.com^
 ||files.appsgeyser.com^
 ||files.brothersoft.com^
+||files.clickdimensions.com^
 ||files.constantcontact.com^
 ||files.download-sponsor.de^
 ||files.dsnetwb.com^
@@ -26706,6 +26732,7 @@
 ||ftigholm.site^
 ||ftigken.online^
 ||ftjcfx.com^
+||ftkbsddgbqt.com^
 ||ftp.doshome.com^
 ||ftp.flyfishusa.com^
 ||ftpbuzau.hi2.ro^
@@ -29081,6 +29108,7 @@
 ||hamster.com^
 ||hamtugin.com^
 ||hanabishi.net^
+||hanacbclbrdjon.com^
 ||hananokai.tv^
 ||hanaphoto.co.kr^
 ||hanaprop.com^
@@ -30188,6 +30216,7 @@
 ||hsmwebapp.com^
 ||hsn01.wcom-ma.us.conversion-marketing.com^
 ||hsnoamgzlksidfliivb.com^
+||hsqbeznk.com^
 ||hsqslxewsnga.com^
 ||hsqujerwg.com^
 ||hsqvofrzwluvns.com^
@@ -30505,6 +30534,7 @@
 ||i.atleit.com^
 ||i.awin1.com^
 ||i.bigbn.com.ua^
+||i.bigmir.net^
 ||i.bkatjs.info^
 ||i.cdnpark.com^
 ||i.compendium.com^
@@ -32609,12 +32639,12 @@
 ||jandolav.com^
 ||janeaustenjoy.com^
 ||janezk.50webs.co^
-||jango.com^
 ||jangonetwork.com^
 ||jankazimierzsiwek.pl^
 ||jankotlarz.pl^
 ||jannahqu.org^
 ||jannatkhah.ir^
+||janndfsc.pro^
 ||janod.pl^
 ||janparkiet.pl^
 ||janrain.xyz^
@@ -32800,6 +32830,7 @@
 ||jfgbdjhyc.com^
 ||jfgvtdcgomvmwv.com^
 ||jfhoq.com^
+||jfiqsfsh.com^
 ||jfjuhxfllw.com^
 ||jfmtvybvze.com^
 ||jfnafbcysy.com^
@@ -34299,6 +34330,7 @@
 ||krullerkzouw.download^
 ||krum.vsct.fr^
 ||krutilka.net^
+||krwasgyensttng.com^
 ||krxd.net.c.global-ssl.fastly.net^
 ||krxd.net^
 ||kryminalnyblues.pl^
@@ -34514,6 +34546,7 @@
 ||kzmleuhgqifvzy.com^
 ||kzqjwdxxussshe.net^
 ||kzrwzjmlasll.com^
+||kzzeupckj.com^
 ||l-v1.prod.cloud.ogury.io^
 ||l.5min.com^
 ||l.deals.ebay.com^
@@ -35668,7 +35701,6 @@
 ||localadbuy.com^
 ||localads-statistics.maps.me^
 ||localads.maps.me^
-||localbitcoins.com^
 ||localbitcoins.gr.com^
 ||localedgemedia.com^
 ||localh0st.info^
@@ -42290,6 +42322,7 @@
 ||offside2.000webhostapp.com^
 ||ofgapiydisrw.com^
 ||ofghrodsrqkg.com^
+||ofgogoatan.com^
 ||ofhappinyer.com^
 ||ofhwyutlckjuul.bid^
 ||ofhypnoer.com^
@@ -42303,6 +42336,7 @@
 ||ofmuojegzbxo.com^
 ||ofni.al0ne.info^
 ||ofnpjpvxtjfx.com^
+||ofphanpytor.com^
 ||ofpwdoovxs.bid^
 ||ofrducrisy.com^
 ||ofrecom.info^
@@ -43958,6 +43992,7 @@
 ||page-events-ustats.udemy.com^
 ||page-hit.de^
 ||page.0ffer.eu^
+||page.link^
 ||pagead-googlehosted.l.google.com^
 ||pagead-tpc.l.google.com^
 ||pagead.l.google.com^
@@ -46665,7 +46700,6 @@
 ||prooffactor.com^
 ||proofly.date^
 ||proofly.win^
-||proofpoint.com^
 ||proofpositivemedia.com^
 ||propagerank.de^
 ||propaid.de^
@@ -47366,6 +47400,7 @@
 ||pvpqgjkgvszq.com^
 ||pvptwhhkfmog.com^
 ||pvranking.com^
+||pvrnqpgvbucif.com^
 ||pvrtx.net^
 ||pvrybwoqcprogc.bid^
 ||pvstat.china.cn^
@@ -50215,7 +50250,6 @@
 ||ru-novocti.com^
 ||ru-onrt-stsdk.vivoglobal.com^
 ||ru-traffic.com^
-||ru.net^
 ||ru.theswiftones.com^
 ||ru.wix.com^
 ||ru4.com^
@@ -55170,7 +55204,6 @@
 ||summitemarketinganalytics.com^
 ||sumo.com^
 ||sumokoin.com^
-||sumologic.com^
 ||sumome-140a.kxcdn.com^
 ||sumome.com^
 ||sumsmoxssy.com^
@@ -61307,6 +61340,7 @@
 ||vi-serve.com^
 ||vi.5.p2l.info^
 ||vi.ai^
+||vi.bigmir.net^
 ||vi012.com^
 ||via.intercom.io^
 ||via22.net^
@@ -62082,6 +62116,7 @@
 ||vvjlrhuzmhzlws.com^
 ||vvkvlqubnge.com^
 ||vvmblock.ru^
+||vvnmwfnpkat.com^
 ||vvoczokfayxwu.com^
 ||vvps.ws^
 ||vvqpavyfkr.com^
@@ -63257,6 +63292,7 @@
 ||wlwootzzijp.com^
 ||wlwt01.opentext.com^
 ||wlyeo90l.pro^
+||wlzdghlzjewbwv.com^
 ||wlzq.cn^
 ||wm-goldenclick.ru^
 ||wm-panel.com^
@@ -65600,6 +65636,7 @@
 ||zeotap.com^
 ||zepozipo.com^
 ||zeptolab.com^
+||zeqad.com^
 ||zerezas.com^
 ||zergnet.com^
 ||zero.kz^
@@ -66096,6 +66133,7 @@
 ||zwwbvpwd.com^
 ||zwycieskisklad.pl^
 ||zwyzkowi.pl^
+||zwzfujusmwsbun.com^
 ||zxaoudwcljrtig.com^
 ||zxavxgjcjmkh.com^
 ||zxbzuyuifdqj.com^
@@ -66149,6 +66187,7 @@
 ||zyxmnqkt.com^
 ||zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de^
 ||zyxyfy.com^
+||zyxzzz.xyz^
 ||zz.bdstatic.com^
 ||zz2017.ru^
 ||zzfycxsu.com^
