@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 26-03-2020 23:50 GMT
-! Count: 66,363
+! Last Modified: 27-03-2020 23:50 GMT
+! Count: 66,392
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -8075,6 +8075,7 @@
 ||adv.all-free-download.com^
 ||adv.aport.ru^
 ||adv.bannercity.ru^
+||adv.baotintuc.vn^
 ||adv.bbanner.it^
 ||adv.blogupp.com^
 ||adv.bookclubservices.ca^
@@ -8569,6 +8570,7 @@
 ||adx-api.mobadvent.com^
 ||adx-east-bidder.manage.com^
 ||adx-eu-bidder.manage.com^
+||adx-eu2-bidder.manage.com^
 ||adx-eu3-bidder.manage.com^
 ||adx-useast.dpclk.com^
 ||adx-uswest.dpclk.com^
@@ -13731,7 +13733,6 @@
 ||beacon.nrholding.net^
 ||beacon.qq.com^
 ||beacon.rallydev.com^
-||beacon.richrelevance.com^
 ||beacon.riskified.com^
 ||beacon.rum.dynapis.com^
 ||beacon.rum.dynapis.info^
@@ -15007,6 +15008,7 @@
 ||bqcoenkrlqk.com^
 ||bqiovml.com^
 ||bqntkevvmkk.com^
+||bqqnngtpc.com^
 ||bqugumvxc.biz^
 ||bqukvgnash.review^
 ||bqvgpuvjwhjggp.com^
@@ -16644,7 +16646,6 @@
 ||cdn.r-adimg.com^
 ||cdn.radiatewheel.info^
 ||cdn.redlightcenter.com^
-||cdn.richrelevance.com^
 ||cdn.rooktemplate.com^
 ||cdn.sailthru.com^
 ||cdn.sdkconfig.site^
@@ -21185,6 +21186,7 @@
 ||dcads.sina.com.cn^
 ||dcanscapital.co.uk^
 ||dcapps.disney.go.com^
+||dccqzsmabz.com^
 ||dccss.banggood.com^
 ||dccstsamnyrjk.com^
 ||dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com^
@@ -21649,6 +21651,7 @@
 ||dgauda.com^
 ||dgecolesdepolice.bf^
 ||dgeggjwyhkrr.com^
+||dgfufcaxzdzenb.com^
 ||dghgutalvz.com^
 ||dgit.com^
 ||dgkvriccq.com^
@@ -23506,6 +23509,7 @@
 ||ee74ff81b44.se^
 ||eeagxonnsoggq.com^
 ||eeamatyc.com^
+||eebbfcwspe.com^
 ||eebcbdca7331314.com^
 ||eebfffjegjajjiacaci.ru^
 ||eec.crunchyroll.com^
@@ -23570,6 +23574,7 @@
 ||efkxhoeoqsv.bid^
 ||efmeni.ru^
 ||efngeka8czukzyb.ru^
+||efojzbnh.com^
 ||eforeantheirma.info^
 ||eforsa.pl^
 ||eforu.com^
@@ -23897,6 +23902,7 @@
 ||emuzyka-do-pobrania.pl^
 ||emxdgt.com^
 ||emxdigital.com^
+||emxyuehfnlssg.com^
 ||emxztiidh.com^
 ||emzxewhgjt.com^
 ||en.adtech.info^
@@ -25381,6 +25387,7 @@
 ||fatfasts-4tmz.world^
 ||fathom.hakibenita.com^
 ||fathomseo.com^
+||fatrjjcm.com^
 ||fatrvclgpnb.com^
 ||faultycanvas.com^
 ||faultyfowl.com^
@@ -28474,6 +28481,7 @@
 ||gop1.co^
 ||gopacket.goforandroid.com^
 ||gopeds.com^
+||gopfltvoiflf.com^
 ||gopjn.com^
 ||goplayz.com^
 ||gopogle.com^
@@ -29067,6 +29075,7 @@
 ||gymrace.pl^
 ||gynax.com^
 ||gynzvwhup.com^
+||gyoajmeq.com^
 ||gyojplgn.com^
 ||gyro.appdriver.jp^
 ||gyros.es^
@@ -31186,7 +31195,6 @@
 ||imads.ero-advertising.com^
 ||imads.rediff.com^
 ||imadworks.rediff.com^
-||image-int.richrelevance.com^
 ||image-map.com^
 ||image-rentracks.com^
 ||image-service.unbounce.com^
@@ -31210,7 +31218,6 @@
 ||image.nsk-sys.com^
 ||image.pathfinder.com^
 ||image.providesupport.com^
-||image.richrelevance.com^
 ||image.safe-sender.co.uk^
 ||image.tx.redbox.com^
 ||image.versiontracker.com^
@@ -31966,7 +31973,6 @@
 ||intarget.ru^
 ||integral-marketing.com^
 ||integrate.com^
-||integration.richrelevance.com^
 ||intela.com^
 ||inteletrack.com^
 ||intelevance.com^
@@ -33053,6 +33059,7 @@
 ||jlkqurysdsw.com^
 ||jlmnnrwuqz.com^
 ||jlsydeysmgghdy.com^
+||jltklmnmj.com^
 ||jlvqbfknjajot.com^
 ||jlwejibe.com^
 ||jlyse.net^
@@ -35832,6 +35839,7 @@
 ||locothet.com^
 ||locotrack.net^
 ||locsensads.com^
+||loddawqst.com^
 ||lodder5.biz^
 ||lode88.vip^
 ||lodeo.io^
@@ -39290,6 +39298,7 @@
 ||mon.cdnfarm18.com^
 ||mon.isnssdk.com^
 ||mon.trackmysales.website^
+||mon1.kohls.com^
 ||monad-rtb.com^
 ||monadplug.com^
 ||monarch.manage.com^
@@ -40321,6 +40330,7 @@
 ||na-east.jitterbit.com^
 ||na.api.inrix.com^
 ||na47.com^
+||naapvraf.com^
 ||naavxddd.com^
 ||naayna.com^
 ||nabaza.com^
@@ -41876,6 +41886,7 @@
 ||nzaza.com^
 ||nzbbsxujqlhjn.com^
 ||nzcjjhkd.com^
+||nzhfk.com^
 ||nzhuswwhd.com^
 ||nzkjbazl.com^
 ||nzkumtaiw.com^
@@ -42383,6 +42394,7 @@
 ||ofbqjpaamioq.com^
 ||ofd.meng-an.cn^
 ||ofdfinqurwpi.com^
+||ofdittor.com^
 ||ofdybheqahjamq.bid^
 ||ofeetles.pro^
 ||ofenltlzepz.com^
@@ -49095,7 +49107,6 @@
 ||recrinsit.ru^
 ||recrossedmuwiemq.download^
 ||recruitics.com^
-||recs.richrelevance.com^
 ||recsys-api.buzzfeed.com^
 ||rectangledownloads.com^
 ||recusticks.co^
@@ -49813,6 +49824,7 @@
 ||richmediaads.com^
 ||richmetrics.com^
 ||richpays.com^
+||richrelevance.com^
 ||richstring.com^
 ||richthof.com^
 ||richwebmaster.com^
@@ -52433,6 +52445,7 @@
 ||signoredom.com^
 ||signout.website^
 ||signup-way.com^
+||sigrjorpzhte.com^
 ||sihciabzm.com^
 ||sihjnaojbrs.com^
 ||sijmp.com^
@@ -55521,6 +55534,7 @@
 ||survymonkey.xyz^
 ||suryaiklan.com^
 ||suscotrk.com^
+||susfvjh.pro^
 ||sushipool.com^
 ||susi.adtech.fr^
 ||susi.adtech.us^
@@ -55538,7 +55552,6 @@
 ||svarkon.ru^
 ||svbfcmumrj.com^
 ||svbsvbwci.com^
-||svc.dynamics.com^
 ||svc.mobilexsoft.com^
 ||svdmxetbyfyg.com^
 ||svdnqszxgucgd.com^
@@ -56989,6 +57002,7 @@
 ||theverlalinglac.info^
 ||thevictorynetwork.com^
 ||thevpntrustzone.xyz^
+||thevtk.com^
 ||thewaycloud.com^
 ||theweatherspace.com^
 ||thewebanswers.com^
@@ -57931,11 +57945,22 @@
 ||tps20233.doubleverify.com^
 ||tps20234.doubleverify.com^
 ||tps20235.doubleverify.com^
+||tps20236.doubleverify.com^
+||tps20237.doubleverify.com^
+||tps20238.doubleverify.com^
+||tps20239.doubleverify.com^
+||tps20240.doubleverify.com^
+||tps20241.doubleverify.com^
 ||tps20511.doubleverify.com^
 ||tps20512.doubleverify.com^
 ||tps20513.doubleverify.com^
 ||tps20514.doubleverify.com^
 ||tps20515.doubleverify.com^
+||tps20516.doubleverify.com^
+||tps20517.doubleverify.com^
+||tps20518.doubleverify.com^
+||tps20519.doubleverify.com^
+||tps20520.doubleverify.com^
 ||tps30.doubleverify.com^
 ||tps31.doubleverify.com^
 ||tps40.doubleverify.com^
@@ -63110,6 +63135,7 @@
 ||wgrbdqucfoieha.com^
 ||wgssxjoac.com^
 ||wguke.com^
+||wgwguxqij.com^
 ||wh5kb0u4.com^
 ||wha8q7pevj.com^
 ||whabi.csheaven.com^
@@ -63932,6 +63958,7 @@
 ||ww4.tongji123.com^
 ||ww62.hsn.com^
 ||ww6z7lrg3a.top^
+||ww8.kohls.com^
 ||ww88club.com^
 ||wwa.dateformore.de^
 ||wwa.ero-advertising.com^
@@ -65829,6 +65856,7 @@
 ||zepozipo.com^
 ||zeptolab.com^
 ||zeqad.com^
+||zeqtblok.com^
 ||zerezas.com^
 ||zergnet.com^
 ||zero.kz^
@@ -66163,6 +66191,7 @@
 ||zozocash.biz^
 ||zozolilla.com^
 ||zozoter.ru^
+||zpaanftgs.com^
 ||zpafiska.pl^
 ||zpaimilpqx.com^
 ||zpbgschpbkz.com^
