@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 01-04-2020 23:50 BST
-! Count: 59,011
+! Last Modified: 02-04-2020 23:50 BST
+! Count: 58,979
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -545,7 +545,6 @@
 ||24-sklep.pl^
 ||24-xxx.biz^
 ||2444efc8cd8e.com^
-||2468.go2cloud.org^
 ||24695.com^
 ||247-inc.com^
 ||247-inc.net^
@@ -587,6 +586,7 @@
 ||24videos.tv^
 ||24vunvrv.com^
 ||24x7.soliday.org^
+||250analytics.techtarget.com^
 ||25348f89a3.com^
 ||254a.com^
 ||2559a303164ddde96.com^
@@ -5525,7 +5525,6 @@
 ||adserer.ihigh.com^
 ||adsertor.co.uk^
 ||adserv.aip.org^
-||adserv.bravenet.com^
 ||adserv.entriq.net^
 ||adserv.evo-x.de^
 ||adserv.free6.com^
@@ -5560,7 +5559,6 @@
 ||adserv007.adtech.us^
 ||adserv008.adtech.fr^
 ||adserv008.adtech.us^
-||adserv2.bravenet.com^
 ||adservant.guj.de^
 ||adserve.advertising.com^
 ||adserve.canadawidemagazines.com^
@@ -6179,6 +6177,7 @@
 ||adss.dotdo.net^
 ||adss.yahoo.com^
 ||adssend.net^
+||adsservingtwig.xyz^
 ||adssets.com^
 ||adssl01.adtech.fr^
 ||adssl01.adtech.us^
@@ -6374,6 +6373,7 @@
 ||adtrading.de^
 ||adtradr.com^
 ||adtradradservices.com^
+||adtraf.pro^
 ||adtraff.ru^
 ||adtraffic.pl^
 ||adtrak.net^
@@ -8384,6 +8384,7 @@
 ||analytics.tactilews.com^
 ||analytics.tbs.com^
 ||analytics.tdameritrade.com^
+||analytics.techtarget.com^
 ||analytics.teespring.com^
 ||analytics.thebump.com^
 ||analytics.thegedsection.com^
@@ -11513,7 +11514,6 @@
 ||bigabid.offerstrack.net^
 ||bigads.guj.de^
 ||bigbadted.com^
-||bigbangads.go2cloud.org^
 ||bigbangbon.online^
 ||bigbangempire.com^
 ||bigbangmedia.com^
@@ -11680,6 +11680,7 @@
 ||bitsads.xyz^
 ||bitspresentdownload.com^
 ||bittads.com^
+||bitterstrawberry.com^
 ||bittraffic.io^
 ||bittrex.gr.com^
 ||bitvertise.io^
@@ -12286,6 +12287,7 @@
 ||braun634.com^
 ||brave-browser.info^
 ||bravenet.com.invalid^
+||bravenet.com^
 ||bravenetmedianetwork.com^
 ||braverymob.fusetracking.com^
 ||braviration.ru^
@@ -15148,6 +15150,7 @@
 ||coffeol.com^
 ||cofybuwuc.com^
 ||cogivea.com^
+||cogleapad.com^
 ||cogmatch.net^
 ||cognativex.com^
 ||cognitiv.ai^
@@ -16013,81 +16016,31 @@
 ||counter.yesky.com^
 ||counter.zerohedge.com^
 ||counter.zone.ee^
-||counter1.bravenet.com^
 ||counter1.fc2.com^
 ||counter1.sextracker.be^
-||counter10.bravenet.com^
 ||counter10.sextracker.be^
-||counter11.bravenet.com^
 ||counter11.sextracker.be^
-||counter12.bravenet.com^
 ||counter12.sextracker.be^
-||counter13.bravenet.com^
 ||counter13.sextracker.be^
-||counter14.bravenet.com^
 ||counter14.sextracker.be^
-||counter15.bravenet.com^
 ||counter15.sextracker.be^
-||counter16.bravenet.com^
 ||counter16.sextracker.be^
 ||counter160.com^
-||counter17.bravenet.com^
-||counter18.bravenet.com^
-||counter19.bravenet.com^
 ||counter2.blog.livedoor.com^
-||counter2.bravenet.com^
 ||counter2.condenast.it^
 ||counter2.freeware.de^
 ||counter2.sextracker.be^
-||counter20.bravenet.com^
-||counter21.bravenet.com^
-||counter22.bravenet.com^
-||counter23.bravenet.com^
-||counter24.bravenet.com^
-||counter25.bravenet.com^
-||counter26.bravenet.com^
-||counter27.bravenet.com^
 ||counter27.ch^
-||counter28.bravenet.com^
-||counter29.bravenet.com^
-||counter3.bravenet.com^
 ||counter3.sextracker.be^
-||counter30.bravenet.com^
-||counter31.bravenet.com^
-||counter32.bravenet.com^
-||counter33.bravenet.com^
-||counter34.bravenet.com^
-||counter35.bravenet.com^
-||counter36.bravenet.com^
-||counter37.bravenet.com^
-||counter38.bravenet.com^
-||counter39.bravenet.com^
-||counter4.bravenet.com^
 ||counter4.sextracker.be^
-||counter40.bravenet.com^
-||counter41.bravenet.com^
-||counter42.bravenet.com^
-||counter43.bravenet.com^
-||counter44.bravenet.com^
-||counter45.bravenet.com^
-||counter46.bravenet.com^
-||counter47.bravenet.com^
-||counter48.bravenet.com^
-||counter49.bravenet.com^
 ||counter4all.com^
 ||counter4all.de^
 ||counter4all.dk^
 ||counter4u.de^
-||counter5.bravenet.com^
 ||counter5.sextracker.be^
-||counter50.bravenet.com^
-||counter6.bravenet.com^
 ||counter6.sextracker.be^
-||counter7.bravenet.com^
 ||counter7.sextracker.be^
-||counter8.bravenet.com^
 ||counter8.sextracker.be^
-||counter9.bravenet.com^
 ||counter9.sextracker.be^
 ||counterad.de^
 ||counterbot.com^
@@ -17696,6 +17649,7 @@
 ||ddnmzrpp.com^
 ||ddomb.com^
 ||ddvfoj5yrl2oi.cloudfront.net^
+||ddvqjnbt.com^
 ||ddyv8sl7ewq1w.cloudfront.net^
 ||ddzfjyppcbv.com^
 ||ddzuuyx7zj81k.cloudfront.net^
@@ -18150,6 +18104,7 @@
 ||digdeepdigital.com.au^
 ||digentu.de^
 ||digiads.co.id^
+||digiadzone.com^
 ||digiaquascr.com^
 ||digidukan.fuse-ad.com^
 ||digilib.dianhusada.ac.id^
@@ -18249,7 +18204,6 @@
 ||directnavbt.com^
 ||directnetadvertising.net^
 ||directnow.me^
-||directoffers.go2cloud.org^
 ||directorym.com^
 ||directpayment.pl^
 ||directpowerrewards.com^
@@ -18375,7 +18329,6 @@
 ||djvpsxtkdmga.com^
 ||djwdefnov.com^
 ||djwf0dl2q9i99.cloudfront.net^
-||djwnatural.go2cloud.org^
 ||djz9es32qen64.cloudfront.net^
 ||dk-statistik.de^
 ||dk2mvwe4uw0z3.cloudfront.net^
@@ -18990,6 +18943,7 @@
 ||drwfixovzqdcs.com^
 ||drwttspxjdoosq.com^
 ||drydrum.com^
+||dryzapsol.com^
 ||drzndwmqrgra.com^
 ||ds-aksb-a.akamaihd.net^
 ||ds.amateurmatch.com^
@@ -20190,7 +20144,6 @@
 ||engage.meltwater.com^
 ||engage.physicstoday.org^
 ||engage.speedera.net^
-||engage.wixapps.net^
 ||engage10059bltbg.deltadna.net^
 ||engage10077vpspd.deltadna.net^
 ||engage10083vpblt.deltadna.net^
@@ -20857,6 +20810,7 @@
 ||events.artirix.com^
 ||events.attentivemobile.com^
 ||events.avantisvideo.com^
+||events.brightline.tv^
 ||events.chaordicsystems.com^
 ||events.data.microsoft.com^
 ||events.demoup.com^
@@ -21985,6 +21939,7 @@
 ||fireads.online^
 ||fireads.pl^
 ||firebanner.com^
+||firebaselogging-pa.googleapis.com^
 ||firebaselogging.googleapis.com^
 ||firebid.pl^
 ||firecash.org^
@@ -24155,6 +24110,7 @@
 ||go.spaceshipads.com^
 ||go.stirshakead.com^
 ||go.strpjmp.com^
+||go.techtarget.com^
 ||go.toutapp.com^
 ||go.tracksz.co^
 ||go.trafficshop.com^
@@ -24169,6 +24125,7 @@
 ||go2.global^
 ||go2affise.com^
 ||go2app.org^
+||go2cloud.org^
 ||go2funz.com^
 ||go2jump.org^
 ||go2link.net^
@@ -24868,6 +24825,7 @@
 ||gwmtracking.com^
 ||gwohimtyhbthg.com^
 ||gwovohvkzay.com^
+||gwpjvfqeui.com^
 ||gwrtdp-tn690bfadt.tclclouds.com^
 ||gwucenxvmkowap.com^
 ||gwwzlwibbws.com^
@@ -26202,6 +26160,7 @@
 ||hxhyejtblmu.com^
 ||hxhymfdpmgs.com^
 ||hxjuumufsei.com^
+||hxnamjcrawpe.com^
 ||hxnbotlkxpkyt.com^
 ||hxqetblh.com^
 ||hxqhctdtdsr.com^
@@ -27139,7 +27098,6 @@
 ||incentivenetworks2.com^
 ||incentiverewardcenter.com^
 ||incentivesnetwork.net^
-||inceptionads.go2cloud.org^
 ||incestdot.com^
 ||incestgold.com^
 ||incestland.com^
@@ -29499,6 +29457,7 @@
 ||kmpcmafvqf.com^
 ||kmpiframe.keepmeposted.com.mt^
 ||kmpxgnnoom.com^
+||kmqkdhqaqt.com^
 ||kmrnnqjfjjp.com^
 ||kmtx.io^
 ||kmylvwo5.com^
@@ -30280,7 +30239,6 @@
 ||leadforensics.com^
 ||leadformix.com^
 ||leadgenetwork.com^
-||leadgid.go2cloud.org^
 ||leadgid.ru^
 ||leadgreed.com^
 ||leadid.com^
@@ -30608,6 +30566,7 @@
 ||lift.acquia.com^
 ||liftdna.com^
 ||liftoff.io^
+||lifzpefv.com^
 ||lig.corp.com^
 ||ligadx.com^
 ||ligaeuropejskauefa.pl^
@@ -30755,7 +30714,6 @@
 ||linksynergy.com^
 ||linktarget.com^
 ||linktausch.li^
-||linktrack.bravenet.com^
 ||linktracker.angelfire.com^
 ||linktraff.ru^
 ||linkunder.ru^
@@ -32982,7 +32940,6 @@
 ||merchenta.com^
 ||merciless.localstars.com^
 ||mercuras.com^
-||mercury.bravenet.com^
 ||mercy.ga^
 ||mergedocsnow.com^
 ||meridia.1.p2l.info^
@@ -33762,6 +33719,7 @@
 ||mkto-sn040160.com^
 ||mkto-sn040178.com^
 ||mkto-test.com^
+||mkto.techtarget.com^
 ||mktoedge.com^
 ||mktoresp.com^
 ||mktossl.com^
@@ -43317,7 +43275,6 @@
 ||reduxmedia.com^
 ||reduxmediagroup.com^
 ||reduxmediia.com^
-||redvase.bravenet.com^
 ||reebokfurylite.pl^
 ||reeboknpcii.pl^
 ||reebokoutlet.pl^
@@ -45886,6 +45843,7 @@
 ||services.brightline.tv^
 ||services.fandom.com^
 ||services.hearstmags.com^
+||services.vlitag.com^
 ||services.wetek.com^
 ||services1.adtech.fr^
 ||services1.adtech.us^
@@ -49107,6 +49065,7 @@
 ||svdmxetbyfyg.com^
 ||svdnqszxgucgd.com^
 ||sveklon.com^
+||svekolasg.pro^
 ||svekolka.com^
 ||sverd.net^
 ||svetyivanrilski.com^
@@ -49701,7 +49660,6 @@
 ||tapit.com^
 ||tapjoy-com-lb-vpc-332546193.us-east-1.elb.amazonaws.com^
 ||tapjoy.com^
-||tapjoy.go2cloud.org^
 ||tapjoy.kiosk.tm^
 ||tapjoy.net^
 ||tapjoyads.com^
@@ -49851,6 +49809,7 @@
 ||tdc.advertorials.dk^
 ||tddjcdzra.com^
 ||tddznew.ksapisrv.com^
+||tdeilxkjxgdedb.com^
 ||tdep.vacansoleil.fr^
 ||tdethzebgufhuqt.cinci.rr.com^
 ||tdf.ringier.ch^
@@ -50016,7 +49975,6 @@
 ||techques.com^
 ||techstats.net^
 ||techsupportpwr.com^
-||techtarget.com^
 ||tecnocuer.com^
 ||tecnoteakviareggio.it^
 ||tecslide.com^
@@ -51098,6 +51056,7 @@
 ||tororango.com^
 ||torpsol.com^
 ||torrango.com^
+||torren.eu^
 ||torrent-trackers.ru^
 ||torrento.pl^
 ||torrenty--org.pl^
@@ -52618,6 +52577,7 @@
 ||trk.simply.net^
 ||trk.stroeermediabrands.de^
 ||trk.superads.cn^
+||trk.techtarget.com^
 ||trk.vidible.tv^
 ||trk.wdacashtrk.com^
 ||trk.wrinkads.com^
@@ -52793,6 +52753,7 @@
 ||ttauri.livescience.com^
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
+||ttauri.whathifi.com^
 ||ttb.tbddlw.com^
 ||ttdetect.staticimgfarm.com^
 ||ttdtuwbxgyveg.com^
@@ -53308,6 +53269,7 @@
 ||ugobgzeiel.com^
 ||ugoptxnm.com^
 ||ugoupams.com^
+||ugqdykbxe.com^
 ||ugrastes.uk^
 ||ugwkyqdbmpwbbi.com^
 ||ugxshqnodoha.com^
@@ -53969,6 +53931,7 @@
 ||users-api.com^
 ||users.ero-advertising.com^
 ||users.quantumgraph.com^
+||users.techtarget.com^
 ||users16.jabry.com^
 ||users173.lolipop.jp^
 ||usersegment.wpdigital.net^
@@ -56003,6 +55966,7 @@
 ||wghmgbjpxmlxa.com^
 ||wglbucuhxxxj.com^
 ||wgpsethooknqv.com^
+||wgpsjcpdulptl.com^
 ||wgqirxevoh.com^
 ||wgrbdqucfoieha.com^
 ||wgssxjoac.com^
@@ -56716,6 +56680,7 @@
 ||wwbtads.com^
 ||wwbzfppvhiebl.com^
 ||wwclickgo.com^
+||wwclickserv.club^
 ||wwebsservice.info^
 ||wwfsable.com^
 ||wwgate.ru^
@@ -56727,6 +56692,7 @@
 ||wwngdgldlsv.com^
 ||wwnuowyww.com^
 ||wwohikwhl.com^
+||wwopenclick.space^
 ||wwpon365.ru^
 ||wwqnwask.com^
 ||wwrpfevyca.com^
@@ -57827,6 +57793,7 @@
 ||yieldlove.com^
 ||yieldmanager.com^
 ||yieldmanager.net^
+||yieldmgr.com^
 ||yieldmo-builds.s3.amazonaws.com^
 ||yieldmo.com^
 ||yieldmrm.com^
@@ -58478,6 +58445,7 @@
 ||zenaps.com^
 ||zenback.jp^
 ||zencudo.co.uk^
+||zendplace.pro^
 ||zengenti.com^
 ||zenhppyad.com^
 ||zenigameblinger.org^
