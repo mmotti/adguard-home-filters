@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 14-04-2020 23:50 BST
-! Count: 59,790
+! Last Modified: 15-04-2020 23:50 BST
+! Count: 59,829
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -4434,6 +4434,7 @@
 ||ads.ezboard.com^
 ||ads.factorymedia.com^
 ||ads.fairfax.com.au^
+||ads.farakav.com^
 ||ads.fark.com^
 ||ads.fasttrack-ignite.com^
 ||ads.faxo.com^
@@ -9086,6 +9087,7 @@
 ||apicssdk.onemt.co^
 ||apidq.punchh.com^
 ||apinas.nct.vn^
+||apionloadmedia.com^
 ||apir.direct-tap.com^
 ||apirelay.ru^
 ||apiryrkxkhil.com^
@@ -9794,6 +9796,7 @@
 ||astat.nikkei.com^
 ||astcreative.top^
 ||aster18cdn.nl^
+||asterilivestream.com^
 ||asterpix.com^
 ||asto-exo.com^
 ||astoapsu.com^
@@ -16702,6 +16705,7 @@
 ||ctb.hextom.com^
 ||ctbdev.net^
 ||ctcpwymaeuwnqd.com^
+||ctdhylltfighs.com^
 ||ctenetwork.com^
 ||ctibank.com^
 ||ctibrc.org^
@@ -18677,6 +18681,7 @@
 ||dmxleo.com^
 ||dmxleo.dailymotion.com^
 ||dmypkmieippdq.com^
+||dmzls.safe-installation.com^
 ||dn.adzerver.com^
 ||dn.planetapes.de^
 ||dn34cbtcv9mef.cloudfront.net^
@@ -18844,6 +18849,7 @@
 ||doomna.com^
 ||doopads.com^
 ||dooptoug.net^
+||doorbrazil.com^
 ||doorevents.pl^
 ||doorman.msas.media.net^
 ||doors.co.kr^
@@ -20515,6 +20521,7 @@
 ||eol1.egyptonline.com^
 ||eolcdn.com^
 ||eonline.pl^
+||eonwayaha.com^
 ||eooslfyhziubo.com^
 ||eopazyxdkppnz.com^
 ||eopbflgmxcr.com^
@@ -22988,6 +22995,7 @@
 ||frvid.ru^
 ||frvpeuulyprl.com^
 ||frxohovv.com^
+||fryawlauk.com^
 ||fryxaknn.com^
 ||frzaj.com^
 ||frzynewnpg.com^
@@ -23353,6 +23361,7 @@
 ||gadajzdrow.eu^
 ||gadgeteer.pdamart.com^
 ||gadgetsytecnologia.com^
+||gadgettest.ru^
 ||gadsabs.com^
 ||gadsabz.com^
 ||gadsans.com^
@@ -25539,6 +25548,7 @@
 ||helpmedb.com^
 ||helpmedownload.com^
 ||helpmymacfaster.club^
+||helvetinus.com^
 ||hemmieconverset.info^
 ||hemnes.win^
 ||hemonledriat.pro^
@@ -28777,6 +28787,7 @@
 ||jmklkttenjpfzn.com^
 ||jmp2click.com^
 ||jmp9.com^
+||jmpmedia.club^
 ||jmtc.91756.cn^
 ||jmtitdorwfxe.com^
 ||jmvjmgofvxnu.com^
@@ -28920,6 +28931,7 @@
 ||jrdcd.biz^
 ||jrecvuklrjpli.com^
 ||jrikmexrknmxy.com^
+||jrkuzeyfiztvos.com^
 ||jrltmnxpj.com^
 ||jrly.l3f.info^
 ||jroqvbvw.info^
@@ -30351,6 +30363,7 @@
 ||lajpmujdntg.com^
 ||lakequincy.com^
 ||lalabla.biz^
+||lalaping.com^
 ||laleh.itrc.ac.ir^
 ||lalywprgzl.com^
 ||lamariette.pl^
@@ -34139,6 +34152,7 @@
 ||mlclick.com^
 ||mldsiekmhy.com^
 ||mlecznestalezdrowe.pl^
+||mlehvwpk.com^
 ||mletracker.com^
 ||mlgtlxyicweqn.com^
 ||mlinktracker.com^
@@ -36137,6 +36151,7 @@
 ||nextclick.com.ru^
 ||nextclick.com.ua^
 ||nextclick.pl^
+||nextclickadv.com^
 ||nextel-ringtone.komi.su^
 ||nextel-ringtone.spb.su^
 ||nextgame.ru^
@@ -38390,6 +38405,7 @@
 ||optvx.com^
 ||opyisszzoyhc.com^
 ||opyyykrdyuum.com^
+||opzdbhjvd.com^
 ||oqaghvocticy.com^
 ||oqbxbautpu.com^
 ||oqfoiwjwysbffe.com^
@@ -38667,6 +38683,7 @@
 ||ounaihekw.bid^
 ||ountapaveralle.info^
 ||ounyrilukncbj.com^
+||oupe71eiun.com^
 ||oupox.club^
 ||ouptoobe.net^
 ||oupushee.com^
@@ -40238,6 +40255,7 @@
 ||pixel.roymorgan.com^
 ||pixel.rubiconproject.net^
 ||pixel.s3xified.com^
+||pixel.safe-installation.com^
 ||pixel.shodan.me^
 ||pixel.socialtyze.com^
 ||pixel.solvemedia.com^
@@ -40964,6 +40982,7 @@
 ||portablefish.com^
 ||portablevaporizer.com^
 ||portak.net^
+||portakamus.com^
 ||portal-analytics.appdynamics.com^
 ||portal-cdn.appdynamics.com^
 ||portal-legionowo.pl^
@@ -42531,6 +42550,7 @@
 ||qbhcfxxivcdfm.com^
 ||qbittorrent.com^
 ||qbjnwjtbfrxceq.com^
+||qbkzvophvva.com^
 ||qbldzsktv.com^
 ||qblpxxcjusgmq.bid^
 ||qblttqtvn.bid^
@@ -42751,6 +42771,7 @@
 ||qjdgrcupkaqvqe.bid^
 ||qjgqelsvt.com^
 ||qjgrrysppkqrbl.bid^
+||qjkxoniuj.com^
 ||qjlgyiuesk.com^
 ||qjmearsroiyn.com^
 ||qjmkidiwbndolx.com^
@@ -44316,6 +44337,7 @@
 ||revjet.com^
 ||revlift.io^
 ||revmob.com^
+||revoffers.com^
 ||revoltadiscreta.pl^
 ||revolutelyplan.info^
 ||revolvermaps.com^
@@ -44898,6 +44920,7 @@
 ||rss141.com^
 ||rssad.jp^
 ||rssgflbj.com^
+||rst.pornyhd.com^
 ||rstdehuopwf.com^
 ||rstg.io^
 ||rstjainimptgn.com^
@@ -45099,6 +45122,7 @@
 ||rustoria-topnews.ru^
 ||rustrackers.ru^
 ||rutarget.ru^
+||ruthlessdegree.com^
 ||ruthlessrobin.com^
 ||rutizer.org^
 ||rutorad.ru^
@@ -48201,6 +48225,7 @@
 ||sprawdzktopodgglada.blogspot.com^
 ||sprawdzzdjecia.24.eu^
 ||spread.diadanoivabh.com.br^
+||spreadcreative.club^
 ||spreadyourtentacles.com^
 ||spring-tns.net^
 ||spring.de^
@@ -48962,6 +48987,7 @@
 ||stats.fd.nl^
 ||stats.firedrive.com^
 ||stats.fittkaumaass.de^
+||stats.fomo.com^
 ||stats.fr^
 ||stats.frankfurterneuepresse.de^
 ||stats.free-rein.net^
@@ -50682,6 +50708,7 @@
 ||tejia.gaibang.fun^
 ||tejia.taobao.com^
 ||tek-tek-trek.com^
+||tekaners.com^
 ||tekindustri.upnjatim.ac.id^
 ||tekno4advertising.com^
 ||tekston.pl^
@@ -52484,6 +52511,7 @@
 ||trackalyzer.com^
 ||trackbacksecure.com^
 ||trackbar.info^
+||trackcb.com^
 ||trackcdn.com^
 ||trackclick.mobaffili.com^
 ||trackcmp.net^
@@ -52797,6 +52825,7 @@
 ||tracking.rtl.de^
 ||tracking.s24.com^
 ||tracking.salkmarketing.com^
+||tracking.scenepass.com^
 ||tracking.sembox.it^
 ||tracking.shopstyle.com^
 ||tracking.shoptogether.buy.com^
@@ -53253,6 +53282,7 @@
 ||trikegarage.pl^
 ||trikersuccessar.site^
 ||trikroacha.com^
+||trilogyed.com^
 ||trimpur.com^
 ||trinity.platform.intuit.com^
 ||trinylium.com^
@@ -54094,6 +54124,7 @@
 ||ulaen.com^
 ||ulajilala.com^
 ||ulaleth.xyz^
+||ularunicalrep.info^
 ||uldhfvzyw.com^
 ||uldmare.com^
 ||uldwcpscwzkis.com^
@@ -54782,6 +54813,7 @@
 ||uvomthuqsqx.com^
 ||uvosubgxhws.com^
 ||uvppdseel.com^
+||uvscqwzysqm.com^
 ||uvsxjyokgfz.com^
 ||uvy3.pl^
 ||uvyfszshvgassp.com^
@@ -56735,6 +56767,7 @@
 ||wg-aff.com^
 ||wgaycnmfz.com^
 ||wghmgbjpxmlxa.com^
+||wgimuuqvlumvyy.com^
 ||wglbucuhxxxj.com^
 ||wgpsethooknqv.com^
 ||wgpsjcpdulptl.com^
@@ -56917,6 +56950,7 @@
 ||wiklweefcuorh.com^
 ||wiktoriamila.pl^
 ||wilanowskibiegkrolewski.pl^
+||wilburshort.pro^
 ||wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com^
 ||wildcard.marketo.com.edgekey.net^
 ||wilddreams.info^
@@ -56938,6 +56972,7 @@
 ||win.iqm.com^
 ||win.staticstuff.net^
 ||winadiscount.com^
+||winadx.com^
 ||winaffiliates.com^
 ||winappcenter.total-secure.info^
 ||winaproduct.com^
@@ -58256,6 +58291,7 @@
 ||xubob.com^
 ||xuculit.ru^
 ||xudfxpvm.com^
+||xunkhuczqnuf.com^
 ||xunlaile.com^
 ||xuqdbqkqgj.com^
 ||xurrehqawu.com^
@@ -58896,6 +58932,7 @@
 ||ytdoajoj.com^
 ||ytdownloader.com^
 ||ytimgg.com^
+||ytimm.com^
 ||ytjocvggodnfbn.com^
 ||ytqnsqvajzv.com^
 ||ytsa.net^
@@ -59431,6 +59468,7 @@
 ||zjncvhnkh.com^
 ||zjnmgmidmx.com^
 ||zjo0tjqpm1.com^
+||zjqymhsk.com^
 ||zjsbdjkdtjzoxh.com^
 ||zjsbeont.com^
 ||zjsnrqxltqk.com^
@@ -59763,6 +59801,7 @@
 ||zxbzuyuifdqj.com^
 ||zxcvxmtzs.com^
 ||zxczritytzsjz.com^
+||zxdardwpsuf.com^
 ||zxdgmcgpp.com^
 ||zxevjtzvqlxy.com^
 ||zxeyqwgwsfv.com^
