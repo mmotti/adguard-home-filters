@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-04-2020 23:50 BST
-! Count: 65,369
+! Last Modified: 24-04-2020 23:50 BST
+! Count: 65,405
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -7584,6 +7584,7 @@
 ||advideo.ru^
 ||advideum.com^
 ||advidi.com^
+||advidsdesign.cc^
 ||adview.cn^
 ||adview.com^
 ||adview.pl^
@@ -9145,6 +9146,7 @@
 ||analytics.avanser.com.au^
 ||analytics.batmobile.com.tw^
 ||analytics.belgacom.be^
+||analytics.bestbuy.com^
 ||analytics.bhaskar.com^
 ||analytics.bigcommerce.com^
 ||analytics.bitrix.info^
@@ -9944,6 +9946,7 @@
 ||api.oneaudience.com^
 ||api.osano.com^
 ||api.parse.com^
+||api.pdst.fm^
 ||api.personali.com^
 ||api.perzonalization.com^
 ||api.pingstart.com^
@@ -12162,6 +12165,7 @@
 ||bd1.99danji.com^
 ||bd1.dopa.com^
 ||bd1.flfgw.cn^
+||bd1.it028.net.cn^
 ||bd1.jinbaozy.com^
 ||bd1.ningboseo0574.com^
 ||bd1.pipaw.com^
@@ -13030,6 +13034,7 @@
 ||bjqftcty.com^
 ||bjrfnps4efhldfj.ru^
 ||bjshimgqbc.com^
+||bjtengda.cn^
 ||bjtrld.com^
 ||bjuodbdjluix.com^
 ||bjwvegvcgbyypx.com^
@@ -13262,6 +13267,7 @@
 ||bmmetrix.com^
 ||bmnr.pw^
 ||bmoshyiypks.com^
+||bmrg.reflected.net^
 ||bms.sportal.ru^
 ||bms.zeptolab.com^
 ||bmst.pw^
@@ -15781,6 +15787,7 @@
 ||chxwlqtvgrw.com^
 ||chyatikho.info^
 ||chygam.ru^
+||chystechagre.pro^
 ||chytra-swinka.pl^
 ||ci-marketing.de^
 ||ci-web.cn^
@@ -19105,6 +19112,7 @@
 ||dami66.cn^
 ||damihyugqet.com^
 ||damiren.com^
+||dampdock.com^
 ||dampolznicze.pl^
 ||dampozyczke.pl^
 ||damumu.xyz^
@@ -20287,6 +20295,7 @@
 ||dlmghzdca.com^
 ||dlmyfile.com^
 ||dlne6myudrxi1.cloudfront.net^
+||dlnsjjyzvi1x.com^
 ||dlog.hiido.com^
 ||dlotljikswmvq.com^
 ||dlouf.com^
@@ -21755,6 +21764,7 @@
 ||edu-offer.com^
 ||eduad.baidu.com^
 ||education-rewardpath.com^
+||education-staging.appdynamics.com^
 ||education.appdynamics.com^
 ||educing.info^
 ||edugrampromo.com^
@@ -24677,6 +24687,7 @@
 ||foydnzdtjcjg.com^
 ||fp-analytics.hotstar.com^
 ||fp-cdn.azureedge.net^
+||fp.measure.office.com^
 ||fp.nanrenwo.net^
 ||fp.oneshotdate.com^
 ||fpa.ero-advertising.com^
@@ -24990,6 +25001,7 @@
 ||frosinonewesternshow.it^
 ||frosmo.com^
 ||frpguidmetp.com^
+||frpiksdeygy.com^
 ||frqmnrlqk.com^
 ||frrtrr.banggirls.ru^
 ||frshdmn.com^
@@ -25931,6 +25943,7 @@
 ||geoinfo.i2w.io^
 ||geoip-api.cleverpush.com^
 ||geoip-db.com^
+||geoip-js.com^
 ||geoip-js.maxmind.com^
 ||geoip-lookup.vice.com^
 ||geoip.al.com^
@@ -31997,6 +32010,7 @@
 ||junioneruytew.info^
 ||junior.apk.net^
 ||junkucm.com^
+||junmediadirect.com^
 ||junta.net^
 ||juoyisupjqds.com^
 ||juppser.ru^
@@ -33541,6 +33555,7 @@
 ||latency.ttrraacckkrr.com^
 ||later-analytics-reports.s3-accelerate.amazonaws.com^
 ||latestsearch.website^
+||lationwordsi.club^
 ||latlfa.biz^
 ||latribune.electronicpromotions2015.com^
 ||lattadmar.eu^
@@ -34989,6 +35004,7 @@
 ||lpilogryfice.pl^
 ||lpiwenesruwn.com^
 ||lpjxzs.com^
+||lplenx.online^
 ||lpmde.xyz^
 ||lpmxp2014.com^
 ||lpmxp2015.com^
@@ -35747,6 +35763,7 @@
 ||mall043.com^
 ||mallcss.com^
 ||mallmotion.com^
+||malsup.com^
 ||malux-debica.pl^
 ||malware-live-pro-scanv1.com^
 ||malware-scan.com^
@@ -38491,6 +38508,7 @@
 ||mumbldnn.com^
 ||mundanepollution.com^
 ||munero.me^
+||munitedoploko.site^
 ||munpprwlhric.com^
 ||munroadaz.site^
 ||muoiuxfj.com^
@@ -40001,6 +40019,7 @@
 ||noahos.cn^
 ||noakauhe.com^
 ||noaloheb.com^
+||noamiagainst.pro^
 ||noamiscience.pro^
 ||noaptauw.com^
 ||noberlmall.com^
@@ -41267,6 +41286,7 @@
 ||oivhkhvbqjh.bid^
 ||oiwjcsh001.top^
 ||oiwjcsh010.top^
+||oiwjcsh011.top^
 ||oix-rubyem.net^
 ||oix-rubytest.net^
 ||oix-stage.net^
@@ -43472,6 +43492,7 @@
 ||pfcuay.o-f.com^
 ||pfdctvdgjw.com^
 ||pffn.pl.tn^
+||pffw8mgd.com^
 ||pfhgihce.bid^
 ||pfhsystem.com^
 ||pfibgoaqdzbp.com^
@@ -44484,6 +44505,7 @@
 ||podologik.ca^
 ||podrozeposwiecie.pl^
 ||podrska.com.hr^
+||poduveli.com^
 ||podzemi.myotis.info^
 ||poesiadelsud.it^
 ||poewhatnvxydts.com^
@@ -44857,6 +44879,7 @@
 ||poweradvertising.co.uk^
 ||powerapp.download^
 ||powerbar-pagerank.de^
+||powerbi.com.4test12.o365---bdl.btfrancedemo.myshn.net^
 ||powerbi.com^
 ||powerclear.lionmobi.com^
 ||powercount.com^
@@ -45238,6 +45261,7 @@
 ||proclivitysystems.com^
 ||proctoriostatus.apphb.com^
 ||prod-defaulting-subscriptiontool.gismart.xyz^
+||prod-dub-beacon-1484770602.eu-west-1.elb.amazonaws.com^
 ||prod-e.sprtad.com^
 ||prod-east-stats-tap-alb-627711272.us-east-1.elb.amazonaws.com^
 ||prod-mng-proxy-connext.azurewebsites.net^
@@ -46046,6 +46070,7 @@
 ||pushid-noneu.truecaller.com^
 ||pushimer.com^
 ||pushisback.com^
+||pushisbest.com^
 ||pushlaram.com^
 ||pushlat.com^
 ||pushlinck.com^
@@ -47156,6 +47181,7 @@
 ||qweewmtey.com^
 ||qwer3.pl^
 ||qwerfdx.com^
+||qwerq133.xyz^
 ||qwertize.com^
 ||qwerty24.net^
 ||qwertypay.com^
@@ -48965,6 +48991,7 @@
 ||rsviqjzhvubz.com^
 ||rsvpcatering.pl^
 ||rsvpgenius.com^
+||rsvph.xyz^
 ||rt-ns.ru^
 ||rt.globalmailer.com^
 ||rt.prnewswire.com^
@@ -51046,6 +51073,7 @@
 ||shvjvbmyyyfa.com^
 ||shxinjie.cn^
 ||shxqeps.com^
+||shyama-jay.com^
 ||shyanche.net^
 ||shypqc.com^
 ||shyseed.com^
@@ -51692,6 +51720,7 @@
 ||smetrics.hbogo.com^
 ||smetrics.hbonow.com^
 ||smetrics.kbb.com^
+||smetrics.libertymutual.com^
 ||smetrics.lowes.com^
 ||smetrics.marriott.com^
 ||smetrics.midatlantic.aaa.com^
@@ -54186,6 +54215,7 @@
 ||swjvfwtypu.com^
 ||swmwgptzlgsc.com^
 ||swodnik.pl^
+||swoodlander.site^
 ||swoop.com^
 ||swoop.media.net^
 ||swoopgrid.com^
@@ -54219,6 +54249,7 @@
 ||sxjkc.cn^
 ||sxjxhg.com^
 ||sxlczj.cn^
+||sxljldh.top^
 ||sxmdxy.com^
 ||sxmmgiuilt.com^
 ||sxmutan.com^
@@ -54512,6 +54543,7 @@
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
 ||t.wayfair.de^
+||t.wayfair.map.fastly.net^
 ||t.xtubetv.net^
 ||t.yesware.com^
 ||t0p0ff3rs.com^
@@ -57850,6 +57882,7 @@
 ||trkclk.net^
 ||trker.com^
 ||trkfl.com^
+||trkibx.com^
 ||trkinator.com^
 ||trkingace.com^
 ||trkjmp.com^
@@ -58447,6 +58480,7 @@
 ||uas-api.inrix.com^
 ||uaskleponline.pl^
 ||uauniverse.com^
+||uauwkfk.cn^
 ||uawj.moqhixoz.cn^
 ||uayzbioy.com^
 ||ub-analytics.com^
@@ -61336,6 +61370,7 @@
 ||webpush-cdn.mobify.net^
 ||webpushcloud.info^
 ||webqs.ru^
+||webrecorder-prod-1682395302.us-east-1.elb.amazonaws.com^
 ||webreseau.com^
 ||webrobi.pl^
 ||websalesusa.com^
@@ -63754,6 +63789,7 @@
 ||yfxixi.com^
 ||yfycy.com^
 ||yfyoyo.com^
+||yfzbn.com^
 ||yg.srs.doubleverify.com^
 ||yg10x.cn^
 ||yg592gpmrh0q.com^
