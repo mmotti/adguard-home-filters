@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 25-04-2020 23:50 BST
-! Count: 65,424
+! Last Modified: 26-04-2020 23:50 BST
+! Count: 65,451
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -848,6 +848,7 @@
 ||272351.com^
 ||2726fecdfde157bdcd.com^
 ||272xb.com^
+||273920d845b.com^
 ||2778255fe56.com^
 ||27823.club^
 ||27f35.cn^
@@ -1032,6 +1033,7 @@
 ||34.gs^
 ||3400.org^
 ||340ca72733c9e46fb1.com^
+||341073be6e9db7d2.com^
 ||344dea1d6d130a7e8e.com^
 ||34667c8ece5.com^
 ||34bogatirya.ru^
@@ -1624,7 +1626,6 @@
 ||6a9c7d514c81589.com^
 ||6af461b907c5b.com^
 ||6amateure.net^
-||6avz.com^
 ||6b5c418918ebb008cc6.com^
 ||6b8a953b2bf7788063d5-6e453f33ecbb90f11a62a5c376375af3.r71.cf5.rackcdn.com^
 ||6bd9a2ea1a1801e55.com^
@@ -2592,6 +2593,7 @@
 ||abdlphone.com^
 ||abdmi.ru^
 ||abds.pingpingw.com^
+||abeaddc65282d465.com^
 ||abeagle-public.buzzfeed.com^
 ||abeets.ru^
 ||abeggs.com^
@@ -7303,6 +7305,7 @@
 ||adultsadv.com^
 ||adultsuns.net^
 ||adulttds.com^
+||adultterritory.net^
 ||adulttraffic.ru^
 ||adunity.com^
 ||adup-tech.com^
@@ -8055,6 +8058,7 @@
 ||affroba.net^
 ||affsnetwork.com^
 ||afftrack.com^
+||afftrack.pro^
 ||afftrack001.com^
 ||afftracking.justanswer.com^
 ||afftrk.online^
@@ -8838,6 +8842,7 @@
 ||alyssamilano.ca.tt^
 ||alyssamilano.home.sapo.pt^
 ||alzexa.com^
+||alzwa133.xyz^
 ||am-concepts.ca^
 ||am-display.com^
 ||am-investor.ru^
@@ -9128,6 +9133,7 @@
 ||analytics.adfreetime.com^
 ||analytics.adpost.org^
 ||analytics.advocate.ly.herokudns.com^
+||analytics.agoda.com^
 ||analytics.algolia.com^
 ||analytics.allovoisins.com^
 ||analytics.amakings.com^
@@ -9510,6 +9516,7 @@
 ||andlache.com^
 ||andmlb.kshwtj.com^
 ||andohs.net^
+||andoleads.com^
 ||andomedia.com^
 ||andomediagroup.com^
 ||andpolice.com^
@@ -9900,7 +9907,6 @@
 ||api.icmobile.singlewire.com^
 ||api.ihuman.com^
 ||api.immomo.com^
-||api.indicative.com^
 ||api.infinario.com^
 ||api.infiniadmp.com^
 ||api.inmoji.com^
@@ -12177,6 +12183,7 @@
 ||bd1.szhk.com^
 ||bd1.xiby.cn^
 ||bd1.yidu.cc^
+||bd100.010lm.com^
 ||bd11.52lishi.com^
 ||bd11.nipic.com^
 ||bd12.52lishi.com^
@@ -12464,6 +12471,7 @@
 ||benrie.stream^
 ||bensezhiye.com^
 ||bentengcn.com^
+||bento.agoda.com^
 ||bentonow.com^
 ||benzkartel.duckdns.org^
 ||bepgroup.com.hk^
@@ -15108,7 +15116,6 @@
 ||cdn.holdlads.com^
 ||cdn.hunteryvely.com^
 ||cdn.impactengine.com^
-||cdn.indicative.com^
 ||cdn.insta.playbryte.com^
 ||cdn.installationsafe.net.s3.amazonaws.com^
 ||cdn.interactivemedia.net^
@@ -15154,6 +15161,7 @@
 ||cdn.r-adimg.com^
 ||cdn.radiatewheel.info^
 ||cdn.redlightcenter.com^
+||cdn.rtclx.com^
 ||cdn.sailthru.com^
 ||cdn.sdkconfig.site^
 ||cdn.smartclick.io^
@@ -15781,6 +15789,7 @@
 ||chukalorqa.com^
 ||chukka.pl^
 ||churchasisou.site^
+||churchasisrev.site^
 ||chursida.ru^
 ||chushoushijian.cn^
 ||chutangpu.cn^
@@ -16676,6 +16685,7 @@
 ||cntcerber.rambler.ru^
 ||cntdy.mobi^
 ||cnto.pl^
+||cntr.lookmovie.ag^
 ||cntrafficpro.com^
 ||cntvxymwesggem.com^
 ||cnutjhszkjse.com^
@@ -21369,6 +21379,7 @@
 ||e1r.net^
 ||e2.molbuk.ua^
 ||e2618abc9a1.com^
+||e2706c6e2b426f74.com^
 ||e2e.mashable.com^
 ||e2ertt.com^
 ||e331ff4e674c083.com^
@@ -21564,6 +21575,7 @@
 ||eb.dd.bluelinecomputers.be^
 ||eb.prout.be^
 ||eb13489b89db.com^
+||eb4us.com^
 ||ebahpya.com^
 ||ebannertraffic.com^
 ||ebay.northernhost.com^
@@ -22069,6 +22081,7 @@
 ||elixmedia.com^
 ||elizejskakuchnia.pl^
 ||eljunkszabadon.co.vu^
+||elkbahtax.com^
 ||elkepeszto.net^
 ||elkowcy.pl^
 ||ellads.com^
@@ -23296,6 +23309,7 @@
 ||ezlxnyhbjtqr.com^
 ||ezmob.com^
 ||eznempiti.eu^
+||ezodn.com^
 ||ezoic.net^
 ||ezojs.com^
 ||ezotizer.ru^
@@ -23452,6 +23466,7 @@
 ||fadskiz.com^
 ||fadslims.com^
 ||fadsoks.com^
+||fadsokz.com^
 ||fadspms.com^
 ||fadspmz.com^
 ||faeecb0ock.info^
@@ -23981,6 +23996,7 @@
 ||fialet.com^
 ||fialzlpkww.com^
 ||fiberlite.corp.com^
+||fibpeeode.site^
 ||fibusedie.site^
 ||ficcionaliza.angelcities.com^
 ||ficken-ficken-ficken.cxa.de^
@@ -24519,7 +24535,6 @@
 ||fonderredd.info^
 ||foneclick.com.br^
 ||font-vmg.s3.amazonaws.com^
-||fontent.streamp1ay.me^
 ||fontoshirek.info^
 ||fontostudni.club^
 ||fonts.intercomcdn.com^
@@ -25915,7 +25930,6 @@
 ||geo.perezhilton.com^
 ||geo.play.it^
 ||geo.q5media.net^
-||geo.qualaroo.com^
 ||geo.query.yahoo.com^
 ||geo.safelinktracker.com^
 ||geo.theawesomer.com^
@@ -26274,6 +26288,7 @@
 ||gimp.es^
 ||gimscompany.com^
 ||ginads.com^
+||ginfanleg.club^
 ||gingardo.com^
 ||gingert.net^
 ||gioorrs.pro^
@@ -28033,6 +28048,7 @@
 ||heygugu.com^
 ||heyhelga.net^
 ||heylookhere.top^
+||heymatic.com^
 ||heyos.com^
 ||heystaks.com^
 ||heywire.com^
@@ -29909,10 +29925,6 @@
 ||imgadsame.liba.com^
 ||imganalytics.com^
 ||imgc.psychcentral.com^
-||imgc.sythe.org^
-||imgca.sythe.org^
-||imgcac.sythe.org^
-||imgcache.sythe.org^
 ||imgcdn01.formulas.jp^
 ||imgdisp.infocart.jp^
 ||imgfeedget.com^
@@ -30134,6 +30146,7 @@
 ||indianlinkexchange.com^
 ||indiaonclick.com^
 ||indicaterhools.site^
+||indicative.com^
 ||indicia.com^
 ||indiecakes.com^
 ||indieclick.3janecdn.com^
@@ -37111,6 +37124,7 @@
 ||mfhsvkepu.com^
 ||mfigasff.com^
 ||mfio.cf^
+||mftmyrzoxtfx.com^
 ||mftracking.com^
 ||mfwfpucpfya.com^
 ||mfwjyreguafi.com^
@@ -38310,6 +38324,7 @@
 ||mquvqdhzgfyjl.com^
 ||mr-rank.de^
 ||mr087.cn^
+||mr2cnjuh34jb.com^
 ||mr5aqoqlegsp.com^
 ||mradx.net^
 ||mraid.prod.cloud.ogury.io^
@@ -38487,6 +38502,7 @@
 ||mueller-holz-bau.com^
 ||mueller.com.pl^
 ||mueyqvzw.com^
+||mugpothop.com^
 ||muhexvakuawzo.com^
 ||muhtoni.ru^
 ||mujap.com^
@@ -39537,6 +39553,7 @@
 ||newdosug.eu^
 ||neweed.org^
 ||neweggstats.com^
+||newerannews.com^
 ||neweratickets61-t.neolane.net^
 ||newfeatureview.perfectionholic.com^
 ||newfebads.com^
@@ -40369,6 +40386,7 @@
 ||ntgqcnferh.com^
 ||ntgygnke.com^
 ||nthfds.xyz^
+||nthjiglet.club^
 ||nthsvpcd.com^
 ||nthtcs.com^
 ||nticqzrucdg.com^
@@ -42431,6 +42449,7 @@
 ||outrichly.com^
 ||outriggermedia.com^
 ||outseeltor.com^
+||outsimfat.site^
 ||outspot1-yizhuang.oupeng.com^
 ||outtogetme.com^
 ||outward-analytics.elasticbeanstalk.com^
@@ -43404,6 +43423,7 @@
 ||perfecturist.pl^
 ||perfiliate.com^
 ||perfmelab.com^
+||perfordpetre.club^
 ||performance-based.com^
 ||performance-netzwerk.de^
 ||performance.affiliaxe.com^
@@ -46251,6 +46271,7 @@
 ||px24.com^
 ||px3792.com^
 ||px69z.cn^
+||pxaction.com^
 ||pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com^
 ||pxbryexcnyz.com^
 ||pxbugrgwy.com^
@@ -47035,6 +47056,7 @@
 ||quaintcan.com^
 ||quaizzywzluk.com^
 ||quakemarketing.com^
+||qualaroo.com^
 ||qualifiedourspecialoffer.com^
 ||qualigo.com^
 ||qualigo.de^
@@ -53926,6 +53948,7 @@
 ||suggedin.info^
 ||suggestvideos.xyz^
 ||sugh8yami.com^
+||sugodeku.com^
 ||sugoicounter.com^
 ||sugqlryshxarn.com^
 ||sugs.m.sm.cn^
@@ -55853,6 +55876,7 @@
 ||titanpoker.com^
 ||titkoshirek.wordpress.com^
 ||title.mximg.com^
+||titoaktop.com^
 ||titokterminal.com^
 ||titon.info^
 ||titorsbutaning.info^
@@ -61464,6 +61488,7 @@
 ||webtraffic.se^
 ||webtraffic.ttinet.com^
 ||webtrafficagents.com^
+||webtrafficsource.com^
 ||webtraffiq.com^
 ||webtraffstats.net^
 ||webtraxs.com^
@@ -63771,6 +63796,7 @@
 ||yesadvertising.com^
 ||yese115.com^
 ||yese161.com^
+||yese236.com^
 ||yeshhaod.com^
 ||yeshoutuan.cn^
 ||yesinsights.com^
@@ -64237,6 +64263,7 @@
 ||yrwap.cn^
 ||yrzyks.cn^
 ||ys.muhoujiemi.com^
+||ys2000.cdn.bcebos.com^
 ||ys3e965d.top^
 ||ys6ot.cn^
 ||ysaloykchjyxg.com^
