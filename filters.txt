@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 30-04-2020 23:50 BST
-! Count: 65,498
+! Last Modified: 01-05-2020 23:50 BST
+! Count: 65,528
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2292,6 +2292,7 @@
 ||a.tiscali.co.uk^
 ||a.tiyuxiu.com^
 ||a.tovarro.com^
+||a.tuizhuti.com^
 ||a.tvsou.com^
 ||a.tyncar.com^
 ||a.ucoz.net^
@@ -2710,6 +2711,7 @@
 ||ac.rnm.ca^
 ||ac1.786ip.com^
 ||ac1.faxingchina.com^
+||ac1.pingpingw.com^
 ||ac10.i2i.jp^
 ||ac2.i2i.jp^
 ||ac4.i2i.jp^
@@ -4259,6 +4261,7 @@
 ||adjust.com^
 ||adjust.io^
 ||adjustnetwork.com^
+||adjusts.info^
 ||adk2.co^
 ||adk2.com^
 ||adk2.net^
@@ -10030,6 +10033,7 @@
 ||api2.poperblocker.com^
 ||api5.batmobi.net^
 ||api9.net^
+||apia.headlines.pw^
 ||apiafubb.com^
 ||apicit.net^
 ||apicosdk.onemt.co^
@@ -10056,6 +10060,7 @@
 ||apk.scloud.lfengmobile.com^
 ||apkdo.com^
 ||apkonline.ru^
+||apl.headlines.pw^
 ||aplfkrppjsutf.com^
 ||aplikacjaemuia.pl^
 ||aplsolutionsonline.com^
@@ -12053,6 +12058,7 @@
 ||basketballbelieve.com^
 ||baskettexture.com^
 ||basnogorach.pl^
+||basvformu5.xyz^
 ||bat-bing-com.a-0001.a-msedge.net^
 ||bat.adforum.com^
 ||bat.bing-int.com^
@@ -13221,6 +13227,7 @@
 ||blogvertising.pl^
 ||blogverzeichnis.eu^
 ||blok-gp.com.pl^
+||blok.link^
 ||blomoad.jp^
 ||blossommo.com^
 ||blqgnbxva.com^
@@ -15841,6 +15848,7 @@
 ||ciiycode.com^
 ||cike666.com^
 ||cikkelek.eu^
+||ciksolre.net^
 ||cilkonlay.com^
 ||ciltbakimiveguzellik.com^
 ||cimcshjoue.com^
@@ -16560,6 +16568,7 @@
 ||cmp.arnnet.com.au^
 ||cmp.channelpartner.de^
 ||cmp.cio.com.au^
+||cmp.cio.com^
 ||cmp.cmo.com.au^
 ||cmp.computerworld.com.au^
 ||cmp.cso.com.au^
@@ -16567,7 +16576,9 @@
 ||cmp.digitalartsonline.co.uk^
 ||cmp.dreamlab.pl^
 ||cmp.greenbot.com^
+||cmp.idginsiderpro.com^
 ||cmp.infoworld.com^
+||cmp.javaworld.com^
 ||cmp.macworld.co.uk^
 ||cmp.macworld.com^
 ||cmp.network-n.com^
@@ -16577,6 +16588,7 @@
 ||cmp.pcworld.idg.com.au^
 ||cmp.tech426.com^
 ||cmp.techadvisor.co.uk^
+||cmp.techconnect.com^
 ||cmp.techhive.com^
 ||cmphosdk.goforandroid.com^
 ||cmplay.did.ijinshan.com^
@@ -16645,6 +16657,7 @@
 ||cnlhg.cn^
 ||cnn.cm^
 ||cnn.dyn.cnn.com^
+||cnnd.vn^
 ||cnnnew.com^
 ||cnomy.com^
 ||cnossxqkdoupxw.com^
@@ -24140,6 +24153,7 @@
 ||financeleader.co^
 ||financenews.pw^
 ||financial-advice-books.com^
+||financial-agent.headlines.pw^
 ||financial-times-appp.github.io^
 ||financial.org^
 ||finansedladziecka.pl^
@@ -24533,6 +24547,7 @@
 ||foiozzs.pro^
 ||fokgwuoft.com^
 ||folkd.put.omnimon.de^
+||follow.vnay.vn^
 ||followercounter.com^
 ||followergods.com^
 ||following-technology.com^
@@ -25836,6 +25851,7 @@
 ||gdsapi.cnbc.com^
 ||gdskmueffp.com^
 ||gdskywings.com^
+||gdsoq.com^
 ||gdsqwy.org^
 ||gdt.qq.com^
 ||gdtbpaqa.com^
@@ -25917,6 +25933,7 @@
 ||geniusdisplay.com^
 ||geniusonclick.com^
 ||geniustrainer.net^
+||genmonet.com^
 ||gennaroespositomilano.it^
 ||genorithm.com^
 ||genowefakurier.org^
@@ -28486,6 +28503,7 @@
 ||hntxitqhto.com^
 ||hntymg.com^
 ||hnwjlhg.cn^
+||hnxahz.com^
 ||hnyhnyhny.com^
 ||hnyiche3.com^
 ||hnyny.com^
@@ -30626,6 +30644,7 @@
 ||invitation.cantonfair.org.cn^
 ||invitation.cantonfair.org^
 ||invitation.opinionbar.com^
+||invite.baomoi.com^
 ||invite.leanlab.co^
 ||invitefashion.com^
 ||invitejs.trustpilot.com^
@@ -35031,6 +35050,7 @@
 ||loxbeelid.com^
 ||loxtk.com^
 ||lp-wip.pl^
+||lp.baomoi.com^
 ||lp.cleanmymac.online^
 ||lp.cooktracking.com^
 ||lp.empire.goodgamestudios.com^
@@ -35950,6 +35970,7 @@
 ||mark.isbank.com.tr^
 ||markbruinink.nl^
 ||markedcrayon.com^
+||markedmeasure.com^
 ||markedpail.com^
 ||markel.corp.com^
 ||markergot.com^
@@ -39116,6 +39137,7 @@
 ||namurach.pl^
 ||namuvpn.com^
 ||nanawardrobe.pl^
+||nanda.vn^
 ||nangong2.com^
 ||nanigans.com^
 ||nanoadbite.com^
@@ -46747,6 +46769,7 @@
 ||qiumodies.com^
 ||qiunckxdgf.com^
 ||qiurgfxexsmp.com^
+||qivsod.com^
 ||qixlpaaeaspr.com^
 ||qiyeb.iaskbus.com^
 ||qiyou.com^
@@ -50364,6 +50387,7 @@
 ||secure4app.com^
 ||secure6.platinumbucks.com^
 ||secureads.ft.com^
+||secureanalytic.com^
 ||secureboom.net^
 ||securecloud-dt.com^
 ||securecloud-smart.com^
@@ -50947,7 +50971,6 @@
 ||sharecash.org^
 ||shared.65twenty.com^
 ||sharedaddomain.com^
-||sharefb.cnnd.vn^
 ||sharefile365.com^
 ||sharegods.com^
 ||shareifyoulike.com^
@@ -53214,6 +53237,7 @@
 ||static.mobile-greeter.com^
 ||static.mobilemonkey.com^
 ||static.mobiniti.com^
+||static.mvot.vn^
 ||static.nectarads.com^
 ||static.nrelate.com^
 ||static.onlinevenditatio.space^
@@ -54200,7 +54224,10 @@
 ||suukcn.com^
 ||suvesobezi.com^
 ||suwo0n.com^
+||sv-api-event.headlines.pw^
+||sv-api-lottery.headlines.pw^
 ||sv-pr.ru^
+||sv-static-lottery.headlines.pw^
 ||sv.d2.omtrdc.net^
 ||sv.ltzvs.ru^
 ||sv.pvroe.com^
@@ -60385,6 +60412,7 @@
 ||visadd.com^
 ||visagepk.com^
 ||visalink.pl^
+||visariomedia.com^
 ||visegrad4bicyclerace.pl^
 ||visiads.com^
 ||visibility-stats.com^
@@ -60581,6 +60609,7 @@
 ||vn88.club^
 ||vn88.com^
 ||vnanf.com^
+||vnd247.vn^
 ||vndfakned.com^
 ||vndgfycu.com^
 ||vndrcewnard.com^
@@ -61123,6 +61152,7 @@
 ||wasshimundme.ru^
 ||wasshoneaningar.pro^
 ||wastesshimssat.world^
+||watakaw133.xyz^
 ||watch-this.live^
 ||watch.qa.roku.com^
 ||watch24.com^
