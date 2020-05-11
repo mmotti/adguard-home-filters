@@ -1,13 +1,12 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 10-05-2020 23:50 BST
-! Count: 65,946
+! Last Modified: 11-05-2020 12:43 BST
+! Count: 65,948
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
 ! https://easylist.to/easylist/easyprivacy.txt
 ! https://filters.adtidy.org/extension/chromium/filters/15.txt
-! https://hosts-file.net/ad_servers.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 ! https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
 ! https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
@@ -2037,6 +2036,7 @@
 ||913vt.com^
 ||91byy.cn^
 ||91cy.top^
+||91jsnzw.xyz^
 ||91luopan.com^
 ||91say.cc^
 ||91xry.com^
@@ -22512,6 +22512,7 @@
 ||enthusiasticdad.com^
 ||enticelabs.com^
 ||entimee.com^
+||entineffieldsta.site^
 ||entitlements.jwplayer.com^
 ||entk.net^
 ||entlydazhcmlgx.com^
