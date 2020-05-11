@@ -13,7 +13,6 @@ file_output:
     desc: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
 remote_files:
   hosts:
-    - https://hosts-file.net/ad_servers.txt
     - https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
     - https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
     - https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
