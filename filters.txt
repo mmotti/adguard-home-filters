@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 16-05-2020 16:48 BST
-! Count: 67,809
+! Last Modified: 17-05-2020 23:50 BST
+! Count: 67,838
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -601,6 +601,7 @@
 ||19blog.com^
 ||19d12dd9de1.com^
 ||1adult.com^
+||1aogoh1j81g3.com^
 ||1app.blob.core.windows.net^
 ||1b6a637cbe7bb65ac.com^
 ||1b969cef84d93b43.com^
@@ -1634,6 +1635,9 @@
 ||6612152.cn^
 ||662bd114b7c9.onceedge.ru^
 ||6631f33cf2a1032b.com^
+||664d-87fs-6yda-oifx.easylist-to.xyz^
+||664d-87fs-6yda-oify.easylist-to.xyz^
+||664d-87fs-6yda-oifz.easylist-to.xyz^
 ||664gp.com^
 ||6660003.com^
 ||6666lm.com^
@@ -1729,6 +1733,7 @@
 ||6shuge.com^
 ||6stuff.com^
 ||6u4dxh2f14.com^
+||6yfory7f0njw.com^
 ||6yush.cn^
 ||6yw7j.cn^
 ||6zw2rcfd.com^
@@ -9705,6 +9710,7 @@
 ||angielskisylwia.pl^
 ||anglekeys.warzonedns.com^
 ||anglewinks.com^
+||anglishreasts.site^
 ||angolotesti.it^
 ||angorch-cdr7.com^
 ||angsrvr.com^
@@ -10418,6 +10424,7 @@
 ||appres.camera360.com^
 ||appromoters.tracking.adnovation.com.herokudns.com^
 ||approp.pro^
+||appropeanes.club^
 ||appropolyfunt.site^
 ||approstar.com^
 ||apprupt.com^
@@ -10600,6 +10607,7 @@
 ||arearmark.club^
 ||areasins.com^
 ||areasnap.com^
+||areasonsimon.club^
 ||arecio.work^
 ||arejoysew.com^
 ||arena-quantum.co.uk^
@@ -10620,6 +10628,7 @@
 ||ariboo.com^
 ||ariix.com^
 ||ariseboundary.com^
+||arisonoping.club^
 ||aritzal.com^
 ||ariyayin.com^
 ||arizona-miner.tk^
@@ -11634,6 +11643,8 @@
 ||baa2e174884c9c0460e.com^
 ||baaeobgdaxdvsa.com^
 ||bab.frb.io^
+||babalink.net^
+||babalink.top^
 ||babaroadways.in^
 ||babator.com^
 ||babbnrs.com^
@@ -12564,6 +12575,7 @@
 ||bedorm.com^
 ||bedowntoft.com^
 ||bedrapiona.com^
+||bedrooming.club^
 ||bedsbreath.com^
 ||bedv20gbkazn.net^
 ||bee7.com^
@@ -12959,6 +12971,7 @@
 ||bidclix.net^
 ||bidder.appgrowth.com^
 ||bidder.mdspinc.com^
+||bidder.mediams.mb.softbank.jp^
 ||bidder.talkingpointsmemo.com^
 ||bidderrtb.com^
 ||biddingx.com^
@@ -13341,6 +13354,7 @@
 ||blismedia.com^
 ||blissfulonline.com^
 ||blissinstalls.com^
+||blitz-oa-prod-collector.api.appdynamics.com^
 ||blitz.appdynamics.com^
 ||blizzard.blueoxtech.com^
 ||blizzardcheck.com^
@@ -13612,6 +13626,7 @@
 ||bold-in.ru^
 ||boldchat.com^
 ||bolek69.pl^
+||bolili.info^
 ||bolizirs.com^
 ||bolkazoopa.com^
 ||boloz.com^
@@ -15908,6 +15923,7 @@
 ||chengzhao95511.com^
 ||chenxiangqian.cn^
 ||chenyanjiao.cn^
+||cheqzone.com^
 ||cheriyilbuilders.com^
 ||cherryemoore.com^
 ||cherryhi.app.ur.gcion.com^
@@ -19520,6 +19536,7 @@
 ||daniel.gr.com^
 ||danielbastos.com^
 ||danilidi.ru^
+||danlidanli.net^
 ||danmeneldur.com^
 ||danpinwu.com^
 ||dante2007.com^
@@ -20449,6 +20466,7 @@
 ||dimeprice.com^
 ||dimessing-parker.com^
 ||dimestore.com^
+||dimfarlow.com^
 ||dimml.io^
 ||dimpawlam.com^
 ||dimprive.com^
@@ -21096,7 +21114,6 @@
 ||doulawpoznaniu.pl^
 ||dounwil.ru^
 ||doutthenhap.info^
-||dovewallet.com^
 ||dowages.com^
 ||dowdenphotography.com^
 ||dowelsobject.com^
@@ -26636,6 +26653,7 @@
 ||geo.mozilla.org^
 ||geo.mtvnn.com^
 ||geo.nbcsports.com^
+||geo.ngtv.io^
 ||geo.perezhilton.com^
 ||geo.play.it^
 ||geo.q5media.net^
@@ -27867,6 +27885,7 @@
 ||gridiogrid.com^
 ||gridsum.com^
 ||gridsumdissector.com^
+||grifictuberal.site^
 ||gringrin.cn^
 ||gripdownload.co^
 ||grjs02.com^
@@ -32964,6 +32983,7 @@
 ||jubiitag.dk^
 ||jubna.com^
 ||jucaishequ.com^
+||judaisydfs.club^
 ||judicated.com^
 ||judo.salon.com^
 ||judokalisz.pl^
@@ -35777,6 +35797,7 @@
 ||log.droid4x.cn^
 ||log.ecgh.dk^
 ||log.espn.com^
+||log.f-tra.com^
 ||log.flight.qunar.com^
 ||log.fotoable.com^
 ||log.getadblock.com^
@@ -36027,7 +36048,6 @@
 ||long88.app^
 ||longchampukhandbags.com^
 ||longdate.pl^
-||longdidi.top^
 ||longertail.pl^
 ||longinglettuce.com^
 ||longkoupeanut.cn^
@@ -39058,6 +39078,7 @@
 ||mobile-global.baidu.com^
 ||mobile-log-dgig.cmtelematics.com^
 ||mobile-log.cmtelematics.com^
+||mobile-push.api.appdynamics.com^
 ||mobile-redirection.com^
 ||mobile-sdk-api.intercom.io^
 ||mobile-sdk-resources.jumio.com^
@@ -41411,6 +41432,7 @@
 ||nlyjs2015.com^
 ||nlyqwlyykvjl.com^
 ||nlytcs.diffen.com^
+||nlz0ini5uz9t.com^
 ||nlzq888.com^
 ||nlzz7a3md4sx.com^
 ||nm.5.p2l.info^
@@ -49889,6 +49911,7 @@
 ||remailtarget.com^
 ||remain.appcpi.net^
 ||remainttalenty.site^
+||remarketesde.club^
 ||remarketingpixel.com^
 ||remarketstats.com^
 ||remarypolike.site^
@@ -56639,6 +56662,7 @@
 ||tabvertising.com^
 ||tabwl.com^
 ||tabxolabs.com^
+||tabyee.cn^
 ||tabzz.xyz^
 ||tacastas.com^
 ||tacbljtvygnokv.com^
@@ -60392,6 +60416,7 @@
 ||tvadsync.com^
 ||tvas-a.pw^
 ||tvas-c.pw^
+||tvbyb04.cn^
 ||tvbyb04.com^
 ||tvduznfdgim.com^
 ||tveta.naver.net^
@@ -64163,6 +64188,7 @@
 ||withad.cn^
 ||withcubed.com^
 ||withingsessed.pro^
+||withinknuko.club^
 ||withnewswearebest.com^
 ||withoughstors.club^
 ||witlee.com^
@@ -64391,6 +64417,7 @@
 ||worry-free-savings.com^
 ||worrybutter.com^
 ||worthathousandwords.com^
+||worthersefim.club^
 ||worthlessness.xyz^
 ||worthyadvertising.com^
 ||wos.lv^
@@ -64495,6 +64522,7 @@
 ||wrierville.com^
 ||wrig.pl^
 ||writeln.ru^
+||writerredolasy.club^
 ||writingassociates.com^
 ||wrkl.xyz^
 ||wrmcfyzl.com^
@@ -66911,6 +66939,7 @@
 ||zamiko.ru^
 ||zamok911.com^
 ||zamowienia-priorytetowe.pl^
+||zampad.com^
 ||zampda.net^
 ||zanaflex.1.p2l.info^
 ||zanghaihua.org^
