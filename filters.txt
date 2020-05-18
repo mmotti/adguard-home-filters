@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-05-2020 23:50 BST
-! Count: 67,838
+! Last Modified: 18-05-2020 23:50 BST
+! Count: 67,883
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -169,6 +169,7 @@
 ||04zl.cn^
 ||0511qsfhknvz.xyz^
 ||0516bm.com^
+||0518dfgwert.xyz^
 ||0530hz.cn^
 ||0531kt.com^
 ||0531mnk.net^
@@ -1635,9 +1636,6 @@
 ||6612152.cn^
 ||662bd114b7c9.onceedge.ru^
 ||6631f33cf2a1032b.com^
-||664d-87fs-6yda-oifx.easylist-to.xyz^
-||664d-87fs-6yda-oify.easylist-to.xyz^
-||664d-87fs-6yda-oifz.easylist-to.xyz^
 ||664gp.com^
 ||6660003.com^
 ||6666lm.com^
@@ -2055,7 +2053,6 @@
 ||8uch.jave.xyz^
 ||8ue4.xyz^
 ||8ue9q7i.com^
-||8uhgc44hfdd4-87hvd4-jhggcg.easylist-to.xyz^
 ||8v61j.cn^
 ||8v7wg.com^
 ||8wey4x0c.com^
@@ -9454,6 +9451,7 @@
 ||analytics.pinpoll.com^
 ||analytics.pinterest.com^
 ||analytics.plaid.com^
+||analytics.plex.com^
 ||analytics.plex.tv^
 ||analytics.podtrac.com^
 ||analytics.pointdrive.linkedin.com^
@@ -10297,6 +10295,7 @@
 ||apparel-offer.com^
 ||apparelgallerybd.com^
 ||apparelncs.com^
+||apparentsav.club^
 ||apparest.com^
 ||appbaqend.com^
 ||appboy-images.com^
@@ -12691,6 +12690,7 @@
 ||berkano-koty.pl^
 ||berkesteermaster.com^
 ||berkleynude.ca.tt^
+||berningbegi.club^
 ||beroll.ru^
 ||berp.com^
 ||berry-1001.adgoji.com^
@@ -14653,6 +14653,7 @@
 ||c03jij5q.website^
 ||c0594.com^
 ||c0afd4609c303.com^
+||c0z.xyz^
 ||c1.4qx.net^
 ||c1.china.cn^
 ||c1.media.net^
@@ -17466,6 +17467,7 @@
 ||concernrain.com^
 ||concert.io^
 ||concertads-configs.vox-cdn.com^
+||concertainwqa.club^
 ||condenast-a.sailthru.com^
 ||condenast-b.sailthru.com^
 ||condenast-c.sailthru.com^
@@ -18117,6 +18119,7 @@
 ||cp.qbaobei.com^
 ||cp.qc.coccoc.com^
 ||cp2.eastmoney.com^
+||cp7gyw5w94c7.com^
 ||cpabank.com^
 ||cpabeyond.com^
 ||cpabuild.com^
@@ -19382,6 +19385,7 @@
 ||d6sav80kktzcx.cloudfront.net^
 ||d6swopgiplmy0.cloudfront.net^
 ||d6ummfe8aubt5.cloudfront.net^
+||d7016uqa4s0lw.cloudfront.net^
 ||d71e6dd31a026d45.com^
 ||d72gb9oukw3j.com^
 ||d72l4.com^
@@ -22052,6 +22056,7 @@
 ||easyhitcounters.com^
 ||easyhits4u.com^
 ||easyinline.com^
+||easylist-to.xyz^
 ||easymarketcrs.it^
 ||easypdfcombine.com^
 ||easyresearch.se^
@@ -22870,6 +22875,7 @@
 ||enginenetwork.com^
 ||engineseeker.com^
 ||engingsecondu.info^
+||englingedrxa.club^
 ||engppdoqrtivjd.com^
 ||enhance.com^
 ||enhanced2trk.com^
@@ -23833,6 +23839,7 @@
 ||eyere.com^
 ||eyereturn.com^
 ||eyes.by^
+||eyevfswxtcij.com^
 ||eyeviewads.com^
 ||eyewond.hs.llnwd.net^
 ||eyewonder.com^
@@ -28799,6 +28806,7 @@
 ||herreperolsof.pro^
 ||hertforthatharrigh.pro^
 ||hertzsales.com^
+||hesepd.cn^
 ||hesftig.site^
 ||hesrepsa.com^
 ||hesterinoc.info^
@@ -29004,7 +29012,6 @@
 ||hirvarazs.info^
 ||hirvilag.co^
 ||hirzona24.com^
-||his6-3wjb-89jw-mshh.easylist-to.xyz^
 ||hisfryyes.com^
 ||hisnote.cc^
 ||hisoupocdted.com^
@@ -30027,6 +30034,7 @@
 ||i401xox.com^
 ||i4eg76.vindicated-shelter.space^
 ||i4track.net^
+||i4tvy8vk9f74.com^
 ||i5iog3mlrw.com^
 ||i6h1x9ss5wtv.ru^
 ||i864ekhq.com^
@@ -33478,6 +33486,7 @@
 ||kdfumeftulzzpp.com^
 ||kdieu.com^
 ||kdiso.ru^
+||kdkdkd.pro^
 ||kdluruaor.com^
 ||kdmuqtxadtl.com^
 ||kdoraraq.com^
@@ -34909,6 +34918,7 @@
 ||leashac.com^
 ||leastersmiled.pro^
 ||leathtexactlycin.info^
+||leavilysover.site^
 ||lebakwatery.pl^
 ||lebedyn.info^
 ||lebkeresxa.ml^
@@ -39361,6 +39371,7 @@
 ||monijorb.com^
 ||monikajaskowiak.pl^
 ||monikareplin.pl^
+||monimoni.top^
 ||moninosa.com^
 ||monitis.com^
 ||monitor-stsdk.vivo.com.cn^
@@ -47256,6 +47267,7 @@
 ||propelllerads.com^
 ||propelplus.com^
 ||proper.io^
+||properatery.club^
 ||propgoservice.com^
 ||prophere.pl^
 ||prophet.heise.de^
@@ -50336,6 +50348,7 @@
 ||rientgallacecapt.info^
 ||rigelink.com^
 ||rigfoxcup.site^
+||rightenedetu.site^
 ||rightiescolled.club^
 ||rightmedia.com^
 ||rightmedia.net^
@@ -53019,6 +53032,7 @@
 ||signal-sdk-service-production.ap-south-1.elasticbeanstalk.com^
 ||signalhq.com^
 ||signals.ampiri.com^
+||significbystal.club^
 ||signifyd.com^
 ||signin-ebay-com-ws-ebayisapi-dll-signin-webscr.ocom.pl^
 ||signoredom.com^
@@ -56046,6 +56060,7 @@
 ||superfastcdn.com^
 ||superfastcomputer.ru^
 ||superficialsink.com^
+||superficialsquare.com^
 ||supergabuty.pl^
 ||supergapolska.pl^
 ||supergreatness.org^
@@ -58685,6 +58700,26 @@
 ||tps11037.doubleverify.com^
 ||tps11038.doubleverify.com^
 ||tps11039.doubleverify.com^
+||tps11040.doubleverify.com^
+||tps11041.doubleverify.com^
+||tps11042.doubleverify.com^
+||tps11043.doubleverify.com^
+||tps11044.doubleverify.com^
+||tps11045.doubleverify.com^
+||tps11046.doubleverify.com^
+||tps11047.doubleverify.com^
+||tps11048.doubleverify.com^
+||tps11049.doubleverify.com^
+||tps11050.doubleverify.com^
+||tps11051.doubleverify.com^
+||tps11052.doubleverify.com^
+||tps11053.doubleverify.com^
+||tps11054.doubleverify.com^
+||tps11055.doubleverify.com^
+||tps11056.doubleverify.com^
+||tps11057.doubleverify.com^
+||tps11058.doubleverify.com^
+||tps11059.doubleverify.com^
 ||tps20221.doubleverify.com^
 ||tps20222.doubleverify.com^
 ||tps20223.doubleverify.com^
@@ -58777,6 +58812,15 @@
 ||tps713.doubleverify.com^
 ||tps714.doubleverify.com^
 ||tps715.doubleverify.com^
+||tps716.doubleverify.com^
+||tps717.doubleverify.com^
+||tps718.doubleverify.com^
+||tps719.doubleverify.com^
+||tps720.doubleverify.com^
+||tps721.doubleverify.com^
+||tps722.doubleverify.com^
+||tps723.doubleverify.com^
+||tps725.doubleverify.com^
 ||tps800.doubleverify.com^
 ||tps801.doubleverify.com^
 ||tps802.doubleverify.com^
@@ -61056,6 +61100,7 @@
 ||uncyane.com^
 ||undantagforlag.se^
 ||undedcontried.info^
+||undedfracted.club^
 ||undedsunbese.site^
 ||undefined.it^
 ||under2given.com^
