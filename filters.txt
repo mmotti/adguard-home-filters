@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 18-05-2020 23:50 BST
-! Count: 67,883
+! Last Modified: 19-05-2020 23:50 BST
+! Count: 67,915
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1629,6 +1629,7 @@
 ||65c6.playfabapi.com^
 ||65e750617ae8f0421.com^
 ||65mjvw6i1z.com^
+||65tgh.com^
 ||65vk1fba34.com^
 ||65xps.com^
 ||660a755deb8829fe.com^
@@ -3004,6 +3005,7 @@
 ||activity.frequency.com^
 ||activity.homescape.com^
 ||activity.tuifish.com^
+||activity.windows.com^
 ||activity.yesware.com.herokudns.com^
 ||actnx.com^
 ||actonel.about-tabs.com^
@@ -9317,6 +9319,7 @@
 ||analytics.convertlanguage.com^
 ||analytics.cynapse.com^
 ||analytics.datahc.com^
+||analytics.datasavannah.com^
 ||analytics.de.algolia.com^
 ||analytics.dealer.com^
 ||analytics.dev.springboardvideo.com^
@@ -9986,7 +9989,6 @@
 ||api.appnxt.net^
 ||api.appota.com^
 ||api.apps.sina.cn^
-||api.apptentive.com^
 ||api.appwifi.com^
 ||api.areametrics.com^
 ||api.ateam-ad.jp^
@@ -10070,6 +10072,7 @@
 ||api.lotame.com^
 ||api.madkudu.com^
 ||api.magmamobile.com^
+||api.maropost.com^
 ||api.mediatailor.eu-west-1.amazonaws.com^
 ||api.megacool.co^
 ||api.miui.security.xiaomi.com^
@@ -10211,7 +10214,6 @@
 ||app-c.net^
 ||app-config.enhance.co^
 ||app-eu.clickdimensions.com^
-||app-icons.apptentive.com^
 ||app-install-world.com^
 ||app-log.immomo.com^
 ||app-measurement.com^
@@ -10472,6 +10474,7 @@
 ||appsrv1.madserving.cn^
 ||appswitch.adups.cn^
 ||apptap.com^
+||apptentive.com^
 ||apptera.com^
 ||apptornado.com^
 ||apptrckr.com^
@@ -13037,6 +13040,7 @@
 ||bigfineads.com^
 ||bigfreelotto.com^
 ||biggbossseason11.com^
+||biggertupdateforvideo.best^
 ||biggestgiftrewards.com^
 ||biggestplayer.cachefly.net^
 ||bighop.com^
@@ -14526,6 +14530,7 @@
 ||byyanmaor.com^
 ||byzgoso.ru^
 ||byzoo.org^
+||bzbsecs.cn^
 ||bzclk.baidu.com^
 ||bzctqprddwhj.com^
 ||bzeitvxguf.com^
@@ -15237,6 +15242,7 @@
 ||cdbhmahnjb.com^
 ||cdchealth.org^
 ||cdcwn.xyz^
+||cdcz.xyz^
 ||cddjdjwatndgja.com^
 ||cdegnloptetj.com^
 ||cdfgdafijhcbjejeabf.ru^
@@ -17365,7 +17371,6 @@
 ||commandersact.com^
 ||commandwalk.com^
 ||commanods.xyz^
-||commerce-api.sprinklr.com^
 ||commerce-offer.com^
 ||commerce-rewardpath.com^
 ||commerce.www.ibm.com^
@@ -17485,6 +17490,7 @@
 ||conference.convertkit.com^
 ||conference.vlgprojects.ru^
 ||confiant-integrations.global.ssl.fastly.net^
+||confiant.msn.com^
 ||config-partner-platform-client-933515454346.s3.amazonaws.com^
 ||config.88-f.net^
 ||config.appjolt.com^
@@ -18514,6 +18520,7 @@
 ||csmcfetvb.com^
 ||csn-origin.media.net^
 ||csnd.xyz^
+||csnem.ru^
 ||csnqzwwdtjg.com^
 ||csnserver.com^
 ||csorigin.media.net^
@@ -19907,6 +19914,7 @@
 ||ddomb.com^
 ||ddomm.com^
 ||ddpxhq.cn^
+||dds.microsoft.com^
 ||ddvbjehruuj5y.cloudfront.net^
 ||ddvfoj5yrl2oi.cloudfront.net^
 ||ddvqjnbt.com^
@@ -20805,6 +20813,8 @@
 ||dmaxcctv.pl^
 ||dmc1acwvwny3.cloudfront.net^
 ||dmclick.cn^
+||dmd.metaservices.microsoft.com.akadns.net^
+||dmd.metaservices.microsoft.com^
 ||dmd53.com^
 ||dmdi.pl^
 ||dmg-mobile.com^
@@ -25881,6 +25891,7 @@
 ||fundacjaazyl.pl^
 ||fundacjapapaya.pl^
 ||fundacjazycieodnowa.pl^
+||fundardsesaz.club^
 ||fundingchoices.google.com^
 ||fundingchoicesmessages.google.com^
 ||fundsjoy.com^
@@ -26090,6 +26101,7 @@
 ||g-wizzads.net^
 ||g.3lian.com^
 ||g.baidu.com^
+||g.bing.com^
 ||g.bit.pt^
 ||g.bitmag.com.br^
 ||g.defold.com^
@@ -27762,6 +27774,7 @@
 ||graidsee.net^
 ||grainsox.net^
 ||graivaik.com^
+||gralfusnzpo003.top^
 ||gramombird.com^
 ||gramovi.info^
 ||grampouz.net^
@@ -27779,6 +27792,7 @@
 ||granify.com^
 ||granit-zur.pl^
 ||granportale.com.br^
+||granticaffodily.club^
 ||graotron.biz^
 ||grapeshot.co.uk^
 ||grapheffect.com^
@@ -27827,6 +27841,7 @@
 ||greatgrace.ru^
 ||greatlakessurveillance.com^
 ||greatmacsoft.tech^
+||greatmentef.club^
 ||greatpe.pl^
 ||greatpussies.com^
 ||greatsexcontent.dk^
@@ -28301,6 +28316,7 @@
 ||h5.wannaplay.cn^
 ||h5e6d5.xyz^
 ||h5tjj3loy2.com^
+||h6.msn.com^
 ||h6295.com^
 ||h6y654wgfdhd.com^
 ||h78xb.pw^
@@ -28958,6 +28974,7 @@
 ||himicrosoft.com^
 ||himselvepostly.site^
 ||himselves.com^
+||himselveseg.club^
 ||himselvesobr.club^
 ||hincludingse.site^
 ||hindisupref.ru^
@@ -29344,7 +29361,6 @@
 ||hondawschod.pl^
 ||honestsun.top^
 ||honey.briefly.ru^
-||honeybadger.io^
 ||honeygoldfish.com^
 ||honeywell.corp.com^
 ||hongchenzhilu.com^
@@ -30070,6 +30086,7 @@
 ||iaheyftbsn.review^
 ||iajcvxcqktpm.com^
 ||iam-agof-app.irquest.com^
+||iam.datasavannah.com^
 ||iamablogger.convertkit.com^
 ||iamagameaddict.com^
 ||iamediaserve.com^
@@ -32682,6 +32699,7 @@
 ||jobs-online.petrovka.info^
 ||jobsyndicate.com^
 ||jobtarget.com^
+||jockeryfgtu.club^
 ||jocoly.esvnpe.com^
 ||jocuri.trophygaming.net^
 ||jodakurier.com^
@@ -33838,6 +33856,7 @@
 ||kkcaicai.com^
 ||kkdsdlc.com^
 ||kkdvvaonvkmll.com^
+||kkhuhct.cn^
 ||kkjjhhdff.site^
 ||kkkiski4u.com^
 ||kkkjjskrtsjvx.com^
@@ -34599,6 +34618,7 @@
 ||lalywprgzl.com^
 ||lamariette.pl^
 ||lamatrest.xyz^
+||lamberserer.club^
 ||lameguard.ru^
 ||lamictal.about-tabs.com^
 ||lamiflor.xyz^
@@ -35387,6 +35407,7 @@
 ||links-ranking.de^
 ||links-wm.ru^
 ||links.boom.ge^
+||links.e2e.mint.com^
 ||links.ibotta.com^
 ||links.outster.com^
 ||links.services.disqus.com^
@@ -35917,6 +35938,7 @@
 ||logentries.com^
 ||loger.ru^
 ||logethy.com^
+||logfiles.zoom.us^
 ||logfrochi.site^
 ||logg.kiwi.com^
 ||logger-01.vty.dailymotion.com^
@@ -37247,7 +37269,6 @@
 ||marktest.pt^
 ||marnotrawny-kosciol.pl^
 ||maroonspider.com^
-||maropost.com^
 ||marphezis.com^
 ||marsads.com^
 ||marsbet.gr.com^
@@ -41098,6 +41119,7 @@
 ||newstogram.com^
 ||newstygodnia.pro-linuxpl.com^
 ||newsun-shop.com^
+||newsunads.com^
 ||newsupdatedepot.info^
 ||newsupdatewe.info^
 ||newsushe.info^
@@ -41581,6 +41603,7 @@
 ||nornelis.pw^
 ||norteevu.com^
 ||northclick-statistiken.de^
+||northeregikgf.club^
 ||northfacepl.com^
 ||northfacesklep.pl^
 ||northlandtimeshares.com^
@@ -41611,6 +41634,7 @@
 ||noteupgrade.themainplacesetnowforcontentsgo.win^
 ||nothing-but-value.com^
 ||nothingcompares.co.uk^
+||notice.hoopladigital.com^
 ||notice.uchome.manyou.com^
 ||noticias.life^
 ||noticiasftpsrv.com^
@@ -45304,6 +45328,7 @@
 ||phentermine.t-amo.net^
 ||phentermine.webpark.pl^
 ||phenver.com^
+||phenylketh.site^
 ||phethikapso.pro^
 ||phfknysgvwhnr.bid^
 ||phhigelii.com^
@@ -46405,6 +46430,7 @@
 ||popec.net^
 ||popeng.top^
 ||popflawlessads.com^
+||pophahwot.com^
 ||popinads.com^
 ||popit.mediumpimpin.com^
 ||popmajor.com^
@@ -48616,7 +48642,6 @@
 ||qo26.com^
 ||qoapuppy.com^
 ||qoayrejue.com^
-||qoe-1.yottaa.net^
 ||qoeplhvlr.bid^
 ||qofzhmbqa.com^
 ||qogsjvkaoe.com^
@@ -49830,6 +49855,7 @@
 ||rek.mobi^
 ||rek.serial24.com^
 ||rek.www.wp.pl^
+||rek1.gtorrent.org^
 ||rek2.tascatlasa.com^
 ||rekhatov.ru^
 ||rekl.brawlstars-app.ru^
@@ -51287,6 +51313,7 @@
 ||s3.ttpsdk.info^
 ||s32.bilsay.com^
 ||s37.click^
+||s3eds.s4d.xyz^
 ||s3ns3.advertising.com^
 ||s3r.tut.by^
 ||s3s-main.net^
@@ -51896,7 +51923,6 @@
 ||sdk.appadhoc.com^
 ||sdk.appbrain.com^
 ||sdk.appsflyer.tk^
-||sdk.apptentive.com^
 ||sdk.apptimize.com^
 ||sdk.asapp.com^
 ||sdk.atlasct.com^
@@ -52899,7 +52925,6 @@
 ||shop115048570.taobao.com^
 ||shopalyst.com^
 ||shopathome.com^
-||shopcurbside.com^
 ||shopify.intercom.io^
 ||shopkick.com^
 ||shoplenaro.com^
@@ -53614,6 +53639,7 @@
 ||smart.hola.com^
 ||smart.styria-digital.com^
 ||smart2.allocine.fr^
+||smart2cnjuh34jb.com^
 ||smart4ads.com^
 ||smartaccess.biz^
 ||smartad-analytics.info^
@@ -56544,6 +56570,7 @@
 ||t.82comb.net^
 ||t.91chs.com^
 ||t.9gag.com^
+||t.ac.pandora.com^
 ||t.adlookr.com^
 ||t.adnexus.asia^
 ||t.adx.io^
@@ -58820,6 +58847,7 @@
 ||tps721.doubleverify.com^
 ||tps722.doubleverify.com^
 ||tps723.doubleverify.com^
+||tps724.doubleverify.com^
 ||tps725.doubleverify.com^
 ||tps800.doubleverify.com^
 ||tps801.doubleverify.com^
@@ -60609,6 +60637,7 @@
 ||tyccaweownne.com^
 ||tycho.apptimize.com^
 ||tyh.taobao.com^
+||tyh887.com^
 ||tyipieniadze.pl^
 ||tyjyrkcrv.com^
 ||tyledrewna.pl^
@@ -61218,6 +61247,7 @@
 ||unrzhgdly.com^
 ||unscrewing.ru^
 ||unstat.baidu.com^
+||untabilityde.site^
 ||untd.com^
 ||unthem.com^
 ||untidyquestion.com^
@@ -62876,6 +62906,7 @@
 ||vorinteon.ru^
 ||vornz.com^
 ||voronezh136.ru^
+||vortex-win.data.microsoft.com^
 ||vortex.data.microsoft.com^
 ||vortex.data.msn.com^
 ||vortex.hulu.com.akadns.net^
@@ -65557,6 +65588,7 @@
 ||xn--coronavirs-codiv19-u6b.club^
 ||xn--covid19-gncelsalgnvakalar-nwc35l.com^
 ||xn--czrshy5v7kb.cc^
+||xn--ddua45lfy1c.ink^
 ||xn--discrd-zxa.com^
 ||xn--disordapp-s3a.com^
 ||xn--efaktygwat-i0b.pl^
