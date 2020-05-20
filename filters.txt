@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 19-05-2020 23:50 BST
-! Count: 67,915
+! Last Modified: 20-05-2020 23:50 BST
+! Count: 67,949
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1340,6 +1340,7 @@
 ||4cock.com^
 ||4d5.net^
 ||4d83.playfabapi.com^
+||4dds.s4d.xyz^
 ||4dex.io^
 ||4dexports.com^
 ||4df5ef.xyz^
@@ -9503,7 +9504,6 @@
 ||analytics.sleeknote.com^
 ||analytics.smallpdf.com^
 ||analytics.snidigital.com^
-||analytics.snssdk.com^
 ||analytics.socialblade.com^
 ||analytics.sohatv.vn^
 ||analytics.solidbau.at^
@@ -9970,6 +9970,7 @@
 ||api.adgrowth.jp^
 ||api.adintext.net^
 ||api.admob.xiaomi.com^
+||api.adnet.mob.com^
 ||api.adrenalads.com^
 ||api.adrtx.net^
 ||api.ads.watchabc.go.com^
@@ -9986,6 +9987,7 @@
 ||api.appcelerator.net^
 ||api.appdynamics.com^
 ||api.appexchange.salesforce.com^
+||api.applovefrom.com^
 ||api.appnxt.net^
 ||api.appota.com^
 ||api.apps.sina.cn^
@@ -12947,6 +12949,7 @@
 ||bi-analytics.cloudapp.net^
 ||bi-collector.oneapm.com^
 ||bi-pipeline-collector.stylight.net^
+||bi.manhuaren.com^
 ||bi.medscape.com^
 ||bi.yeshen.com^
 ||bialazebra.pl^
@@ -15098,6 +15101,7 @@
 ||caucqpoeg.com^
 ||caue971.org^
 ||caughinga.info^
+||causecherry.com^
 ||cauthuny.net^
 ||cautiouscrate.com^
 ||cautiouscredit.com^
@@ -19560,6 +19564,7 @@
 ||daphnecm.com^
 ||dapper.net^
 ||dapperdiscussion.com^
+||dapskja.cn^
 ||dapxl.com^
 ||daq0d0aotgq0f.cloudfront.net^
 ||daqijjpjow.com^
@@ -20561,6 +20566,7 @@
 ||disappenedy.site^
 ||discount-savings-more.com^
 ||discountclick.com^
+||discountryvc.club^
 ||discover-path.com^
 ||discover.buysellads.com^
 ||discoverapp.xyz^
@@ -21083,6 +21089,7 @@
 ||dostavka.ru^
 ||dostawaca24.online^
 ||dostawy24.com^
+||dostophog.com^
 ||dosugcz.biz^
 ||dosugcz.info^
 ||dot-metrix.com^
@@ -25158,6 +25165,7 @@
 ||fmxllgvfzsoz.com^
 ||fmxnlkoaf.com^
 ||fn-pz.com^
+||fnacgbik9v14.com^
 ||fnatfee.ero-advertising.com^
 ||fnbmlwip.biz^
 ||fnbsrxtemj.com^
@@ -29410,6 +29418,7 @@
 ||hosoojat.net^
 ||hospedar.xpg.com.br^
 ||hospitality-optimizer.com^
+||hospitecrew.club^
 ||host-62-113-112-127.hosted-by-vdsina.ru^
 ||host-host-ads.com^
 ||host-it.co.uk^
@@ -31004,6 +31013,7 @@
 ||income88.com^
 ||incoming-data-sense360.s3.amazonaws.com^
 ||incoming.telemetry.mozilla.org^
+||incommandary.club^
 ||incompany.com.pl^
 ||increased.cn^
 ||increaserev.com^
@@ -35350,6 +35360,7 @@
 ||link.l.convertkit.com^
 ||link.link.ru^
 ||link.n.convertkit.com^
+||link.n.intuit.com^
 ||link.ru^
 ||link.subscribe.ru^
 ||link.test.convertkit.com^
@@ -37530,7 +37541,6 @@
 ||mcrzrxwrtpr.com^
 ||mcs.byted.org^
 ||mcs.delvenetworks.com^
-||mcs.snssdk.com^
 ||mcskucrxgwx.com^
 ||mcsnhbdil.com^
 ||mcsoft365.com^
@@ -37979,6 +37989,7 @@
 ||mememakers.mobi^
 ||memfault.com^
 ||memo.co^
+||memoralegil.site^
 ||memorix.sdv.fr^
 ||memorizeneck.com^
 ||memorycobweb.com^
@@ -42512,6 +42523,7 @@
 ||obserwujecie.pl^
 ||obslugakelnerska20.wixsite.com^
 ||obsudam.ru^
+||obtainlylibuk.club^
 ||obthqxbm.com^
 ||obudzgeniusza.pl^
 ||obufquwiwy.com^
@@ -43035,6 +43047,7 @@
 ||olivka.biz^
 ||olizyr.com^
 ||oljpsldr.bid^
+||olkrzytv.com^
 ||olkxzkbonvau.bid^
 ||olkzcdihiewe.com^
 ||ollando.com^
@@ -43828,6 +43841,7 @@
 ||os-downloads.com^
 ||os.fandango.com^
 ||os.scmpacdn.com^
+||os.shutterfly.com^
 ||os340.com^
 ||osakadepo.com^
 ||osalsdistiniaatt.info^
@@ -45190,6 +45204,7 @@
 ||peyttlwbznahi.com^
 ||peyzamo.ru^
 ||pezrphjl.com^
+||pf.intuit.com^
 ||pf.newegg.com^
 ||pf4y2a54hx.com^
 ||pfaltzgraf.com^
@@ -46927,6 +46942,7 @@
 ||preonesetro.com^
 ||prepareplanes.com^
 ||preprod.accengage.com^
+||prequaloffers.api.intuit.com^
 ||preroll.a4.tl^
 ||presage.io^
 ||presatisfy.com^
@@ -47285,6 +47301,7 @@
 ||propbigo.com^
 ||propdfconverter.com^
 ||propeanfanku.site^
+||propeanikob.site^
 ||propecia.1.p2l.info^
 ||propeller-tracking.com^
 ||propellerads.com^
@@ -47654,6 +47671,7 @@
 ||pu.trafficshop.com^
 ||pub-fit.com^
 ||pub-qa.doubleverify.com^
+||pub-test.doubleverify.com^
 ||pub-thanhnien.advenueplatform.com^
 ||pub.admedia.io^
 ||pub.betclick.com^
@@ -49649,6 +49667,7 @@
 ||recreativ.com.ua^
 ||recreativ.ru^
 ||recrinsit.ru^
+||recruisefukiby.club^
 ||recruitics.com^
 ||recsys-api.buzzfeed.com^
 ||rectangledownloads.com^
@@ -50585,6 +50604,7 @@
 ||rocketadx.com^
 ||rocketfuel.com^
 ||rocketier.net^
+||rocketme.top^
 ||rocketyield.com^
 ||rockincontent.net^
 ||rocks.io^
@@ -51332,6 +51352,7 @@
 ||s7kkpeo6e2.com^
 ||s7target.ru^
 ||s7ven.com^
+||s81c.com^
 ||s85n4btydl.online^
 ||s88.vdl.pl^
 ||s99i.org^
@@ -51492,6 +51513,7 @@
 ||samiana.com^
 ||sammobile.pushbird.com^
 ||sampleapp.appdynamics.com^
+||samples.voice.cti.roku.com^
 ||samplicio.us^
 ||samsclub33.pochta.ru^
 ||samsung-2020.h2g.pl^
@@ -51887,6 +51909,7 @@
 ||sddan.com^
 ||sddlcnqhyl.com^
 ||sdeadbqsjam.com^
+||sdf4.s4d.xyz^
 ||sdfaswaed2.nokiadns.com^
 ||sdfjtwp.com^
 ||sdfsdvc.com^
@@ -52252,6 +52275,7 @@
 ||seethisinaction.com^
 ||seevolution.com^
 ||seewhy.com^
+||seex.s4d.xyz^
 ||sefortme.pro^
 ||sefp-boispro.fr^
 ||segment-analytics.com^
@@ -52404,6 +52428,7 @@
 ||seosape.com^
 ||seovision.com.pl^
 ||separatesilver.com^
+||separenujilo.club^
 ||seprqnphibgd.com^
 ||septembership.com^
 ||septimus-kyr.com^
@@ -52687,6 +52712,7 @@
 ||sezvc.com^
 ||sezwho.com^
 ||sf14g.com^
+||sf3-ttcdn-tos.pstatp.com^
 ||sfads.osdn.com^
 ||sfanf.com^
 ||sffmctrnimk.com^
@@ -52973,6 +52999,7 @@
 ||showcasead.com^
 ||showcaserealestate.net^
 ||showcount.honest.com^
+||showeveresz.club^
 ||showheroes.com^
 ||showltem.pl^
 ||showlten.pl^
@@ -53744,6 +53771,7 @@
 ||smetrics.marriott.com^
 ||smetrics.midatlantic.aaa.com^
 ||smetrics.nba.com^
+||smetrics.potterybarn.com^
 ||smetrics.potterybarnkids.com^
 ||smetrics.realtor.com^
 ||smetrics.southwest.com^
@@ -53911,6 +53939,7 @@
 ||snsfjpes.com^
 ||snsgckygbed.com^
 ||snsgsqyv.com^
+||snssdk.com^
 ||snssdk1233.onelink.me^
 ||snuokyvjn.com^
 ||snwpqybkb.com^
@@ -56885,6 +56914,7 @@
 ||tanimalarz.pl^
 ||tanio-najtaniej.com^
 ||taniobutyreebok.pl^
+||tanit-dio.com^
 ||tankeuro.com^
 ||tankhoi.vn^
 ||tannelssepara.info^
@@ -60544,6 +60574,7 @@
 ||twierdza-wroclaw.pl^
 ||twinpinenetwork.com^
 ||twinplan.com^
+||twinrdsrv.com^
 ||twinzo.ru^
 ||twistads.com^
 ||twitchadvertising.tv^
@@ -62374,6 +62405,7 @@
 ||video-perc.net^
 ||video-play.ru^
 ||video-pomp.com^
+||video-qa.doubleverify.com^
 ||video-stats.video.google.com^
 ||video.batmobi.net^
 ||video.buzzintersection.com^
@@ -66908,6 +66940,7 @@
 ||yzesxnzfhyy.com^
 ||yzetmrsww.com^
 ||yzexonvknhw.com^
+||yzftqx.cn^
 ||yzh360.com^
 ||yzjlsb.com^
 ||yzlwuuzzehjh.com^
@@ -67387,6 +67420,7 @@
 ||zhywyl.cn^
 ||zhzy999.net^
 ||zi63m.cn^
+||zi8ivy4b0c7l.com^
 ||zibup.csheaven.com^
 ||zidedge.com^
 ||zidqkapwgnsh.com^
