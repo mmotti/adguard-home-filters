@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-05-2020 23:50 BST
-! Count: 67,923
+! Last Modified: 24-05-2020 23:50 BST
+! Count: 67,929
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1568,6 +1568,7 @@
 ||5nt1gx7o57.com^
 ||5pb266.com^
 ||5pub.com^
+||5q68n.cn^
 ||5q80n.cn^
 ||5qg9ibt1a6.com^
 ||5rocks.io^
@@ -8499,7 +8500,6 @@
 ||aja-recommend.com^
 ||ajagrofy.com^
 ||ajalis.com^
-||ajangiklangratis.com^
 ||ajanlom-magamat.com^
 ||ajansreklam.net^
 ||ajansyenimedya.com^
@@ -8750,6 +8750,7 @@
 ||ali-bestshop.ru^
 ||ali-crm.ru^
 ||ali2a.xyz^
+||ali2d.xyz^
 ||aliadvert.ru^
 ||alibaba.zzux.com^
 ||alibabaslots.com^
@@ -21296,6 +21297,7 @@
 ||drexpol-modele.com.pl^
 ||dreyeli.info^
 ||drf8e429z5jzt.cloudfront.net^
+||drfdisvc.walmart.com^
 ||drgildahonarmand.ir^
 ||drgykb.cn^
 ||drift.com^
@@ -29500,6 +29502,7 @@
 ||houdaolj.com^
 ||hounicuy.com^
 ||hourakob.net^
+||hourselflosu.site^
 ||housandady.site^
 ||housead.xofapp.xyz^
 ||houseads-prod.elasticbeanstalk.com^
@@ -30553,7 +30556,6 @@
 ||iklanhemat.com^
 ||iklanhoki.com^
 ||iklanoke.com^
-||iklantanpadaftar.com^
 ||iklantelevisi.com^
 ||iklantext.com^
 ||iklantop.net^
@@ -38943,6 +38945,7 @@
 ||mmm.theweek.co.uk^
 ||mmm.vindy.com^
 ||mmnetwork.mobi^
+||mmnk.s4d.xyz^
 ||mmo123.co^
 ||mmoframes.com^
 ||mmofreegames.online^
@@ -43976,6 +43979,7 @@
 ||ouiinryhlvbgq.com^
 ||oujlnbyavjhy.com^
 ||oujouniw.com^
+||oukreesy.net^
 ||oukruque.com^
 ||oul78c.cn^
 ||ouloutso.net^
@@ -46598,6 +46602,7 @@
 ||poszukiwanialaury.online^
 ||potedly.co^
 ||potentingaknt.club^
+||potentingxyr.club^
 ||potentionsdarket.site^
 ||potenza.cz^
 ||poterrupte.co^
@@ -57714,7 +57719,6 @@
 ||theroamingjew.com^
 ||thersprens.com^
 ||therubiqube.com^
-||thesandonesof.info^
 ||thescenseproject.com^
 ||thesearchagency.net^
 ||thesearchster.com^
@@ -59456,6 +59460,8 @@
 ||tracking.cat898.com^
 ||tracking.cdiscount.com^
 ||tracking.chacha.com^
+||tracking.chess.com.cdn.cloudflare.net^
+||tracking.chess.com^
 ||tracking.christianpost.com^
 ||tracking.cirrusinsight.com^
 ||tracking.conversion-lab.it^
