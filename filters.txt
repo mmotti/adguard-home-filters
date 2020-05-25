@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 24-05-2020 23:50 BST
-! Count: 67,929
+! Last Modified: 25-05-2020 23:50 BST
+! Count: 67,945
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2340,7 +2340,6 @@
 ||a.raasnet.com^
 ||a.rensheng5.com^
 ||a.ria.ru^
-||a.rmgserving.com^
 ||a.ruporn.me^
 ||a.sakh.com^
 ||a.sdska.ru^
@@ -4124,6 +4123,7 @@
 ||adfox.vn^
 ||adfox.yandex.ru^
 ||adfpaces.ero-advertising.com^
+||adfpoint.com^
 ||adframesrc.com^
 ||adfrastingathles.info^
 ||adfries.info^
@@ -11171,6 +11171,7 @@
 ||authorinsights.com^
 ||authorizecdn.com^
 ||authorne.info^
+||authorneratu.club^
 ||authornernsa.pro^
 ||aution.pro^
 ||auto-bannertausch.de^
@@ -11542,7 +11543,6 @@
 ||b.pornoxo.com^
 ||b.povarenok.ru^
 ||b.recwwcc5.info^
-||b.rmgserving.com^
 ||b.skinstore.com^
 ||b.sli-spark.com^
 ||b.smartnews.be^
@@ -15447,7 +15447,6 @@
 ||cdn1-analytics.ladmedia.fr^
 ||cdn1.adspace.4tube.com^
 ||cdn1.pebx.pl^
-||cdn1.rmgserving.com^
 ||cdn1.tvzhe.com^
 ||cdn1.xlightmedia.com^
 ||cdn1.zopiny.com^
@@ -20794,8 +20793,6 @@
 ||dmaxcctv.pl^
 ||dmc1acwvwny3.cloudfront.net^
 ||dmclick.cn^
-||dmd.metaservices.microsoft.com.akadns.net^
-||dmd.metaservices.microsoft.com^
 ||dmd53.com^
 ||dmdi.pl^
 ||dmg-mobile.com^
@@ -21140,6 +21137,7 @@
 ||download.bav.baidu.com^
 ||download.cdn.sharelive.net^
 ||download.cdn.torchbrowser.com^
+||download.dmd.metaservices.microsoft.com.akadns.net^
 ||download.gr.com^
 ||download.grandcloud.cn^
 ||download.inboxace.com^
@@ -22846,6 +22844,7 @@
 ||engg.appdynamics.com^
 ||engine.4chan-ads.org^
 ||engine.adtidy.net^
+||engine.laweekly.com^
 ||engine.letsstat.nl^
 ||engine.liveintercept.com^
 ||engine.livenetlife.com^
@@ -23223,6 +23222,7 @@
 ||estionexperime.info^
 ||estiques.com^
 ||estoa.frost-electric-supply.com^
+||estoopsi.com^
 ||estrack.net^
 ||esttrk.com^
 ||esundpxbixeqgu.com^
@@ -24566,6 +24566,7 @@
 ||fgbmjogeurrqe.com^
 ||fgcash.com.br^
 ||fgddrrr.com^
+||fghlmiaoqrtyfl65ha0ss22k3dqi6lng.com^
 ||fgjasshw.com^
 ||fgl.com^
 ||fgnzizhe.com^
@@ -30789,6 +30790,7 @@
 ||imganalytics.com^
 ||imgc.psychcentral.com^
 ||imgcdn01.formulas.jp^
+||imgcdnbet.com^
 ||imgdisp.infocart.jp^
 ||imgfeedget.com^
 ||imgg.dt00.net^
@@ -31064,6 +31066,7 @@
 ||info-24.cloud^
 ||info-fakty24.pl^
 ||info-js.link^
+||info-megarules.ru^
 ||info-miastowe24.club^
 ||info-polska.24.eu^
 ||info.appdynamics.com^
@@ -33220,6 +33223,7 @@
 ||k26fe9xhuzm.com^
 ||k2n0f.cn^
 ||k3.etfiber.net^
+||k3node.com^
 ||k4home.pl^
 ||k5ads.osdn.com^
 ||k5ai3c.cn^
@@ -37411,6 +37415,7 @@
 ||maxymiser.com^
 ||maxymiser.net^
 ||maybankard.com.my^
+||mayclub.net^
 ||mayert.link^
 ||maymaychihai.com^
 ||mayonez.pl^
@@ -43763,6 +43768,7 @@
 ||origin-vlibs.advertising.com^
 ||origin.chron.com^
 ||origin.craft.advertising.com^
+||origin.dmd.metaservices.microsoft.com.akadns.net^
 ||origin.optimost.io^
 ||originalicons.com^
 ||originedreting.site^
@@ -44335,6 +44341,7 @@
 ||pacificnet.host^
 ||pacificnet.xyz^
 ||packages.appdynamics.com^
+||packages.dmd.metaservices.microsoft.com.akadns.net^
 ||packagetrak.com^
 ||packsonikolas.info^
 ||packtrackplus.com^
@@ -46437,6 +46444,7 @@
 ||popshoes.pl^
 ||popstats.com.br^
 ||popt.in^
+||poptival.com^
 ||poptm.com^
 ||popub.com^
 ||popuexo.com^
@@ -48365,6 +48373,7 @@
 ||qfwjclpckrdehi.com^
 ||qfymuoqugz.com^
 ||qfypbqbumu.com^
+||qfzcxs.cn^
 ||qfzhppwfkenbmv.bid^
 ||qgana.com^
 ||qgaot.com^
@@ -50325,6 +50334,7 @@
 ||ribstygzuiz.com^
 ||ribtopmop.com^
 ||ric-ric-rum.com^
+||ric.win^
 ||riccardochinnici.it^
 ||ricead.com^
 ||rich-agent.s3.amazonaws.com^
@@ -50491,6 +50501,7 @@
 ||rmedia.boston.com^
 ||rmetop.com^
 ||rmevent.advertising.com^
+||rmgserving.com^
 ||rmhdjambba.com^
 ||rmjwdosemtg.com^
 ||rmnwxcpccuzwe.com^
@@ -52430,6 +52441,7 @@
 ||serl.mooo.com^
 ||serolan.com^
 ||serpentrising.com^
+||sersproposal.club^
 ||serv-ac.com^
 ||serv-load.com^
 ||serv.tooplay.com^
@@ -55799,6 +55811,7 @@
 ||storage.yogavpn.com^
 ||store-mix.com^
 ||store-stc.zdn.vn^
+||storeacdn.com^
 ||storeconfig.mistat.intl.xiaomi.com^
 ||storecor.net^
 ||storefront.nr-assets.net^
@@ -62340,6 +62353,7 @@
 ||viboom.ru^
 ||vibrant.co^
 ||vibrantmedia.com^
+||vic.win^
 ||vicces-humoros.com^
 ||vice-ads-cdn.vice.com^
 ||vice-publishers-cdn.vice.com^
@@ -64515,6 +64529,7 @@
 ||wowjs.1www.cn^
 ||wowlink.ru^
 ||wowmoscow.ru^
+||wowostar.cn^
 ||wowoyy.cc^
 ||woymebsi.com^
 ||woyvk.cn^
@@ -66497,6 +66512,7 @@
 ||ynzdtoawstxvh.com^
 ||ynzhby.com^
 ||yo34b.cn^
+||yo88.win^
 ||yoads.net^
 ||yoads.network^
 ||yobee.it^
