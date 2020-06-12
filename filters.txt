@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 11-06-2020 23:50 BST
-! Count: 66,535
+! Last Modified: 12-06-2020 23:50 BST
+! Count: 66,568
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -9742,6 +9742,7 @@
 ||api-telemetry.servers.getgo.com^
 ||api-v3.tinypass.com^
 ||api-vip.immomo.com^
+||api-visitor-analytics.intercom.com^
 ||api.1mobile.com^
 ||api.557400.com^
 ||api.7segments.com^
@@ -9827,7 +9828,6 @@
 ||api.growthbeat.com^
 ||api.growthpush.com^
 ||api.grumft.com^
-||api.harriscote.pro^
 ||api.hdtv.letv.com^
 ||api.huangye.miui.com.jaadser.adserver.com^
 ||api.huqindustries.co.uk^
@@ -10022,6 +10022,7 @@
 ||app.datafastguru.info^
 ||app.datorama.com^
 ||app.dynamicrosoft.com^
+||app.fahimpace.pro^
 ||app.fancifulapp.cool^
 ||app.games-to-run123.com^
 ||app.gelirartisi.com^
@@ -10334,6 +10335,7 @@
 ||arana.pw^
 ||arancefy.com^
 ||arank.com^
+||aranlucas.pro^
 ||arasyqslwmfat.com^
 ||arawegnvvufy.com^
 ||arbadgika.ru^
@@ -10409,6 +10411,7 @@
 ||ariboo.com^
 ||ariix.com^
 ||ariseboundary.com^
+||arisoning.club^
 ||arisonoping.club^
 ||aritzal.com^
 ||ariyayin.com^
@@ -10752,6 +10755,7 @@
 ||atconnect.npo.nl^
 ||atczxgxuxloqf.com^
 ||atdmt.com^
+||atdnetwork.com^
 ||atech.ne.jp^
 ||atedra.com^
 ||atelierdegaia.fr^
@@ -13524,6 +13528,7 @@
 ||boxxxcash.com^
 ||boyaidare.club^
 ||boyalebut.site^
+||boycottons.club^
 ||boylesportsreklame.com^
 ||bozenan.swk.vectranet.pl^
 ||bozhixiang.top^
@@ -14486,7 +14491,6 @@
 ||caichenguang.cn^
 ||caiji.wiki^
 ||cailawyer.cn^
-||cain.roseolsen.pro^
 ||cairn-westie.com.pl^
 ||caithamo.net^
 ||caiwanhui.top^
@@ -15103,7 +15107,6 @@
 ||cdn.r-adimg.com^
 ||cdn.radiatewheel.info^
 ||cdn.redlightcenter.com^
-||cdn.rtclx.com^
 ||cdn.sailthru.com^
 ||cdn.sdkconfig.site^
 ||cdn.smartclick.io^
@@ -15689,7 +15692,6 @@
 ||chrommotor.com^
 ||chron-telefon.com^
 ||chronicads.com^
-||chronicpainreliefnews.com^
 ||chrumedia.com^
 ||chsplantsales.co.uk^
 ||chsrkred.com^
@@ -15748,6 +15750,7 @@
 ||ciekawewydarzenia.online^
 ||ciel7.free.fr^
 ||ciencecom.salesloftlinks.com^
+||cientialorna.fun^
 ||cienum.fr^
 ||cieslakwz.cba.pl^
 ||ciezkieczasy.is-best.net^
@@ -16746,6 +16749,7 @@
 ||coin-have.com^
 ||coin-hive.com^
 ||coin-service.com^
+||coin.fahimpace.pro^
 ||coinad.com^
 ||coinadster.com^
 ||coinadvert.net^
@@ -19137,6 +19141,7 @@
 ||dap.digitalgov.gov^
 ||dap.media.net^
 ||daphnecm.com^
+||dapnc.media.net^
 ||dapper.net^
 ||dapperdiscussion.com^
 ||dapskja.cn^
@@ -20292,6 +20297,7 @@
 ||dl01.faddmr.com^
 ||dl1d2m8ri9v3j.cloudfront.net^
 ||dl2.bav.baidu.com^
+||dl5ft52dtazxd.cloudfront.net^
 ||dl6pkf7e.ru^
 ||dl8.me^
 ||dlads.cn^
@@ -20361,6 +20367,7 @@
 ||dm.riji.cn^
 ||dm.sanwen.net^
 ||dm.taobaojuhuasuan.cn^
+||dm.toutiao.com^
 ||dm.travelocity.com^
 ||dm.wenshenxiu.com^
 ||dm.zuowenku.net^
@@ -21949,6 +21956,7 @@
 ||eiygqumgrobos.com^
 ||ejdbebdeghajgdicadc.ru^
 ||ejdkqclkzq.com^
+||ejee.xyz^
 ||ejeenews.com^
 ||ejevika.com^
 ||ejewelbox.com^
@@ -21991,6 +21999,7 @@
 ||ekmpinpoint.co.uk^
 ||ekmpinpoint.com^
 ||ekmztfadigi.com^
+||eknxzdhhvirk.adserver.com^
 ||eko-styk.pl^
 ||ekoatchooze.com^
 ||ekod.info^
@@ -22118,6 +22127,7 @@
 ||elwbhndbxfqk.com^
 ||elwirakurier.com^
 ||elwraek.xyz^
+||elyconsisterj.club^
 ||em.doubleverify.com^
 ||em.subiz.com^
 ||em1.shinobi.jp^
@@ -23858,7 +23868,6 @@
 ||feed.mikle.com^
 ||feed.minpos.com^
 ||feed.mobeek.net^
-||feed.r-tb.com^
 ||feed.trafflow.com^
 ||feed111.com^
 ||feed111.me^
@@ -23926,6 +23935,7 @@
 ||fengyixin.com^
 ||fenixm.com^
 ||fenixsiennica.pl^
+||fenseusduxk.adserver.com^
 ||fenvm.com^
 ||feozcthyfbdc.com^
 ||fepzygektdt.com^
@@ -27398,6 +27408,7 @@
 ||gtop100.com^
 ||gtopstats.com^
 ||gtorsoxdh.com^
+||gtqjctwaiqluft.adserver.com^
 ||gtradersoft.com^
 ||gtrk.s3.amazonaws.com^
 ||gts-ads.twistbox.com^
@@ -27690,6 +27701,7 @@
 ||hadskiz.com^
 ||hadslims.com^
 ||hadsoks.com^
+||hadsokz.com^
 ||haedong.es.kr^
 ||haeechihhfajibdfaef.ru^
 ||hafksvqiir.com^
@@ -27805,6 +27817,7 @@
 ||harrenmedia.com^
 ||harrenmedianetwork.com^
 ||harridan.cc^
+||harriscote.pro^
 ||harshwhispers.com^
 ||harsonsy.com^
 ||harthatforsin.pro^
@@ -28635,7 +28648,6 @@
 ||hollowshake.com^
 ||holm.ru^
 ||holobumo.info^
-||holt.aranlucas.pro^
 ||holylamaoffers.com^
 ||holyurbanhotel.com^
 ||homad-global-configs.schneevonmorgen.com^
@@ -29777,6 +29789,7 @@
 ||ijfnbtksuntwqe.com^
 ||ijhpzjzjaujpov.com^
 ||ijhqzvlnsxu.com^
+||ijhyizeggdun.adserver.com^
 ||ijiraeitwqpj.com^
 ||ijldfpgu.biz^
 ||ijmzezsaxxomr.com^
@@ -31145,6 +31158,7 @@
 ||iteratehq.com^
 ||itfarm.com^
 ||itgear.jp^
+||ithinkthereforeiam.net^
 ||ithoahie.com^
 ||ithyk.frenchgerlemanelectric.com^
 ||itim.vn^
@@ -32427,6 +32441,7 @@
 ||jzkznpleaqshdj.com^
 ||jzllgntkazui.com^
 ||jzmjxblwnozjyt.com^
+||jzn360.cn^
 ||jzny.com.cn^
 ||jzohcwnovrk.com^
 ||jzowfnqah.com^
@@ -34840,6 +34855,7 @@
 ||lmlvzeeag.com^
 ||lmmyygvkwb.com^
 ||lmn-pou-win.com^
+||lmnzfotb.adserver.com^
 ||lmodr.biz^
 ||lmrlanov.com^
 ||lmsdoihmsoifx.com^
@@ -36734,6 +36750,7 @@
 ||med-rul.ru^
 ||medads.ru^
 ||medcomcenter.pl^
+||medcourthe.fun^
 ||medi-8.net^
 ||media-0.vpptechnologies.com^
 ||media-1.vpptechnologies.com^
@@ -38896,6 +38913,7 @@
 ||muhexvakuawzo.com^
 ||muhtoni.ru^
 ||mujap.com^
+||mujgirreveals.club^
 ||mujiangdashi.cn^
 ||mujilora.com^
 ||mujuclaster.ru^
@@ -46747,6 +46765,7 @@
 ||purpleflag.net^
 ||purplegrasscolour.xyz^
 ||purplehorses.net^
+||purplepatch.online^
 ||purpreine.co^
 ||purpulium.com^
 ||purredheanb.online^
@@ -47022,6 +47041,7 @@
 ||pyhtclpgzbe.com^
 ||pyhuiyu.com^
 ||pyilgdamion.city^
+||pyjamaican.club^
 ||pyjjxogzlzcxii.bid^
 ||pykexoeeibq.com^
 ||pyksf.com^
@@ -48025,6 +48045,7 @@
 ||qzzljx.com^
 ||r-ad.ne.jp^
 ||r-dach.pl^
+||r-tb.com^
 ||r.4at1.com^
 ||r.99waiyu.com^
 ||r.bbci.co.uk^
@@ -49576,6 +49597,7 @@
 ||roscvyybfkm.com^
 ||rose.ixbt.com^
 ||rosemand.pro^
+||roseolsen.pro^
 ||roshanavar.com^
 ||rosinfonews.ru^
 ||roskatrack.roskadirect.com^
@@ -49818,6 +49840,7 @@
 ||rtbtraf.com^
 ||rtbvideobox.com^
 ||rtbweb.com^
+||rtclx.com^
 ||rtcode.com^
 ||rtdogcdkovndho.com^
 ||rteneme.ru^
@@ -50081,6 +50104,7 @@
 ||rztrkr.com^
 ||rzuwelgm.com^
 ||rzviy.com^
+||rzxlszy.vip^
 ||s-100.predictvideo.com^
 ||s-39.predictvideo.com^
 ||s-61.predictvideo.com^
@@ -51018,6 +51042,7 @@
 ||secondland.pl^
 ||secondome.com^
 ||secondstreetmedia.com^
+||secreat.club^
 ||secret-photos.com^
 ||secretbehindporn.com^
 ||secretivecub.com^
@@ -53009,6 +53034,7 @@
 ||sousaira.com^
 ||sousay.info^
 ||sov.by^
+||sovernment.club^
 ||sovietit.com^
 ||sovrn.com^
 ||sowkhntq.com^
@@ -53997,6 +54023,7 @@
 ||statgw.devtodev.com^
 ||stathat.com^
 ||stathound.com^
+||static-42andpark-com.s3-us-west-2.amazonaws.com^
 ||static-ads.akamaized.net^
 ||static-ads.zaloapp.com^
 ||static-cdn.ashleyrnadison.com^
@@ -54030,7 +54057,6 @@
 ||static.fleshlight.com^
 ||static.freenet.de^
 ||static.groupy.co.nz^
-||static.harriscote.pro^
 ||static.hatid.com^
 ||static.hoptopboy.com^
 ||static.ichehome.com^
@@ -55167,6 +55193,7 @@
 ||sx.nazari.org^
 ||sx.trhnt.com^
 ||sx.z0rz.com^
+||sxazsucqvlsukb.adserver.com^
 ||sxbhzs.net^
 ||sxcdn1.herokuapp.com^
 ||sxcdn5.herokuapp.com^
@@ -55274,6 +55301,7 @@
 ||synthasite.net^
 ||synthes.vo.llnwd.net^
 ||synthetic.api.appdynamics.com^
+||syooys.com^
 ||syphilohmmaging.site^
 ||sypleni.ru^
 ||sys.jave.xyz^
@@ -59217,6 +59245,7 @@
 ||tui.taobao.com^
 ||tuigang1999.com^
 ||tuiguang.meitu.com^
+||tuiiu.com^
 ||tuinfra.com^
 ||tuituiyoo999.com^
 ||tujestimater.pro^
@@ -62030,6 +62059,7 @@
 ||wamnetwork.com^
 ||wanbuy.net^
 ||wandara113.xyz^
+||wanfem.com^
 ||wanfukang.cc^
 ||wangdaizao.com^
 ||wangdddy.com^
@@ -64204,6 +64234,7 @@
 ||xml.adfclick1.com^
 ||xml.admeridian.com^
 ||xml.admetix.com^
+||xml.adserver.com^
 ||xml.adsparkmedia.net^
 ||xml.adtech.fr^
 ||xml.adtech.us^
@@ -64234,6 +64265,7 @@
 ||xmrchaqjwqyvz.com^
 ||xmrepair.com^
 ||xmrpool.net^
+||xmseaside.com^
 ||xmtrk.com^
 ||xmtsyg.com^
 ||xmufoqjx.com^
@@ -64728,6 +64760,7 @@
 ||yatrk.xyz^
 ||yauatoyuhdb.com^
 ||yaudience.com^
+||yauwsd.cn^
 ||yawsupvie.site^
 ||yaxbqjjemnvben.com^
 ||yb.torchbrowser.com^
