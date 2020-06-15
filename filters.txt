@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 14-06-2020 23:50 BST
-! Count: 66,606
+! Last Modified: 15-06-2020 23:50 BST
+! Count: 66,631
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1106,6 +1106,7 @@
 ||3c0012ab95c132f.com^
 ||3c06b86c4147745b.com^
 ||3c34083bda22d8.com^
+||3c3c3.com^
 ||3c513c1d3255c.com^
 ||3ca28642b714623b2.com^
 ||3cd99930e27056f89.com^
@@ -2551,6 +2552,7 @@
 ||abie15.top^
 ||abie16.top^
 ||abie17.top^
+||abie18.top^
 ||abie25.top^
 ||abie9.top^
 ||abikurier.com^
@@ -2860,7 +2862,6 @@
 ||activity.yesware.com.herokudns.com^
 ||actnx.com^
 ||actonel.about-tabs.com^
-||actonsoftware.com^
 ||actos.about-tabs.com^
 ||actpx.com^
 ||actraffic.com^
@@ -7039,6 +7040,7 @@
 ||adstock.ru^
 ||adstogo.com^
 ||adstome.com^
+||adstonesik.club^
 ||adstor360.com^
 ||adstore.jp^
 ||adstracker.appsgeyser.com^
@@ -9536,6 +9538,7 @@
 ||ankieta-online.pl^
 ||ankiety-konsumenckie.pl^
 ||anklets.shengen.ru^
+||ankunding.biz^
 ||anlcld.com^
 ||anlclqrvbsk.co^
 ||anmeilai.net^
@@ -10128,6 +10131,7 @@
 ||apple.com-analysis-safety-antimalware-support.accountant^
 ||apple.com-clean-macbook-system.live^
 ||apple.com-clean-macbook.live^
+||apple.com-findlocation.id^
 ||apple.com-internet-security-review.info^
 ||apple.com-internet-security-review.review^
 ||apple.com-onlinesupport.host^
@@ -15164,6 +15168,7 @@
 ||cdn3ncal.media.net^
 ||cdn3ncc.media.net^
 ||cdn4ads.com^
+||cdn5.doubleverify.com^
 ||cdn5now.com^
 ||cdn7.network^
 ||cdn7.rocks^
@@ -16914,6 +16919,7 @@
 ||collector.clareity.net^
 ||collector.doordash.com^
 ||collector.fiverr.com^
+||collector.getyourguide.com^
 ||collector.githubapp.com^
 ||collector.hpn.cliqz.com^
 ||collector.insight-stats.com^
@@ -17736,6 +17742,7 @@
 ||coupongifts.life^
 ||courgis.de^
 ||courselfnorter.site^
+||courthereb.club^
 ||cover.m2y.siemens.ch^
 ||coveredsys.cn^
 ||covergt.com^
@@ -18859,7 +18866,9 @@
 ||d36lvucg9kzous.cloudfront.net^
 ||d36sxvmjoflc2i.cloudfront.net^
 ||d36wtdrdo22bqa.cloudfront.net^
+||d36zfztxfflmqo.cloudfront.net^
 ||d37s9vd5t6mov7.cloudfront.net^
+||d395dw5zk780j2.cloudfront.net^
 ||d396ihyrqc81w.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
 ||d39vf9bwtb4sua.cloudfront.net^
@@ -18969,6 +18978,7 @@
 ||d5a5a.xyz^
 ||d5c18469d17cb1d1.com^
 ||d5d4f491e92.com^
+||d5etv3akk3gsa.cloudfront.net^
 ||d5i9o0tpq9sa1.cloudfront.net^
 ||d5nxst8fruw4z.cloudfront.net^
 ||d5ou3dytze6uf.cloudfront.net^
@@ -24184,6 +24194,7 @@
 ||filtonay.com^
 ||fimc.net^
 ||fimg-resp.seznam.cz^
+||fimpromote.club^
 ||fimserve.askmen.com^
 ||fimserve.com^
 ||fimserve.ign.com^
@@ -26002,6 +26013,7 @@
 ||gen-hydrocodone.polybuild.ru^
 ||gen.etherscan.io^
 ||gen2server.com^
+||gencehepatie.club^
 ||genelajans.com^
 ||generalchemicalsupply.com^
 ||generaltracking.de^
@@ -26014,7 +26026,6 @@
 ||genetrk.com^
 ||genforumgenealogy.com^
 ||genfotir.com^
-||geni.us^
 ||geniad.net^
 ||geniee.jp^
 ||genieedmp.com^
@@ -27147,6 +27158,7 @@
 ||gralfusnzpo004.top^
 ||gralfusnzpo006.top^
 ||gralfusnzpo007.top^
+||gralfusnzpo008.top^
 ||gramombird.com^
 ||gramovi.info^
 ||grampouz.net^
@@ -30889,7 +30901,6 @@
 ||ip.taobao.com^
 ||ip193.cn^
 ||ip2c.landscape.co.jp^
-||ip2location.com^
 ||ip2location.wmgartistservices.com^
 ||ip2map.com^
 ||ip2phrase.com^
@@ -35036,6 +35047,7 @@
 ||log.newsvine.com^
 ||log.nexgen.neustar.biz^
 ||log.ngaynay.vn^
+||log.nhipcaudautu.vn^
 ||log.nordot.jp^
 ||log.olark.com^
 ||log.oto.com.vn^
@@ -37682,6 +37694,7 @@
 ||mieszkanie-bochnia.pl^
 ||mieyisi.com^
 ||mifxolavi.com^
+||migatesbala.fun^
 ||migawkastudio.pl^
 ||migdalowachata.pl^
 ||mightiger.net^
@@ -37914,6 +37927,7 @@
 ||mkt932.com^
 ||mkt941.com^
 ||mktg-offer.com^
+||mktg.actonsoftware.com^
 ||mktg.helpscout.net^
 ||mkto-ab090106.com^
 ||mkto-ab100012.com^
@@ -48697,6 +48711,7 @@
 ||reevaipi.com^
 ||reeviveglobal.com^
 ||ref.dealerinspire.com^
+||ref.gitadres.com^
 ||refatxhcuu.com^
 ||refban.com^
 ||refbanners.com^
@@ -49312,6 +49327,7 @@
 ||ricqo.com^
 ||rid.reamp.com.br^
 ||ridepush.com^
+||ridferbad.com^
 ||ridgelorridorsag.info^
 ||ridingintractable.com^
 ||rientgallacecapt.info^
@@ -54383,6 +54399,7 @@
 ||stats.pckeeper.software^
 ||stats.persgroep.be^
 ||stats.persgroep.nl^
+||stats.petrotimes.vn^
 ||stats.piaggio.com^
 ||stats.pingdom.com^
 ||stats.platinumbucks.com^
@@ -55593,6 +55610,7 @@
 ||tadozqgv.com^
 ||taffr.com^
 ||tafmaster.com^
+||tag-analytics.com^
 ||tag-manager.teladoc.com^
 ||tag.adtrendmedia.net^
 ||tag.aticdn.net.edgekey.net^
@@ -59758,6 +59776,7 @@
 ||uggvuuquxj.com^
 ||uggwyprzedaz.pl^
 ||ughdqpwtfabsqg.com^
+||ughhimtoy.com^
 ||ughmvqf.spitt.ru^
 ||ughtedrab.ru^
 ||ughwashis.ru^
@@ -59877,6 +59896,7 @@
 ||ulajilala.com^
 ||ulaleth.xyz^
 ||ularunicalrep.info^
+||ulclick.ru^
 ||uldhfvzyw.com^
 ||uldmare.com^
 ||uldwcpscwzkis.com^
@@ -60061,6 +60081,7 @@
 ||unixfuture.com^
 ||unjqjnzvzyrtw.com^
 ||unk.vver.kiae.rr^
+||unknowlejir.club^
 ||unknown.counsellor.gov.cn^
 ||unknownads.com^
 ||unknowntray.com^
@@ -61009,6 +61030,7 @@
 ||ver-pelis.net^
 ||veracdn.xyz^
 ||verageousarra.site^
+||veralother.fun^
 ||verblife-2.co^
 ||verblife-3.co^
 ||verblife-4.co^
@@ -61098,6 +61120,7 @@
 ||vftbnl.com^
 ||vfvdsati.com^
 ||vfxkeagns.com^
+||vg4u8rvq65t6.com^
 ||vg74gi6mea.com^
 ||vgbvsduys.com^
 ||vghjsrae.com^
@@ -63199,6 +63222,7 @@
 ||wolopcqjzajiht.com^
 ||wolqstldvfkuhp.com^
 ||wolski.med.pl^
+||wolvedfdg.club^
 ||wolyncalyfilm.wordpress.com^
 ||wom8day.ru^
 ||womanclick.ru^
@@ -65950,6 +65974,7 @@
 ||zeus.developershed.com^
 ||zeus.slader.com^
 ||zeusclicks.com^
+||zeustechnology.com^
 ||zevents.com^
 ||zewkj.com^
 ||zexygpxlamac.com^
