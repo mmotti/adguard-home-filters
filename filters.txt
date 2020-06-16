@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 15-06-2020 23:50 BST
-! Count: 66,631
+! Last Modified: 16-06-2020 23:50 BST
+! Count: 66,654
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -2652,6 +2652,7 @@
 ||ac2.i2i.jp^
 ||ac4.i2i.jp^
 ||ac5.i2i.jp^
+||ac56.xyz^
 ||ac7.i2i.jp^
 ||ac8.i2i.jp^
 ||ac9.i2i.jp^
@@ -10251,6 +10252,7 @@
 ||appsflyer-web-3-1052820924.eu-west-1.elb.amazonaws.com^
 ||appsflyer-web-4-962407740.eu-west-1.elb.amazonaws.com^
 ||appsflyer-web-5-2093104013.eu-west-1.elb.amazonaws.com^
+||appsflyer.com.akamaized.net^
 ||appsflyer.com^
 ||appsha2.ctnetload2.com^
 ||appsha2.space^
@@ -10558,6 +10560,7 @@
 ||asafesite.com^
 ||asasfasdf.xyz^
 ||asbqyhrpty.com^
+||asccdn.com^
 ||ascend.ai^
 ||ascentive.com^
 ||ascraftan.com^
@@ -18816,6 +18819,7 @@
 ||d2tcg4i9q4js4a.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
+||d2ubx2mpeq0x2u.cloudfront.net^
 ||d2ue9k1rhsumed.cloudfront.net^
 ||d2uepos3ef6db0.cloudfront.net^
 ||d2v02itv0y9u9t.cloudfront.net^
@@ -21790,6 +21794,7 @@
 ||edmarketts.fun^
 ||edmedsnow.com^
 ||edmi.nextinpact.com^
+||edmotherew.fun^
 ||ednplus.com^
 ||edo5.com^
 ||edococounter.de^
@@ -25982,6 +25987,7 @@
 ||gebralefukim.site^
 ||gecatikonstantin.ru^
 ||gecxceztcnhkmh.com^
+||gedcompani.fun^
 ||gedmhqqipuz6wfon.pro^
 ||gedspecificano.info^
 ||gedus.cn^
@@ -27703,6 +27709,7 @@
 ||haaretz.pushwoosh.com^
 ||haashbjfw.com^
 ||habdhuhuzi.com^
+||habitualhumor.com^
 ||hablabestop.live^
 ||hackairtel.tk^
 ||hackerbot.net^
@@ -27832,6 +27839,7 @@
 ||haprjb.com^
 ||haptontnerota.info^
 ||haqbllmvpbqc.com^
+||haracticdag.fun^
 ||harahero.top^
 ||haraju.co^
 ||harasiuki.com.pl^
@@ -33731,6 +33739,7 @@
 ||l1.britannica.com^
 ||l2.io^
 ||l29qi.xyz^
+||l2wisd9g5d9u.com^
 ||l3op.info^
 ||l3wpk9kmumodtkr8.ibmassist.com^
 ||l4elb.cn^
@@ -37168,6 +37177,7 @@
 ||meridia.4.p2l.info^
 ||meridiameridia.3xforum.ro^
 ||meried.co^
+||meriesbefor.fun^
 ||merkuryklasyka.pl^
 ||merlin.abc.go.com^
 ||merlin.co.il^
@@ -39828,6 +39838,7 @@
 ||ndl1mc1-a-fixed.sancharnet.in^
 ||ndl1mx1-a-fixed.sancharnet.in^
 ||ndl1pp1-a-fixed.sancharnet.in^
+||ndlegwynetc.fun^
 ||ndndasyo.com^
 ||ndparking.com^
 ||ndprxvzgy.com^
@@ -40457,6 +40468,7 @@
 ||njfsk.com^
 ||njgogjkwlzroh.com^
 ||njguluyu.cn^
+||njhj.cc^
 ||njhuashidai.cn^
 ||njjmp.com^
 ||njjrlf.com^
@@ -42967,6 +42979,7 @@
 ||otherprofit.com^
 ||othersonline.com^
 ||othesarialiber.club^
+||othyightmare.club^
 ||otik.de^
 ||otinekocin.com^
 ||otiqknmqyibci.com^
@@ -47098,6 +47111,7 @@
 ||pyzkbxspoon.com^
 ||pyzkk.com^
 ||pz21.pl^
+||pz7zrn0xxgyg.com^
 ||pzbqocjaphp.com^
 ||pzcpotzdkfyn.com^
 ||pzfittkdqrrsa.com^
@@ -48392,6 +48406,7 @@
 ||rc.bt.ilsemedia.nl^
 ||rc.dxsvr.com^
 ||rc.i2i.jp^
+||rc.vtex.com.br^
 ||rc2.i2i.jp^
 ||rc3.i2i.jp^
 ||rc4.i2i.jp^
@@ -49383,6 +49398,7 @@
 ||ristoromontebasso.it^
 ||ritchelu.com^
 ||ritecounter.com^
+||ritiesagently.fun^
 ||ritogaga.com^
 ||rituationscardb.info^
 ||ritzykey.com^
@@ -50536,6 +50552,7 @@
 ||satiwit.com^
 ||satterfieldbanks.com^
 ||saturalerdax.site^
+||saturalolk.club^
 ||sauaopmdesyysa.com^
 ||saub27i3os.com^
 ||sauconysklep.pl^
@@ -51683,6 +51700,7 @@
 ||sgmnt.ticketswap.com^
 ||sgolden.site^
 ||sgood.ru^
+||sgphctileh-a.akamaihd.net.edgesuite.net^
 ||sgphctileh-a.akamaihd.net^
 ||sgpublic.yomob.com.cn^
 ||sgqcvfjvr.onet.pl^
@@ -51794,6 +51812,7 @@
 ||sherripaul.com^
 ||shesubscriptions.com^
 ||shffcy.cn^
+||shforu.com^
 ||shftscdisov.com^
 ||shfutnjqshzw.com^
 ||shgvuhvf.com^
@@ -54898,6 +54917,7 @@
 ||suehy.com^
 ||sueolwxxosqch.com^
 ||suewgrsq.com^
+||sufferench.club^
 ||sufficient.cn^
 ||sug.com.pl^
 ||sugajo.cn^
@@ -55956,6 +55976,7 @@
 ||tcoxndk.hfgjdcbrv.xyz^
 ||tcqyskiryo.com^
 ||tcrwharen.homepage.t-online.de^
+||tcrybv.com^
 ||tcs-asp.net^
 ||tcss.qq.com^
 ||tctakoh.com^
@@ -60219,6 +60240,7 @@
 ||upgradeexplorer.com^
 ||upgradeget.thegreatforupdatesafemove.download^
 ||upgradenote.enterbestforupdating.bid^
+||upgulpinon.com^
 ||upheasted.club^
 ||uphuatdmwbdm.com^
 ||upi6.pillsstore-c.com^
@@ -61867,7 +61889,6 @@
 ||vtdoska.ru^
 ||vte.nexteramedia.com^
 ||vtemaaftwexu.com^
-||vtex.com.br^
 ||vtf2f.banque-casino.fr^
 ||vtfdfdldethe.com^
 ||vtgcvsmzxiyoz.com^
@@ -63610,6 +63631,7 @@
 ||wwpon365.ru^
 ||wwqnwask.com^
 ||wwrpfevyca.com^
+||wwry.xyz^
 ||wws.ero-advertising.com^
 ||wwsphj.com^
 ||wwtxqylusxtd.com^
@@ -64126,6 +64148,7 @@
 ||xgraph.net^
 ||xgrwjbui.top^
 ||xgspfcpxt.com^
+||xguqeh.com^
 ||xgwslgpad.com^
 ||xgznkebnjme.com^
 ||xhaiu.com^
