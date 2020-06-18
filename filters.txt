@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 17-06-2020 23:50 BST
-! Count: 66,785
+! Last Modified: 18-06-2020 23:51 BST
+! Count: 66,807
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -9089,6 +9089,7 @@
 ||analytics.dealer.com^
 ||analytics.dev.springboardvideo.com^
 ||analytics.developer.riotgames.com^
+||analytics.devicebits.com^
 ||analytics.disneyinternational.com^
 ||analytics.dol.gr^
 ||analytics.doubleverify.com^
@@ -9784,7 +9785,6 @@
 ||api.ero-advertising.com^
 ||api.exc.mob.com^
 ||api.factual.com^
-||api.flocktory.com^
 ||api.freewebfonts.org^
 ||api.freshaddress.biz^
 ||api.fusepowered.com^
@@ -14463,6 +14463,7 @@
 ||caichenguang.cn^
 ||caiji.wiki^
 ||cailawyer.cn^
+||cain.rd2d.pro^
 ||cairn-westie.com.pl^
 ||caithamo.net^
 ||caiwanhui.top^
@@ -14527,6 +14528,7 @@
 ||camerondiaznude.ca.tt^
 ||camgeil.com^
 ||camiliana.pl^
+||camiocw.com^
 ||campadv.ga^
 ||campaign-archive.com^
 ||campaign-tapad.s3.amazonaws.com^
@@ -14551,6 +14553,7 @@
 ||canadaalltax.com^
 ||canadianshawid.com^
 ||canalstat.com^
+||cancesolit.club^
 ||candac.iridion.de^
 ||canddi.com^
 ||candid.zone^
@@ -15065,6 +15068,7 @@
 ||cdn.movieads.ru^
 ||cdn.msdwnld.com^
 ||cdn.mypcbackup.com^
+||cdn.n.dynstc.com^
 ||cdn.neppa-ad.com^
 ||cdn.onescreen.net^
 ||cdn.opensubcontent.com^
@@ -17553,6 +17557,7 @@
 ||counter.drom.ru^
 ||counter.dt07.net^
 ||counter.e-audit.it^
+||counter.edlio.com^
 ||counter.entertainmentwise.com^
 ||counter.execpc.com^
 ||counter.fateback.com^
@@ -18281,6 +18286,7 @@
 ||curtainhardsh8.live^
 ||curtainhardsh9.live^
 ||curtisfrierson.com^
+||curvycry.com^
 ||cusok.ru^
 ||cussixia.de^
 ||custom-blacklisted-tracking-example.com^
@@ -18867,6 +18873,7 @@
 ||d3dkhq0wwdwodv.cloudfront.net^
 ||d3dytsf4vrjn5x.cloudfront.net^
 ||d3e44a82c2df88.com^
+||d3ei4ipx30jdgx.cloudfront.net^
 ||d3elm8wezzwg42.cloudfront.net^
 ||d3em0905j9y6sm.cloudfront.net^
 ||d3ezl4ajpp2zy8.cloudfront.net^
@@ -19583,6 +19590,7 @@
 ||deflorationvirgins.com^
 ||defpush.com^
 ||defrost.pl^
+||defutohy.pro^
 ||dehardward.com^
 ||dehua.ixinfan.com^
 ||deicslktis.com^
@@ -20385,7 +20393,6 @@
 ||dmkdtkad2jyb9.cloudfront.net^
 ||dmm.aizhan.com^
 ||dmn2.bjpeu.edu.cn^
-||dmnamz.com^
 ||dmnangpsbpm.com^
 ||dmodernedindivin.info^
 ||dmoid.top^
@@ -20989,6 +20996,7 @@
 ||dswdsw.ro^
 ||dswdsw.ru^
 ||dswdswsrv.ru^
+||dsweb.totalwireless.com^
 ||dswfjr.nl^
 ||dswfjr.tk^
 ||dswfjrncdn.info^
@@ -22024,6 +22032,7 @@
 ||ekostreams.gq^
 ||ekotradeltd.pl^
 ||ekstrafilmy24.pl^
+||ekswebcounter.elb.edlio.com^
 ||ektezis.ru^
 ||ekulavabuf.com^
 ||ekuuarqe.com^
@@ -24506,6 +24515,7 @@
 ||flnwaqyh.com^
 ||float-l.ru^
 ||flockflame.com^
+||flocktory.com^
 ||flodonas.com^
 ||flomigo.com^
 ||flonase.1.p2l.info^
@@ -26237,6 +26247,7 @@
 ||getgamers.eu^
 ||gethatch.com^
 ||gethc.pl^
+||getherehap.fun^
 ||gethit.ru^
 ||getimmediateedge.com^
 ||getintent.com^
@@ -32850,6 +32861,7 @@
 ||kehalim.com^
 ||keighleynews-gb.keighleynews.co.uk^
 ||keikomimura.com^
+||keilb.xyz^
 ||keitush.ru^
 ||keizomatsuda.com^
 ||kejet.net^
@@ -33670,6 +33682,7 @@
 ||kuznetsov.ca^
 ||kuznialudzizaradnych.pl^
 ||kuzniauwb.pl^
+||kvcd7w375h.ru^
 ||kvdguzclhatdul.com^
 ||kvdjcnerhxzb.com^
 ||kvflzevaaco.com^
@@ -33941,6 +33954,7 @@
 ||lashou1000.com^
 ||lasimakiz.xyz^
 ||lassistslegisten.info^
+||last.lcnf.pro^
 ||last.tax-lab.net^
 ||lastbreath-fanfiction.blogspot.com^
 ||lasthr.info^
@@ -38224,6 +38238,7 @@
 ||mo.5.p2l.info^
 ||mo.freeindoapp.com^
 ||mo.moonpig.com^
+||mo.vlpyj.xy^
 ||moad.pulsengine.com^
 ||moadnet.com^
 ||moafoche.com^
@@ -39464,8 +39479,6 @@
 ||n.betus.com^
 ||n.bodybuilding.com^
 ||n.cashheaven.ru^
-||n.dynstc.com^
-||n.eu2.dynstc.com^
 ||n.mailfire.io^
 ||n.mark.letv.com^
 ||n.rich^
@@ -43970,6 +43983,7 @@
 ||pbnyhdpowerncjjfn.com^
 ||pbofytmakvye.com^
 ||pbox.photobox.de^
+||pbpb.tv^
 ||pbpdgojwzfdc.com^
 ||pbsmzzxrmu.bid^
 ||pbterra.com^
@@ -44093,6 +44107,7 @@
 ||peakclick.com^
 ||peakcounter.dk^
 ||peaky.tags.yield-atx.com^
+||pearerinven.fun^
 ||pebadu.com^
 ||pebble-adhese.gva.be^
 ||pebble-adhese.hbvl.be^
@@ -50717,6 +50732,7 @@
 ||sblftg.com^
 ||sbmdsfld.com^
 ||sbmijpifoszz.com^
+||sbmode.cn^
 ||sbnc.hak.su^
 ||sbo.it^
 ||sboite.cn^
@@ -52935,6 +52951,7 @@
 ||sneaklevel.com^
 ||sneakyboy.com^
 ||sneakystamp.com^
+||snessubsets.pro^
 ||snfhwcvdqxioj.com^
 ||snfzmkyzad.com^
 ||snhsoclobbos.com^
@@ -55024,6 +55041,7 @@
 ||sugajo.cn^
 ||sugar.gameforge.com^
 ||sugarcurtain.com^
+||sugarpuff.net^
 ||sugarsync.com^
 ||sugasoul.pl^
 ||suggedin.info^
@@ -57169,6 +57187,7 @@
 ||tmmjgcp.cn^
 ||tmmp.io^
 ||tmmpiibtfi.com^
+||tmntho.com^
 ||tmotbq.xyz^
 ||tmozs.com^
 ||tmpclk.com^
@@ -60083,6 +60102,7 @@
 ||ultravcn.com^
 ||ultsearch.com^
 ||ulufyprtd.com^
+||ulukaris.com^
 ||ulusalofis.com^
 ||uluswozzel.info^
 ||ulyrpgnqeyo.com^
@@ -60577,6 +60597,7 @@
 ||usaperkscenter.com^
 ||usapglobal.usapglobal.org^
 ||usapolice.com^
+||usapremiumclub.com^
 ||usapromotravel.com^
 ||usarmy.vo.llnwd.net^
 ||usatoday.app.ur.gcion.com^
@@ -61176,6 +61197,7 @@
 ||vepatyei.com^
 ||vepxl1.net^
 ||ver-pelis.net^
+||ver.rd2d.pro^
 ||veracdn.xyz^
 ||verageousarra.site^
 ||veralother.fun^
