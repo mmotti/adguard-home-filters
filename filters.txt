@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 23-06-2020 23:50 BST
-! Count: 81,750
+! Last Modified: 24-06-2020 23:50 BST
+! Count: 81,754
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -1760,6 +1760,7 @@
 ||6728812.com^
 ||672b.info^
 ||6735a55d.ngrok.io^
+||6789.run^
 ||678z.info^
 ||68665565.com^
 ||6868bbe42af8e518.com^
@@ -9840,6 +9841,7 @@
 ||analytics.any.do^
 ||analytics.api.appdynamics.com^
 ||analytics.apnewsregistry.com^
+||analytics.app.lucidchart.com^
 ||analytics.appdynamics.com^
 ||analytics.archive.org^
 ||analytics.arinetapi.com^
@@ -13423,7 +13425,6 @@
 ||basshenge.org^
 ||basta.info^
 ||bastycats.com^
-||basvformu5.xyz^
 ||bat-bing-com.a-0001.a-msedge.net^
 ||bat.adforum.com^
 ||bat.bing-int.com^
@@ -34185,6 +34186,7 @@
 ||hesterinoc.info^
 ||hesxz.com^
 ||hetchi.com^
+||hethelcontai.fun^
 ||heti-naplo.com^
 ||hetperc.com^
 ||hetroerom.info^
@@ -48999,6 +49001,7 @@
 ||nettaktik.info^
 ||netupdater.info^
 ||netvigie.com^
+||netwayer.de^
 ||netwayz.com.sg^
 ||network-marketing24.com^
 ||network-media.info^
@@ -62624,6 +62627,7 @@
 ||senkevich-sl.net^
 ||senkevich-vk.net^
 ||senolati.com^
+||senrecomines.fun^
 ||sense360eng.com.herokudns.com^
 ||sensecafe.com.pl^
 ||sensenetworks.com^
@@ -70354,6 +70358,7 @@
 ||topofblogs.com^
 ||toppage.vn^
 ||topparagliding.pl^
+||topperyregard.fun^
 ||topping.com.ua^
 ||topqualitylink.com^
 ||topquizz.info^
@@ -73986,7 +73991,6 @@
 ||usabilla.com^
 ||usabirdsupply.com^
 ||usachoice.net^
-||usaclub.vip^
 ||usaconsumerperks.com^
 ||usadb.org^
 ||usadf.org^
@@ -74406,6 +74410,7 @@
 ||vadets.org^
 ||vadideo.com^
 ||vadingo.com^
+||vadioc.cn^
 ||vadpay.com^
 ||vads.net.vn^
 ||vads.vn^
@@ -75210,7 +75215,6 @@
 ||violentcomix.com^
 ||violetchan.org^
 ||viooze.com^
-||viously.com^
 ||vioxx.1.p2l.info^
 ||vip-p0rtal.services^
 ||vip-vip-vup.com^
