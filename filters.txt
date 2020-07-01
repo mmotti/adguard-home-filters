@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 30-06-2020 23:50 BST
-! Count: 81,750
+! Last Modified: 01-07-2020 23:50 BST
+! Count: 81,793
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -44,6 +44,7 @@
 @@||ad.kazakinfo.com^
 @@||ad.ourgame.com^
 @@||adcdn.pingan.com^
+@@||admin.dable.io^
 @@||ads.tdbank.com^
 @@||advert.kf5.com^
 @@||api-merchants.skimlinks.com^
@@ -1123,6 +1124,7 @@
 ||32e1dff65ea4eb3627ed-f1ecc94c86a56d3e42e512fcfd192886.r6.cf1.rackcdn.com^
 ||32nd.org^
 ||32red.it^
+||333bj.cloud^
 ||333dm.com^
 ||3381e74f70adfb59.com^
 ||338336.com^
@@ -1925,6 +1927,7 @@
 ||78276.ussdns02.heketwe.com^
 ||7839e0482307b9276b.com^
 ||789.club^
+||789.fun^
 ||7891655.cn^
 ||78tdd75.com^
 ||791026.com^
@@ -4860,6 +4863,7 @@
 ||admxr.com^
 ||admxxx.com^
 ||admyadotrk.info^
+||adn.bursadabugun.com^
 ||adn.ebay.com^
 ||adn.kinkydollars.com^
 ||adn.lrb.co.uk^
@@ -7038,6 +7042,7 @@
 ||adserver.lonuncavisto.com^
 ||adserver.lostreality.com^
 ||adserver.lunarpages.com^
+||adserver.luzu.vn^
 ||adserver.lycos.co.jp^
 ||adserver.m2kcore.com^
 ||adserver.magazyn.pl^
@@ -10085,6 +10090,7 @@
 ||analytics.pinterest.com^
 ||analytics.plaid.com^
 ||analytics.plex.tv^
+||analytics.po.st^
 ||analytics.podtrac.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.pokki.com^
@@ -10449,6 +10455,7 @@
 ||annonser.dagbladet.no^
 ||announcement.ru^
 ||annoyingacoustics.com^
+||annrdf.com^
 ||annuaire-autosurf.com^
 ||annualconsumersurvey.com^
 ||annuncivari.altervista.org^
@@ -10869,7 +10876,6 @@
 ||api.splkmobile.com^
 ||api.starstarmobile.com^
 ||api.stats.appa.pe^
-||api.tapsell.ir^
 ||api.tinypass.com^
 ||api.tumra.com^
 ||api.tusdk.com^
@@ -11200,6 +11206,7 @@
 ||apprentis.org^
 ||apprepositoryuniverse.com^
 ||appres.camera360.com^
+||appresentikv.club^
 ||appress.org^
 ||appromoters.tracking.adnovation.com.herokudns.com^
 ||approp.pro^
@@ -14260,6 +14267,7 @@
 ||betterhomeandgardenideas.com^
 ||betterlessons.org^
 ||bettermetrics.co^
+||betternoon.club^
 ||betterperformance.goldenopps.info^
 ||bettersalud.info^
 ||bettertextads.com^
@@ -16681,6 +16689,7 @@
 ||caclick.baidu.com^
 ||cacp-hlb.doubleverify.com^
 ||cactusglobal.io^
+||cacuoc247.com^
 ||cad.chosun.com^
 ||cad.donga.com^
 ||cadastroacesso.info^
@@ -17837,7 +17846,6 @@
 ||centrumzklimatem.pl^
 ||centsationgirl.com^
 ||century21pattysnell.com^
-||centuryautobodylv.com^
 ||centwrite.com^
 ||ceoillwdcc.com^
 ||cepailru.com^
@@ -20381,6 +20389,7 @@
 ||coolemailnames.com^
 ||coolerads.com^
 ||coolertracks.emailroi.com^
+||coolfenxi.com^
 ||coolfreehost.com^
 ||coolinc.info^
 ||coolkaba.com^
@@ -22380,6 +22389,7 @@
 ||dakawm.cc^
 ||dake.net.cn^
 ||dakic-ia-300.com^
+||daklatasvir.su^
 ||dakotahtoys.com^
 ||dal.d.la^
 ||dal9hkyfi0m0n.cloudfront.net^
@@ -27211,6 +27221,7 @@
 ||eudcmqdyl.com^
 ||eudcqm.uihdlx.xyz^
 ||eue.collect-opnet.com^
+||eue.d-teknoloji.com.tr^
 ||euforiatattoo.com.pl^
 ||euhealthcard.com^
 ||eujjcfegnqfa.com^
@@ -29078,7 +29089,6 @@
 ||fit-buzz.com^
 ||fit-smerfetka.pl^
 ||fit5.info^
-||fitanalytics.com^
 ||fitandjump-grudziadz.pl^
 ||fitblog.info^
 ||fitchciapara.com^
@@ -29092,6 +29102,7 @@
 ||fiv2yl8dct.com^
 ||five-net.info^
 ||five.partner.archive-it.org^
+||five88.biz^
 ||five88.com^
 ||five88.net^
 ||fivecdm.com^
@@ -32297,6 +32308,7 @@
 ||go777site.com^
 ||go7me.ru^
 ||go7media.ru^
+||go88.club^
 ||go88.com^
 ||go8me.ru^
 ||goa.camimbu.com^
@@ -33025,6 +33037,7 @@
 ||gripdownload.co^
 ||grjs02.com^
 ||grjs06.com^
+||grjs08.com^
 ||grkrkurbyykok.com^
 ||grmtas.com^
 ||grmtech.net^
@@ -34096,6 +34109,7 @@
 ||heartcvs.com^
 ||heartdiseaselab.com^
 ||heartheadclean.com^
+||hearthurstxz.club^
 ||heartreiki.info^
 ||heartrevitalized.com^
 ||hearttodaycycle.com^
@@ -35750,6 +35764,7 @@
 ||i-sol-geo.ru^
 ||i-standart.info^
 ||i-stats.com^
+||i-stg1.po.st^
 ||i-store365.com^
 ||i-stream.pl^
 ||i-subs.com^
@@ -35779,6 +35794,7 @@
 ||i.mxplayer.j2inter.com^
 ||i.oksg.co^
 ||i.pcp001.com^
+||i.po.st^
 ||i.pokernews.com^
 ||i.popincdn.com^
 ||i.radzolo.com^
@@ -40019,6 +40035,7 @@
 ||kenyonet.co.il^
 ||keogers.com^
 ||keopz.com^
+||keotot.net^
 ||kependudukanjambi.org^
 ||kepler-37b.com^
 ||kepzavar.info^
@@ -41459,6 +41476,7 @@
 ||latribune.electronicpromotions2015.com^
 ||lattadmar.eu^
 ||lattemptweh.club^
+||lattitudecv.club^
 ||latviancedef.site^
 ||laugh-mail.com^
 ||laugh-mail.net^
@@ -41920,6 +41938,7 @@
 ||levelup-firm.pl^
 ||levenileheshe.site^
 ||levenshteinanswer.com^
+||leveryone.club^
 ||levexis.com^
 ||levisites.com^
 ||levitra.1.p2l.info^
@@ -42561,6 +42580,7 @@
 ||livvckublf.com^
 ||livwrite.com^
 ||liwhetsu.com^
+||lixi88.info^
 ||lixiangmo.com^
 ||lixianze.top^
 ||lixuanbaojie.com^
@@ -43159,6 +43179,7 @@
 ||lopuqa.com^
 ||lopuut.ru^
 ||lopw.page.link^
+||lopzitpup.com^
 ||loqah.com^
 ||loqara.info^
 ||lorahana.xyz^
@@ -43445,6 +43466,7 @@
 ||lucktui.com^
 ||lucky-day-uk.com^
 ||lucky88.com^
+||lucky88.live^
 ||lucky88.net^
 ||lucky88.win^
 ||luckyads.tech^
@@ -43553,6 +43575,7 @@
 ||luwyou.com^
 ||lux-bn.com.ua^
 ||lux-gokujo.com^
+||lux39.club^
 ||luxads.net^
 ||luxadv.com^
 ||luxbetaffiliates.com.au^
@@ -44300,6 +44323,7 @@
 ||manage001.adtech.fr^
 ||manage001.adtech.us^
 ||manageadv.cblogs.eu^
+||managining.club^
 ||managoru.com^
 ||manapeddapuram.info^
 ||manaslu.pl^
@@ -47355,6 +47379,7 @@
 ||mp01.net^
 ||mp3-4-all.info^
 ||mp3-pesni.info^
+||mp3bars.com^
 ||mp3cart.info^
 ||mp3downloadhq.com^
 ||mp3helpdesk.com^
@@ -47367,6 +47392,7 @@
 ||mp3sertanejo.info^
 ||mp3stafa.info^
 ||mp3toavi.xyz^
+||mp3vizor.com^
 ||mp3wild.info^
 ||mp3youg.com^
 ||mp4indir.info^
@@ -50638,6 +50664,7 @@
 ||o.jy135.com^
 ||o.opentable.com^
 ||o.phb123.com^
+||o.po.st^
 ||o.webmd.com^
 ||o0.winfuture.de^
 ||o01fv23.loan^
@@ -52887,6 +52914,7 @@
 ||p.msas.media.net^
 ||p.pagesjaunes.fr^
 ||p.pkthop.com^
+||p.po.st^
 ||p.predictvideo.com^
 ||p.profistats.net^
 ||p.publico.es^
@@ -55176,7 +55204,6 @@
 ||po-cloud.net^
 ||po.fyybox.com^
 ||po.ponant.com^
-||po.st^
 ||poagroul.com^
 ||poaxupoqbw.com^
 ||poazoanu.com^
@@ -59310,6 +59337,7 @@
 ||red.hatena.ne.jp^
 ||red.st-hatena.com^
 ||red3.hatena.ne.jp^
+||red88.com^
 ||redactiepartners.nl^
 ||redads.biz^
 ||redappeneticfr.info^
@@ -61264,6 +61292,7 @@
 ||s.osano.com^
 ||s.perzonalization.com^
 ||s.pkthop.com^
+||s.po.st^
 ||s.polymorph.walmart.com^
 ||s.ppjol.net^
 ||s.priget.jp^
@@ -61970,6 +61999,7 @@
 ||scoremygift.com^
 ||scorepconline.club^
 ||scotiaonline.scotiabank.salferreras.com^
+||scottagesyu.club^
 ||scottcountysheriff.net^
 ||scottishstuff-online.com^
 ||scottsbarlow.com^
@@ -63573,7 +63603,6 @@
 ||shopkick.com^
 ||shoplenaro.com^
 ||shoplounn.com^
-||shopmanxt.ch^
 ||shopmetric.rediff.com^
 ||shopnbastore.com^
 ||shopnetic.com^
@@ -66998,6 +67027,7 @@
 ||stopanimalcrueltyhsc.org^
 ||stopcardiffarmsfair.info^
 ||stopherapyimp.pro^
+||stopheritp.club^
 ||stopify.co^
 ||stopillegals.info^
 ||stopkomornikowi.pl^
@@ -67915,6 +67945,7 @@
 ||systemstatic.info^
 ||systerwithing.info^
 ||systweak.com^
+||sysycloud.com^
 ||sytcyf.com^
 ||sytsr.com^
 ||sytz1288.com^
@@ -68314,6 +68345,7 @@
 ||takeprofitsystem.com^
 ||takethatad.com^
 ||takethemeal.com^
+||takidd.site^
 ||taking-technology.com^
 ||takip.site^
 ||takipcikas.org^
@@ -68461,6 +68493,7 @@
 ||tappx.com^
 ||tapresearch.com^
 ||taps.io^
+||tapsell.ir^
 ||tapsense.com^
 ||tapstat.ru^
 ||tapstream.com^
@@ -68527,6 +68560,7 @@
 ||tastebudsfm.com^
 ||tastefulsongs.com^
 ||tasteofdetroitantioch.org^
+||tasterdayuns.top^
 ||tastishi.ru^
 ||tastypolewa.pl^
 ||tasvjsmnegj.com^
@@ -70575,6 +70609,7 @@
 ||torshartontding.ru^
 ||torshatencalsi.info^
 ||torstytons.pro^
+||tortdiscreets.club^
 ||torudon.com^
 ||torun-catering.pl^
 ||toruqufa.com^
@@ -74985,6 +75020,7 @@
 ||vibrant.co^
 ||vibrantinternational.org^
 ||vibrantmedia.com^
+||vic.fun^
 ||vic.win^
 ||vicces-humoros.com^
 ||vice-ads-cdn.vice.com^
@@ -75949,6 +75985,7 @@
 ||vwcsl.com^
 ||vwdrpxmgehqknz.com^
 ||vwfvnfvelrvvww.com^
+||vwinnow.com^
 ||vwkyuawm.com^
 ||vwpolo.org^
 ||vwpoxvufxnon.com^
@@ -76162,6 +76199,7 @@
 ||wangdddy.com^
 ||wangdq.com^
 ||wangfenxi.com^
+||wangkeduo.cn^
 ||wangketuan.com^
 ||wangliqin.top^
 ||wangluoruanjian.com^
@@ -76367,6 +76405,7 @@
 ||wbdds.jeuxvideo.com^
 ||wbdx.fr^
 ||wbeleague.org^
+||wbet99.net^
 ||wbfwyzatvqjbnf.com^
 ||wbhcemppdg.com^
 ||wbhrb.com^
@@ -78066,7 +78105,6 @@
 ||www-avon.com^
 ||www-banner.chat.ru^
 ||www-banorte.com^
-||www-cbssports-com.cdn.ampproject.org^
 ||www-e-va.com^
 ||www-gayromeo.com^
 ||www-google-analytics.l.google.com^
@@ -78561,6 +78599,7 @@
 ||x7xirtzmot.com^
 ||x8.club^
 ||x8.sarashi.com^
+||x8.vin^
 ||x888x.myserver.org^
 ||x8x.dyndns.dk^
 ||x8x.trickip.net^
@@ -78940,6 +78979,7 @@
 ||xlounge.ru^
 ||xlspkqpnnqj.com^
 ||xlxamrkeiawkco.com^
+||xm0siulufost.com^
 ||xm223.cn^
 ||xm9178.com^
 ||xmas-xmas-wow.com^
@@ -78991,6 +79031,7 @@
 ||xmrchaqjwqyvz.com^
 ||xmrepair.com^
 ||xmrpool.net^
+||xmrzw.cn^
 ||xmseaside.com^
 ||xmtrk.com^
 ||xmtsyg.com^
@@ -80858,6 +80899,7 @@
 ||zbest.in^
 ||zbet.com^
 ||zbet.vn^
+||zbet.win^
 ||zbetter.org^
 ||zbieo.com^
 ||zbierajnagrody.bo.pl^
@@ -81375,6 +81417,7 @@
 ||znuwbselijsmyj.com^
 ||znxvuabzgm.com^
 ||znztvqgtaivf.com^
+||zo.club^
 ||zo.game^
 ||zoacaups.net^
 ||zoafoaho.net^
