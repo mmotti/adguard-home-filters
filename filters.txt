@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 01-07-2020 23:50 BST
-! Count: 81,793
+! Last Modified: 02-07-2020 23:50 BST
+! Count: 81,824
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -399,7 +399,6 @@
 ||105app.com^
 ||105vibe.com^
 ||108shot.com^
-||109-204-26-16.netconnexion.managedbroadband.co.uk^
 ||1097834592.rsc.cdn77.org^
 ||10a053584f01fcaeab1.com^
 ||10b883b3d61d.com^
@@ -554,6 +553,7 @@
 ||1686607364.rsc.cdn77.org^
 ||168logger.com^
 ||168xiazai.com^
+||169bj.cn^
 ||16aq.cn^
 ||16e2ae8f200d975b.com^
 ||16js.org^
@@ -834,6 +834,7 @@
 ||21robo.com^
 ||21updatechefw150218.ru^
 ||21xsk.com^
+||2227q.com^
 ||222im.com^
 ||22588888.com^
 ||226porn.info^
@@ -9709,6 +9710,7 @@
 ||amorluv.com^
 ||amorous.info^
 ||amospalla.es^
+||amountant.club^
 ||amountinue.info^
 ||amourautel.com^
 ||amouredpenguin.com^
@@ -11851,6 +11853,7 @@
 ||assigmentsabroadtimes.com^
 ||assigned.cn^
 ||assilah.info^
+||assionwreckl.top^
 ||assistafilmeonline.com^
 ||assistindoseries.net^
 ||assistirfilmesonlinehd.org^
@@ -16690,6 +16693,7 @@
 ||cacp-hlb.doubleverify.com^
 ||cactusglobal.io^
 ||cacuoc247.com^
+||cacuoc79.com^
 ||cad.chosun.com^
 ||cad.donga.com^
 ||cadastroacesso.info^
@@ -20057,6 +20061,7 @@
 ||condenast-c.sailthru.com^
 ||condenastestore.com^
 ||conderedtoget.info^
+||condindered.club^
 ||conditioncrush.com^
 ||condombazar.com^
 ||conds.ru^
@@ -21106,6 +21111,7 @@
 ||cremesp.org^
 ||creofive.com^
 ||creofun.com^
+||cretaiformac.top^
 ||crewardscyprus.top^
 ||crewbuxonline.com^
 ||crewita.co^
@@ -23889,6 +23895,7 @@
 ||dj-updates.com^
 ||dj.renren.com^
 ||dj1.baidu.com^
+||dj4odketdva9s.cloudfront.net^
 ||djagrjpaoek.com^
 ||djarumgol.com^
 ||djax.com^
@@ -25926,6 +25933,7 @@
 ||eee3a05c040fef3.com^
 ||eeepadhacks.net^
 ||eeepia.info^
+||eeer.ren^
 ||eeewax.de^
 ||eefiywjjzxry.com^
 ||eeftordu.net^
@@ -26682,6 +26690,7 @@
 ||entfernungen.org^
 ||enthusiasticdad.com^
 ||enticelabs.com^
+||entiethmenti.top^
 ||entimee.com^
 ||entineffieldsta.site^
 ||entitlements.jwplayer.com^
@@ -33549,6 +33558,7 @@
 ||h92zbpn4zcv1.com^
 ||h9377c.com^
 ||h9tkd.rdtk.io^
+||h9wk2.cn^
 ||ha-api.pushwoosh.com^
 ||ha-askfm.pushwoosh.com^
 ||ha.pushwoosh.com^
@@ -38274,6 +38284,7 @@
 ||jacketspolska.cn^
 ||jackettrain.com^
 ||jackiessev.info^
+||jacklm1.com^
 ||jacobeshort.pro^
 ||jacobscreekwimbeldon.com^
 ||jacquesandhrel.pl^
@@ -39611,6 +39622,7 @@
 ||k8s-mock-server.hb-fa-dev.omtrdc.net^
 ||k8vn03.com^
 ||k9k3thin.org^
+||k9wz7.cn^
 ||ka.bar.need2find.com^
 ||ka12138.top^
 ||ka5188.com^
@@ -42105,6 +42117,7 @@
 ||lichsuvietnam.info^
 ||lichtpass.com^
 ||lichyela.ru^
+||licitventiethv.top^
 ||liczniki.org^
 ||lida.co.il^
 ||liderfilmeseseriesdublado.com^
@@ -42817,6 +42830,7 @@
 ||log.appscomeon.com^
 ||log.artipbox.net^
 ||log.baodatviet.vn^
+||log.baodauthau.vn^
 ||log.baomoi.com^
 ||log.baophapluat.vn^
 ||log.batdongsan.com.vn^
@@ -44927,6 +44941,7 @@
 ||mcount.ru^
 ||mcpdomain.com^
 ||mcphospital.com^
+||mcrevawzwfopj.adserver.com^
 ||mcrzrxwrtpr.com^
 ||mcs.byted.org^
 ||mcs.delvenetworks.com^
@@ -52783,6 +52798,7 @@
 ||ox.furaffinity.net^
 ||ox.hoosiertimes.com^
 ||ox.tossoffads.com^
+||ox11.com^
 ||ox2.sterta.pl^
 ||oxado.com^
 ||oxanehlscsry.com^
@@ -57003,6 +57019,7 @@
 ||pu.trafficshop.com^
 ||pub-fit.com^
 ||pub-qa.doubleverify.com^
+||pub-staging.doubleverify.com^
 ||pub-test.doubleverify.com^
 ||pub-thanhnien.advenueplatform.com^
 ||pub.admedia.io^
@@ -59235,6 +59252,7 @@
 ||realwap.net^
 ||realylink.org^
 ||realytics.io^
+||realytics.net^
 ||realzeit.io^
 ||reargooduches.pro^
 ||rearsets.info^
@@ -61009,6 +61027,7 @@
 ||ruletka-systemy.com^
 ||ruletkasystem.eu^
 ||rum.conde.io^
+||rum.kobo.com^
 ||rum.marquardmedia.hu^
 ||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
@@ -63761,6 +63780,7 @@
 ||sienna-redkennel.com^
 ||sierra-tradingpost.com^
 ||sierrastair.com^
+||sieubomtan.com^
 ||sifangclub1.info^
 ||sifangtu.info^
 ||siferdeveno.info^
@@ -67050,6 +67070,7 @@
 ||storecor.net^
 ||storefront.nr-assets.net^
 ||storegoogle.com^
+||stores-counters.wix.com^
 ||storesurprise.com^
 ||storetail.io^
 ||storibook.info^
@@ -68321,6 +68342,7 @@
 ||tailsweep.com^
 ||tailsweep.se^
 ||tailtarget.com^
+||taimacau.club^
 ||taingheiphone.info^
 ||tainhac.org^
 ||taiphaib.net^
@@ -70352,6 +70374,7 @@
 ||tools.ranker.com^
 ||tools.runetki.co^
 ||tools.ztod.com^
+||toolset.vip^
 ||toolsins.com^
 ||toon-families.com^
 ||toonfamilies.net^
@@ -72532,6 +72555,7 @@
 ||ts.rtl.de^
 ||ts166.net^
 ||ts2.hockey-talks.com^
+||ts2a1s.com^
 ||ts3cardd.com^
 ||ts4kh2l1.info^
 ||tsabcc.org^
@@ -73802,7 +73826,7 @@
 ||up-poczta-polska.net^
 ||up-rank.com^
 ||up.boston.com^
-||up.gtorrent.ru^
+||up.gtorrent.org^
 ||up.hiao.com^
 ||up.mykings.pw^
 ||up.nytimes.com^
@@ -73984,6 +74008,7 @@
 ||uredy.top^
 ||uremechangec.info^
 ||urercontalproces.info^
+||ureticrelingse.top^
 ||urfdvrrg.com^
 ||urgentcareoffairfield.com^
 ||urgentwinupdates.com^
@@ -78205,6 +78230,7 @@
 ||www69.ugly.as^
 ||www7.securybrowse.com^
 ||www7.ygto.com^
+||www7445.adserver.com^
 ||www8.ir^
 ||www8.ns01.us^
 ||www9.collectiblestoday.com^
@@ -78649,6 +78675,7 @@
 ||xasf32easzx.appspot.com^
 ||xasuekjguyub.com^
 ||xauhsixqkymkra.com^
+||xauthorous.club^
 ||xav11.info^
 ||xavingtsun.com^
 ||xawab.com^
@@ -79578,6 +79605,7 @@
 ||xycnzz.com^
 ||xyepsjnt.com^
 ||xyfex.com^
+||xylmdm.top^
 ||xylnwusfiyq.com^
 ||xymtglljft.com^
 ||xyssp.com^
@@ -79639,6 +79667,7 @@
 ||yaahomail.com^
 ||yaaqsdteo.com^
 ||yab-adimages.s3.amazonaws.com^
+||yaba.org.cn^
 ||yabancidiziizle.org^
 ||yaboshadi.com^
 ||yabtube.com^
@@ -79776,6 +79805,7 @@
 ||yckdywmihuabu.com^
 ||yclxrj.top^
 ||ycmou.org^
+||ycorsementh.top^
 ||ycuuzufqwsk.com^
 ||ycxtpbfcsl.com^
 ||ycyrgutjregkw.com^
@@ -80640,6 +80670,7 @@
 ||ywuyrhkaiat.com^
 ||ywvcomputerprocess.info^
 ||ywxi.net^
+||ywxtmox.cn^
 ||ywywjrlbsuv.com^
 ||yx-ads6.com^
 ||yx-in-f108.1e100.net^
