@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 05-07-2020 23:50 BST
-! Count: 79,689
+! Last Modified: 06-07-2020 23:50 BST
+! Count: 79,723
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -104,6 +104,7 @@
 ||000free.us^
 ||000tristanprod.free.fr^
 ||000webhostapp.com^
+||002-1573235679.ap-northeast-1.elb.amazonaws.com^
 ||0024aaaa.com^
 ||0026645142c89aeb1.com^
 ||003store.com^
@@ -2857,6 +2858,7 @@
 ||abmr.net^
 ||abn.ldschurch.org^
 ||abnad.net^
+||abnormaticn.club^
 ||abo.prismamediadigital.com^
 ||aboardamusement.com^
 ||aboardlevel.com^
@@ -7267,6 +7269,7 @@
 ||adsk2.co^
 ||adskape.ru^
 ||adskeeper.co.uk^
+||adskeeper.com^
 ||adsklick.de^
 ||adskom.com^
 ||adskpak.com^
@@ -9424,7 +9427,6 @@
 ||altid-ad.com^
 ||altissimo.net^
 ||altitude-arena.com^
-||altjar.net^
 ||altmedia101.com^
 ||altpool.pro^
 ||altpubli.com^
@@ -9555,6 +9557,7 @@
 ||amcpusvcit.com^
 ||amctp.net^
 ||amcvote.com^
+||amdaws.com^
 ||amdc.m.taobao.com.adserver.com^
 ||amdc.m.taobao.com.jaadser.adserver.com^
 ||amdc.m.taobao.com^
@@ -10792,6 +10795,7 @@
 ||api.usebutton.com^
 ||api.usersnap.com^
 ||api.userstyles.org^
+||api.vanilla.futurecdn.net^
 ||api.veritix.com^
 ||api.videoadda.uodoo.com^
 ||api.videometrics.ted.com^
@@ -15859,6 +15863,7 @@
 ||businessfinansial.com^
 ||businessphonestech.com^
 ||businesspuls.online^
+||busingleni.club^
 ||busions.com^
 ||busjav.info^
 ||buspar.1.p2l.info^
@@ -16508,6 +16513,7 @@
 ||camiliana.pl^
 ||camiocw.com^
 ||campadv.ga^
+||campagnessm.club^
 ||campaign-archive.com^
 ||campaign-tapad.s3.amazonaws.com^
 ||campaign.adobe.com^
@@ -16678,6 +16684,7 @@
 ||careers-rewardpath.com^
 ||careers.canwestad.net^
 ||careersunitedhealthgroup.com^
+||carefuseds.club^
 ||caremore.org^
 ||carepointcu.org^
 ||carfoxonline.com^
@@ -16907,6 +16914,7 @@
 ||cbdjzemui.com^
 ||cbdm.weathercn.com^
 ||cbdnewsdirect.com^
+||cbe.capturehighered.net^
 ||cbeao.com^
 ||cbeckads.com^
 ||cben1.net^
@@ -19166,6 +19174,7 @@
 ||cogsdev.org^
 ||cogsdigital.com^
 ||coguan.com^
+||cogwheel.inventory.schibsted.io^
 ||cohesionapps.com^
 ||coin-ad.com^
 ||coin-cube.com^
@@ -19241,6 +19250,7 @@
 ||collect.media.jio.com^
 ||collect.rewardstyle.com^
 ||collect.sas.com^
+||collect.state.centrum24.pl^
 ||collect.tianya.cn^
 ||collect.usefathom.com^
 ||collect10059bltbg.deltadna.net^
@@ -20423,6 +20433,7 @@
 ||cpshwl.cn^
 ||cpspu.com^
 ||cpt.itv.com^
+||cpt.test.technolutions.net^
 ||cptrack.de^
 ||cptycdzksyvn.com^
 ||cpu.baidu.com^
@@ -21445,6 +21456,7 @@
 ||d1zfhhmz4n1jvq.cloudfront.net^
 ||d1zgderxoe1a.cloudfront.net^
 ||d1zkodo2u3p4pe.cloudfront.net^
+||d1zokzhal29fpg.cloudfront.net^
 ||d2-apps.net^
 ||d2.sina.com.cn^
 ||d20duyjzb7cuoc.cloudfront.net^
@@ -21574,6 +21586,7 @@
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
 ||d2u1npnnqecmpq.cloudfront.net^
+||d2uap9jskdzp2.cloudfront.net^
 ||d2ubx2mpeq0x2u.cloudfront.net^
 ||d2ue9k1rhsumed.cloudfront.net^
 ||d2uepos3ef6db0.cloudfront.net^
@@ -21628,6 +21641,7 @@
 ||d36wtdrdo22bqa.cloudfront.net^
 ||d36zfztxfflmqo.cloudfront.net^
 ||d37s9vd5t6mov7.cloudfront.net^
+||d3821qbxooayyy.cloudfront.net^
 ||d395dw5zk780j2.cloudfront.net^
 ||d396ihyrqc81w.cloudfront.net^
 ||d39hdzmeufnl50.cloudfront.net^
@@ -21670,6 +21684,7 @@
 ||d3id4jppiyyek8.cloudfront.net^
 ||d3iouejux1os58.cloudfront.net^
 ||d3iz6lralvg77g.cloudfront.net^
+||d3iz8yddtnmavc.cloudfront.net^
 ||d3j1weegxvu8ns.cloudfront.net^
 ||d3jgr4uve1d188.cloudfront.net^
 ||d3kblkhdtjv0tf.cloudfront.net^
@@ -24672,6 +24687,7 @@
 ||dz1vmszs6rjp8.cloudfront.net^
 ||dz2fz0bgyq9tn.cloudfront.net^
 ||dz4ad.com^
+||dz9qn8fh4jznm.cloudfront.net^
 ||dzacosgvnz.com^
 ||dzairads.com^
 ||dzaphjajrisgr.com^
@@ -25005,6 +25021,7 @@
 ||easydownload4you.com^
 ||easydownloadnow.com^
 ||easyflirt-partners.biz^
+||easygdpr.b-cdn.net^
 ||easyhash.de^
 ||easyhash.io^
 ||easyhet.com^
@@ -25263,6 +25280,7 @@
 ||editorm.tk^
 ||ediun.com^
 ||edjin.org^
+||edjokerned.space^
 ||edle-stuecke.de^
 ||edlsdyhll.com^
 ||edmarketts.fun^
@@ -29324,7 +29342,6 @@
 ||freemyretrogames.com^
 ||freenapstermusic.com^
 ||freenation.com^
-||freenet.info^
 ||freenew.net^
 ||freenewpeoplehere.com^
 ||freenewwebgames.com^
@@ -30746,6 +30763,7 @@
 ||geoloc.hurriyet.com.tr^
 ||geolocation-api.invisionapp.com^
 ||geolocation-db.com^
+||geolocation.1trust.app^
 ||geolocation.forbes.com^
 ||geolocation.nextday.media^
 ||geolocation.onetrust.com^
@@ -34867,6 +34885,7 @@
 ||i.static.zaplata.bg^
 ||i.syasn.com^
 ||i.track112.site^
+||i.tryinteract.com^
 ||i.vcimg.jp^
 ||i.viafoura.co^
 ||i.zhuoyaju.com^
@@ -35350,6 +35369,7 @@
 ||iicdn.com^
 ||iicheewi.com^
 ||iid-network.jp^
+||iidfxj.com^
 ||iidfyyelvijfk.com^
 ||iigushi.com^
 ||iihoneyjoo.com^
@@ -37490,7 +37510,6 @@
 ||jcpeenys.com^
 ||jcpenne.com^
 ||jcpenneeys.com^
-||jcpennet.net^
 ||jcpenneygiftcard.com^
 ||jcpenneyscreditcard.com^
 ||jcpenneyshomestore.com^
@@ -39208,6 +39227,7 @@
 ||king-gays.com^
 ||kingads.net^
 ||kingfish.fishing.net.nz^
+||kingicking.club^
 ||kingithinref.club^
 ||kingland.pl^
 ||kingm.info^
@@ -45739,7 +45759,6 @@
 ||modules.wcax.com^
 ||moduloprestamos.org^
 ||modwebpro.pl^
-||moe-lovers.net^
 ||moe.video^
 ||moengagewebsdk.imgix.net^
 ||moerbisch.info^
@@ -47638,6 +47657,7 @@
 ||ndndasyo.com^
 ||ndparking.com^
 ||ndprxvzgy.com^
+||ndreammin.space^
 ||ndricshoweverau.info^
 ||ndrs.cloud^
 ||ndsinternanhono.info^
@@ -50236,6 +50256,7 @@
 ||omniture.stuff.co.nz^
 ||omniture.theglobeandmail.com^
 ||omnituretrack.local.com^
+||omnivirt.com^
 ||omoaxaus.net^
 ||omotenashi.cygames.jp^
 ||omotorax.ru^
@@ -50787,6 +50808,7 @@
 ||ops.appdynamics.com^
 ||opserver01.iti.net.pk^
 ||opsivesh.net^
+||opsoomet.net^
 ||opsooque.com^
 ||opsugg.info^
 ||opt-east.media.net^
@@ -51601,6 +51623,7 @@
 ||pacificbreezealpacas.com^
 ||pacificnet.host^
 ||pacificnet.xyz^
+||pacitiesbo.info^
 ||packages.appdynamics.com^
 ||packages.dmd.metaservices.microsoft.com.akadns.net^
 ||packagetrak.com^
@@ -60576,6 +60599,7 @@
 ||sdk.out.usbla.net^
 ||sdk.palmplaystore.com^
 ||sdk.popjam.com^
+||sdk.postscript.io^
 ||sdk.promoadx.com^
 ||sdk.push.mob.com^
 ||sdk.qikify.com^
@@ -62630,6 +62654,7 @@
 ||slideff.com^
 ||slightlyoffcenter.net^
 ||slikslik.com^
+||slim-tracking-dev.capturehighered.net^
 ||slimak-pozyczki.pl^
 ||slimcutmedia.com^
 ||slimescortgirls.info^
@@ -62880,6 +62905,7 @@
 ||smetrics.babycenter.com^
 ||smetrics.bestbuy.com^
 ||smetrics.boston.com^
+||smetrics.bostonglobe.com^
 ||smetrics.capitalone.com^
 ||smetrics.cbc.ca^
 ||smetrics.centurylink.com^
@@ -64062,6 +64088,7 @@
 ||srd.simba.taobao.com^
 ||sremlak.com^
 ||srepdata.desmoinesregister.com^
+||srepdata.freep.com^
 ||srepdata.gannettdigital.com^
 ||srepdata.tennessean.com^
 ||srepdata.usatoday.com^
@@ -67255,6 +67282,7 @@
 ||temporary.nsx.pl^
 ||temporarymail.org^
 ||tenantsclub.org^
+||tend-new.com^
 ||tend.io^
 ||tendance.info^
 ||tendatta.com^
@@ -67568,6 +67596,7 @@
 ||theamricandishtv.com^
 ||theannoyingsite.com^
 ||theappgrader.com^
+||theappreciationengine.com^
 ||thearcitonseveng.pro^
 ||theargus-gb.theargus.co.uk^
 ||thearthousegallery.org^
@@ -68385,6 +68414,7 @@
 ||todaysnewsupdates.net^
 ||todaytvseries.net^
 ||todocolombia.info^
+||todoensobrepesoyobesidad.org^
 ||todolize.com^
 ||toe-corrector-pl.com^
 ||toeapesob.com^
@@ -70719,6 +70749,7 @@
 ||ttauri.laptopmag.com^
 ||ttauri.livescience.com^
 ||ttauri.loudersound.com^
+||ttauri.space.com^
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
 ||ttauri.whathifi.com^
@@ -74594,6 +74625,7 @@
 ||webcompteur.com^
 ||webconnect.net^
 ||webcontentassessor.com^
+||webcontentassessor.global.ssl.fastly.net^
 ||webcontentdelivery.info^
 ||webcounter.co.za^
 ||webcounter.com^
@@ -74977,6 +75009,7 @@
 ||westseal.com^
 ||westsidehsfaculty.org^
 ||westtnanimalrescue.org^
+||westwarese.club^
 ||westwindsminiatures.com^
 ||wesua.info^
 ||wetdevils.com^
@@ -77026,6 +77059,7 @@
 ||xn--4dbsaaas6a2ce.co.il^
 ||xn--4dbsmb8c.co.il^
 ||xn--4gq162d24cmxe.net^
+||xn--4gqqc629gbju.com^
 ||xn--4gqvdz18f.xyz^
 ||xn--5db1cab.xn--9dbq2a^
 ||xn--5dbedckege9k.co.il^
