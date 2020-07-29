@@ -1,13 +1,14 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 29-07-2020 17:50 BST
-! Count: 81,663
+! Last Modified: 29-07-2020 18:17 BST
+! Count: 81,665
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
 ! https://easylist.to/easylist/easyprivacy.txt
 ! https://filters.adtidy.org/extension/chromium/filters/15.txt
 ! https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+! https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/whitelist.txt
 ! https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 !
 ! ⠐⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠂
@@ -56,6 +57,7 @@
 @@||cindyholbrook.lpages.co^
 @@||cj.dotomi.com^
 @@||click.simba.taobao.com^
+@@||clouds.archive.ubuntu.com^
 @@||cm-beacon.nakanohito.jp^
 @@||cm-widget.nakanohito.jp^
 @@||cs.silverpop.com^
@@ -26830,6 +26832,7 @@
 ||ei.imbucurator-de-prost.com^
 ||ei4f.cn^
 ||eiceresources.org^
+||eicularentif.club^
 ||eiecaw.com^
 ||eieocp6mdu59.com^
 ||eifgaz.info^

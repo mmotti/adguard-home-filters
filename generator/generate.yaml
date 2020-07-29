@@ -18,6 +18,7 @@ remote_files:
   regex:
     - https://raw.githubusercontent.com/mmotti/pihole-regex/master/regex.list
   filters:
+    - https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/whitelist.txt
     - https://easylist.to/easylist/easylist.txt
     - https://easylist.to/easylist/easyprivacy.txt
     - https://filters.adtidy.org/extension/chromium/filters/15.txt
