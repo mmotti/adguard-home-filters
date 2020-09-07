@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 06-09-2020 23:50 BST
-! Count: 79,725
+! Last Modified: 07-09-2020 23:50 BST
+! Count: 79,748
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -822,7 +822,6 @@
 ||20afcc1f257.com^
 ||20d625b48e.se^
 ||20dollars2surf.com^
-||20eth.com^
 ||20min.app.tamedia.click^
 ||20pascals.nl^
 ||21.cizhibaogao.org^
@@ -1611,6 +1610,7 @@
 ||58b291f917728a2.com^
 ||58f7c1ff30eb.com^
 ||58jcdz.cn^
+||58xiangka.com^
 ||59-106-20-39.r-bl100.sakura.ne.jp^
 ||59055.cn^
 ||592man.com^
@@ -7951,6 +7951,7 @@
 ||adx.atnext.com^
 ||adx.chip.de^
 ||adx.com.ru^
+||adx.edutimes.com.vn^
 ||adx.fotoaparat.cz^
 ||adx.gainesvillesun.com^
 ||adx.gainesvillsun.com^
@@ -11393,6 +11394,7 @@
 ||ascend.ai^
 ||ascentive.com^
 ||ascraftan.com^
+||asdasdad.net^
 ||asdasdd.com^
 ||asdfanlli-jdna.org^
 ||asdhit.com^
@@ -14127,6 +14129,7 @@
 ||bigchoicegroup.com^
 ||bigclick.me^
 ||bigclicks.com^
+||bigcoob.xyz^
 ||bigcooc.xyz^
 ||bigcood.xyz^
 ||bigdata.riamedia.com.ua^
@@ -14175,6 +14178,7 @@
 ||bigtus.com^
 ||bigunok.club^
 ||bigyapan.hamropatro.com^
+||bihaipack.com^
 ||bihutg.com^
 ||biip.info^
 ||bijscode.com^
@@ -14235,35 +14239,25 @@
 ||binadroid.com^
 ||binance-airdro.online^
 ||binance-cryptovaganza.org^
-||binance-gift.pro^
 ||binance-gives.com^
 ||binance-team.tech^
 ||binance-trade.com^
 ||binance10x.com^
-||binance2.club^
 ||binance2.com^
-||binance2.vip^
 ||binance2x.com^
 ||binancebegin.com^
 ||binancedeals.com^
 ||binancedeals.net^
 ||binanceforce.com^
 ||binanceforce.net^
-||binancefree.net^
 ||binancefund.net^
-||binancegiveaway.exchange^
 ||binancegiveaway.net^
 ||binancegiveaway.top^
-||binancejoin.net^
-||binancemega.net^
-||binancenow.net^
 ||binancestart.com^
 ||binancestart.net^
-||binancesuper.net^
 ||binancetake.net^
 ||binanceteam.net^
 ||binanceteams.net^
-||binancevalue.com^
 ||binancevisit.net^
 ||binaryad.com^
 ||binarybusiness.de^
@@ -15199,7 +15193,6 @@
 ||bradbtc.com^
 ||bradescoacesso.info^
 ||bradescocliente.info^
-||bradripple.com^
 ||brahe.apptimize.com^
 ||brain.rtb.revcloud.net^
 ||braincash.com^
@@ -16890,6 +16883,7 @@
 ||ccgateway.net^
 ||cchfjz.com^
 ||ccinet.info^
+||ccji.cc^
 ||ccjxybj.cn^
 ||ccleaner.fr^
 ||cclove12.info^
@@ -17709,6 +17703,7 @@
 ||checkyourgameschartpos.com^
 ||checkyourgeo.info^
 ||cheekybanners.com^
+||cheeltee.net^
 ||cheerfulrange.com^
 ||cheewait.net^
 ||cheezburger-analytics.com^
@@ -20499,6 +20494,7 @@
 ||creative.ad121m.com^
 ||creative.ak.facebook.com^
 ||creative.dload.ca^
+||creative.fapsite.com^
 ||creative.medianexusnetwork.com^
 ||creative.mlsat02.de^
 ||creative.mlsat03.de^
@@ -23705,6 +23701,7 @@
 ||domainsworld.info^
 ||domalt.info^
 ||dombitut.info^
+||dombnrs.com^
 ||dombuczki.pl^
 ||domdex.com^
 ||domekpoddebami.pl^
@@ -27319,6 +27316,7 @@
 ||facebookunblocking.com^
 ||faceboook-replyei0ki.montadalitihad.com^
 ||facebouk.site^
+||facebruek.online^
 ||facedesign.pl^
 ||faceeboc.com^
 ||faceinholecom.com^
@@ -27390,6 +27388,7 @@
 ||fairfieldgetaways.com^
 ||fairlink.ru^
 ||fairnessels.com^
+||fairnessenhancedisposal.com^
 ||fairplay.company^
 ||fairyceiling.com^
 ||fairygardening.org^
@@ -31533,6 +31532,7 @@
 ||go.conversionmasters.com^
 ||go.data1rtb.com^
 ||go.ero-advertising.com^
+||go.fapsite.com^
 ||go.game2me.cn^
 ||go.goroost.com^
 ||go.hangzhou.com.cn^
@@ -31815,6 +31815,7 @@
 ||googlecalender.com^
 ||googledrie.com^
 ||googlemaail.com^
+||googlemaprs.com^
 ||googlemapsd.com^
 ||googlenewssubmit.com^
 ||googleoptimize.com^
@@ -31941,6 +31942,7 @@
 ||gotraff.ru^
 ||gotraffic.net^
 ||gotrk.net^
+||gotrkpp.com^
 ||gotrlayh.com^
 ||gotwebsite1.com^
 ||gou1zhe.com^
@@ -32077,6 +32079,7 @@
 ||granicasportu.pl^
 ||granify.com^
 ||granit-zur.pl^
+||graniteacquitcharacteristic.com^
 ||granitowyogrod.pl^
 ||grannyvideos69.com^
 ||granolamogleys.com^
@@ -32838,6 +32841,7 @@
 ||haikouweixun.com^
 ||haikunatura.com^
 ||hail-reporting.tutelatechnologies.com^
+||hailstoneclayfairy.com^
 ||haimaokj.com^
 ||hainufamliy.top^
 ||hair-dos.resourcesarchive.com^
@@ -39884,6 +39888,7 @@
 ||konkursynagrody.pl^
 ||kono-research.de^
 ||konp.info^
+||konsan.info^
 ||konstancjanieruchomosci.com.pl^
 ||konstantin.freespaces.com^
 ||kont-news.com^
@@ -42020,6 +42025,7 @@
 ||log.cizion.com^
 ||log.cnt.re^
 ||log.codemarketing.cloud^
+||log.dantocmiennui.vn^
 ||log.data.disney.com^
 ||log.deutschegrammophon.com^
 ||log.droid4x.cn^
@@ -45144,6 +45150,7 @@
 ||mfsa.info^
 ||mftmyrzoxtfx.com^
 ||mftracking.com^
+||mftxszpy.com^
 ||mfwfpucpfya.com^
 ||mfwjyreguafi.com^
 ||mfxjgymma.com^
@@ -45331,6 +45338,7 @@
 ||mightymagoo.com^
 ||mignoops.net^
 ||mignpaybmqkcy.com^
+||migongetlucky.com^
 ||mihandwonlod.com^
 ||mijnbladopdemat.nl^
 ||mijnneckerman.com^
@@ -46095,6 +46103,7 @@
 ||modestneed.org^
 ||modgirtspod.work^
 ||modi4moda.com^
+||modificant.club^
 ||modifyeyes.com^
 ||modotoi.com^
 ||modraytor.com^
@@ -46643,6 +46652,7 @@
 ||mrvineforum.pk^
 ||mrxman.info^
 ||mrycwz.com^
+||mrzikj.com^
 ||mrzpfpgh.com^
 ||ms-ads.prod.cloud.ogury.io^
 ||ms-data-collection.prod.cloud.ogury.io^
@@ -48120,6 +48130,7 @@
 ||nejmqianyan.cn^
 ||neki.org^
 ||nekkel.pl^
+||neko299.info^
 ||nekretnine-srbija.info^
 ||nekstra.com^
 ||nellyticket.beast-space.com^
@@ -49243,6 +49254,7 @@
 ||noweinformacje.icu^
 ||nowenktanio.pl^
 ||nowgetsoft.pushingnewforcontentsafeload.download^
+||nowhiteguilt.org^
 ||nowina-pb.pl^
 ||nowina.info^
 ||nowinki.blog-online.eu^
@@ -51268,6 +51280,7 @@
 ||optmstr.com^
 ||optnmnstr.com^
 ||optnmstr.com^
+||optnx.com^
 ||optofine.net^
 ||optorb.com^
 ||optrainingcenter.com^
@@ -54815,6 +54828,7 @@
 ||praddpro.de^
 ||pradma.com^
 ||praganytu.club^
+||praght.tech^
 ||pragroup.co.il^
 ||praisesalways.ddns.net^
 ||praize19791.duckdns.org^
@@ -57696,6 +57710,7 @@
 ||redhotchilli.co.uk^
 ||redhotfreebies.co.uk^
 ||redhotrealty.info^
+||redice.tv^
 ||redichat.com^
 ||rediffmaul.com^
 ||redintelligence.net^
@@ -58238,6 +58253,7 @@
 ||responservbzh.icu^
 ||responserver.com^
 ||responsetap.com^
+||responsibilityimplied.com^
 ||responsibletraining.org^
 ||responsidejo.club^
 ||responsiveads.com^
@@ -61746,6 +61762,7 @@
 ||shentupk85.com^
 ||shentuwang1.com^
 ||shenyunkeji.com^
+||shepeekr.net^
 ||sher.index.hu^
 ||sheriff.info^
 ||sheriff.liveperson.net^
@@ -62709,6 +62726,7 @@
 ||smallmovieapp.com^
 ||smallponder.net^
 ||smalltownboys.org^
+||smallvideoapp.com^
 ||smallwondersblog.org^
 ||smaragd-shop.com^
 ||smart-ad.sakura.ne.jp^
@@ -63399,7 +63417,6 @@
 ||southene.club^
 ||southernrailway.org^
 ||southernwestairlines.com^
-||southglosstrays.org^
 ||southparkstoudios.com^
 ||southpawrescue.org^
 ||southwalesargus-gb.southwalesargus.co.uk^
@@ -63554,7 +63571,6 @@
 ||spacex-btc.info^
 ||spacex.bz^
 ||spacex.tips^
-||spacexbonus.com^
 ||spacexdrop.info^
 ||spacexfunds-participate.com^
 ||spacexvisitorcenter.xyz^
@@ -64538,6 +64554,7 @@
 ||stat.ustore.bz^
 ||stat.uuu9.com^
 ||stat.v.baidu.com^
+||stat.valica.it^
 ||stat.web-regie.com^
 ||stat.webevolutis.com^
 ||stat.webmedia.pl^
@@ -67326,6 +67343,7 @@
 ||termstal.cba.pl^
 ||ternos.org^
 ||teromil.com^
+||terpeditors.club^
 ||terra-dal-gharb.pt^
 ||terra8nb.com^
 ||terrabio.net^
@@ -67677,6 +67695,7 @@
 ||thefuncoolstuff.com^
 ||thefxarchive.com^
 ||thegettinginstallmentmoney.com^
+||thegreatorder.com^
 ||thegreenspace.org^
 ||thegreenzoneblog.com^
 ||theguidetointernetriches.com^
@@ -70638,6 +70657,7 @@
 ||tudnodkel.blogspot.com^
 ||tudnodkell.info^
 ||tudonumsonho.blogspot.com^
+||tudotecnologia.site^
 ||tuesyuioodpps.xyz^
 ||tufafo.com^
 ||tugaflix.info^
@@ -70830,6 +70850,7 @@
 ||twenty20experience.blogspot.com^
 ||twentycustomimprovement.com^
 ||twentyemails.info^
+||twentyone.info^
 ||twentypastfour.com^
 ||tweowhvrim.review^
 ||twetar.com^
@@ -73532,6 +73553,7 @@
 ||vnfkd.com^
 ||vngztuqon.com^
 ||vnitservice.com^
+||vniwis.pro^
 ||vnjeqfwmotkvbg.com^
 ||vnl1.voyage-prive.nl^
 ||vnlacoste.com^
@@ -75060,6 +75082,7 @@
 ||whitebearcommunityservices.org^
 ||whiteboardnez.com^
 ||whitective.club^
+||whitedate.net^
 ||whitehalfabrr.club^
 ||whitehorsetechnologies.net^
 ||whitelabel.media.net^
