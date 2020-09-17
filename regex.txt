@@ -1,6 +1,6 @@
 ! Title: MMotti AdguardHome - regex.txt
 ! Description: Regular expressions generated from various sources for advanced filtering for use with AdGuard Home.
-! Last Modified: 09-09-2020 23:50 BST
+! Last Modified: 17-09-2020 23:50 BST
 ! Count: 14
 !
 ! Sources:
@@ -31,7 +31,7 @@
 !
 /^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]/
 /^(.+[_.-])?telemetry[_.-]/
-/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|^.+[_.-]ad([sxv]?[0-9]*|system)[_.-]/
+/^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]/
 /^adim(age|g)s?[0-9]*[_.-]/
 /^adtrack(er|ing)?[0-9]*[_.-]/
 /^advert(s|is(ing|ements?))?[0-9]*[_.-]/
