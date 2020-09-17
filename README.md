@@ -5,7 +5,7 @@ Home.
 To use these filters, simply add the links below to your **DNS 
 Blocklists**.
 
-### filters.txt (Domains / Rules)
+### filters.txt (domains / rules)
 https://raw.githubusercontent.com/mmotti/adguard-home-filters/master/filters.txt
 
 ### regex.txt
