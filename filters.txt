@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 22-11-2020 23:50 GMT
-! Count: 82,501
+! Last Modified: 23-11-2020 23:50 GMT
+! Count: 82,553
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -588,6 +588,7 @@
 ||176um.com^
 ||177o.com^
 ||177piczz.info^
+||1784tli497ys.com^
 ||178bx.cn^
 ||17bqg.top^
 ||17chezhan.com^
@@ -2371,6 +2372,7 @@
 ||9a24a1b3dcd5f4.com^
 ||9a6wb.cn^
 ||9aad7115.amy.gs^
+||9ab6cc047a.com^
 ||9ads.mobi^
 ||9ae7c9ffe8509b0.com^
 ||9ata.ero-advertising.com^
@@ -2435,6 +2437,8 @@
 ||a-affiliate.net^
 ||a-blog.eu^
 ||a-c-engine.com^
+||a-calc.com^
+||a-calc.de^
 ||a-cast.jp^
 ||a-charming.com^
 ||a-counter.com.ua^
@@ -7425,6 +7429,7 @@
 ||adsquare.com^
 ||adsr3pg.com.br^
 ||adsrc.bankrate.com^
+||adsrefundattempts.com^
 ||adsremote.scripps.com^
 ||adsremote.scrippsnetwork.com^
 ||adsrevenue.net^
@@ -10405,6 +10410,7 @@
 ||andvqrqaeu.com^
 ||andydill.com^
 ||andyetanotherthing.com^
+||andygriffith.org^
 ||andyhoppe.com^
 ||andyshrestha.com^
 ||anefrank.org^
@@ -12768,6 +12774,7 @@
 ||b3stcond1tions.com^
 ||b3z29k1uxb.com^
 ||b400393baba7cd476a3.com^
+||b4e72c9bc99.com^
 ||b4q982rbqdsw.com^
 ||b54ah.cn^
 ||b56f9c50130def4d.com^
@@ -14018,6 +14025,7 @@
 ||bekape.co.id^
 ||bekoof.com^
 ||belajarpc.info^
+||belaya2shu1ba1.com^
 ||belazio.com^
 ||belazyelephant.com^
 ||belboon.de^
@@ -14803,8 +14811,13 @@
 ||bitcoadz.io^
 ||bitcoadz.pw^
 ||bitcoin-billion-club.com^
+||bitcoin-cashcard.com^
+||bitcoin-cashcard.de^
+||bitcoin-cashcard.eu^
 ||bitcoin-news.vip^
 ||bitcoin-pay.eu^
+||bitcoin-pocket.de^
+||bitcoin-pocket.eu^
 ||bitcoin-storm.com^
 ||bitcoin-trader-app.com^
 ||bitcoin-upappl.com^
@@ -15990,6 +16003,7 @@
 ||bryancore.org^
 ||brysj.vip^
 ||brznetwork.com^
+||bs-dante.ru^
 ||bs-meta.yandex.ru^
 ||bs.commontools.net^
 ||bs.direct^
@@ -16204,6 +16218,7 @@
 ||bulletprofitpop.com^
 ||bullito.site^
 ||bulloger.com^
+||bulovuni.pro^
 ||bultenler.klscdn.com^
 ||bultigho.net^
 ||bumaikr.com^
@@ -16301,6 +16316,7 @@
 ||bustcream-pro.com^
 ||bustedcelebrityes.com^
 ||busterzaster.de^
+||bustharmfulancestor.com^
 ||bustlinganimal.com^
 ||bustyamatuers.com^
 ||bustycast.com^
@@ -17218,6 +17234,7 @@
 ||cash4downloads.com^
 ||cash4members.com^
 ||cash4popup.de^
+||cashabstract.com^
 ||cashadvancework.com^
 ||cashandfavor.ru^
 ||cashback.co.uk^
@@ -20128,6 +20145,7 @@
 ||conf.lsosad.com^
 ||conf.placer.io^
 ||conference.convertkit.com^
+||confesschairs.com^
 ||confiant-integrations.global.ssl.fastly.net^
 ||confiant.msn.com^
 ||config-partner-platform-client-933515454346.s3.amazonaws.com^
@@ -24616,6 +24634,7 @@
 ||donreach.com^
 ||dont.pl^
 ||dontaxoaf.com^
+||dontbeevils.de^
 ||dontibar.com^
 ||dontwatch.us^
 ||doo6pwib3qngu.cloudfront.net^
@@ -27531,6 +27550,10 @@
 ||ethan.wang^
 ||ethanslayton.com^
 ||etherealhakai.com^
+||ethereum-cashcard.com^
+||ethereum-cashcard.de^
+||ethereum-cashcard.eu^
+||ethereum-pocket.com^
 ||ethereum-pocket.de^
 ||ethereum-pocket.eu^
 ||ethethoa.net^
@@ -27888,6 +27911,7 @@
 ||evnoxawvqhda.com^
 ||evnt.iol.it^
 ||evogarage.com^
+||evokeelbowsoil.com^
 ||evokeframingimpossible.com^
 ||evolutionadv.it^
 ||evolvemediallc.com^
@@ -28235,6 +28259,7 @@
 ||ezwid.com^
 ||ezytrack.com^
 ||ezzbemrabj.com^
+||ezzxpepmllgdw.com^
 ||f-ads.pl^
 ||f-counter.jp^
 ||f-counter.net^
@@ -28297,6 +28322,7 @@
 ||f8260adbf8558d6.com^
 ||f8316b45436f.com^
 ||f853150605ccb.com^
+||f85c751e0b4.com^
 ||f92j5.com^
 ||f9uri.mymobilelead.com^
 ||fa.fpt.shop^
@@ -30238,6 +30264,7 @@
 ||fourseasonscreditunion.com^
 ||fourseasonslandscapingdesign.com^
 ||fourthchoseark.com^
+||fourthug.com^
 ||fousquare.com^
 ||fout.jp^
 ||fouwazou.net^
@@ -32472,7 +32499,6 @@
 ||glassboxcdn.com^
 ||glassboxdigital.io^
 ||glassearch.com^
-||glasslytics.com^
 ||glassmoni.researchgate.net^
 ||glassslipperweddings.org^
 ||glasswipe.com^
@@ -33528,6 +33554,7 @@
 ||grommetsplaza.net^
 ||groniwepa.pro^
 ||groobsoo.com^
+||groogleh.net^
 ||groogloo.net^
 ||grooksom.com^
 ||grooptie.com^
@@ -41053,6 +41080,7 @@
 ||knc.lv^
 ||kncmdqkvnrofe.com^
 ||kndesign.com.br^
+||kneadbewitch.com^
 ||kneelarmstrong.info^
 ||knefelkurier.com^
 ||knewy.com^
@@ -44165,6 +44193,7 @@
 ||lusonada.com^
 ||lusrg.cn^
 ||lustfulgodess.com^
+||lustmanicureput.com^
 ||lustrapro.ru^
 ||lustresoonerrecalled.com^
 ||lustri.net^
@@ -45096,7 +45125,6 @@
 ||marianacruzmauricio.blogspot.com^
 ||marianasilva.info^
 ||mariechantale.com^
-||mariee-discount.com^
 ||marimedia.com^
 ||marimga.com^
 ||marina-emogirl.blogspot.com^
@@ -45517,6 +45545,7 @@
 ||mbjb1.girl13.com^
 ||mbjrejhbcaihz.com^
 ||mbledeparatea.info^
+||mblgcaczvm.com^
 ||mblkunfd.com^
 ||mbn.com.ua^
 ||mbnrn.com^
@@ -46116,6 +46145,7 @@
 ||mememakers.mobi^
 ||memfault.com^
 ||memo.co^
+||memodiketryout.com^
 ||memopilot.com^
 ||memoralegil.site^
 ||memorizeneck.com^
@@ -47129,6 +47159,7 @@
 ||mktg-offer.com^
 ||mktg.actonsoftware.com^
 ||mktg.helpscout.net^
+||mktg.schlage.com^
 ||mkto-ab090106.com^
 ||mkto-ab100012.com^
 ||mkto-ab110094.com^
@@ -48226,6 +48257,7 @@
 ||msearches.com^
 ||msecure108.com^
 ||msegeqxwopq.com^
+||msettesc.top^
 ||msg.71.am^
 ||msg.cocamobile.com^
 ||msg.ettoday.net^
@@ -48633,6 +48665,7 @@
 ||myaffiliateprogram.com^
 ||myaffiliates.com^
 ||myafr.net^
+||myagkiy2sviter11f.com^
 ||myaircel.com^
 ||myairnigerian.com^
 ||myaisec.net^
@@ -51131,6 +51164,7 @@
 ||nthsvpcd.com^
 ||nticqzrucdg.com^
 ||ntierabery.club^
+||ntkjbweenycfq.com^
 ||ntkrnlpa.info^
 ||ntlab.org^
 ||ntlligent.info^
@@ -52103,6 +52137,7 @@
 ||ohmystats.com^
 ||ohnooo.ru^
 ||ohonorpod.site^
+||ohrdsplu.com^
 ||ohrkrzvndwitaa.com^
 ||ohsatum.info^
 ||ohscoczrnhzd.com^
@@ -52672,6 +52707,7 @@
 ||ongassume.top^
 ||ongkidcasarv.com^
 ||ongsono.com^
+||onhowever.fun^
 ||onhusband.top^
 ||oniad.com^
 ||onikstrgovina.com^
@@ -54321,6 +54357,7 @@
 ||partnerx.bethub.io^
 ||partnerzyapi.ceneo.pl^
 ||partniorka.com^
+||partouba.com^
 ||partplanes.com^
 ||partsurmissdick.gq^
 ||party-date.co.il^
@@ -59827,6 +59864,7 @@
 ||recusticks.co^
 ||recwy.com^
 ||recycleries-ressourceries.org^
+||recyclesubsidedplight.com^
 ||recyclingmaim.com^
 ||recyclingworkscampaign.org^
 ||red.co.il^
@@ -60290,6 +60328,7 @@
 ||rep.exblog.jp^
 ||rep.privatesearch.club^
 ||rep0pkgr.com^
+||repairedtightslavishness.com^
 ||repairintenselyprecisefile.icu^
 ||reparasi.info^
 ||repaynik.com^
@@ -60692,6 +60731,7 @@
 ||rhudsplm.com^
 ||rhvdsplm.com^
 ||rhvfma2exjudfv.ru^
+||rhxdsplm.com^
 ||rhydel.site^
 ||rhymezebra.com^
 ||rhymezone.org^
@@ -63270,6 +63310,7 @@
 ||selectmedia.asia^
 ||selectornews.com^
 ||selectroduced.com^
+||selectserialcage.com^
 ||selerakampung.com^
 ||self-compasion.org^
 ||self-events-data.trafficmanager.net^
@@ -64764,6 +64805,7 @@
 ||skimresources.com^
 ||skin-care.1.p2l.info^
 ||skinected.com^
+||skinkexchange.com^
 ||skinsycs.89.pl^
 ||skippyfile.com^
 ||skivacation.info^
@@ -66048,6 +66090,7 @@
 ||speead.jp^
 ||speeb.com^
 ||speechmachine.org^
+||speechmomentarily.com^
 ||speectest.net^
 ||speed-dates.pl^
 ||speed-trap.com^
@@ -66237,6 +66280,7 @@
 ||sportech.co.il^
 ||sportingpro.com.ar^
 ||sportinpro.com^
+||sportivki2v1cvetocher1fh.com^
 ||sportkeeda.com^
 ||sportknp.info^
 ||sportovnivozy.com^
@@ -66401,6 +66445,7 @@
 ||sqate.io^
 ||sqdtcdjhfbztfz.com^
 ||sqext.com^
+||sqhneencmysrk.com^
 ||sqiirt.org^
 ||sqjlctmtc.com^
 ||sqkrzzggis.com^
@@ -66800,6 +66845,7 @@
 ||standardsandpraiserepurpose.com^
 ||standingnest.com^
 ||standingsack.com^
+||standnizati.fun^
 ||standtrouble.com^
 ||stanleyestatespublishing.com^
 ||stapleasadvantage.com^
@@ -72947,6 +72993,7 @@
 ||trippealbirthda.info^
 ||triptease.io^
 ||triptease.net^
+||tripti.org^
 ||trireacteurs.xyz^
 ||tritetongue.com^
 ||triton-topo.com^
@@ -73125,6 +73172,8 @@
 ||trustedmacleaner.click^
 ||trustedmacleaner.work^
 ||trustfund.info^
+||trustiseverything.de^
+||trustmeiamapro.de^
 ||trustonline.org^
 ||trustsitesite.com^
 ||trustsoft.com^
@@ -76364,6 +76413,7 @@
 ||volksfront-medien.org^
 ||volleyclub.pl^
 ||volleypila.pl^
+||volna2babla1dh1.com^
 ||vologda-info.ru^
 ||voltairnet.org^
 ||voltskegscurate.com^
@@ -77850,6 +77900,7 @@
 ||whittallshonmen.com^
 ||whittlecdn.xyz^
 ||whitwise.com^
+||whixekica.pro^
 ||whixochyxy.pro^
 ||whizstats.com^
 ||whizzco.com^
@@ -80782,6 +80833,7 @@
 ||yiyuantian.com^
 ||yizhijin.cn^
 ||yizip.corp.com^
+||yjaobumyovp.com^
 ||yjaxc.yahoo.co.jp^
 ||yjctwdeuz.com^
 ||yjdbnkgonfp.com^
