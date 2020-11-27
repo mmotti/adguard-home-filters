@@ -1,7 +1,7 @@
 ! Title: MMotti AdguardHome - filters.txt
 ! Description: Filter list generated from various sources with basic domain blocking / exception rules for use with AdGuard Home.
-! Last Modified: 25-11-2020 23:50 GMT
-! Count: 82,771
+! Last Modified: 26-11-2020 23:50 GMT
+! Count: 82,793
 !
 ! Sources:
 ! https://easylist.to/easylist/easylist.txt
@@ -389,6 +389,7 @@
 ||1000russianwomen.com^
 ||1001lingerie.com^
 ||1001movies.com^
+||1001soleils.com^
 ||1002.men^
 ||1005fdh.xyz^
 ||100602.advision-adnw.jp^
@@ -823,7 +824,6 @@
 ||2018haoyunlai.com^
 ||2018uck.org^
 ||2019-ncov-2020.com.preview.services^
-||2019god.info^
 ||201d5.cn^
 ||201mb.com^
 ||201n.com^
@@ -1392,6 +1392,7 @@
 ||420hempizone.co^
 ||423.ru^
 ||4232f0badcf.com^
+||425534.likecaser.info^
 ||42791bdc2481f6c.com^
 ||427tbezplqv5.com^
 ||42a5d530ec972d8994.com^
@@ -1401,6 +1402,7 @@
 ||431x.com^
 ||4332.ws^
 ||43711cffd26816e.com^
+||437122.likecaser.info^
 ||43d6f284d10bfbbb3.com^
 ||43plc.com^
 ||44-trk-srv.com^
@@ -1411,6 +1413,7 @@
 ||44chan.me^
 ||44dll.info^
 ||44renti.info^
+||452800.likecaser.info^
 ||45ac.eacnur.org^
 ||45f2373b26b8e2.com^
 ||45le.cn^
@@ -2332,7 +2335,6 @@
 ||95thalj5.ru^
 ||961.com^
 ||967rett6fzaf.com^
-||9696avmm.info^
 ||96av.com^
 ||96b4d58e213077161.temporary.link^
 ||96mob.com^
@@ -2409,7 +2411,6 @@
 ||9icesfaces.com^
 ||9icmzvn6.website^
 ||9ics.cn^
-||9janewswatch.info^
 ||9kff.com^
 ||9kh5b.cn^
 ||9ksj.xyz^
@@ -8880,7 +8881,6 @@
 ||airkiok.com^
 ||airlead.ru^
 ||airline-ticket.gloses.net^
-||airmalayasia.com^
 ||airmaxonlinesklep.pl^
 ||airmaxpolska.com^
 ||airmore.co^
@@ -12553,6 +12553,7 @@
 ||ax.xrea.com^
 ||axad.shinobi.jp^
 ||axadaldlozmqu.com^
+||axazusys.xyz^
 ||axbet20.com^
 ||axbetb.com^
 ||axbetb2.com^
@@ -14477,7 +14478,6 @@
 ||bhcf764sf8pg.com^
 ||bhclicks.com^
 ||bhcumsc.com^
-||bhealthynow.info^
 ||bhefry.net^
 ||bher64eljhjx.com^
 ||bheyafry.com^
@@ -14774,7 +14774,6 @@
 ||bioresearch.info^
 ||biosda.com^
 ||biostuttgart.info^
-||bioteq.org^
 ||biotopia.info^
 ||bioverlag-online.de^
 ||bioxtubes.com^
@@ -17119,7 +17118,6 @@
 ||capitulosnovela.org^
 ||capliman.com^
 ||caplitalone360.com^
-||capoint.info^
 ||capraibex.eu^
 ||capriciouscorn.com^
 ||caprofitx.adtop.com^
@@ -17859,6 +17857,7 @@
 ||cdxzcjz.cn^
 ||cdyqc.com^
 ||cdzimeijia.com^
+||ce.wlaoc.cn^
 ||ce62e0d222bc5aca.com^
 ||cea53c4833.com^
 ||ceaders.net^
@@ -18097,6 +18096,7 @@
 ||cgcukmix.com^
 ||cgeparis.org^
 ||cghc87.cn^
+||cghhml.com^
 ||cghmedia.com^
 ||cgi-view-item-co-uk.xf.cz^
 ||cgi.honesty.com^
@@ -18200,6 +18200,7 @@
 ||charging-technology.com^
 ||chargingsensationmetropolitan.com^
 ||charisministries.id^
+||charityright.com.bd^
 ||charleroi.info^
 ||charles.huqindustries.co.uk^
 ||charlesfc.com^
@@ -21054,6 +21055,7 @@
 ||cppnznmorh.com^
 ||cprekl.com^
 ||cpro.baidu.com^
+||cpro.bdrmb.cn^
 ||cpro.xixiliya.cn^
 ||cpshwl.cn^
 ||cpsirx.com^
@@ -23276,6 +23278,7 @@
 ||deepikarai.com^
 ||deepintent.com^
 ||deepknow.egoid.me^
+||deeplacer.com^
 ||deepmetrix.com^
 ||deepmix.info^
 ||deeppquiz.ru^
@@ -31050,6 +31053,7 @@
 ||funtikapa.info^
 ||funtoonez.com^
 ||funtopliste.de^
+||funtvshow.info^
 ||fuojuw.com^
 ||furgonetka.online^
 ||furgonetka.pro^
@@ -33132,6 +33136,7 @@
 ||google-sale.com^
 ||google-standard.com^
 ||google-tasks.com^
+||google.skechup.com^
 ||google444.com^
 ||googleadservices.com^
 ||googleadsserving.cn^
@@ -34027,6 +34032,7 @@
 ||gynews.info^
 ||gyoajmeq.com^
 ||gyojplgn.com^
+||gyro-n.com^
 ||gyro.appdriver.jp^
 ||gyros.es^
 ||gyrtg.com^
@@ -34602,6 +34608,7 @@
 ||headlinerlabs.com^
 ||headlinesnetwork.com^
 ||headmessi.club^
+||headphet.org^
 ||headquartercloudlessselfservice.com^
 ||headquartersbanishspook.com^
 ||headregret1.live^
@@ -35187,7 +35194,6 @@
 ||hitboxcentral.com^
 ||hitboxenterprise.com^
 ||hitboxwireless.com^
-||hitchcocked.info^
 ||hitcount.dk^
 ||hitcounter01.xspp.com^
 ||hitcounters.miarroba.com^
@@ -38820,6 +38826,7 @@
 ||iyoowi.com^
 ||iyotube.net^
 ||iyouhu.cn^
+||iyozokiz.xyz^
 ||iyptc.cn^
 ||iytfczscguf.bid^
 ||iyygzs.com^
@@ -41125,6 +41132,7 @@
 ||klubradosc.waw.pl^
 ||klubufo.pl^
 ||klubwinarzeczpospolitej.pl^
+||klurg.com^
 ||klussenbedrijven.info^
 ||klwdbmowf.com^
 ||klyunker.ru^
@@ -42107,6 +42115,7 @@
 ||lauhoosh.net^
 ||laujouty.com^
 ||lauk.icu^
+||laulb.com^
 ||launch1.co^
 ||launchbit.com^
 ||launchbuffer.com^
@@ -43178,7 +43187,6 @@
 ||livedecwow.com^
 ||livedoor-plus.com^
 ||liveengage.liveperson.net^
-||livefilm.info^
 ||livefromantigua.com^
 ||livegol.co.il^
 ||livehapp.com^
@@ -43439,6 +43447,7 @@
 ||loc.rediff.com^
 ||local-analytics.uberinternal.com^
 ||local-hot-dates.com^
+||local.hniux.cn^
 ||local.promoisland.net^
 ||localadbuy.com^
 ||localads-statistics.maps.me^
@@ -46911,6 +46920,7 @@
 ||midoweb.offerstrack.net^
 ||midsizesuvhub.com^
 ||midwayumcauburn.org^
+||midwestsportsevents.com^
 ||miegpokitjxm.com^
 ||miejscedlastudenta.pl^
 ||miejskapolka.pl^
@@ -50750,7 +50760,6 @@
 ||noebank.pl^
 ||noelmiddleton.info^
 ||noespondcob.com^
-||nofaxpaydaynq.info^
 ||nofejectontrab.info^
 ||nofferentco.club^
 ||noflake-aggregator-http.narvar.com^
@@ -51795,7 +51804,6 @@
 ||obahet.com^
 ||obaizahshita.info^
 ||obamacare-information.org^
-||obatbatukberdarah.info^
 ||obatnya.info^
 ||obaukads.com^
 ||obb.domohoziaka.ru^
@@ -52084,6 +52092,7 @@
 ||offerspacebranddns.com^
 ||offersquared.com^
 ||offerstrategy.com^
+||offerte-italia.rd1.it^
 ||offertedilavoro.info^
 ||offertrakking.info^
 ||offertunity.click^
@@ -52702,6 +52711,7 @@
 ||onads.com^
 ||onadstracker.com^
 ||onadvert.ru^
+||onahepatitis.org^
 ||onalentressionw.info^
 ||onamateurs.com^
 ||onatozo.info^
@@ -53903,6 +53913,7 @@
 ||p.gazeta.pl^
 ||p.gcp.msas.media.net^
 ||p.hiimps.com^
+||p.imgur.com^
 ||p.ina.media.net^
 ||p.l1v.ly^
 ||p.magicalthirteen.com^
@@ -55438,6 +55449,7 @@
 ||picbr.com^
 ||picbucks.com^
 ||piccdn.igetget.com^
+||picfile.net^
 ||picjook.com^
 ||pick-savings.com^
 ||picker.co.il^
@@ -56448,7 +56460,6 @@
 ||pole.6rooms.com^
 ||polenboeller-deutschland.com^
 ||poleonaryprac.info^
-||poli.hopedaddies.org^
 ||policecanada.org^
 ||polichrom.pl^
 ||policityseriod.info^
@@ -59462,7 +59473,6 @@
 ||raivikod.net^
 ||rajadimafilbal.com^
 ||rajdysamochodowe.pl^
-||rajkoviclab.org^
 ||rajniko.ru^
 ||rajubatt.com^
 ||rak-tehlem.com^
@@ -63989,7 +63999,6 @@
 ||sexplain.info^
 ||sexpsp.net^
 ||sexreise.info^
-||sexs-foto.info^
 ||sexsat.com^
 ||sexsponsors.com^
 ||sexsrories.com^
@@ -65337,6 +65346,7 @@
 ||smarttargetting.net^
 ||smarttds.ru^
 ||smarttopchain.nl^
+||smartwarez.org^
 ||smartxads.com^
 ||smartyads.com^
 ||smartzonessva.com^
@@ -65446,7 +65456,6 @@
 ||smitionsory.co^
 ||smjhzmln.com^
 ||smkmotala.com^
-||smkn1gtlo.info^
 ||smmu-ipv6.smmu.edu.cn^
 ||smoggysnakes.com^
 ||smoggystation.com^
@@ -68978,6 +68987,7 @@
 ||t.adlookr.com^
 ||t.adx.io^
 ||t.afftrackr.com^
+||t.ajrkm.link^
 ||t.allmodern.com^
 ||t.am.kohls.com^
 ||t.av.st^
@@ -70320,7 +70330,6 @@
 ||thailandfactory.net^
 ||thaimassaagemodel.com^
 ||thaitation.com^
-||thaitv.org^
 ||thaiubonmassage.org^
 ||thaivictory.co.th^
 ||thaixaux.net^
@@ -71191,6 +71200,7 @@
 ||tls.dxsvr.com^
 ||tlumnie-glosujmy.eu^
 ||tlvmedia.com^
+||tlwl1.cn^
 ||tlxspilyxsfx.com^
 ||tm-banners.gamingadult.com^
 ||tm-core.net^
@@ -71390,6 +71400,7 @@
 ||tonewithough.info^
 ||tonexcitiessa.club^
 ||tongbaimi.cn^
+||tongbuchi.com^
 ||tongdejiayuan.com^
 ||tongj.xilu.com^
 ||tongji.appscomeon.com^
@@ -73376,6 +73387,7 @@
 ||trustyfine.com^
 ||truthaboutzit.com^
 ||truyengay.info^
+||truyentinhyeu.info^
 ||trv.upperbooking.com^
 ||trvelocity.com^
 ||trvtrk.com^
@@ -73424,7 +73436,6 @@
 ||tsfrenceabu.club^
 ||tsgonline.com^
 ||tsgyg.cn^
-||tshwane.org^
 ||tsinadol.ru^
 ||tsinf.com^
 ||tsinsideredex.club^
@@ -74885,6 +74896,7 @@
 ||uriren.pw^
 ||urisen.info^
 ||uriuridfg.com^
+||urizz.com^
 ||urkmuzzygjp.com^
 ||url.rw^
 ||urlac.de^
@@ -78254,6 +78266,7 @@
 ||wikidevs.com^
 ||wikiforosh.ir^
 ||wikigifth.com^
+||wikimost.info^
 ||wikiodeliv.com^
 ||wikipedioa.org^
 ||wikipenza.info^
@@ -79067,19 +79080,27 @@
 ||ww.paczkkdpd.com^
 ||ww.paczkmdpd.com^
 ||ww.quotes.com^
+||ww1.2019god.info^
+||ww1.bhealthynow.info^
+||ww1.capoint.info^
 ||ww1.flashx.net^
-||ww1.pcf-401.smuganna.info^
+||ww1.sexs-foto.info^
+||ww1.socialsnatcher.info^
 ||ww1.tongji123.com^
 ||ww1.xmpmedia.net^
 ||ww10.watrick.com^
-||ww17.pcf-401.smuganna.info^
+||ww17.kaoba.info^
+||ww17.socialsnatcher.info^
 ||ww2.ero-advertising.com^
 ||ww2.gestyy.com^
 ||ww2.imgdrive.net^
 ||ww2.sponsorflyr.com^
 ||ww2.tongji123.com^
+||ww25.socialsnatcher.info^
 ||ww3.tongji123.com^
+||ww38.socialsnatcher.info^
 ||ww4.tongji123.com^
+||ww41.likecaser.info^
 ||ww6z7lrg3a.top^
 ||ww8.kohls.com^
 ||ww88club.com^
@@ -81555,6 +81576,7 @@
 ||yugiomint.com^
 ||yuhfdwesaa.appspot.com^
 ||yuhuads.com^
+||yuhuanjiuye.com^
 ||yuibo.com^
 ||yuimtqtp.com^
 ||yuituityula.com^
